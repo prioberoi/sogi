@@ -1,0 +1,971 @@
+                                JOURNAL OF RESEARCH ON ADOLESCENCE, 21(1), 256 – 272
+                  Research on Adolescent Sexual Orientation: Development,
+                                Health Disparities, Stigma, and Resilience
+                                                        Elizabeth M. Saewyc
+                                                     University of British Columbia
+The decade between 1998 and 2008 saw rapid increases in research on adolescent sexual orientation development and
+related health issues, both in the quantity and in the quality of studies. While much of the research originated in North
+America, studies from other countries also contributed to emerging understanding of developmental trajectories and social
+influences on the health of sexual minority adolescents. This paper reviews the body of research from the past decade on
+adolescent sexual orientation, focused on issues of measurement, developmental trajectories, evidence related to health
+disparities, and the risks and protective factors that help explain the health and developmental challenges some lesbian,
+gay, and bisexual adolescents experience. Although many sexual minority adolescents face stigma and rejection within
+their families, their schools, or their communities, it should be noted that most successfully navigate the developmental
+tasks of adolescence and attain similar levels of health and well-being as their heterosexual peers, often despite the stigma
+and discrimination they encounter. Further research is needed to understand population trends as well as individual
+patterns of development, cultural variations in both development and health disparities, the interplay of general and
+unique risk factors that contribute to various health disparities and protective factors that buffer those risks, and inter-
+ventions to promote the healthy development of sexual minority adolescents.
+The study of sexual orientation, especially the de-                    countries on nearly every continent, as well as varied
+velopment of homosexual or bisexual attractions and                    ethnic and cultural groups within countries. Simi-
+behaviors, is not new. From Sigmund Freud’s                            larly, the preponderance of research in previous
+monograph on theories of sexuality in 1905, to Kin-                    decades focused on gay adolescent males (with a
+sey, Pomeroy, and Martin’s and Kinsey, Pomeroy,                        smaller proportion of bisexual males included in the
+Martin, and Gebhard’s work in 1948 and 1953, and                       studies), but this decade’s research has included a
+Sorenson’s paper in 1973, nearly every decade has                      greater attention to gender and ethnic differences in
+seen published theory and research about sexual                        sexual orientation development (and included het-
+orientation among adolescents. Yet, beginning in                       erosexual teens), as well as exploring the heteroge-
+1998, the past decade or so has seen a huge increase                   neity of orientation groups within the ‘‘sexual
+in research on sexual orientation in adolescence,                      minority’’ category.
+across a variety of disciplines, including education,                      The decade has also seen an expansion in design
+family studies, genetics, medicine, nursing, nutri-                    and methods used in studies of adolescent sexual
+tion, psychology, public health, social work, and so-                  orientation, including a growing number of multi-
+ciology. Thus, this decade has offered considerable                    variate modeling studies, large-scale, population-
+progress toward understanding sexual orientation                       based surveys, as well as longitudinal studies in
+development and related health issues among ado-                       various countries. These design approaches have
+lescents and has provided key studies that have al-                    strengthened the body of evidence in understanding
+tered both professional and popular understandings.                    developmental milestones, health disparities, and
+    While much of the research before 1998 was from                    potential risk and protective factors affecting the
+the United States, the rapid growth of research after                  health and well-being of sexual minority adoles-
+that point has included a growing diversity in geo-                    cents. Because of this rapid growth in research, there
+graphic coverage, with studies of adolescents in                       have finally been enough studies for meta-analysis
+                                                                       and repeated population studies in the same regions
+                                                                       to allow for studies of population trends. At the same
+   The preparation of this manuscript was supported by Dr. Sae-        time, while research in the early to mid-1990s often
+wyc’s Research Chair in Applied Public Health focused on Ado-          focused on descriptive results, and population-based
+lescent Health, funded by the Canadian Institutes of Health
+                                                                       studies tended to be devoid of theoretical frame-
+Research and the Public Health Agency of Canada.
+   Requests for reprints should be sent to Dr. Elizabeth M. Saewyc,
+University of British Columbia School of Nursing, T201-2211            r 2011 The Author
+Wesbrook Mall, Vancouver, BC, Canada V6T 2B5. E-mail:                  Journal of Research on Adolescence r 2011 Society for Research on Adolescence
+                                                                       DOI: 10.1111/j.1532-7795.2010.00727.x
+saewyc@interchange.ubc.ca
+
+                                                            SEXUAL ORIENTATION DECADE IN REVIEW                257
+works, in this decade there has been more attention      disparities and problems, the next section explores
+to theory development, theory testing, and even          emerging studies on protective factors and resilience
+some intervention studies.                               among sexual minority youth. Finally, the limited
+    A great deal of the research has focused on areas    research on interventions to promote healthy devel-
+of health or social disparities or increased risk for    opment and reduce health disparities for sexual
+problems. Documenting health inequities for a par-       minority adolescents will be examined.
+ticular population is often a first step to focus at-       Despite impressive progress in the past decade,
+tention, to facilitate a shift of priorities in practice there remains an array of areas that need further
+and policy, and to develop effective interventions to    evidence or additional directions of inquiry. Each
+support healthy youth development. Thus, much of         section of this paper will include suggestions for
+the research in this decade has focused on disparities   future research, and a final section will offer rec-
+in health and risk behaviors but has included more       ommendations for the next decade of research on
+sophisticated approaches to exploring contributing       sexual orientation and adolescent well-being.
+factors to explain these disparities.
+    As with most fields of study relevant to a wide
+                                                           MEASUREMENT OF SEXUAL ORIENTATION
+range of disciplines and areas of practice, there is an
+                                                                      AMONG ADOLESCENTS
+equally wide range in quality of research in this topic
+area. Some studies lacked any theoretical grounding,     The definition and measurement of sexual orienta-
+and some used weaker designs and methods; how-           tion generally and among adolescents specifically
+ever, the decade saw a growing number of soundly         has been consistently difficult. The most common
+conceptualized studies, rigorous and sophisticated       definitions of sexual orientation are focused around
+methodology, and critical discussion of results. In      the concept of ‘‘orientation,’’ that is, an erotic incli-
+general, there is more to laud than to dismiss. Given    nation toward people of one or more genders,
+the greatly increased volume of research, however, it    most often described as sexual or erotic attractions
+is not possible to describe every study published        (Savin-Williams & Ream, 2007; Sell, 1997). Although
+during this decade or to critically evaluate each        described in earlier research as a primarily physio-
+paper’s quality. Therefore, this review will empha-      logical response, consistent sexual arousal (Spitzer,
+size studies that have greater scientific rigor, or      1981), the way the term has been used in both
+wider generalizability, or are the sole studies about    research and the general public, suggests a cogni-
+an issue, or whose theory development or findings        tive component of erotic attraction and romantic
+subsequently exerted a stronger influence on the         or emotional attractions, not just arousal responses
+field than have other studies. In terms of timing, the   (Diamond, 2003a; Russell & Consolacion, 2003).
+decade is loosely defined as 1998 – 2008; a few key      Some researchers consider internal recognition of
+studies that occurred just before 1998 will also be      these attractions and self-labelsFas gay, bisexual, or
+included, as will a number of studies available in on-   heterosexualFto be an important element of sexual
+line editions during 2008 but published in print         orientation. Others feel identity labels are unduly
+in 2009, which offer important perspectives or touch     influenced by cultural and social factors, especially if
+on relatively understudied issues. Although much         the identity carries serious social stigma. There is less
+of the research is U.S.-based, this review includes      agreement on whether sexual behavior is a mani-
+research from other countries where it is of similar     festation of sexual orientation or a separate, only
+rigor. The focus of this review is on adolescence,       partially related construct; sexual behavior usually
+so the studies included are primarily limited to         requires at least one other person, may not be con-
+adolescents of high school age or younger, that is,      sensual, and may take place for reasons other than
+under age 19; however, a few important longitudinal      sexual desire, so is contingent upon many factors
+studies track adolescents into young adulthood, and      unrelated to internal sexual attractions (Savin-
+offer important insights into developmental out-         Williams & Ream, 2007).
+comes.                                                      There has been growing consensus on measure-
+    The paper is organized into several sections. First  ment, as interdisciplinary expert panels have been
+is a discussion of measurement, followed by research     convened to develop recommendations about mea-
+on sexual orientation development. Next, the health      surement, drawing on experiences of a wide range of
+disparities that have been documented for sexual         researchers and empirical validation of measures
+minority youth are covered, as well as evidence for      (LGB Youth Sexual Orientation Measurement Work
+the theoretical explanations and factors contributing    Group, 2003; Saewyc et al., 2004; Sexual Minority
+to these health disparities. Moving beyond health        Assessment Research Team, 2009). Such recommen-
+
+258    SAEWYC
+dations take time to filter to the wider field; however, development associated with sexual maturation, that
+although these panels have recommended including         is, sexual attractions and romantic feelings, and
+at least two dimensions of orientation in studies        the related behavioral milestones generally occur
+where possible, most adolescent research studies         during later pubertal stages (Floyd & Stein, 2002;
+that incorporate sexual orientation measures include     Patton & Viner, 2007; Rosario, Meyer-Bahlburg,
+only identity, attraction, or behavior. Even within a    Hunter, & Exner, 1996). The majority of younger
+specific dimension, measures are not consistently        adolescents have not had sexual relationships; in
+worded or have the same number of response op-           the United States, fewer than half of high school
+tions. Terms change in popularity and usage over         students in 2007 reported ever having sexual inter-
+time, and researchers may include new terms or           course (47.8%), and only 7% of teens had sex by age
+ethnic-specific labels. Recent years have seen a         13 (Eaton et al., 2008). In a national longitudinal
+growing number of the larger longitudinal or pop-        survey of adolescents in grades 7 – 12 (approximately
+ulation studies adopting similar measures; for ex-       12 – 18 years old), nearly 1 in 5 youth indicated they
+ample, the later waves of the National Longitudinal      did not have romantic attractions (Russell & Seif,
+Survey of Adolescent Health and the Growing Up           2002), and a similar Canadian population survey of
+Today Study added measures with the same re-             students age 12 – 18 found similar rates of teens did
+sponse options as those from the earlier Minnesota       not yet fantasize about sex (Saewyc et al., 2004).
+Adolescent Health Survey (Remafedi, Resnick,             When significant segments of the teen population do
+Blum, & Harris, 1992), which has also been used in       not yet report a behavior, using those measures can
+the National American Indian Adolescent Health           potentially miss, or misclassify, adolescents’ orien-
+Survey and repeated rounds of the British Columbia       tation. Measurement of any developmental aspect
+Adolescent Health Survey in Canada (Saewyc et al.,       across the intense physical, cognitive, and behavioral
+2004) as well as in a growing number of school-based     transformations of adolescence is fraught with such
+population surveys in other parts of Canada since        difficulties and limitations.
+2007.                                                       This ‘‘developmental milestones’’ perspective of
+   Studies that include multiple measures of orien-      sexual orientation also generally assumes an under-
+tation reveal another important issue: attraction,       lying orientation that, once it unfolds during
+identity, and behavior are not always concordant         adolescence, is stable, consistent, and endures
+among adolescents or adults (Austin, Conron, Patel,      throughout the life course, although changing social
+& Freedner, 2007; Floyd & Stein, 2002; Russell &         norms and opportunities for relationships might in-
+Seif, 2002; Saewyc, Skay, Bearinger, Blum, & Resnick,    fluence how that orientation is manifested (Dia-
+1998a; Saewyc et al., 2004, 2009; Savin-Williams &       mond, 2003b). In this decade an important set of
+Ream, 2007). Such studies face complex choices for       longitudinal studies has examined the stability of
+defining groups: Do they choose a primary measure        sexual orientation across adolescence and young
+of orientation relevant to a particular analysis? Do     adulthood (Austin et al., 2007; Diamond, 2000b,
+they combine measures into an aggregate scale or         2003a, 2008; Savin-Williams & Ream, 2007) and will
+score? Do they use a dichotomous ‘‘any indicator of      be discussed in the next section. Whether the study
+non-heterosexuality’’ versus ‘‘exclusively heterosex-    of sexual orientation can only make sense if it is a
+ual’’? The most common choice has been to define         stable trait or we can live with some of the ambi-
+orientation via a single measure, usually attraction or  guity uncovered in this decade’s research is yet
+self-labeling, but a dichotomous ‘‘any indicator’’       unresolved. Societal understandings about sexual
+approach has also been frequent (see, e.g., Russell &    orientation have generally been far more simplistic
+Joyner, 2001; Bontempo & D’Augelli, 2002). Re-           than the evidence reflects (Diamond, 2003b) yet
+searchers who use multiple dimensions to create a        we must translate research in ways the public and
+score (see, e.g., Floyd & Stein, 2002) still tend to end professionals can understand to promote sexual
+up categorizing the scores into three or four groups,    minority teens’ healthy development. There are sig-
+most often the commonly accepted categories of           nificant risks when research findings from a topic
+heterosexual, bisexual, gay, or lesbian.                 that generates social controversy are misapplied
+   Defining and measuring sexual orientation in          (Saewyc, 2007).
+adolescent research must also take into account de-         How big a problem are these measurement chal-
+velopment. The process of puberty and physiological      lenges for the field? Certainly they create difficulties
+sexual maturation unfolds over several years, be-        in comparing across studies, across regions, or across
+ginning between 7 and 13, and may not be complete        time (Austin et al., 2007), yet there is a fairly striking
+until the later teens (Patton & Viner, 2007). Cognitive  consistency of findings. Whatever nuances in defi-
+
+                                                             SEXUAL ORIENTATION DECADE IN REVIEW                 259
+nition or measurement of orientation there are, a        possible, disaggregate orientation categories in ana-
+greater proportion of adolescents who indicate some      lyses. We still need to pilot existing measures in
+form of nonheterosexual orientation report unsup-        studies, especially with diverse cultural groups or
+portive environments, less nurturing parental re-        younger teens, to ensure that the measures remain
+lationships, and increased risk of developmental         understood and relevant.
+stressors and health disparities compared with het-
+erosexual peers. The robustness of these findings,
+                                                              RESEARCH ON THE DEVELOPMENT OF
+especially in population-based or large-scale longi-
+                                                                  SEXUAL ORIENTATION AMONG
+tudinal studies, provides some reassurance that
+                                                                            ADOLESCENTS
+studies are capturing the same groups.
+   There is also reason for encouragement. In this       There have been a growing number of informative
+decade a few measurement studies, thoughtful cri-        studies about sexual orientation development during
+tiques of theory development, and expert panels          adolescence in the past decade. These studies have
+have worked to resolve these challenges. Sell (1997)     explored the timing and patterns of sexual identity
+and Diamond (2003b) provided constructive re-            development milestones, the stability of sexual ori-
+views, while my colleagues and I evaluated mea-          entation elements over the course of adolescence and
+sures of sexual orientation within several large-scale   young adulthood, and differences by gender and
+school-based surveys across North America (Saewyc        ethnicity. There have even been a few studies ex-
+et al., 2004).                                           ploring changing trends in sexual orientation mile-
+   Another approach is to ask young people them-         stones as well as studies examining factors that
+selves; at least three studies have examined how         could influence the development of nonheterosexual
+adolescents and young adults conceptualize sexual        orientations. A few studies have also begun to ex-
+orientation and make sense of measures assessing it      plore genetic and evolutionary perspectives on sex-
+(Austin, Conron, Patel, & Freedner, 2007; Diamond,       ual orientation, although to date, there are distinct
+2000a; Friedman et al., 2004), and a fourth explored     weaknesses in the methodologies that have been
+whether youth would opt for terms other than             used. These will be summarized briefly below.
+gay, lesbian, and bisexual if given the choice (Russell,     The idea of sexual orientation unfolding along
+Clarke, & Clary, 2009). According to these studies,      developmental pathways or trajectories, with spe-
+adolescents consider attractions (sexual and roman-      cific developmental tasks demonstrated by achiev-
+tic) to be the principal element of sexual orientation   ing ‘‘milestones’’ along the way, has received both
+and questions about attractions the easiest to un-       a great deal of support and critique during the
+derstand and answer. Youth rejected behavior ques-       past decade. Earlier conceptualizations of sexual
+tions as a measure of sexual orientation and             orientation development (e.g., Troiden, 1988) posited
+expressed some discomfort with identity labels, in       a linear path, beginning with ‘‘sensitization’’ or
+part because of the potential permanence implied by      awareness as one started to recognize same-sex at-
+labels, in part because of stigma as a result of nega-   tractions that did not fit the typical developmental
+tive peer responses to sexual minority labels. Finally,  trajectory of heterosexuality, moving to ‘‘identity
+a recent study among more than 2,500 California          confusion,’’ because of stigma and distress, then
+high school students (Russell et al., 2009) found that   behavioral responses to manage the identity crisis
+the majority of sexual minority youth (71%) still find   and stigma (including potentially adopting a ‘‘tran-
+gay, lesbian, and bisexual categories salient options.   sitional’’ bisexual identity), and eventually reaching
+Although all of these studies are important begin-       identity commitment as gay, lesbian, or bisexual.
+ning steps in validating definitions and measures        These linear models did not differentiate paths for
+among young people, they only include older ado-         males and females, and laid out a set of milestones
+lescents from the United States and somewhat lim-        that were supposed to occur in mostly the same or-
+ited ethnic diversity.                                   der, although with variable lengths of time between
+   In sum, the past decade has seen a developing         each stage. During the mid-1990s, studies began to
+consensus about the definition and measurement of        test these trajectories and recognized a greater
+sexual orientation for adolescent research, supported    variability in pathways than was thought previously
+by a growing body of validation studies. Given           and, as a result, developed further, nuanced descrip-
+the developmental stage of adolescence, the expert       tions of the trajectories (see, e.g., Rosario et al., 1996;
+panels recommend that studies should measure more        Savin-Williams & Diamond, 2000). Between 1998
+than one dimension of orientation, whether attrac-       and 2008, studies explored sex-based differences in
+tion, identity labels, or behavior, and where at all     trajectories, orientation-specific differences, ethnic
+
+260    SAEWYC
+variation, and even differences in trajectories among    by adolescents during the developmental process.
+those with early and later onset (see Diamond,           Hammack and colleagues suggest that the master
+1998, 2000a, 2000b, 2008; Floyd & Stein, 2002; Rosa-     narratives, that is, the stories told of the sexual ori-
+rio, Hunter, Maguen, Gwadz, & Smith, 2001; Rosario,      entation developmental process, may be changing.
+Schrimshaw, & Hunter, 2004; Saewyc et al., 1998a).       In addition to the extant narrative of struggle against
+Research became more sophisticated, including            heteronormativity and success in developing a gay
+prospective longitudinal research rather than solely     or lesbian identity and social network, current teens’
+retrospective recall, and cluster analyses for patterns  experiences may also incorporate a narrative of
+of coming out rather than averaged group responses.      ‘‘emancipation,’’ or a resistance to the more struc-
+In general, studies documented that milestones           tured categories of sexual orientation that previous
+were occurring at earlier ages than in previous co-      generations embraced (Hammack et al., 2009). The
+horts, they differed for males and females quite no-     evidence for such change in narratives is limited;
+ticeably, and there was heterogeneity of patterns in     however, one potential reason for a shifting narrative
+their timing and order; for example, those who came      may be the dominant narrative’s overemphasis on
+out at younger ages appeared to have more comfort        gay or lesbian identity and same-gender desire
+with their status (Floyd & Stein, 2002), but increased   without adequate stories to explain bisexuality: Even
+risks for family rejection and school harassment than    when narratives include the ‘‘B’’ in the LGB acro-
+those who waited until young adulthood to come out       nym, the text often does not integrate bisexual desire
+(D’Augelli, Hershberger, & Pilkington, 1998). Studies    or behavior as authentic orientation. Both popular
+noted more fluidity of attractions and labels among      narratives and research narratives often imply that
+females (Savin-Williams & Diamond, 2000), with a         bisexuality is a transitional stage to homosexuality,
+significantly higher proportion of females than males    or experiments out of curiosity by heterosexuals
+identifying as bisexual or mostly heterosexual in        (Diamond, 2008), or even a temporary performance
+population surveys (Russell & Seif, 2002; Saewyc         to gain popularity, as in the narrative of ‘‘bisexual
+et al., 1998a, 2004, 2007a, 2007b). One of the few       chic’’ among high school girls (Thompson, 2006).
+studies examining sexual orientation among ethnic        Bisexuality remains undertheorized and under-
+groups found that African American and Latino            investigated, despite some increase in research.
+groups showed no differences in most milestones             Another problem with the milestones approach is
+compared with White teens, but delays in public          that it suggests orientation is a fundamental trait
+disclosure and less involvement in gay-related social    unfolding during adolescence, but once adulthood is
+networks (Rosario et al., 2004). The only study of       reached, labels and behaviors are stable and consis-
+cohort trends over time among adolescent popula-         tent. Without longitudinal data, this may have been
+tions found a decrease in heterosexual identification,   a reasonable assumption, and inconsistencies in
+and increase in the prevalence of bisexual and           attractions, behaviors, and self-labels among teens
+mostly heterosexual identification, but only among       could be attributed to immaturity, experimentation,
+girls (Saewyc et al., 2007a).                            or strong social pressures to conform during the teen
+   One of the primary critiques of a milestones ap-      years (Russell & Seif, 2002; Saewyc et al., 2004, 2009).
+proach to orientation development is that it taps        However, longitudinal studies published during the
+experiences and behaviors without necessarily con-       past decade have raised awareness about the fluidity
+sidering the contexts in which those behaviors occur,    of orientation among some teens during adolescence
+or the meanings for individual adolescents, or the       and into adulthood. Rosario, Schrimshaw, Hunter,
+changing societal contexts for teens in the most re-     and Braun (2006) explored changing orientation la-
+cent decade, compared with previous generations          bels among older sexual minority teens in New York
+(Hammack, Thompson, & Pilecki, 2009). Savin-             over 12 months; they found most teens remained
+Williams (2005) suggests a new ‘‘post-gay’’ genera-      consistent, but 30 – 40% of bisexual teens shifted to a
+tion, that is, teens who no longer consider sexual       gay or lesbian label during the year, and 7% shifted
+orientation a central identifying status or the typical  from gay or lesbian to bisexual; only 2 – 3% of teens
+labels particularly salient; while teens may not be      shifted to ‘‘straight.’’ They noted their brief time
+universally ‘‘post-gay’’ (Russell et al., 2009), the ar- period and lack of heterosexual teens were distinct
+gument is that greater visibility of positive sexual     limitations to understanding longer-term fluidity or
+minority role models and changing legal status,          permanence in sexual orientation. Studies by Lisa
+such as legal same-sex marriage in Canada, several       Diamond (1998, 2000a, 2000b, 2008) documented this
+European countries, and several U.S. states, may         fluidity among older adolescent and young adult
+alter the pressures and opportunities experienced        women over a longer period, charting attractions,
+
+                                                            SEXUAL ORIENTATION DECADE IN REVIEW              261
+labels, and behavior. She found relative consistency     erosexuality, but the actual mechanisms are still
+in their sexual attractions, but up to 67% changed       unknown.
+labels and behavior over the course of 10 years, with       Beyond biological mechanisms of sexual orienta-
+a small number of young women dropping a lesbian         tion development, one suggested environmental in-
+or bisexual label for a heterosexual identity, but far   fluence that has been taken up in the wider social
+more of them switching between lesbian and bisex-        discourse has been childhood or adolescent sexual
+ual, or shifting to ‘‘unlabeled.’’ A much larger pop-    abuse. Studies have noted disproportionately higher
+ulation-based study of sexual orientation stability,     rates of sexual abuse and assault among sexual mi-
+over 6 years, was conducted by Savin-Williams &          nority populations (see, e.g., Saewyc et al., 2006).
+Ream (2007), using the National Longitudinal Sur-        Given that the highest incidence of sexual abuse occurs
+vey of Adolescent Health. They found adolescents         after age 12, during adolescence (Finkelhor, Ormrod,
+with a nonheterosexual orientation in any dimension      Hamby, & Turner, 2005), about the same time that
+were less likely than exclusively heterosexual teens     sexual orientation first manifests, some researchers
+to remain consistent in their attractions and behavior   have suggested that sexual abuse leads adolescents
+over time. However, Savin-Williams and Ream also         to develop a gay or lesbian sexual orientation due to
+noted that as some gay, lesbian, and bisexual ado-       aversive reactions from trauma (Simari & Baskin,
+lescents shifted to opposite-gender attractions, be-     1982). The logic does not hold, however, because
+havior, or heterosexual self-labels, a larger absolute   most sexual abuse perpetrators are male (even when
+number of heterosexual teens shifted to same- or         victims are male); if sexually abused girls become
+both-gender attractions and behaviors, keeping the       lesbian or bisexual because of an aversion to their
+overall prevalence relatively similar across time.       abuser’s gender, then a similar response among
+   Studies have explored the more fundamental            sexually abused boys would suggest they would be
+question of what might cause the continuum of            more likely to become heterosexual, not gayFyet
+sexual orientation, or at least what contributes to      gay and bisexual-identified boys are more likely to
+or influences developmental pathways. A host of          report sexual abuse histories than heterosexual boys
+biological research has been conducted regard-           (Saewyc et al., 2006). Similarly, if sexual abuse was a
+ing potential genetic, psycho-neuroendocrine, or         causal factor in gay, lesbian, or bisexual orientation,
+genetic-by-environment interactions as causes of         the majority of sexual minority youth should report a
+nonheterosexual orientations, and in 2002, a thor-       history of sexual abuse, and the majority of sexually
+ough review of the literature by Mustanski, Chivers,     abused adolescents should identify as gay, lesbian, or
+and Bailey critically evaluated the state of research to bisexual. Neither is true; in seven different popula-
+date. It should be noted that the overwhelming ma-       tion-based surveys across North America, fewer
+jority of the biological research has been conducted     than half of LGB-identified adolescents reported
+with adults, not adolescents, and disproportionately     sexual abuse (Saewyc et al., 2006). Because hetero-
+among males rather than both males and females.          sexual teens vastly outnumber lesbian, gay, bisexual,
+Mustanski and colleagues identified significant lim-     queer, and questioning (LGBQ) youth, the smaller
+itations in methods, sample sizes, lack of replicability percent of them who have been abused still out-
+of findings, and inconsistent results among studies.     number abused LGBQ teens; based on estimates
+While the research provides some support for pre-        from the 1998 BC Adolescent Health Survey, for ex-
+natal neuro-hormonal influence on sexual orientation     ample (Saewyc et al., 2006; Saewyc, Poon, Homma, &
+development, it is only for men; similarly, family       Skay, 2008), 94% of sexually abused girls would
+studies and concordant/discordant twin studies           identify as heterosexual, as would 69% of abused
+provide some evidence for a genetic basis of orien-      boys. Longitudinal studies could help disentangle
+tation, but to date, no specific genes have been con-    the timing of abuse and orientation, perhaps, except
+sistently identified. Perhaps the most troubling         that mandated reporting requirements tend to pre-
+challenge in biological approaches are inherent as-      clude longitudinal studies from asking about sexual
+sumptions by most researchers that orientation is a      abuse during childhood, and retrospective recall of
+dichotomous, stable trait; many of the studies used      childhood or adolescent sexual abuse has its limita-
+measures of orientation that have long been consid-      tions (Kendall-Tackett & Becker-Blease, 2004).
+ered problematic in the health and social sciences,         Thus, the increase in studies over the decade on
+and presume that sexual orientation development in       sexual orientation development have provided fur-
+males and females results from similar but opposite      ther nuanced understanding of how orientation un-
+processes. It seems likely that there are genetic and    folds during adolescence and have challenged more
+environmental influences on propensity for nonhet-       simplistic views of previous work, documenting
+
+262   SAEWYC
+potential changes in narratives of development,        health disparities, and additional evidence from
+identifying variability in patterns of development,    other regions, and over time, is included below.
+and potential fluidity in sexual orientation over
+adolescence and young adulthood, especially for
+                                                       Mental Health and Suicide
+young women. Future areas of research that could
+improve our understanding should include longi-        By far the most commonly studied health dispari-
+tudinal studies (preferably birth-cohort studies)      ties have been those related to mental health, espe-
+to more carefully sequence potential influences        cially suicidal ideation and suicide attempts. Results
+or confounding factors. Similarly, international and   have been remarkably consistent, given the diversity
+culturally focused studies of sexual orientation de-   of sampling methods, the dimensions of sexual ori-
+velopment in diverse ethnic groups will deepen         entation measured, the regions and countries, and
+understanding of how culture and social environ-       across time: within nearly all population-based
+ment influence orientation identity. Finally, we need  studies, a higher prevalence of sexual minority youth
+more rigorously designed studies of the genetic and    indicate emotional distress, depression, self-harm,
+biological contributions to sexual orientation that    suicidal ideation, and suicide attempts than do their
+take into account the complex interrelationship of     heterosexual peers (Coker et al., 2010; Saewyc et al.,
+biology with culture and context.                      2007b). For suicidal ideation and attempts, this higher
+                                                       rate has been documented in representative school-
+                                                       based surveys on the East Coast, in the Midwest, in
+                                                       the Pacific Northwest of the United States as well as
+    HEALTH DISPARITIES AMONG SEXUAL
+                                                       in national studies (Borowsky, Ireland, & Resnick,
+            MINORITY ADOLESCENTS
+                                                       2001). The same disparity has been found among
+Although studies have explored differences in health   adolescents in population-based studies in Canada
+risks among sexual minority adolescents for years,     (Saewyc et al., 2007a), in New Zealand (Fergusson,
+the past decade saw an important shift to studies      Horwood, & Beautrais, 1999; Fleming, Merry, Rob-
+with population-based sampling designs, which          inson, Denny, & Watson, 2007; Le Brun, Robinson,
+significantly strengthened the evidence about health   Warren, & Watson, 2004), in Guam (Pinhey & Mill-
+disparities experienced by LGBQ teens in a number      man, 2004), in Norway (Wichstrom & Hegna, 2003),
+of countries around the world. This shift resulted     in Turkey (Eskin, Kaynak-Demir, & Demir, 2005), and
+from the inclusion of sexual orientation measures in   in Belgium (van Heeringen & Hincke, 2000), although
+large-scale, school-based cross-sectional surveys in   the studies in Turkey and Belgium were focused on
+some regions of the United States and Canada, fol-     older adolescents. Many of these studies also found
+lowed by similar surveys in other countries, such as   higher levels of emotional distress or depression
+Australia, New Zealand, Guam, Belgium, Switzer-        among LGBQ youth (see Almeida, Johnson, Corliss,
+land, Norway, and Turkey. Some of these school-        Molnar, & Azrael, 2009; Homma & Saewyc, 2007)
+based cohort surveys have been repeated at regular     including in Hong Kong (Lam et al., 2004).
+intervals in the same regions since the early 1990s,      Some of the studies have focused on ethnic mi-
+offering opportunities to explore population trends.   nority subgroups of LGBQ youth, including African
+At the same time, the field was further strengthened   American and Latino adolescents (Borowsky et al.,
+when researchers added sexual orientation measures     2001), Asian adolescents in Hong Kong (Lam et al.,
+to waves of national longitudinal studies, such as the 2004), plus Asian American (Homma & Saewyc,
+New Zealand Christchurch birth cohort study, the       2007) and American Indian adolescents (Saewyc
+U.S. National Longitudinal Survey of Adolescents       et al., 2007b). Three studies have considered urban –
+(Add Health), the U.S. Growing Up Today Study,         rural differences in mental health issues (Galliher,
+and the Young in Norway Study. Most of these           Rostosky, & Hughes, 2004; Poon & Saewyc, 2009;
+surveys monitor a wide array of risk exposures,        Waldo, Hesson-McInnis, & D’Augelli, 1998), with
+protective factors, health-compromising behaviors,     mixed results; Waldo and colleagues found no ur-
+psychological adjustment, and psychosocial out-        ban – rural differences in suicidality, while Poon and
+comes, allowing a variety of health and develop-       Saewyc found higher rates of suicide attempts
+mental issues to be compared between LGBQ youth        among rural LGBQ teens, and Galliher and col-
+and their heterosexual peers. Some topics have re-     leagues found greater depressive symptoms among
+ceived far more attention than others; Coker, Austin,  rural girls, but not boys. The few studies that have
+and Schuster (2010) recently reviewed the level of     explored suicidality among bisexual adolescents
+evidence in U.S.-based research for many of these      separately from gay and lesbian teens (Wichstrom &
+
+                                                           SEXUAL ORIENTATION DECADE IN REVIEW              263
+Hegna, 2003; Saewyc et al., 2007b) found bisexual       quite as consistent as those from suicide attempts or
+teens were sometimes at higher risk, especially boys.   substance use, the preponderance of evidence from
+There appears to be only one study of population        carefully constructed, large-scale population-based
+trends over time for teens (Saewyc et al., 2007b), but  surveys suggests that sexual minority adolescents
+it included cohorts from the Midwest and Northwest      experience sexual health disparities. LGBQ youth are
+U.S. and western Canada; results suggest that for       just as likely or more likely than heterosexual peers
+bisexual and lesbian girls, the prevalence of suicidal  to have ever had sexual intercourse (Coker et al.,
+ideation and attempts has steadily increased since      2010; Goodenow, Szalacha, Robin, & Westheimer,
+the early to mid-1990s, while for gay and bisexual      2008; Saewyc et al., 2006; Saewyc, Poon, Homma
+boys, trends are mixed.                                 et al., 2008), a disparity that remains when re-
+                                                        searchers have adjusted for age differences between
+                                                        orientation groups. A number of studies have doc-
+Substance Use and Abuse
+                                                        umented higher rates of early sexual debut, that is,
+A number of studies have examined differential rates    before age 13 in some studies, before age 14 in others,
+of smoking, alcohol, and other drug use among ad-       and LGBQ youth are also more likely to report a
+olescents by sexual orientation over the past decade,   higher number of lifetime or recent sexual partners
+primarily in North America (Coker et al., 2010;         (Coker et al., 2010). A few studies have examined
+Marshal et al., 2008) but also in Australia (Smith,     substance use at last sex as a potential risk for un-
+Lindsay, & Rosenthal, 1999). These have generally       protected sexual behavior; results suggest LGBQ
+found a higher prevalence of smoking, alcohol use,      teens were either no more likely or less likely than
+and other drug use, including injection drug use,       heterosexual teens to have sex under the influence of
+among LGBQ youth compared with heterosexual             alcohol or drugs (Saewyc, Poon, Skay, & Homma,
+teens. This is one of the few areas of research on      2008; Goodenow et al., 2008).
+sexual orientation health disparities where a meta-        Studies in the last decade also explored rates of
+analysis has been conducted, examining effect sizes     health behaviors, such as condom use or contracep-
+from 18 different studies (Marshal et al., 2008). Ac-   tion. The results have been mixed; in a study of high
+cording to Marshal and colleagues, LGBQ youth are       risk adolescents in New York, Rotheram-Borus et al.
+nearly three times more likely overall to report sub-   (1999) found LGBQ adolescents more likely to use
+stance use than heterosexual teens, with effect sizes   condoms and contraception than heterosexual peers,
+for most substances in the moderate to large range,     while a study over the several cohorts of Massa-
+and effect sizes for cigarette use, injection drug use, chusetts YRBS surveys found lesbian and bisexual
+and multiple substance use large to very large.         girls were no more likely than heterosexual girls to
+    During the decade, there were also a few longi-     report condom use at last intercourse (Goodenow
+tudinal studies that focused on patterns of substance   et al., 2008). In contrast, a similar Canadian multi-
+use over time (Coker et al., 2010). These studies       cohort study that also included gay and bisexual
+found sexual minority adolescents were more likely      boys found that all sexual minority groups were less
+to begin drinking earlier than heterosexual teens,      likely to report condom use or birth control at last
+and most sexual minority groups had higher levels       intercourse (Saewyc, Poon, Homma, et al., 2008), as
+of risky drinking. Earlier age at initiation helped     did multiple years of population surveys in Minne-
+explain sexual minority youth’s higher risk of binge    sota (Gallart & Saewyc, 2004; Saewyc, Bearinger,
+drinking in later years.                                Blum, & Resnick, 1999). Studies that combined sex-
+                                                        ual health and risk behaviors into indices or scores to
+                                                        assess behavioral risk for HIV and other STIs like-
+Sexual Risk Behaviors, Sexually Transmitted
+                                                        wise reported higher overall risk scores for bisexual
+Infections (STIs), and Pregnancy
+                                                        and gay or lesbian adolescents (Busseri, Willoughby,
+There were a large number of studies that explored      Chalmers, & Bogaert, 2008; Goodenow et al., 2008).
+risky sexual behaviors, sexual health behaviors such    One of the key limitations in all these studies is that
+as condom use and contraception, and sexual out-        they do not identify the gender of sexual partners in
+comes, including STIs and teen pregnancy, among         relation to the questions about condoms or birth
+sexual minority youth in comparison with hetero-        control, although the wording of ‘‘sexual inter-
+sexual teens. A number of these studies assessed        course’’ may lead students to assume the question is
+lesbian and gay teens separately from bisexual teens,   only asking about sex with opposite-gender part-
+and others included ‘‘mostly heterosexual’’ teens as    ners. This may also explain some of the results
+another separate category. While the findings are not   among lesbian and bisexual girls, if their most recent
+
+264    SAEWYC
+sexual partner was also a girl; however, it is important  weight management practices among sexual minor-
+to remember that teens who identify gay, lesbian, or      ity adolescents, and results have been mixed (Coker
+bisexual may have opposite-sex partners. Some of the      et al., 2010). In the 1999 Growing Up Today Study,
+questions in surveys are worded to allow them to be       Austin, Ziyadeh, Kahn, Coditz, and Field (2003)
+relevant for all types of sex, such as using the phrase   found mostly heterosexual, bisexual, and lesbian
+‘‘condom or other latex barrier’’ rather than just        girls were more likely to be overweight than het-
+condom (Saewyc et al., 2007a, 2007b); more recently       erosexual girls, but no differences among boys, after
+some surveys have also included a response option         controlling for age and maturational stage. In west-
+indicating a teen had a same-gender sexual partner        ern Canada, gay boys were more likely to be either
+for questions about methods used to prevent preg-         underweight or overweight than heterosexual peers,
+nancy at last sex, but most large-scale school-based      and lesbian and bisexual girls were twice as likely to
+surveys do not ask focused questions about the gen-       be overweight as heterosexual girls (Saewyc et al.,
+der of partner in the most recent episode of sex.         2007a). In terms of eating-disordered behaviors,
+   In addition, a number of surveys of street-in-         studies in the United States, Canada, Australia, and
+volved or homeless teens have explored sexual risk        Norway have found LGB youth more likely to en-
+behaviors among sexual minority and heterosexual          gage in binging and purging behaviors (Coker et al.,
+street youth, as sexual minority youth are dispro-        2010; Polimeni, Austin, & Kavanagh, 2009).
+portionately represented among street-involved
+youth populations (Coker et al., 2010). Homeless and
+                                                          Exposure to Violence, Abuse, Harassment, and
+street-involved sexual minority adolescents report
+                                                          Injuries
+significantly higher rates of some sexual risk be-
+haviors, including multiple partners, unprotected         Violence exposure, whether family violence such as
+sexual intercourse, and survival sex, as well as lower    physical or sexual abuse or school-based verbal or
+rates of condom use (Coker et al., 2010; Gangamma,        physical violence such as bullying and harassment,
+Slesnick, Toviessi, & Serovic, 2008; Saewyc, MacKay,      can significantly affect adolescent health and devel-
+Anderson, & Drozda, 2008).                                opment. Studies in the United States, Canada, the
+   The higher rates of most sexual behavior risks and     United Kingdom, and elsewhere during this decade
+potentially lower rates of condom use or contraception    have shown that LGBQ youth are significantly more
+among LGBQ teens may help explain documented              likely to be targeted for violence than heterosexual
+disparities in sexual health outcomes. Although self-     teens in every setting (Coker et al., 2010). LGBQ and
+report of STI results is a weaker measure than labo-      mostly heterosexual adolescents were more likely to
+ratory tests, studies found higher rates of self-reported report both physical and sexual abuse in a study of
+STI history among sexually experienced LGBQ teens         eight different population-based surveys across the
+compared with heterosexual peers (e.g., Goodenow          United States and Canada (Saewyc et al., 2006), as
+et al., 2008). Teen pregnancy is another area of noted    well as in other studies (Coker et al., 2010; Eskin et
+disparity: surveys throughout North America in the        al., 2005; Goodenow et al., 2008). Some of the vio-
+past two decades have found that LGBQ teens, both         lence is directly attributable to the coming out pro-
+males and females, have a 2 – 10 times higher rate of     cess (D’Augelli, Hershberger, & Pilkington, 1998;
+pregnancy involvement than their heterosexual peers       Ryan, Huebner, Diaz, & Sanchez, 2009). LGBQ youth
+(Coker et al., 2010; Blake et al., 2001; Goodenow et al., are also more likely to experience forced sex and
+2008; Saewyc, Pettingell, & Skay, 2004; Saewyc, Poon,     dating violence (Freedner, Freed, Yang, & Austin,
+Homma, et al., 2008). Despite these higher rates of teen  2002; Williams, Connolly, Pepler, & Craig, 2003) as
+pregnancy, there is almost no research on teen par-       well as both verbal and physical sexual harassment
+enting among LGBQ adolescents. A single study from        at school and in the community (DuRant, Krowchuk,
+a statewide Minnesota survey found 36% of teen fa-        & Sinal, 1998; Williams et al., 2003).
+thers in school reported recent same-gender or both-          Harassment or bullying at school, including
+gender sexual partners, as did 12% of teen mothers        physical assault, has been reported at consistently
+(Forrest & Saewyc, 2004).                                 higher rates among LGBQ students compared with
+                                                          heterosexual peers across North America and other
+                                                          countries (Coker et al., 2010). Most of the research
+Body Image, Overweight, and Eating Disordered
+                                                          has focused on victimization rather than perpetra-
+Behaviors
+                                                          tion, but Russell, Franz, and Driscoll (2001) also ex-
+There have been relatively few studies examining          plored involvement in fights both as victim and
+body image, obesity, physical activity and exercise,      perpetrator in the Add Health survey. They found
+
+                                                             SEXUAL ORIENTATION DECADE IN REVIEW                265
+that teens with same-sex attractions were twice as       difficult to ascertain the timing of events, to ensure
+likely to be perpetrators of violence than those with    that theorized causes actually occur before the effects
+only opposite-sex attractions, but when models in-       attributed to them. However, correlational studies can
+corporated measures of witnessing violence as well       offer evidence around theories that can be tested fur-
+as being victimized seriously enough to need medi-       ther within longitudinal research. A growing body of
+cal attention, the difference was fully explained.       research in this decade has examined the theoretical
+   Although a number of studies explore disparities      mechanisms to explain the increased odds of health
+in violence experienced by sexual minority adoles-       challenges among LGBQ youth.
+cents, almost no studies examine rates of physical          There have been two primary approaches to de-
+injuries. The only study on injuries to be located was   veloping theoretical explanations, both of which
+from western Canada (Saewyc et al., 2007a), which        have merit and have significantly enhanced our
+asked whether the student had been injured in the        understanding in the past decade. One approach,
+past year seriously enough to require medical at-        drawing on Goffman’s (1963) theory of stigma man-
+tention. Gay and bisexual boys were less likely to be    agement, is to identify factors unique to LGBQ youth
+injured than heterosexual peers, while lesbian and       that predict poorer outcomes, such as orientation-
+bisexual girls were more likely to be seriously in-      related stigma and discrimination or the added de-
+jured. Although sports injuries were the most com-       velopmental stress of ‘‘coming out,’’ that is, publicly
+mon overall, sexual minority youth were less likely      disclosing a minority sexual orientation (see, e.g.,
+to be injured during sports and more likely to be        Almeida et al., 2009; Bontempo & D’Augelli, 2002;
+injured in fights or in car accidents.                   D’Augelli, Grossman, & Starks, 2006; Rosario et al.,
+   In sum, during this decade, an increasingly in-       2001, 2004; Rosario, Schrimshaw, & Hunter, 2006;
+ternational and rigorous body of population-based        Ryan, Huebner, Diaz, & Sanchez, 2009). The other
+cohort and longitudinal studies have documented          approach is to identify risk factors that commonly
+greater exposures to violence and injury and dis-        predict such outcomes in the general population of
+parities in mental health, sexual health, eating dis-    adolescents, such as a history of family conflict, abuse,
+orders, and substance use among LGBQ adolescents         substance use, or depression, then explore whether
+compared with heterosexual peers. However, a             LGBQ youth disproportionately experience those risk
+higher risk does not mean that all LGBQ teens ex-        factors (see, e.g., Birkitt, Espelage, & Koenig, 2009;
+perience these health issues, only a larger percent      Borowsky et al, 2001; Russell & Joyner, 2001; Saewyc,
+than heterosexual teens. In fact, with the exception of  2007). Some theoretical explanations create a combined
+some of the more common violence exposures (such         approach, suggesting, for example, that the stigma of a
+as verbal harassment) or relatively normative risk       nonheterosexual orientation may actually spur the
+behaviors (such as alcohol use), for each health dis-    higher rates of those general risk factors among LGBQ
+parity documented above, the majority of LGBQ            adolescents (Busseri et al., 2008; Meininger et al., 2007;
+youth do not experience these issues. It is important    Saewyc, Poon, Homma, et al., 2008).
+to remember that most adolescents navigate these            One of the most common explanations for health
+developmental years without great risk or poor           disparities among sexual minority adolescents is their
+health outcomes, and while the risks are higher for      exposure to stigma and discrimination, especially
+LGBQ youth, the majority of them likewise navigate       enacted stigma, that is, being targeted for bullying
+adolescence quite successfully. Clearly, it is not a     and harassment, exclusion, and violence. A number
+sexual minority orientation per se that leads to health  of studies have directly tested links between harass-
+disparities, or all LGBQ youth would experience          ment or stigma and increased rates of health risk
+these challenges.                                        behaviors, including mental health problems such as
+                                                         depression, PTSD, and suicidality (Almeida et al.,
+                                                         2009; D’Augelli, Grossman, & Starks, 2006; Galliher
+   THEORETICAL EXPLANATIONS FOR THE
+                                                         et al., 2004; Homma & Saewyc, 2007; Skegg, Nada-
+     HEALTH DISPARITIES: RESEARCH ON
+                                                         Raja, Dickson, Paul, & Williams, 2003; Waldo et al.,
+            CONTRIBUTING FACTORS
+                                                         1998), substance use and abuse (Birkitt et al., 2009;
+While population-based, cross-sectional observational    Bontempo & D’Augelli, 2002; Busseri et al., 2008), and
+studies provide strong evidence for documenting          risky sexual behaviors, including teen pregnancy
+health disparities, they are limited in their ability to (Bontempo & D’Augelli, 2002; Saewyc et al., 2007a;
+explain why those health disparities exist (Saewyc,      Saewyc, Poon, Homma, et al., 2008). The majority of
+2007). Correlation can only suggest explanatory          these studies have found direct links between expo-
+mechanisms, and cross-sectional surveys make it          sure to enacted stigma and risk behaviors.
+
+266     SAEWYC
+   Because sexual and physical abuse are strong             homophobia, or sexual minority stress, found these
+predictors of developmental problems and risk be-           factors explained more than orientation identity
+haviors during adolescence, other studies have ex-          alone. Longitudinal studies and those which further
+plored the extent to which higher rates of sexual and       explore the mechanisms by which stigma, rejection,
+physical abuse among LGBQ adolescents help ex-              and social exclusion lead to health disparities for
+plain health disparities. The majority of these studies     LGBQ teens would provide further evidence for
+have found links between abuse and risk behaviors,          grounding interventions.
+including suicide attempts (Borowsky et al., 2001;
+Saewyc et al., 2007b), substance use (Saewyc et al.,
+2006), sexual behaviors and teen pregnancy (Austin,
+                                                            MOVING BEYOND DISPARITIES: FOCUSING
+Roberts, Corliss, & Molnar, 2008; Saewyc et al., 1999,
+                                                            ON RESILIENCE AND PROTECTIVE FACTORS
+2007a, 2007b; Saewyc, Poon, Homma, et al., 2008).
+However, one study exploring substance use that             Not all LGBQ youth experience poor health out-
+tested sexual abuse as a mediating factor did not find      comes; indeed, most live healthy, fulfilling adult
+significant associations (Rosario et al., 2004).            lives, despite facing societal challenges during ado-
+   Family rejection appears to be a significant con-        lescence. One of the most promising emerging areas
+tributor to health disparities, although only a few         in the past decade has been the call to explore the
+studies have directly examined the link between             contexts of sexual minority adolescents who do well
+family rejection after coming out and health risk           despite stigma and discrimination, harassment, and
+behaviors. Ryan et al. (2009) found family rejection        other health risks (Russell, 2005; Savin-Williams,
+was associated with significantly higher rates of           2005). A number of protective factors, or positive
+depression, suicide attempts, illicit substance use,        developmental assets, have been identified as pro-
+and unprotected sex. Similarly, D’Augelli et al. (1998)     moting healthy developmental outcomes and re-
+found that those who disclosed their orientation to         ducing risk behaviors among the general population
+families were more likely to experience physical and        of adolescents, including supportive and nurturing
+verbal rejection, and this in turn was linked to higher     family relationships, supportive friends, caring other
+rates of suicide attempts. Rosario, Schrimshaw, and         adults such as teachers and coaches, connectedness
+Hunter (2009) found that the number of rejecting            to school, and religiosity or spirituality (Blum,
+responses to sexual orientation disclosure predicted        McNeely, & Nonnemaker, 2002).
+substance use longitudinally, even after controlling           To what extent are these protective factors present
+for other factors.                                          in the lives of sexual minority youth, and, equally
+   Family rejection can lead to another risk factor         importantly, do they work in similar ways to buffer
+consistently related to health disparities among sex-       risk exposures and promote healthy development
+ual minority adolescents: running away and home-            among LGBQ youth? In recent years, a growing
+lessness. Coming out and then being kicked out or           number of studies have documented that LGBQ
+running away from family conflict and abuse help            adolescents have fewer supportive resources to draw
+explain the disproportionate number of LGB adoles-          upon, especially bisexual adolescents; they have
+cents who are homeless or street-involved (Coker            lower family connectedness or support as well as
+et al., 2010). This in turn increases their risk for a host lower connectedness to school, lower connectedness
+of health challenges, including risky sexual behaviors      to other adults, and lower peer support (Bos, Sand-
+and teen pregnancy (Rew, Whittaker, Taylor-Seehafer,        fort, de Bruyn, & Hakvoort, 2008; Busseri, Wil-
+& Smith, 2005; Saewyc, Skay, Bearinger, Blum, &             loughby, Chalmers, & Bogaert, 2006; Eisenberg &
+Resnick, 1998b; Saewyc et al., 1999; Saewyc, Poon,          Resnick, 2006; Lam et al., 2004; Saewyc et al., 2009;
+Homma, et al., 2008), in part related to higher rates       Williams et al., 2003). In our study of students in
+of involvement in survival sex or prostitution (Coker       western Canada, LGB adolescents generally reported
+et al., 2010; Saewyc et al., 2008).                         higher levels of religiosity than heterosexual teens
+   In this decade, the research evidence to date ap-        (Saewyc et al., 2007a); however, in the U.S. National
+pears to support explanations of health disparities         Longitudinal Survey of Adolescent Health, Rostosky,
+grounded in theories of stigma, rejection, and social       Danner, and Riggle (2007) found that same-sex
+exclusion more than other theories. Both studies that       attracted youth reported a significantly lower mean
+found higher rates of generic risk factors among            level of religiosity than heterosexual youth.
+LGBQ youth, such as child maltreatment, abuse, and             Do these general protective factors, when present,
+violence exposure, as well as those that identified         work to reduce risks for LGBQ adolescents in the
+LGBQ-specific factors, such as family rejection,            same way as they do for the general population of
+
+                                                             SEXUAL ORIENTATION DECADE IN REVIEW              267
+teens? Although there have only been a few studies       growing number of studies have tested theoretical
+incorporating protective factors, the answer is gen-     explanations for these health disparities, almost no
+erally, yes, protective factors work similarly for       interventions have been tested to actually reduce
+LGBQ adolescents. School connectedness has been          them or to reduce the high rates of harassment and
+shown to reduce odds of depression and emotional         victimization that are associated with many of the
+distress (Galliher et al., 2004), especially among       health disparities. Even given that the highest rates
+Asian adolescents (Homma & Saewyc, 2007; Lam             of HIV infection are among young men who have sex
+et al., 2004). Family connectedness, school connect-     with men, often identified as gay and bisexual, there
+edness, and feeling safe at school have been linked to   are almost no interventions focused on HIV risk be-
+lower levels of suicide attempts (Borowsky et al.,       havior prevention among LGB adolescents (Harper,
+2001; Eisenberg & Resnick, 2006; Fleming et al., 2007;   2007), while appropriately evaluated interventions to
+Rostosky et al., 2007; Saewyc et al., 2007a). Both       reduce other risks or promote mental health and
+family and school connectedness have been associ-        well-being are equally scarce. In the published lit-
+ated with lower odds of teen pregnancy involvement       erature during this past decade, only three inter-
+(Saewyc, Poon, Skay, et al., 2008), and safety at school vention studies were found that focused on sexual
+and caring teachers have been associated with better     risk behaviors, and only one study focused on sui-
+school performance (Bos et al., 2008; Russell, Seif, &   cide attempts and harassment. A handful of corre-
+Truong, 2001). However, religiosity or spirituality      lational studies have also examined the presence of
+was only protective against suicide for heterosexual     specific school policies and practices on levels of
+youth, not LGBQ adolescents (Rostosky, Danner, &         homophobic harassment, but they were not actual
+Riggle, 2007).                                           intervention studies.
+    In addition to generic protective factors, some         In 1998, Rotheram-Borus and colleagues pub-
+studies have looked at LGBQ-specific protective fac-     lished two randomized trials of multisession HIV
+tors, such as involvement in the gay community, in       risk behavior interventions. The first offered three
+LGB support groups, or in gay – straight alliance clubs  cognitive-behavioral focused sessions of 3.5 hours
+at school. For example, Rosario et al. (2004) found that each, over 10 days as the primary intervention
+greater involvement in gay-related organizations over    (Rotheram-Borus, Gwadz, Fernandez, & Srinivasan,
+time decreased alcohol and marijuana use. Similarly,     1998). The second compared that more intense ap-
+Goodenow, Szalacha, and Westheimer (2006) found          proach to seven sessions of 1.5 hours each, twice a
+that LGB students in schools with gay – straight alli-   week over 1 month and to a control condition
+ances (GSAs) or supportive antihomophobia policies       (Rotheram-Borus, Murphy, Fernandez, & Srinivasan,
+and training for school staff reported less harassment   1998). Although most of the adolescents in the first
+in school and lower odds of suicide attempts.            study identified as heterosexual, more than half
+    Thus, these beginning explorations of protective     identified as homosexual or bisexual in the second
+factors suggest that some of the health disparities      trial. Results indicated that youth who partici-
+might be due to lower levels of protective factors in    pated in the seven-session intervention reported
+the lives of LGBQ adolescents; yet the same factors,     fewer risky sexual behaviors over the subsequent 3
+when present, support positive development for           months, although the three-session version also im-
+them as for heterosexual teens. These studies offer      proved self-efficacy and the precursor attitudes and
+some promising approaches, but the amount of             cognitions that usually lead to improvements in
+knowledge to date is still quite limited. More studies   risky behavior.
+are needed, especially focused on youth who do well         The remaining intervention studies are not true
+despite experiencing enacted stigma or targeted          experimental designs, but rather observational stud-
+discrimination, in order to identify what helps them     ies of differences among youth exposed to different
+not just to survive, but to thrive.                      school curricula or school climates in Massachusetts
+                                                         or California. In 2001, Blake et al. used the 1995
+                                                         Massachusetts YRBS to compare LGB students who
+   INTERVENTIONS TO PROMOTE HEALTHY
+                                                         attended schools with gay-sensitive HIV education to
+      DEVELOPMENT OR REDUCE HEALTH
+                                                         LGB students who attended schools without such
+   DISPARITIES AMONG SEXUAL MINORITY
+                                                         programs; they found that sexual minority students in
+   ADOLESCENTS: SUGGESTIVE EVIDENCE,
+                                                         schools with gay-sensitive curricula were less likely to
+        LIMITED INTERVENTION STUDIES
+                                                         engage in sexual risk behaviors, reporting fewer sex-
+Although a large number of studies have docu-            ual partners, and lower rates of substance use with
+mented health disparities for LGB youth, and a           sex (Blake et al., 2001). Similarly, Goodenow, Szalacha,
+
+268    SAEWYC
+and Westheimer (2006) used the Massachusetts YRBS          ability to track health disparities and see whether the
+to explore the differential experiences of harassment      gap between LGBQ and heterosexual teens is nar-
+and suicidality among LGB youth who attended               rowing or widening. It will also help track changing
+schools with GSAs, antibullying policies, and sup-         levels of protective factors and health behaviors to
+portive staff. They found that students who attended       see the effects of interventions to promote the heal-
+schools with GSAs were significantly less likely to        thy development of LGBQ adolescents.
+experience victimization and were less likely to re-          Although there has been a distinct improvement
+port suicidal thoughts or attempts than peers in           in theory testing related to sexual orientation devel-
+schools without GSAs. Other supportive services, such      opment and explanatory models for health dispari-
+as having supportive staff, the availability of nonaca-    ties, including contributing risk and protective
+demic counseling, having antibullying policies, staff      factors, research on the interplay of risk and protec-
+training on sexual harassment, and a student court,        tive factors for a host of health outcomes, including
+were also associated with lower rates of harassment        physiological or genetic development, is just begin-
+and suicidality among LGB students. Similar results        ning. Both general adolescent risks and assets and
+were documented in a national survey of sexual mi-         LGBQ-specific exposures and protective factors
+nority youth (Kosciw, Diaz, & Greytak, 2008).              should be explored related to different health out-
+    While these are encouraging results, clearly there is  comes in order to guide future interventions. The
+a great deal of work needed to develop and test            neuroendocrine and epigenetic research on sexual
+effective interventions for the range of adolescent        orientation would be significantly enhanced by in-
+health issues that affect the lives of LGBQ adolescents.   terdisciplinary collaborations with social scientists
+                                                           who can help grapple with some of the measurement
+                                                           and sampling issues that currently limit the progress
+  THE NEXT DECADE: RECOMMENDATIONS
+                                                           of that research (Diamond, 2003a; Mustanski,
+ FOR FURTHER RESEARCH ON ADOLESCENT
+                                                           Chivers, & Bailey, 2002). All of these studies should
+               SEXUAL ORIENTATION
+                                                           focus on varying ethnic groups and specific contexts
+The previous decade of research on sexual orientation      to help ensure that we understand which factors may
+development and health disparities has greatly in-         be universal and which may be context or group-
+creased our knowledge, but there is far more work to be    specific to allow us to design effective interventions.
+done to achieve equity with heterosexual teens. As            Finally, the field needs far more intervention
+mentioned above, future studies should include de-         studies for programs that promote healthy develop-
+tailed work on developmental trajectories, including       ment and adjustment among LGBQ adolescents.
+cross-cultural exploration of meanings and patterns of     Interventions that reduce the risk exposures
+sexual orientation development. This can best be           and negative environments that contribute to health
+achieved through a combination of longitudinal pro-        disparities as well as interventions that foster resil-
+spective research to disentangle competing explanations    ience and coping, even in the presence of those risk
+and carefully sequence the timing of potential con-        factors, need to be designed and tested. They need to
+founding factors, as well as in-depth qualitative studies, be adapted for different regions and ethnic groups,
+to elicit rich narrative meanings of experiences, plus     for males and females, and perhaps even for specific
+population-based studies of sufficient size to include     orientation groups.
+adequate representation from ethnic minority groups.          The past decade has seen a strong increase in both
+    The shift to population-based studies of sexual        the number and quality of research studies on sexual
+orientation prevalence and health disparities over         orientation development and health issues. If this
+the past decade should continue. Indeed, sexual            encouraging trajectory continues, the next decade
+orientation measures should be incorporated as an-         should see an even greater improvement in our
+other demographic factor in national surveys of ad-        ability to support LGBQ teens as they navigate ad-
+olescents that are regularly conducted, such as the        olescence and become healthy adults.
+Youth Risk Behavior Survey; at the same time, it
+would be extremely helpful to include a greater
+number of protective factors, health and coping be-                              REFERENCES
+haviors, and positive psychology measures in these         Almeida, J., Johnson, R. M., Corliss, H. L., Molnar, B. E., &
+surveys to document the positive outcomes, not just           Azrael, D. (2009). Emotional distress among LGBT
+the risk behaviors and health disparities. Inclusion in       youth: The influence of perceived discrimination based
+recurring surveys will allow the potential to examine         on sexual orientation. Journal of Youth and Adolescence, 38,
+trends over time in development as well as the                1001 – 1014.
+
+                                                                    SEXUAL ORIENTATION DECADE IN REVIEW                     269
+Austin, S. B., Conron, K. J., Patel, A., & Freedner, N. (2007). Diamond, L. M. (1998). Development of sexual orientation
+   Making sense of sexual orientation measures: Findings           among adolescent and young adult women. Develop-
+   from a cognitive processing study with adolescents on           mental Psychology, 34, 1085 – 1095.
+   health survey questions. Journal of LGBT Health Research,    Diamond, L. M. (2000a). Sexual identity, attractions,
+   3, 55 – 65.                                                     and behavior among young sexual-minority women
+Austin, S. B., Roberts, A. L., Corliss, H. L., & Molnar, B E.      over a 2-year period. Developmental Psychology, 36,
+   (2008). Sexual violence victimization history and sexual        241 – 250.
+   risk indicators in a community-based urban cohort of         Diamond, L. M. (2000b). Was it a phase? Young women’s
+   ‘‘mostly heterosexual’’ and heterosexual young women.           relinquishment of lesbian/bisexual identities over a
+   American Journal of Public Health, 98(6), 1015 – 1020.          5-year period. Journal of Personality and Social Psychology,
+Austin, S. B., Ziyadeh, N., Kahn, J., Coditz, G., & Field, A.      84, 352 – 364.
+   (2003). Sexual orientation and overweight: A cohort          Diamond, L. M. (2003a). What does sexual orientation
+   study of U.S. adolescents. Journal of Adolescent Health,        orient? A biobehavioral model distinguishing romantic
+   32(6), 120.                                                     love and sexual desire. Psychological Review, 110,
+Birkitt, M., Espelage, D. L., & Koenig, B. (2009). LGB and         173 – 192.
+   questioning students in schools: The moderating effects      Diamond, L. M. (2003b). New paradigms for research on
+   of homophobic bullying and school climate on negative           heterosexual and sexual-minority development. Journal
+   outcomes. Journal of Youth and Adolescence, 38, 989 – 1000.     of Clinical Child and Adolescent Psychology, 32, 490 – 498.
+Blake, S. M., Ledsky, R., Lehman, T., Goodenow, C., Saw-        Diamond, L. M. (2008). Female bisexuality from adoles-
+   yer, R., & Hack, T. (2001). Preventing sexual risk be-          cence to adulthood: Results from a 10-year longitudinal
+   haviors among gay, lesbian, and bisexual adolescents:           study. Developmental Psychology, 44, 5 – 14.
+   The benefits of gay-sensitive HIV instruction in schools.    DuRant, R. H., Krowchuk, D. P., & Sinal, S. H. (1998).
+   American Journal of Public Health, 91, 940 – 946.               Victimization, use of violence, and drug use at school
+Blum, R. W., McNeely, C., & Nonnemaker, J. (2002). Vul-            among male adolescents who engage in same-sex sexual
+   nerability, risk, and protection. Journal of Adolescent         behavior. Journal of Pediatrics, 133, 113 – 118.
+   Health, 31S, 28 – 39.                                        Eaton, D. K., Kann, L., Kinchen, S., Shanklin, S., Ross, J.,
+Bontempo, D. E., & D’Augelli, A. R. (2002). Effects of at-         Hawkins, J., et al. (2008). Youth Risk Behavior Surveil-
+   school victimization and sexual orientation on lesbian,         lanceFUnited States, 2007. Morbidity and Mortality
+   gay, or bisexual youths’ health risk behavior. Journal of       Weekly Report, 57, 1 – 131.
+   Adolescent Health, 30, 364 – 374.                            Eisenberg, M. E., & Resnick, M. D. (2006). Suicidality
+Borowsky, I. W., Ireland, M., & Resnick, M. D. (2001).             among gay, lesbian and bisexual adolescents: The role of
+   Adolescent suicide attempts: Risks and protectors.              protective factors. Journal of Adolescent Health, 39,
+   Pediatrics, 107, 485 – 493.                                     662 – 668.
+Bos, H. M. W., Sandfort, T. G. M., de Bruyn, E. H., &           Eskin, M., Kaynak-Demir, H., & Demir, S. (2005). Same-sex
+   Hakvoort, E. M. (2008). Same-sex attraction, social rela-       sexual orientation, childhood sexual abuse, and suicidal
+   tionships, psychosocial functioning, and school perfor-         behavior in university students in Turkey. Archives of
+   mance in early adolescence. Developmental Psychology, 44,       Sexual Behavior, 34, 185 – 195.
+   59 – 68.                                                     Fergusson, D. M., Horwood, L. J., & Beautrais, A. L. (1999).
+Busseri, M. A., Willoughby, T., Chalmers, H., & Bogaert, A. F.     Is sexual orientation related to mental health problems
+   (2006). Same-sex attraction and successful adolescent de-       and suicidality in young people? Archives of General
+   velopment. Journal of Youth and Adolescence, 35, 563 – 575.     Psychiatry, 56, 876 – 880.
+Busseri, M. A., Willoughby, T., Chalmers, H., & Bogaert, A.     Finkelhor, D., Ormrod, R., Hamby, H., & Turner, S. (2005).
+   F. (2008). On the association between sexual attraction         The victimization of children and youth: A compre-
+   and adolescent risk behavior involvement: Examining             hensive, national survey. Child Maltreatment, 10, 5 – 25.
+   mediation and moderation. Developmental Psychology, 44,      Fleming, T. M., Merry, S. N., Robinson, E. M., Denny, S. J.,
+   69 – 80.                                                        & Watson, P. D. (2007). Self-reported suicide attempts
+Coker, T. R., Austin, S. B., & Schuster, M. A. (2010). The         and associated risk and protective factors among sec-
+   health and health care of lesbian, gay and bisexual             ondary school students in New Zealand. Australian and
+   adolescents. Annual Review of Public Health, 31, 457 – 477.     New Zealand Journal of Psychiatry, 41, 213 – 221.
+D’Augelli, A. R., Grossman, A. H., & Starks, M. T. (2006).      Floyd, F. J., & Stein, T. S. (2002). Sexual orientation identity
+   Childhood gender atypicality, victimization, and PTSD           formation among gay, lesbian and bisexual youths:
+   among lesbian, gay and bisexual youth. Journal of Inter-        Multiple patterns of milestone experiences. Journal of
+   personal Violence, 21, 1462 – 1482.                             Research on Adolescence, 12, 167 – 191.
+D’Augelli, A. R., Hershberger, S. L., & Pilkington, N. W.       Forrest, R., & Saewyc, E. M. (2004). Sexual minority teen
+   (1998). Lesbian, gay, and bisexual youth and their fam-         parents: Demographics of an unexpected population
+   ilies: Disclosure of sexual orientation and its conse-          [Abstract]. Journal of Adolescent Health, 34, 122.
+   quences. American Journal of Orthopsychiatry, 68, 361 –      Freedner, N., Freed, L. H., Yang, Y. W., & Austin, SB. (2002).
+   371; discussion 372 – 5.                                        Dating violence among gay, lesbian and bisexual ado-
+
+270    SAEWYC
+   lescents: Results from a community survey. Journal of        Lam, T. H., Stewart, S. M., Leung, G. M., Lee, P. W., Wong,
+   Adolescent Health, 31, 469 – 474.                              J. P., et al. (2004). Depressive symptoms among Hong
+Freud, S. (1953). Three essays on the theory of sexuality. In     Kong adolescents: Relation to atypical sexual feelings
+   J. Strachey (Ed. & Trans.), The standard edition of the        and behaviors, gender dissatisfaction, pubertal timing,
+   complete psychological works of Sigmund Freud (Vol. 7, pp.     and family and peer relationships. Archives of Sexual
+   123 – 245). London, U.K: Hogarth Press. (Original work         Behavior, 33(5), 487 – 496.
+   published 1905).                                             Le Brun, C., Robinson, E., Warren, H., & Watson, P. D.
+Friedman, M. S., Silvestre, A. J., Gold, M. A., Markovic, N.,     (2004). Non-heterosexual youthFa profile of their health and
+   Savin-Williams, R. C., Huggins, J., et al. (2004). Adoles-     wellbeing: Data from youth2000. Auckland, New Zealand:
+   cents define sexual orientation and suggest ways to            The University of Auckland.
+   measure it. Journal of Adolescence, 27, 303 – 317.           Lesbian, Gay, and Bisexual (LGB) Youth Sexual Orientation
+Gallart, H., & Saewyc, E. M. (2004). Sexual orientation and       Measurement Work Group. (2003). Measuring sexual
+   contraceptive behaviors among Minnesota adolescents            orientation of young people in health research. San Francisco,
+   [Abstract]. Journal of Adolescent Health, 34, 141.             CA: Gay and Lesbian Medical Association.
+Galliher, R. V., Rostosky, S. S., & Hughes, H. K. (2004).       Marshal, M. P., Friedman, M. S., Stall, R., King, K. M.,
+   School belonging, self-esteem, and depressive symp-            Miles, J., Gold, M. A., et al. (2008). Sexual orientation and
+   toms in adolescents: An examination of sex, sexual at-         adolescent substance use: A meta-analysis and meth-
+   traction status, and urbanicity. Journal of Youth and          odological review. Addiction, 103, 546 – 556.
+   Adolescence, 33, 235 – 245.                                  Meininger, E., Saewyc, E., Skay, C., Clark, T., Poon, C.,
+Gangamma, R., Slesnick, N., Toviessi, P., & Serovic, J.           Robinson, E., et al. (2007). Enacted stigma and HIV risk
+   (2008). Comparison of HIV risks among gay, lesbian,            behaviors in sexual minority youth of European heritage
+   bisexual and heterosexual homeless youth. Journal of           across three countries [Abstract]. Journal of Adolescent
+   Youth and Adolescence, 37, 456 – 464.                          Health, 40, S27.
+Goffman, E. (1963). Stigma: Notes on the management of          Mustanski, B. S., Chivers, M. L., & Bailey, J. M. (2002). A
+   spoiled identity. Englewood Cliffs, NJ: Prentice-Hall.         critical review of recent biological research on human sex-
+Goodenow, C., Szalacha, L., & Westheimer, K. (2006).              ual orientation. Annual Review of Sex Research, 13, 89 – 140.
+   School support groups, other school factors, and the         Patton, G. C., & Viner, R. (2007). Adolescent health 1: Pub-
+   safety of sexual minority adolescents. Psychology in the       ertal transitions in health. Lancet, 369(9567), 1130 – 1139.
+   Schools, 43, 573 – 589.                                      Pinhey, T. K., & Millman, S. R. (2004). Asian/Pacific is-
+Goodenow, C., Szalacha, L. A., Robin, L. E., & Westheimer,        lander adolescent sexual orientation and suicide risk in
+   K. (2008). Dimensions of sexual orientation and HIV-           Guam. American Journal of Public Health, 94, 1204 – 1206.
+   related risk among adolescent females: Evidence from a       Polimeni, A. M., Austin, S. B., & Kavanagh, A. M. (2009).
+   statewide survey. American Journal of Public Health, 98,       Sexual orientation and weight, body image, and weight
+   1051 – 1058.                                                   control practices among young Australian women.
+Hammack, P. L., Thompson, E. M., & Pilecki, A. (2009).            Journal of Women’s Health, 18, 355 – 362.
+   Configurations of identity among sexual minority             Poon, C., & Saewyc, E. (2009). ‘Out’ yonder: Sexual mi-
+   youths: Context, desire, and narrative. Journal of Youth       nority youth in rural and small town areas of British
+   and Adolescence, 38, 867 – 883.                                Columbia. American Journal of Public Health, 99, 118 – 124.
+Harper, G. W. (2007). Sex isn’t that simple: Culture and        Remafedi, G., Resnick, M. D., Blum, R., & Harris, L. (1992).
+   context in HIV prevention interventions for gay and            Demography of sexual orientation in adolescents. Pedi-
+   bisexual male adolescents. American Psychologist, 62(8),       atrics, 89, 714 – 721.
+   806 – 819.                                                   Rew, L., Whittaker, T. A., Taylor-Seehafer, M. A., & Smith,
+Homma, Y., & Saewyc, E. M. (2007). The emotional well-            L. R. (2005). Sexual health risks and protective resources
+   being of Asian-American sexual minority youth in               among gay, lesbian, bisexual and heterosexual homeless
+   school. Journal of LGBT Health Research, 3, 67 – 78.           youth. Journal of Specialists in Pediatric Nursing, 10, 11 – 19.
+Kendall-Tackett, K., & Becker-Blease, K. (2004). The im-        Rosario, M., Hunter, J., Maguen, S., Gwadz, M., & Smith, R.
+   portance of retrospective findings in child maltreatment       (2001). The coming-out process and its adaptational and
+   research. Child Abuse & Neglect, 28, 723 – 727.                health-related associations among gay, lesbian, and bi-
+Kinsey, A. C., Pomeroy, W. B., & Martin, C. E. (1948). Sexual     sexual youths: Stipulation and exploration of a model.
+   behavior in the human male. Philadelphia, PA: W.B.             American Journal of Community Psychology, 29, 133 – 160.
+   Saunders.                                                    Rosario, M., Meyer-Bahlburg, H. F. L., Hunter, J., & Exner,
+Kinsey, A. C., Pomeroy, W. B., Martin, C. E., & Gebhard, P.       T. M. (1996). The psychosexual development of urban
+   H. (1953). Sexual behavior in the human female. Philadel-      lesbian, gay, and bisexual youths. Journal of Sex Research,
+   phia, PA: W.B. Saunders.                                       33, 113 – 126.
+Kosciw, J. G., Diaz, E. M., & Greytak, E. A. (2008). 2007       Rosario, M., Schrimshaw, E. W., & Hunter, J. (2004). Pre-
+   National school climate survey: The experiences of lesbian,    dictors of substance use over time among gay, lesbian,
+   gay, bisexual and transgender youth in our nation’s schools.   and bisexual youths: An examination of three hypothe-
+   New York, NY: GLSEN.                                           ses. Addictive Behaviors, 29, 1623 – 1631.
+
+                                                                   SEXUAL ORIENTATION DECADE IN REVIEW                       271
+Rosario, M., Schrimshaw, E. W., & Hunter, J. (2006). A          Saewyc, E., Poon, C., Wang, N., Homma, Y., Smith, A., &
+  model of sexual risk behaviors among young gay                  the McCreary Centre Society. (2007a). Not yet equal: The
+  and bisexual men: Longitudinal associations of                  health of Lesbian, Gay, & Bisexual Youth in BC. Vancouver,
+  mental health, substance abuse, sexual abuse, and the           BC, Canada: McCreary Centre Society.
+  coming-out process. AIDS Education Prevention, 18,            Saewyc, E., Richens, K., Skay, C. L., Reis, E., Poon, C., &
+  444 – 460.                                                      Murphy, A. (2006). Sexual orientation, sexual abuse, and
+Rosario, M., Schrimshaw, E. W., & Hunter, J. (2009). Dis-         HIV-risk behaviors among adolescents in the Pacific
+  closure of sexual orientation and subsequent substance          Northwest. American Journal of Public Health, 96,
+  use and abuse among lesbian, gay, and bisexual youths:          1104 – 1110.
+  Critical role of disclosure reactions. Psychology of Addic-   Saewyc, E. M. (2007). Contested conclusions: What claims
+  tive Behaviors, 23, 175 – 184.                                  can (and cannot) be made from the current research on
+Rosario, M., Schrimshaw, E. W., Hunter, J., & Braun, L.           gay, lesbian, and bisexual teen suicide attempts? Journal
+  (2006). Sexual orientation identity development among           of LGBT Health Research, 3, 79 – 87.
+  lesbian, gay and bisexual youths: Consistency and             Saewyc, E. M., Bauer, G. R., Skay, C. L., Bearinger, L. H.,
+  change over time. Journal of Sex Research, 43, 46 – 58.         Resnick, M. D., Reis, E., et al. (2004). Measuring sexual
+Rostosky, S. S., Danner, F., & Riggle, E. D. (2007). Is religi-   orientation in adolescent health surveys: Evaluation of
+  osity a protective factor against substance use in young        eight school-based surveys. Journal of Adolescent Health,
+  adulthood? Only if you’re straight! Journal of Adolescent       35, 345e.1 – 345e.16. Retrieved from http://www.jour-
+  Health, 40, 440 – 447.                                          nals.elsevierhealth.com/periodicals/jah/issues.
+Rotheram-Borus, M. J., Gwadz, M., Fernandez, M. I., &           Saewyc, E. M., Bearinger, L. H., Blum, R. W., & Resnick, M.
+  Srinivasan, S. (1998). Timing of HIV interventions on           D. (1999). Sexual intercourse, abuse, and pregnancy
+  reductions in sexual risk among adolescents. American           among adolescent women: Does sexual orientation
+  Journal of Community Psychology, 26, 73 – 96.                   make a difference? Family Planning Perspectives, 31,
+Rotheram-Borus, M. J., Marelich, W. D., & Srinivasan, S.          127 – 131.
+  (1999). HIV risk among homosexual, bisexual, and het-         Saewyc, E. M., Homma, Y., Skay, C. L., Bearinger, L., Res-
+  erosexual male and female youths. Archives of Sexual            nick, M., & Reis, E. (2009). Protective factors in the lives
+  Behavior, 28, 159 – 177.                                        of bisexual adolescents in North America. American
+Rotheram-Borus, M. J., Murphy, D. A., Fernandez, M. I., &         Journal of Public Health, 99, 110 – 117.
+  Srinivasan, S. (1998). A brief HIV intervention for ado-      Saewyc, E. M., MacKay, L., Anderson, J., & Drozda, C.
+  lescents and young adults. American Journal of Ortho-           (2008). It’s not what you think: Sexually exploited youth in
+  psychiatry, 68, 553 – 564.                                      British Columbia. Vancouver, BC, Canada: University of
+Russell, S. T. (2005). Beyond risk: Resilience in the lives of    British Columbia.
+  sexual minority youth. Journal of Lesbian and Gay Issues in   Saewyc, E. M., Pettingell, S. L., & Skay, C. L. (2004).
+  Education, 2, 5 – 17.                                           Teen pregnancy among sexual minority youth in
+Russell, S. T., Clarke, T. J., & Clary, J. (2009). Are teens      population-based surveys of the 1990s: Countertrends
+  ‘‘post-gay’’? Contemporary adolescents’ sexual identity         in a population at risk. Journal of Adolescent Health, 34,
+  labels. Journal of Youth and Adolescence, 38, 884 – 890.        125 – 126.
+Russell, S. T., & Consolacion, T. B. (2003). Adolescent ro-     Saewyc, E. M., Poon, C., Homma, Y., & Skay, C. L. (2008).
+  mance and emotional health in the United States: Be-            Stigma management? The links between enacted stigma
+  yond binaries. Journal of Clinical Child and Adolescent         and teen pregnancy trends among gay, lesbian and bi-
+  Psychology, 32, 499 – 508.                                      sexual students in British Columbia. Canadian Journal of
+Russell, S. T., Franz, B., & Driscoll, A. K. (2001). Same-sex     Human Sexuality, 17, 123 – 131.
+  romantic attraction and violence experiences in adoles-       Saewyc, E. M., Poon, C., Skay, C., & Homma, Y. (2008). The
+  cence. American Journal of Public Health, 91, 907 – 914.        role of protective factors in reducing the odds of teen
+Russell, S. T., & Joyner, K. (2001). Adolescent sexual or-        pregnancy involvement among bisexual adolescents in
+  ientation and suicide risk: Evidence from a national            Canada and the U.S [Abstract]. International Journal of
+  study. American Journal of Public Health, 91, 1276 – 1281.      Psychology, 46, 555.
+Russell, S. T., & Seif, H. (2002). Bisexual female adolescents: Saewyc, E. M., Skay, C. L., Bearinger, L. H., Blum, R. W., &
+  A critical analysis of past research, and results from a        Resnick, M. D. (1998a). Demographics of sexual orien-
+  national survey. Journal of Bisexuality, 2, 73 – 94.            tation among American Indian adolescents. American
+Russell, S. T., Seif, H., & Truong, N. L. (2001). School out-     Journal of Orthopsychiatry, 68, 590 – 600.
+  comes of sexual minority youth in the United States:          Saewyc, E. M., Skay, C. L., Bearinger, L. H., Blum, R. W., &
+  Evidence from a national study. Journal of Adolescents, 24,     Resnick, M. D. (1998b). Sexual orientation, sexual be-
+  111 – 127.                                                      haviors, and pregnancy among American Indian ado-
+Ryan, C., Huebner, D., Diaz, R. M., & Sanchez, J. (2009).         lescents. Journal of Adolescent Health, 23, 238 – 247.
+  Family rejection as a predictor of negative health out-       Saewyc, E. M., Skay, C. L., Hynds, P., Pettingell, S., Bearinger,
+  comes in white and Latino lesbian, gay, and bisexual            L. H., Resnick, M. D., et al. (2007b). Suicidal ideation
+  young adults. Pediatrics, 123, 346 – 352.                       and attempts among adolescents in North American
+
+272    SAEWYC
+  school-based surveys: Are bisexual youth at increasing               Australian adolescents. Australian and New Zealand
+  risk? Journal of LGBT Health Research, 3, 25 – 36.                   Journal of Public Health, 2, 643 – 646.
+Saewyc, E. M., Skay, C. L., Reis, E., Pettingell, S. E.,             Sorenson, R. C. (1973). Adolescent sexuality in contemporary
+  Bearinger, L. H., Resnick, M. D., et al. (2006). Hazards of          America. New York, NY: World Publishing.
+  stigma: The sexual and physical abuse of gay, lesbian,             Spitzer, R. L. (1981). The diagnosis of homosexuality in
+  and bisexual adolescents in the U.S. and Canada. Child               DSM III: A reformulation of the issues. American Journal
+  Welfare, 58, 196 – 213.                                              of Psychiatry, 138, 210 – 215.
+Savin-Williams, R. C. (2005). The new gay teenager. Boston,          Thompson, E. (2006). Girl friend or girlfriend? Same-sex
+  MA: Harvard University Press.                                        friendship and bisexual images as a context for flexible
+Savin-Williams, R. C., & Diamond, L. (2000). Sexual iden-              sexual identity among young women. Journal of Bisexu-
+  tity trajectories among sexual-minority youths: Gender               ality, 6, 47 – 67.
+  comparisons. Archives of Sexual Behavior, 29, 607 – 627.           Troiden, R. (1988). Homosexual identity development.
+Savin-Williams, R. C., & Ream, G. L. (2007). Prevalence and            Journal of Adolescent Health Care, 9, 105 – 113.
+  stability of sexual orientation components during ado-             van Heeringen, C., & Vincke, J. (2000). Suicidal acts and
+  lescence and young adulthood. Archives of Sexual Be-                 ideation in homosexual and bisexual young people: A
+  havior, 36, 385 – 394.                                               study of prevalence and risk factors. Social Psychiatry and
+Sell, R. L. (1997). Defining and measuring sexual                      Psychiatric Epidemiology, 35, 494 – 499.
+  orientation: A review. Archives of Sexual Behavior, 26,            Waldo, C. R., Hesson-McInnis, M. S., & D’Augelli, A.
+  643 – 658.                                                           (1998). Antecedents and consequences of victimiza-
+Sexual Minority Assessment Research Team. (2009, Novem-                tion of lesbian, gay and bisexual young people: A
+  ber). Best practices for asking questions about sexual orientation   structural model comparing rural university and urban
+  on surveys. The Williams Institute, University of California         samples. American Journal of Community Psychology, 26,
+  at Los Angeles School of Law. Retrieved from http://                 307 – 334.
+  www.law.ucla.edu/williamsinstitute/home.html                       Wichstrom, L., & Hegna, K. (2003). Sexual orientation and
+Simari, C. G., & Baskin, D. (1982). Incestuous experiences             suicide attempt: A longitudinal study of the general
+  within homosexual populations: A preliminary study.                  Norwegian adolescent population. Journal of Abnormal
+  Archives of Sexual Behavior, 11, 329 – 343.                          Psychology, 112, 144 – 151.
+Skegg, K., Nada-Raja, S., Dickson, N., Paul, C., & Williams,         Williams, T., Connolly, J., Pepler, D., & Craig, W. (2003).
+  S. (2003). Sexual orientation and self-harm in men and               Questioning and sexual minority adolescents: High
+  women. American Journal of Psychiatry, 160, 541 – 546.               school experiences of bullying, sexual harassment, and
+Smith, A., Lindsay, J., & Rosenthal, D. (1999). Same-sex               physical abuse. Canadian Journal of Community Mental
+  attraction, drug injection, and binge drinking among                 Health, 22, 47 – 58.
+
+This document is a scanned copy of a printed document. No warranty is given about the accuracy of the copy.
+Users should refer to the original published version of the material.
+

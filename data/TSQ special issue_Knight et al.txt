@@ -1,0 +1,875 @@
+NOTICE:       The copyright law of the United States
+(Title 17, U.S. Code) governs the making of photocopies or other
+reproductions of copyrighted material. Under certain conditions
+specified in the law, libraries and archives are authorized to furnish a
+photocopy or other reproduction. One of these specified conditions
+is that the photocopy or reproduction is not to be "used for any
+purpose other than private study, scholarship, or research."
+The CDC library absorbs the cost of copyright fees charged by
+publishers when applicable and the cost of articles and books
+obtained from other libraries. Copyright fees average $35.00 and
+fees charged by the lending libraries are between $10 and $15 per
+request
+
+                                                     TSQ
+Surveying Nepal’s Third Gender
+Development, Implementation, and Analysis
+            K Y L E G . K N IG H T, A N D R E W R . F L O R E S , a n d S H E I L A J . N E Z H A D
+Abstract This article discusses research undertaken in the wake of Nepal’s 2011 federal census, the
+world’s first to include a gender category in addition to male and female. It presents the methodology
+and initial findings of a new survey of 1,178 sexual and gender minorities in Nepal conducted to
+determine inclusive and locally relevant methodologies for demographic information gathering.
+Nepal has legally recognized a third gender since 2007 and in 2011 added that category to the census.
+However, due to confusion and discrimination among census enumerators and a data entry system
+that only allowed for two genders, those who identified as third gender were not accurately measured.
+Beyond those limitations, the term third gender is contested, and by itself it may not fully represent
+the many sexual and gender minorities in Nepal, including people who are gender nonconforming.
+This article discusses the development of new survey data measuring the identity, behavioral, and
+attraction dimensions of gender and sexuality across different terms that are in use in Nepal. Initial
+findings show that seven distinct groups of respondents can be described, and this article discusses
+how to expand the concepts and considerations for inclusive data collection in Nepal.
+Keywords Nepal, third gender, gender, survey research
+T    he 2011 Nepali census was the world’s first to allow citizens to identify as a
+     third gender (Shrestha 2011). However, as enumerator guidelines lacked
+a definition of the category, some respondents who identified as third gender
+reported being denied the opportunity to be registered as such by enumerators,
+and many who were registered on the paper forms as third gender were lumped
+into data sets disaggregated by male/female, because the analytical software the
+government used only allowed two gender options (Knight 2012).1 Approximately
+one year after initial analysis of the 2011 census was published excluding third-
+gender-identified people (i.e., the results were disaggregated as male-female
+only), the Williams Institute of University of California, Los Angeles, School of
+Law partnered with Blue Diamond Society (BDS), a Nepali sexual health and
+rights organization, to design and implement a survey for collection of data
+about sexual and gender minority (SGM) identities in Nepal and to provide best
+TSQ: Transgender Studies Quarterly * Volume 2, Number 1 * February 2015                           101
+DOI 10.1215/23289252-2848904 ª 2015 Duke University Press
+                                   Published by Duke University Press
+
+                                      TSQ
+102      TSQ  * Transgender Studies Quarterly
+practices for future inclusive survey design. The survey instrument focuses on
+four key areas: demographics and socioeconomic status, self-identification with
+sexual orientation and gender identity terms, experiences of discrimination, and
+access to HIV services.
+        This article focuses on the research conducted in Nepal in 2012 and 2013
+and preliminary analysis of the data collected. We begin by providing the context
+for legal establishment of Nepal’s third gender category. We then describe the
+development of the survey instrument, the data collection, and initial analytic
+results. Our analysis indicates seven distinct subpopulations among the assigned-
+male-at-birth sample. We examine two variables within these subpopulations:
+outness and experiences of discrimination. Due to limitations in the sampling
+design, the assigned-female-at-birth sample was small and not included in the
+current analysis.
+The Legal and Social Recognition of a Third Gender Category in Nepal
+The social and legal recognition of people who identify as and/or express non-
+binary genders has occurred throughout history in a variety of cultural and
+political contexts (Herdt 1996: 22). Scholars have explored in detail whether these
+identity groups constitute a third gender category. Many identity groups do not
+explicitly self-identify as third gender but define their identities behaviorally (e.g.,
+being sexually penetrated) or relationally (e.g., being nonmale). As the majority of
+research on gender-nonconforming people has been conducted on populations of
+those assigned male at birth, it has been critiqued for doing a poor job of sepa-
+rating the experiences of those assigned male and those assigned female at birth
+(Valentine 2007: 156).
+        Nepal’s contemporary third gender category is heterogeneous, reflecting
+what anthropologist David Valentine understands as the spatial, temporal, and
+cultural specificity of the very concepts of gender and sexuality that may be
+“organized in very different ways and be understood through other kinds of
+orderings” (165). A Nepali who was assigned male at birth described this cultural
+ordering: “I am biologically male, but I am not a man. I do not desire women
+sexually. Men in my culture desire women sexually. Therefore I am third gender”
+(Bochenek and Knight 2012: 23). As legal scholar Holning Lau explained, “Some
+identity categories in Nepal simultaneously convey an individual’s sex, gender
+identity, sexual orientation, and preferred role in intimacy” (2013: 487).
+        As sexual and gender minority activism swelled in public spaces, “third
+gender” has been employed in Nepali political discourse. Over the course of
+several years, a popular Nepali reformist politician referred to an opposition party
+(the United Marxist-Leninsts, or UML) as “third gender” as an insult, suggesting
+the party’s impotence (Adhikari 2013). The usage stuck in popular memory and
+                      Published by Duke University Press
+
+                                               TSQ
+                KNIGHT, FLORES, and NEZHAD      * Surveying Nepal’s Third Gender        103
+was repeated years later—this time more symbolically —in a political cartoon
+published after a group of activists led by an openly gay former parliamentarian
+joined politics. It read: “365 third genders enter UML. Only now has our party’s
+sex been assigned” (Knight 2014).
+        Nepal first legally recognized a third gender category in 2007 when the
+Supreme Court ruled in Pant v. Nepal: “Legal provisions should be made to
+provide for gender identity to the people of transgender or third gender, under
+which female third gender, male third gender and intersexual are grouped, as per
+the concerned person’s self-feeling” (“Decision of the [Nepal] Supreme Court”
+2008: 281). The judgment in Pant v. Nepal does not firmly define to whom the
+third gender category refers. It references foreign legal precedent and the Yogyakarta
+Principles and mentions “transgender,” “intersex,” and “homosexuality” in ref-
+erence to the third gender category. In some instances the court distinguishes
+between “homosexuals” and “people of the third gender,” but in other references
+it employs the two terms together. The court specifically points to the census as a
+method for inclusion in Nepali society: “According to the data published by
+the Center Bureau of Statistics/Government of Nepal in 2005 . . . there are 102
+identified races and castes in Nepal. . . . The male and female have been clearly
+mentioned under the category of ‘sex’ in the data published by the Center Bureau
+of Statistics whereas the identity of third gender has not been accepted there”
+(278).
+        This breadth and flexibility in the definition and the court’s direction to
+determine legal gender based solely on self-identification perhaps created more of
+a query than a directive; however, debates over who is included in the third gender
+category remain unresolved. While thorough consideration of the social and
+cultural construction of gender and sexuality in Nepal is beyond the scope of this
+article, a brief discussion of identity dynamics is helpful to illustrate the com-
+plexities of establishing the new (third) category in data collection efforts.
+        Shivananda Khan’s explanation of a framework in India, similar to that in
+Nepal, sheds light on sexuality and gender dynamics (as well as two of the terms,
+kothi and panthi, used on our questionnaire):
+        [The] gendered framework is constructed within a kothi/panthi dynamic, where
+        the kothi perceives himself and his desire for other males in the context of gender
+        roles in South Asia, i.e., the “penetrated” partner. Kothis construct their social
+        roles, mannerisms and behaviors in ways which attract what they call panthis—
+         “real men”—identifying as feminised males. In this context kothis are usually the
+        visible MSM in a range of public environments and neighborhoods, but panthis
+        are not, for they could potentially be any “manly” male. (Khan quoted in Cohen
+        2005: 287)
+                             Published by Duke University Press
+
+                                      TSQ
+104       TSQ * Transgender Studies Quarterly
+Explaining how such identities challenge the very distinctions between gender
+and sexuality, Gayatri Reddy, in a reflection on her fieldwork in India, wrote: “My
+persistent questions about the criteria for differentiating kotis from other men
+almost always elicited the following answer: ‘all kotis desire pantis.’ This expla-
+nation positions the identity category ‘koti’ as one not only understood or
+expressed through gender non-conformity but also through sexual desire (and,
+ostensibly, behavior) toward a distinctly gender-conforming category” (Reddy
+2005: 47). As a result, such identity categories do not necessarily fall under a
+sexuality or gender heading discretely and can simultaneously inhabit and
+challenge both categories in various ways. As Sumit Baudh argued with regard to
+hijaras in India, the term applies to male-assigned people and concerns gender
+more than sexual identity, possibly including “men who cross-dress, castrated
+men, or intersexed individuals. . . . A hijara’s sexual acts (for instance, with men)
+therefore defy understanding of both heterosexual and homosexual” (Baudh
+2008: 98).
+        Metis and tas, two Nepali identity groups, identify in a similar dynamic,
+with metis—the counterpart to kothis—being the principal target population for
+BDS from its inception. The term meti is reported to have originated in Darjee-
+ling, India, and is derived from the phrase “to quench one’s thirst,” with the
+connotation that the role of the meti is to satiate men’s (sexual) desires (Tamang
+2003: 240). Calling both ta and meti “social and porous construction[s],” political
+scientist Seira Tamang noted: “Not all metis dress in drag. Indeed two metis
+interviewed had tried it and said they didn’t really enjoy it. If they did dress in
+drag, they only did it once in a while at the behest of friends” (241). In Nepal,
+sexual and gender minorities, including metis and others who present as gender
+nonconforming, do not necessarily present as such in all settings. Ethnographic
+studies of metis in Kathmandu showed that a “high percentage” were married to
+women (Boyce and Pant 2001). Some are open with their partners and fami-
+lies, others are not. In this regard, we understand that the challenges of outness
+and disclosure in Nepal’s context can lead people who identify with gender-
+nonconforming identities to sometimes present as the gender they were assigned
+at birth.
+        In this context of multiple identities and types of expression, bureaucratic
+implementation of the 2007 judgment’s third-gender category has barreled ahead.
+Piecemeal achievements have included adding a third-gender tick box to voter
+registration documents after 2008 and to citizenship documents in 2013. The most
+widespread implementation of a third gender category, however, was the 2011
+census. Nepal’s census was launched in June 2011, and forty thousand second-
+ary school teachers were hired as enumerators. It was a politically charged event,
+being the first since the end of a decadelong civil war that was bookended by
+                      Published by Duke University Press
+
+                                            TSQ
+               KNIGHT, FLORES, and NEZHAD    * Surveying Nepal’s Third Gender  105
+populist uprisings and demands for an inclusive democracy. The census was
+widely viewed as an opportunity to correct longstanding practices of government
+exclusion (Thapa 2001). While inclusion of a third gender category was prom-
+ising, technical issues and discriminatory enumerator behavior marred the pro-
+cess and resulted in data that were only disaggregated by male and female, leaving
+space for follow-up studies (Knight 2011).
+The Blue Diamond Society and Williams Institute’s
+Nepal Sexual and Gender Minorities Survey
+The partnership between Williams Institute and BDS began in the aftermath of
+the census, in light of both the desire of Nepali activists to have the SGM pop-
+ulation counted and the lack of best-practices models from the region. The joint
+effort developed a survey that allows respondents to self-identify using SGM
+terms including and beyond “third gender.”
+        Following initial consultations with BDS representatives, the Williams
+Institute produced a questionnaire based on the set of four focus areas noted
+above: socioeconomic status, inclusive and accurate identity terms, experiences of
+discrimination, and access to HIV services. Questions were drawn from survey
+instruments used to measure Nepal’s general population as well as from instru-
+ments used elsewhere, which were selected for their relevance to the four focus
+areas of the study and comparability to Nepali national data sets.2
+        Survey administrators underwent a two-day training with Williams Institute
+researchers and BDS team leaders who would supervise the survey administra-
+tors during the implementation phase. A second field location–based “refresher
+training” was led by BDS team leaders a month later, the day before the launch of
+data collection in all five regions of the country.
+        Four community consultations convened with Williams Institute researchers
+and BDS representatives. The aim of these discussions was to revise and refine
+the survey instrument and its translation; the final meeting indicated that
+the survey construction was coherent and understandable. A text translator was
+present for the first two meetings to receive feedback on his translation of the
+survey instrument. During the remaining two meetings, issues of content were
+debated, which not only led to revisions but also informed the survey adminis-
+trator/interviewer training program. For example, during one of the consulta-
+tions, a BDS staff member who identifies as third gender raised an issue about a
+question on the survey (see appendix 1), that asked respondents to self-identify
+with a range of terms on a sliding scale for each one, noting that strong identi-
+fication should preclude identifying with more than one term.3 As the participant
+explained, “Once someone answers positively [strongly identifying] with a term,
+                            Published by Duke University Press
+
+                                     TSQ
+106      TSQ  * Transgender Studies Quarterly
+we can move to the next question. People cannot identify with more than one
+term. If someone is TG [third gender], she cannot also be a lesbian.”
+        The discussion sparked by this comment gestures at the language of gender
+and sexuality identity in Nepal. Participants in that meeting debated whether
+multiple identities existed or “were possible,” and various participants argued for
+borders around the third-gender (tesro lingi) identity category to be understood
+along presentation and appearance, while others asserted the category was more
+comprehensive and based solely on identity (pahichaan). Another participant
+explained: “I am a transgender woman by identity but I also call myself meti and
+I have a wife so in some places because I appear as a man and do the duties of a
+husband many people perceive me to be heterosexual.”
+        English language identity terms used on the survey instrument were
+translated in consultation with BDS. “Transgender” became tesro lingi, which
+translates literally to “third gender.” During one community discussion, it was
+raised that the direct and exclusive ascription of tesro lingo to “transgender
+people” is contested by some, as the term is sometimes used to refer to all sexual
+and gender minorities. However, participants agreed that the term most directly
+corresponded with the English word “transgender” while not excluding those
+who understood their identity —regardless of terminology —as a nonmale or
+nonfemale third position. During discussions, participants asserted that because
+there were multiple options for self-identifying, including an open-ended answer
+space, those who wished to identify as tesro lingi (in Nepali) regardless of their
+identification with “transgender” (in English) would be able to do so. It is worth
+mentioning, however, that the Nepali tesro lingi in Deva Nagri script was listed
+next to the English “transgender.” It was discussed whether the survey instrument
+should include a transliterated “transgender” in Deva Nagri; however, partici-
+pants argued that it was potentially confusing and might unfairly suggest the
+superiority of English by transcribing it as such. It was noted by some participants
+that after national consultations with BDS members and meetings with govern-
+ment officials, in 2012 it was decided that on official documents henceforth,
+“third gender” was no longer to be used. The term was replaced on documents by
+“other” (anya), which was deemed more inclusive of gender-nonconforming
+people, especially those who did not speak Nepali as their mother tongue (according
+to census figures, only 48 percent of Nepalis speak Nepali as their first language).
+Both “other” and “third gender” remain in use on official documents, depending
+on when they were issued by the government; but community participants
+agreed that using “other” on the survey instrument would not gather specific
+enough data. These discussions and decisions informed the survey administra-
+tor training program by calling attention to the need for repeated emphasis on
+                       Published by Duke University Press
+
+                                            TSQ
+               KNIGHT, FLORES, and NEZHAD    * Surveying Nepal’s Third Gender     107
+self-identification as the core methodology for the survey, including people who
+identified with multiple terms.
+        Interviewers were trained to conduct interviews while sitting next to the
+respondents and to use Nepali and English as well as other regional languages
+where necessary. Portions of the questionnaire are shown in the appendixes.
+        Question 16 (appendix 1) captured one of the three conceptual dimensions
+of sexual orientation —self-identification —as defined by the Williams Institute
+(SMART 2009). To supplement this information, we added questions that addressed
+the other two dimensions, sexual attraction (appendix 2) and sexual behavior
+(appendix 3). These questions used the same identity terms as the self-identification
+question. For this study, we focus solely on responses to self-identification. The
+importance of gathering information regarding identity, attraction, and behavior
+about sexual orientation and gender identity is underscored by the fluidity and
+hybridity of sexual and gender terms used in Nepal (as elsewhere), the diversity of
+identities and experiences the third-gender category might capture, and the fact
+that measuring any type of identity is complicated by cultural, spatial, temporal,
+and privacy factors. In addition to collecting demographic information about
+identity categories (the focus of this article), sexual behavior, and attraction, the
+research team developed a series of questions related to experiences of discrim-
+ination and practices of identity disclosure.
+        Study procedures were approved by the UCLA Institutional Review Board.
+Survey administrators were recruited from BDS’s drop-in center staff, as BDS felt
+the people in these positions would have the broadest access to and under-
+standing of local community networks of SGM. Five BDS staff members and
+one staff member from the Federation of Sexual and Gender Minorities–Nepal,
+an umbrella network of community-based organizations, were hired as team
+leaders. Team leaders underwent an online ethical research certification program
+through UCLA, and a summary of this material was included in the training
+program for all survey administrators. After a pilot of fifty survey interviews was
+conducted in Kathmandu in July 2013, the survey underwent a final revision.
+Survey interviews were conducted during September and October 2013. Admin-
+istrators approached people who accessed drop-in centers and through com-
+munity networks, including with e-mail and SMS text message recruitment.
+Participants were reimbursed 300 Nepali rupees (USD $3) for transportation.
+Team leaders conducted a monitoring and evaluation mission to each of the five
+development regions of Nepal and evaluated each interviewer’s initial ten com-
+pleted surveys, giving feedback and authorizing continuation.
+                            Published by Duke University Press
+
+                                               TSQ
+108        TSQ  * Transgender Studies Quarterly
+Table 1. Distribution of the current gender of the Nepal Analysis
+Sexual and Gender Minorities Survey respondents
+                                                         The final study has a sample size of
+Current Gender              Sample Size          Percent 1,178 respondents.4 Respondents were
+Third gender                     516             43.9%   asked to self-identify their current
+Male                             391             33.3%
+Male and other                   123             10.5%
+                                                         gender in an open-ended question.
+Female                            80               6.8%  Table 1 shows how all of respondents
+Kothi                             22               1.9%  answered this question (including
+Gay                               12               1.0%
+                                                         male-born and female-born respon-
+Lesbian                            6               0.5%
+Mougiya                            6               0.5%  dents). Of the assigned-male-at-birth
+Female and other                   5               0.4%  respondents who answered this ques-
+Bisexual                           5               0.4%  tion, 44.2 percent (n = 446) identify
+Intersex                           4               0.3%
+                                                         as “third gender,” 38.5 percent (n =
+Natuwa                             2               0.2%
+Bisexual, Kinnar                   1               0.1%  388) identify as “male,” 12.1 per-
+Hijara, Kinnar                     1               0.1%  cent (n = 122) identify as “male” and
+Meti                               1               0.1%  another gender identity, and 5.3 per-
+MSM                                1               0.1%
+Total                          1,176              100%
+                                                         cent (n = 53) identify with a variety
+                                                         of other identity terms.
+Note: Percentages may not sum to 100 due to rounding.
+                                                                  The limitation of using con-
+                                                         venience sampling in this context is
+that, by virtue of using a network of HIVoutreach workers, survey administrators
+primarily recruited those who might benefit from these programs —people who
+were assigned male at birth. In addition, people assigned female in Nepal expe-
+rience layers of social exclusion that people assigned male do not necessarily
+experience, meaning access to public life (including opportunities to participate
+in research) can be limited for those assigned female (Rankin 2010; Forum for
+Women, Law and Development 2011). As such, this sample reflects those people
+assigned female at birth who were a part of or came in contact with HIV outreach/
+LGBTI activism networks, which is not representative of the general population of
+SGM who are assigned female at birth.
+Citizenship Documentation Recognition of Nepal’s third-gender category on
+citizenship certificates has been a central point of BDS advocacy since the 2007
+judgment (see Al Jazeera 2013). Seventy-one (7.8 percent) male-assigned-at-birth
+respondents report that they tried to change the gender on their citizenship
+documents. Fifty-one (71.8 percent) of these respondents identify with gender-
+nonconforming identities. Of respondents who report making an attempt to
+change their documents, only four (5.6 percent) have been successful. They are
+third-gender-identified people who were assigned male at birth.
+Identification across Multiple Identities This article analyzes how respondents
+identify with the multiple identity terms that the previously conducted community
+                           Published by Duke University Press
+
+                                                      TSQ
+                  KNIGHT, FLORES, and NEZHAD           * Surveying Nepal’s Third Gender              109
+consultations determined to be relevant among SGM in Nepal. The survey pro-
+vides an opportunity for respondents to select to what degree they feel an identity
+label represents them. Responses range from not at all, to somewhat, to strongly.
+Ten different labels are evaluated by the respondents, which creates 59,049 potential
+combinations of response patterns. An initial question is whether we can reduce
+these potential combinations to the observed response patterns. If so, then
+respondents can be classified into discrete groups based on these patterns by using
+multivariate statistics, and we use latent class analysis. We then make inferences
+on these groups, including: the size of one group relative to the others, how
+respondents in each group tend to self-identify, whether and when respondents
+have specific patterns of identity disclosure, and unique experiences of discrimi-
+nation connected to perceived nonconformity for each group.5 Our use of sta-
+tistical models that incorporate the varying ways in which respondents may
+identify in terms of gender identity and sexual orientation provides an opportunity
+to examine whether, in Nepal, sexual orientation and gender identity may not be
+mutually exclusive concepts. We do not address here the potential complexity of
+multiple identities that may exist among other axes of identity such as caste, which
+likely also relate to experiences of discrimination.
+         The responses to question 16 are provided in figure 1.6 A majority of
+respondents identify with terms associated with gender nonconformity—namely,
+meti, kothi, or third gender. Very few respondents identify as ta, panthi, hijara,
+heterosexual, or bisexual. What remains to be investigated is whether subsets of
+the sample identify strongly with meti, kothi, and third gender, making them
+Figure 1. Overall responses to question 16 of the Blue Diamond Society and Williams Institute Sexual
+and Gender Minority Survey, asking respondents how much each identity label applies to them
+                                  Published by Duke University Press
+
+                                       TSQ
+110      TSQ  * Transgender Studies Quarterly
+potentially exchangeable categories, or whether there are subsets that do not
+identify with these terms interchangeably.
+        To reduce the number of potential combinations, we clustered respon-
+dents using latent class analysis (LCA), which is a form of mixture modeling. The
+respondents in this sample likely represent numerous subpopulations. Finite
+mixture modeling is a process that examines, for example, whether respondents
+who strongly identify as meti do also strongly identify as kothi and third gender
+while not identifying with the other terms listed. If so, then respondents
+who exhibit this pattern can be classified into one subpopulation. LCA uses the
+responses to question 16 to evaluate all of the respondents in order to situate them
+into distinct groups.
+        This process provides a more detailed view of a sample of the sexual
+and gender minority population in Nepal while permitting respondents to have
+multiple attachments to identity labels. A note of caution should be expressed in
+this analysis, as the number of subpopulations must be specified by the researcher
+a priori or be model driven.7 We chose the latter option in this analysis, which
+resulted in seven distinct subpopulations. Since the determination of the number
+of classes is model driven, this type of analysis is considered exploratory. Though a
+second study should be conducted to confirm the number of classes, we did
+evaluate this finding by conducting two hundred replications of the analysis and
+determining whether there were significant differences between the distributions
+of the observed data and what would be predicted by the model. In this assess-
+ment, we observed no difference between any of the replicated distributions and
+the observed distribution.
+        In figure 2, we provide the results of the LCA. Rows are grouped by the
+likely response pattern of one of the seven classes. The bars represent the likely
+response given by a member of that class to each of the identity items. We provide
+names for each group along each row, determined by the likely response patterns
+observed in figure 2. We also provide the estimated size of each group.
+        The largest group in the LCA is one that we label “Strongly Gender
+Nonconforming” because this group of respondents tends to strongly iden-
+tify with each term that refers to identifying as gender nonconforming. The
+respondents also have an open-ended question to indicate the term that they
+primarily use to identify their sexual orientation or gender identity; 91.8 percent
+of the respondents in this group primarily identify with gender-nonconforming
+identities (e.g., third gender, meti, kothi, and/or hijara). This measure provides
+some indication that the classification process accurately identifies this group.
+Hijara is the only exception to the pattern in figure 2.
+        We categorized another group as “Somewhat Gender Nonconforming.”
+This group tends to somewhat identify with each of the gender-nonconforming
+                       Published by Duke University Press
+
+                                             TSQ
+               KNIGHT, FLORES, and NEZHAD     * Surveying Nepal’s Third Gender     111
+terms (except hijara). We do observe some stronger identification with the third-
+gender item relative to meti, kothi, or fulumulu, but the overall pattern of this
+group is a weaker identification with gender-nonconforming labels relative to the
+previous group. This group is 8.1 percent of the sample. We observe that 79.5
+percent of the respondents in this group primarily use a gender-nonconforming
+identity label, with third gender being the most common, followed by meti, then
+kothi.
+         The third group that is identified by the LCA represents a small group of
+respondents who strongly identify with the gender-nonconforming identifiers
+and have some identification with the labels heterosexual and bisexual. The
+primary terms that respondents in this group use in the open-ended question are:
+MSM, which refers to males who have sex with males (an HIV intervention term),
+and third gender. This group makes up 3.5 percent of our sample.
+         The next group that manifested in the data is particularly interesting
+because the respondents in this group had some level of attachment to all of the
+identity labels, except for hijara. We categorize this set of respondents as “Evenly
+Affiliated.” Though the group makes up only 4.3 percent of the sample, these
+respondents have a uniform set of attachments to multiple identities—even com-
+binations that may seem contradictory, such as meti, kothi, and ta. In the open-ended
+identity question, this set of respondents tends to primarily use third gender or MSM.
+         The final group in the set of respondents who appear to have some
+attachment to gender-nonconforming identity is the one that had greater levels of
+attachment to particular gender-nonconforming labels over others. This group,
+which we named “Third Gender/Meti,” makes up 11.3 percent of the sample, and
+the respondents in this group tend not to identify heavily with kothi or at all with
+fulumulu as labels representing them. Of the respondents in this group, 94.7
+percent primarily identify as third gender or meti.
+         Alongside the respondents who have varying levels of attachment to
+gender-nonconforming identity labels, there are two groups in the data where
+respondents identify more strongly with gender-conforming identities. The
+respondents belonging to the first of these groups (“Gay Identified”) tend to more
+strongly identify as gay. This group makes up 16.8 percent of the sample, and 94.9
+percent of the respondents in this group name their primary identity as gay,
+bisexual, or MSM. The second group of respondents (“Ta Identified”) makes up 9
+percent of the sample, and this group tends to strongly identify with a ta identity.
+Those who identify as ta are traditionally known to be gender-conforming men
+who have penetrative sex with men or gender-nonconforming people assigned
+male at birth. We find that 91.3 percent of the respondents in this group name their
+primary identity as gay, bisexual, or MSM.
+                              Published by Duke University Press
+
+                               TSQ
+112 TSQ * Transgender Studies Quarterly
+                Published by Duke University Press
+
+                             TSQ
+KNIGHT, FLORES, and NEZHAD    * Surveying Nepal’s Third Gender              113
+                      Figure 2. The seven groups from the latent class
+                      analysis of the Nepal Sexual and Gender Minorities
+                      Survey. Column of identifiers represents identity
+                      questions asked in question 16. Bars represent the
+                      likely responses of respondents in that group to each
+                      identity question.
+                                We find in this analysis a confirma-
+                      tion of what was discussed in the earlier
+                      meetings and in previous studies. There are
+                      many different terms that gender and sexual
+                      minorities use in Nepal, and they have
+                      varying levels of attachment to some terms
+                      over others. The potential for respondents to
+                      indicate multiple attachments to these labels
+                      compels us to use analytic techniques that
+                      explicitly incorporate all of these potential
+                      attachments. We note that the Third Gender/
+                      Meti group is an indication of a subpopu-
+                      lation in the data that would be overlooked
+                      in other data collection efforts if surveys relied
+                      on a single term such as kothi to measure the
+                      gender-nonconforming population in Nepal.
+                      By our analysis, such occurrences would
+                      potentially undercount the sexual and gen-
+                      der minority population by 11.3 percent. We
+                      should note that this sample is not intended
+                      to be representative of the sexual and gender
+                      minority population in Nepal, but it does
+                      provide greater insight.
+                                A majority of our respondents tend
+                      not to strongly identify with both gender-
+                      nonconforming identities and gender-
+                      conforming identities simultaneously. This
+                      indicates that one’s sexual orientation and
+                      gender identity may not be discrete in the
+                      Nepal context, which has been discussed
+                      in previous qualitative studies (e.g., Lau
+                      2013). In bivariate analyses of these identity
+                      terms, there is consistently a negative rela-
+                      tionship between strongly identifying with
+           Published by Duke University Press
+
+                                        TSQ
+114       TSQ * Transgender Studies Quarterly
+gender-nonconforming labels and strongly identifying with gender-conforming
+labels.
+Disclosure and Visual Nonconformity As a further indication of how these groups
+allow for reasonable and insightful inference on our sample of SGM in Nepal, we
+examine a set of questions regarding the level of identity disclosure, or “outness,”
+that the respondents report having in multiple venues. If we observe distinct
+patterns of outness by the seven subpopulations, then we have some confirmation
+that the LCA may indicate that the experiences of SGM are not necessarily uni-
+form. Each outness question asks respondents how many people know about
+their sexual orientation and/or gender identity at (1) home, (2) work, and (3)
+school; and (4) whether their supervisor knows. Respondents select among five
+options: none, a few, some, most, or all (except for the supervisor item, which is a
+yes-or-no question).
+        As plotted in figure 3, a clear distinction emerges in outness patterns among
+the groups that have a degree of identification with gender-nonconforming terms
+versus the gender-conforming “Gay Identified” and “Ta Identified” groups. The
+respondents in the gender-nonconforming groups tend to report higher levels of
+outness than respondents in the Gay and Ta groups. We do observe variation across
+venues, with third gender respondents who attend school reporting less outness
+than third gender respondents who have occupations.8 The patterns are quite
+distinct, and they suggest that respondents who identify more strongly with gay or
+ta are less likely to be out than respondents who more strongly identify with
+gender-nonconforming identity terms.
+        Being perceived as visually conforming may reduce experiences of dis-
+crimination among gender and sexual minorities (Grant, Mottet, and Tanis 2011:
+27). We compare how a respondent’s outness corresponds with the likelihood that
+they report not facing discrimination because they were perceived as heterosexual
+and/or gender conforming in certain settings. Outness may decrease or increase
+the risk of experiencing discrimination: in the US context, coming out may be
+empowering while at the same time could result in experiences of workplace or
+social discrimination (Grant et al.: 28). We investigate visual nonconformity by
+analyzing a series of questions regarding whether respondents face discrimination
+or abuse in seven areas: (1) at a store or market, (2) in a transit system (e.g., bus,
+airplane), (3) in a hospital or clinic, (4) by a police officer or station, (5) by a judge,
+(6) by a government office or agency, and (7) by a school or college. Respondents
+choose from a series of options to describe whether they faced discrimination, and
+if not, why they did not. Some respondents report not experiencing discrimi-
+nation because people in that setting do not know about their sexual orientation
+and/or gender identity; that is, they are perceived as visually conforming. We find
+                      Published by Duke University Press
+
+                                                      TSQ
+                   KNIGHT, FLORES, and NEZHAD          * Surveying Nepal’s Third Gender             115
+Figure 3. Levels of outness across multiple venues by the full sample and the seven groups from the
+latent class analysis of the Nepal Sexual and Gender Minorities Survey. GNC = gender nonconforming.
+differences in how outness relates to perceived conformity among the groups.
+Respondents in the groups Strongly Gender Nonconforming and Somewhat
+Gender Nonconforming who are out to more people at home are less likely to
+report not experiencing discrimination while at the market due to perceived
+conformity. About half of the respondents in the Gay and Ta groups report not
+                                    Published by Duke University Press
+
+                                      TSQ
+116       TSQ * Transgender Studies Quarterly
+facing discrimination at a store or market, and there is no clear relationship
+between outness at home and not experiencing discrimination. We observe a
+somewhat negative relationship between outness and not facing discrimination
+due to perceived conformity for the respondents belonging to the group Strongly
+Gender Nonconforming (Kendall’s t = - .22) and the group Somewhat Gender
+Nonconforming (Kendall’s t = - .33). This indicates that in this context, respon-
+dents in the group Strongly Gender Nonconforming who are out to everyone at
+home rarely report not facing discrimination at a market due to perceived visual
+conformity.
+        We investigate the relationship between the multiple forms of outness and
+tendency to report not facing discrimination due to perceived visual conformity
+for the seven areas of social life.9 While in some instances there is a relationship
+between levels of disclosure and experiences of discrimination, many of the
+relationships are not statistically significant. On average fewer than half of the
+respondents of any group report not experiencing discrimination due to per-
+ceived conformity. We also observe that the gap between the “Ta” and “Gay”
+groups in relation to the other groups tends to remain. We find that, in many areas
+of social life, those who are less likely to report not facing discrimination due
+to perceived visual conformity are those who have a stronger identification to
+gender-nonconforming identities.
+        We find that the LCA groups do offer additional insight into the experi-
+ences of sexual and gender minority people in our sample. We observe distinct
+levels of outness for each group by each of the venues. This also indicates that data
+collection efforts that administer surveys only in households may potentially
+undercount the population of sexual and gender minority people in Nepal. The
+respondents who do not belong to the groups “Strongly Gender Nonconforming”
+or “Somewhat Gender Nonconforming” tend to be less out at home, meaning that
+depending on survey administration processes, it is reasonable to expect a survey
+to miss sexual and gender minorities in its count. Alongside observing varying
+levels of outness, we find that it is highly unlikely for gender-nonconforming
+respondents to report that they did not face discrimination due to perceived visual
+conformity, and while the same is true for cisgender gay respondents, there is a
+measurable difference in how many report visual conformity as a reason for not
+experiencing discrimination.
+Limitations
+As noted earlier, the generalizability and applicability of this sample are limited
+due to its bias in the sampling procedure. Because the survey outreach strategy
+was conducted from HIV service provider offices, which have a primarily male-
+assigned-at-birth clientele, a very small proportion of our sample is female-
+                      Published by Duke University Press
+
+                                            TSQ
+               KNIGHT, FLORES, and NEZHAD    * Surveying Nepal’s Third Gender    117
+assigned-at-birth respondents. Therefore, our analysis is limited to people who
+were assigned male or intersex at birth. For the purposes of this article, we have
+decided not to analyze data about female-assigned respondents because that
+sample was small, and combining it with the male-assigned sample could
+potentially lead to conclusions that would be inconsistent if we analyzed them
+separately.
+         We chose to limit the focus of this article to the methodology of collecting
+data on sexual and gender minority identities in Nepal and the correlation of
+these demographic factors to identity disclosure and experiences of discrimina-
+tion. Although the discrimination question explicitly asks about discrimination
+related to sexual or gender minority status, the authors recognize that socioeco-
+nomic or other factors may affect the likelihood that a person experiences dis-
+crimination, and these factors would be important to include in a broader
+analysis of these data.
+Recommendations
+This study demonstrates the importance of community engagement (Tindana
+et al. 2007) and the early and frequent involvement of representatives from, in this
+case, sexual and gender minority communities to create an inclusive and nuanced
+survey instrument. Community consultations, particularly those that discussed
+translation and terminology, provided crucial feedback—ranging from discus-
+sions of sexual and gender identity language to decisions on how to phrase and
+order other elements in the survey. Repeated engagement with Nepali partners
+during the translation and revision process led to increased mutual ownership of
+the survey instrument design process and accuracy and applicability of the lan-
+guage used. Every small adjustment carried significant meaning for those
+involved in the process. For example, after two rounds of translation, it was
+requested that Nepali sexual orientation and gender identity terms be put at the
+top of the list in question 16 (appendix 1), because listing English terms such as
+“Gay and Lesbian” higher sent a message that those terms should be prioritized.
+         The design, implementation, and analysis process of this project suggests
+that future national surveys in Nepal, such as the 2021 Population and Housing
+Census, can be inclusive of SGM beyond adding a third column in the gender
+section—regardless of what it is called. In order to take into account the variety of
+ways in which Nepali people experience and express sexuality and gender, officials
+involved in designing survey instruments should consult with representa-
+tives from sexual and gender minority groups. Definitions provided for survey
+implementation staff should acknowledge the diversity among sexual and gender
+minority populations. Training programs should contextualize the reasons for
+                            Published by Duke University Press
+
+                                          TSQ
+118       TSQ  * Transgender Studies Quarterly
+asking the questions, normalize the process of asking, involve briefings on ter-
+minology, and explain special considerations for identity disclosure, such as
+privacy while interviewing (SMART 2009).
+         The findings of the LCA reinforce the observation that many SGM tend to
+not identify with a single identity term. Instead, of the seven distinct groups that
+emerged, five identified with gender-nonconforming identities and two identified
+with gender-conforming “Gay” and “Ta” identities. The “Evenly Affiliated” group
+indicates that it is possible to display the same level of association with multiple
+identities. Although this group was a small part of our sample, it provides an
+important reminder that SGM may not fit into, or remain in, discrete identity
+categories.
+         The distinctions among experiences of identity-based subgroups are
+important considerations for service providers and government offices engaged in
+programming with SGM populations. For example, interventions that focus on
+same-sex behavior (e.g., HIV prevention) need to consider ways to reach people
+using messaging that does not necessarily invoke tesro lingi or other SGM ter-
+minology in order to reach people who are not open about their identity or do not
+identify with any specific term. Experiences of discrimination in public places and
+bias against gender-nonconforming people should be similarly considered when
+designing programs and advocacy strategies. Refined data collection methods will
+enable civil society groups and policy makers to adequately serve and track the
+progress of SGM across various social-welfare contexts.
+Kyle G. Knight was a 2012–14 visiting international fellow at the Williams Institute, UCLA
+School of Law. He lived and worked in Nepal for more than three years.
+Andrew R. Flores, PhD, is public opinion and policy fellow at the Williams Institute, UCLA
+School of Law.
+Sheila J. Nezhad is a Public Policy Fellow at the Williams Institute, UCLA School of Law. She
+holds a master’s of development practice degree from the University of Minnesota.
+Acknowledgment
+This research was supported in part by the United Nations Development Programme under the
+Multi-Country South Asia Global Fund Programme (MSA-910-G02-H) and by the Norwegian
+Embassy in Nepal. We are very thankful to Jody L. Herman, Brad Sears, the anonymous reviewers,
+and the editors for their comments and recommendations on previous versions of this article. Any
+remaining errors are our own.
+                          Published by Duke University Press
+
+                                                  TSQ
+               KNIGHT, FLORES, and NEZHAD          * Surveying Nepal’s Third Gender              119
+Notes
+1.    “Third gender” is sometimes used to refer to gender-nonconforming people and
+      sometimes as an umbrella term to refer to the many sexual and gender minority identities
+      in Nepal, either specifically or symbolically (Pant v. Nepal, Writ No. 917 of the Year 2064
+      BS [AD 2007], translated in NJA Law Journal 2008 at 262). That is, in some instances
+      “third gender” (tesro lingi in Nepali) is translated to mean “transgender” specifically; in
+      other instances, it includes a range of sexual and gender minorities (there is only one
+      word for sex/gender in Nepali, lingi).
+2.    The full questionnaire and question sources are available from Andrew R. Flores upon
+      request.
+3.    It should be noted that question 16.1 allowed respondents to list any term they preferred,
+      whether it was listed in question 16 or not.
+4.    Forty-seven cases were dropped because they were incomplete. The data have been
+      translated by BDS team leaders and entered into SurveyMonkey software in Nepal.
+      Researchers at the Williams Institute have downloaded the data for analysis. Data
+      cleaning and summary statistics are conducted using STATA 13.0 (College Station, TX).
+      Multivariate analyses are performed in Mplus (Muthén and Muthén 1998–2014), and the
+      R package poLCA is used to confirm the multivariate analyses (Linzer and Lewis 2011).
+5.    We use the terms perceived nonconformity and perceived conformity as language to
+      describe whether respondents believe instances of discrimination are due to the per-
+      ception of others as viewing the respondent as a gender and/or sexual minority. We
+      borrow and slightly modify these terms from Jaime M. Grant, Lisa A. Mottet, and Justin
+      Tanis (2011), who use visual nonconformity as a term to describe “whether respondents
+      believed their gender presentation matched their gender identity” (27).
+6.    We focus solely on respondents who had male sex assigned at birth. The size of our
+      female-sex-assigned-at-birth sample would make it unreasonable to include them in this
+      analysis, as this would lead to conceptual stretching in this case. We will discuss and
+      provide results for that subset of the sample in our subsequent studies.
+7.    The model-driven approach selects the number of classes that minimizes the Bayesian
+      Information Criterion (BIC) to its lowest level. The BIC is an estimate that examines how
+      well a model explains the variation present in the data while issuing a penalty for too many
+      parameters. This approach has been validated as a reliable way to determine the number of
+      classes in an LCA (Nylund, Asparouhov, and Muthén 2007). We conducted the initial LCA
+      in Mplus version 7 (Muthén and Muthén 1998–2014) and reconducted it in poLCA to
+      confirm the findings (Linzer and Lewis 2011). The BICs for the separate LCAs are: two
+      classes 13469.137, three classes 12716.438, four classes 12473.018, five classes 12379.387, six
+      classes 12307.614, seven classes 12272.76, eight classes 12339.767, and nine classes 12395.734.
+8.    Note that not all respondents attend school or have occupations, so sample sizes vary
+      across venues. The smallest sample is of respondents who are in school, which increases
+      the instability of those estimates.
+9.    To estimate these rates, the R package poLCA (Linzer and Lewis 2011) was again used to
+      estimate the bivariate relationship. The analysis applies LCA to generate reliable esti-
+      mates in highly stratified contingency tables (Linzer and Lewis 2011). For each estimate,
+      we identify the modal response that each of the seven classes would give to each of
+      the identity questions, and we then estimate the bivariate contingency table for the
+      relationship between disclosure and not facing discrimination due to perceived visual
+      conformity. Contact Andrew R. Flores for full results.
+                              Published by Duke University Press
+
+                                             TSQ
+120        TSQ  * Transgender Studies Quarterly
+References
+Adhikari, Gyanu. 2013. “Family Matters.” Kathmandu Post, February 25. www.ekantipur.com/the
+         -kathmandu-post/2013/02/25/related_articles/family-matters/245712.html.
+Al Jazeera. 2013. “Citizenship Cards for Nepal’s ‘Third Gender.’” February 5. www.aljazeera
+         .com/video/asia/2013/02/20132518501198693.html.
+Baudh, Sumit. 2008. “Human Rights Interrupted: An Illustration from India.” In Development
+         with a Body: Sexuality, Human Rights, and Development, edited by Andrea Cornwall,
+         Sonia Corrêa, and Susie Jolly, 93–107. New York: Zed.
+Bochenek, Michael, and Kyle Knight. 2012. “Establishing a Third Gender Category in Nepal:
+         Process and Prognosis.” Emory International Law Review 26, no. 1: 11–41.
+Boyce, Paul, and Sunil Pant. 2001. “Rapid Ethnography of Male to Male Sexuality and Sexual
+         Health—Kathmandu, Nepal.” Family Health International. www.hivpolicy.org/Library
+         /HPP000564.pdf.
+Cohen, Lawrence. 2005. “The Kothi Wars: AIDS Cosmopolitanism and the Morality of Classifi-
+         cation.” In Sex in Development: Science, Sexuality, and Morality in Global Perspective,
+         edited by Vincanne Adams and Stacy Leigh Pigg, 269–303. Durham, NC: Duke University
+         Press.
+“Decision of the [Nepal] Supreme Court on the Rights of Lesbian, Gay, Bisexual, Transsexual, and
+         Intersex (LGBTI) People [Pant v. Nepal].” 2008. NJA Law Journal 2, no. 1: 261–86. www
+         .gaylawnet.com/laws/cases/PantvNepal.pdf.
+Forum for Women, Law, and Development. 2011. “Shadow Report on the Fourth and Fifth
+         Periodic Report by the Government of Nepal on CEDAW.” www2.ohchr.org/english
+         /bodies/cedaw/docs/ngos/FWLD_NepalCEDAW49.pdf.
+Grant, Jaime M., Lisa A. Mottet, and Justin Tanis. 2011. “Injustice at Every Turn: A Report of the
+         National Transgender Discrimination Survey.” National Center for Transgender Equality
+         and National Gay and Lesbian Taskforce. www.thetaskforce.org/downloads/reports
+         /reports/ntds_full.pdf.
+Herdt, Gilbert. 1996. Third Sex, Third Gender: Beyond Sexual Dimorphism in Culture and History.
+         New York: Zone.
+Knight, Kyle. 2011. “What We Can Learn from Nepal’s Inclusion of ‘Third Gender’ on Its Census.”
+         New Republic, July 18. www.newrepublic.com/article/world/92076/nepal-census-third
+         -gender-lgbt-sunil-pant.
+———. 2012. “Dividing by Three: Nepal Recognizes a Third Gender.” World Policy Institute,
+         World Policy (blog), February 1. www.worldpolicy.org/blog/2012/02/01/dividing-three
+         -nepal-recognizes-third-gender.
+———. 2014. “The Spark: How Sunil Pant Ignited a Queer Rights Movement in Nepal.” Caravan,
+         March 1. www.caravanmagazine.in/reportage/spark.
+Lau, Holning. 2013. “Law, Sexuality, and Transnational Perspectives.” Drexel Law Review 5, no. 2:
+         479–95. drexel.edu/*/media/Files/law/law%20review/Spring-2013/Lau.ashx.
+Linzer, Drew A., and Jeffrey B. Lewis. 2011. “poLCA: An R Package for Polytomous Variable Latent
+         Class Analysis.” Journal of Statistical Software 42, no. 10: 1–29.
+Muthén, Linda K., and Bengt O. Muthén. 1998–2014. Mplus User’s Guide. 7th ed. Los Angeles:
+         Muthén and Muthén.
+Nylund, Karen L., Tihomir Asparouhov, and Bengt O. Muthén. 2007. “Deciding on the Number
+         of Classes in Latent Class Analysis and Growth Mixture Modeling: A Monte Carlo
+         Simulation Study.” Structural Equation Modeling 14, no. 4: 37–41.
+                         Published by Duke University Press
+
+                                                      TSQ
+                   KNIGHT, FLORES, and NEZHAD          * Surveying Nepal’s Third Gender        121
+Rankin, Katharine. 2010. “Cultures of Economies: Gender and Socio-spatial Change in Nepal.”
+          Gender, Place, and Culture 10, no. 2: 111–29.
+Reddy, Gayatri. 2005. With Respect to Sex. Chicago: University of Chicago Press.
+Shrestha, Manesh. 2011. “Nepal Census Recognizes ‘Third Gender.’” CNN, May 31. edition.cnn
+          .com/2011/WORLD/asiapcf/05/31/nepal.census.gender.
+SMART (Sexual Minority Assessment Research Team). 2009. “Best Practices for Asking Questions
+          about Sexual Orientation on Surveys.” Williams Institute. williamsinstitute.law.ucla.edu
+          /research/census-lgbt-demographics-studies/best-practices-for-asking-questions-about
+          -sexual-orientation-on-surveys.
+Tamang, Seira. 2003. “Patriarchy and the Production of Homo-erotic Behavior in Nepal.” Studies
+          in Nepali History and Society 8, no. 2: 225–58. martinchautari.org.np/files/2_%20Seira
+          %20Tamang.pdf.
+Thapa, Deepak. 2001. “Ties That Bind.” Kathmandu Post, July 21. www.ekantipur.com/2011/07/21
+          /related-article/ties-that-bind/337746.html.
+Tindana, Paulina O., et al. 2007. “Grand Challenges in Global Health: Community Engagement in
+          Research in Developing Countries.” PLoS Medicine 4, no. 9: e273.
+Valentine, David. 2007. Imagining Transgender: An Ethnography of a Category. Durham, NC: Duke
+          University Press.
+Appendix 1. Question 16 from the Nepal Sexual and Gender Minorities Survey, asking respondents
+how they identify (English and Nepali)
+16   There are many terms               Meti
+     people use to identify             not at all somewhat strongly
+     their sexual orientation           Ta
+     and gender identity.               not at all somewhat strongly
+     Now I am going to read             Kothi
+     some terms to you and              not at all somewhat strongly
+     I’d like to know to which
+                                        Panthi
+     degree do the following
+                                        not at all somewhat strongly
+     terms apply to you?
+                                        Hijara
+     For each term you must
+                                        not at all somewhat strongly
+     answer “not at all”
+     “somewhat”or “strongly”            Fulumulu
+     (circle answers)                   not at all somewhat strongly
+                                        Transgender
+                                        not at all somewhat strongly
+                                        Gay or lesbian
+                                        not at all somewhat strongly
+                                        Heterosexual or straight
+                                        not at all somewhat strongly
+                                        Bisexual
+                                        not at all somewhat strongly
+                                  Published by Duke University Press
+
+                                             TSQ
+122        TSQ  * Transgender Studies Quarterly
+Appendix 2. Question 17 from the Nepal Sexual and Gender Minorities Survey, asking respondent
+about their sexual attraction (English and Nepali)
+17   People are different in their sexual              Metis
+     attraction to other people. Which best            Kothis
+     describes your feelings? Are you attracted        Panthis
+     to? (multiple answers possible)                   Hijaras
+                                                       Males
+                                                       Females
+                                                       Transgender men
+                                                       Transgender women
+                                                       Other
+Appendix 3. Question 18 from the Nepal Sexual and Gender Minorities Survey, asking respondents
+about their sexual behavior (English and Nepali)
+18    In the past 12 months, who have you had         Metis
+      sex with? (multiple answers possible)           Kothis
+                                                      Panthis
+                                                      Hijaras
+                                                      Males
+                                                      Females
+                                                      Transgender men
+                                                      Transgender women
+                                                      Other
+                                                      I have not had sex
+                           Published by Duke University Press
+

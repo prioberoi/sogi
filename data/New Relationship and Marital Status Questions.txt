@@ -1,0 +1,873 @@
+                                     RESEARCH REPORT SERIES
+                                     (Survey Methodology #2012-02)
+                          New Relationship and Marital Status Questions:
+                          A Reflection of Changes to the Social and Legal
+                            Recognition of Same‐Sex Couples in the U.S.
+                                            Theresa J. DeMaio
+                                                Nancy Bates
+                                     Center for Survey Measurement
+                                 Research and Methodology Directorate
+                                            U.S. Census Bureau
+                                         Washington, D.C. 20233
+Report Issued: January 26, 2012
+Disclaimer: This report is released to inform interested parties of research and to encourage discussion.
+The views expressed are those of the authors and not necessarily those of the U.S. Census Bureau.
+
+
+ New Relationship and Marital Status Questions: A Reflection of Changes to the Social and
+                       Legal Recognition of Same‐Sex Couples in the U.S.
+Abstract:
+In August 2009, the Secretary of Commerce directed the Office of Management and Budget to
+establish a task force to research issues related to the collection and tabulation of marriage and
+relationship data. One focus of the research was family relationships, particularly with respect to
+same-sex couples who report being married. This paper reports on the second phase of
+qualitative research conducted by the Census Bureau under the auspices of the OMB working
+group.
+The first phase involved focus groups conducted primarily with persons in cohabiting same-sex
+relationships. The groups explored the meaning and interpretation of the current decennial
+Census and American Community Survey relationship and marital status items (see Bates,
+DeMaio, Robins and Hicks, 2010). Major conclusions were: (1) both items were perceived to be
+asking about a legal status (2) few same-sex couples that were not legally married chose
+“husband/wife” or “now married” (3) most legally married same-sex couples reported
+“husband/wife” and “now married” (regardless of place of residence), (4) the marital status
+categories were viewed as inadequate by unmarried same-sex couples, and (5) relationship
+categories should be re-ordered according to functional equivalence.
+As a result of the focus groups and expert panel review, two alternatives were developed for both
+relationship and marital status. This paper will report testing of these alternatives via one-on-one
+cognitive interviews conducted with persons from both same and different-sex households. To
+gauge level of sensitivity and potential backlash to the alternatives, some of the interviews will
+be conducted among heterosexual married persons residing in traditionally conservative states.
+We will conclude the paper with recommended wording to be further tested in larger scale
+quantitative content tests.
+
+
+      New Relationship and Marital Status Questions: A Reflection of Changes to the Social and Legal 
+                                Recognition of Same‐Sex Couples in the U.S. 
+                          Theresa J. DeMaio and Nancy Bates, U.S. Census Bureau 
+                                                May 2, 2011 
+     1. Introduction 
+The measurement of family relationships, living arrangements, and marital status has a long history at 
+the Census Bureau. Over time, the census categories have changed to reflect changes in U.S. society and 
+laws that define the institution of marriage and other legal and non‐legal relationship statuses.  In fact, 
+how the Census Bureau measures marital relationships has evolved for more than a century. In 1880, 
+there were only three categories: single, married and widowed/divorced. By 1890, widowed and 
+divorced were separated into their own categories and in 1950, the category of separated was added. 
+For the relationship item, instructions for enumerating roommates, boarders and lodgers go back to the 
+19th century. In 1980, a combined partner/roommate category was added and in 1990 the category 
+unmarried partner was included for the first time. 
+More recently, challenges in accurately measuring relationships and marital status have involved the 
+growing recognition of same‐sex couples. Unlike other countries such as Britain and Canada, U.S. laws 
+recognizing same‐sex couples vary on a state‐by‐state basis with no legal recognition in some states to 
+full marriage equality in others. To further complicate the issue, there is currently no legal same‐sex 
+partner recognition of any type at the federal level. Currently, same‐sex marriages are allowed in five 
+states and the District of Columbia and are recognized (but not performed) in two others.  Five other 
+states do not legally recognize same‐sex marriage but have broad relationship laws that recognize same‐
+sex civil unions or domestic partnerships. A handful of other states have much more limited relationship 
+recognition laws such as designated and reciprocal beneficiaries. Further adding to the confusion are 
+instances where legal recognitions granted by the state have been reversed by ballot initiatives (such as 
+                                                      1 
+ 
+
+Proposition 8 in California). Finally, the Department of Justice recently announced that it will no longer 
+defend the Defense of Marriage Act (DOMA), the federal law that bans recognition of same‐sex 
+marriage (Markon and Somashekhar, 2011).
+Given the fragmented and constantly‐evolving lawsuits and legal decisions,  the challenge to adapt the 
+existing relationship and marital status items to more accurately reflect today’s relationship 
+configurations is increasingly difficult and complex. However, given that approximately 36 percent of the 
+U.S. population resides in an area where some form of same‐sex couple legal recognition exists and that 
+the latest estimate of the U.S. lesbian, gay, bi‐sexual and transgender (LGBT) population is 
+approximately 9 million, the federal statistical system cannot ignore the issue (Gates, 2010; Gates, 
+2011).  
+To help this effort, in 2010, the OMB chartered the Interagency Working Group on Measuring 
+Relationships in Federal Household Surveys. Focusing on statistical surveys that are widely used, the 
+workgroup is charged with identifying new approaches, concepts and methodologies to define and 
+measure marriage and other relationships, particularly with respect to same‐sex couples who report 
+they are married. This paper represents the second in a series of qualitative work products conducted 
+under the auspices of that group (and summarizes findings from cognitive interviews).  
+ Measurement issues around counting same‐sex couples  
+In 2009, estimates from the ACS indicate there were 581,300 same‐sex couple households in the U.S. 
+(National Center for Family and Marriage Research, 2010). Of these, 26 percent reported their 
+relationship as “husband/wife” and the other 74 percent as “unmarried partner.” However, according to 
+the Williams Institute, the number of same‐sex couples in the 2008 ACS reporting as “husband/wife” is 
+far higher than the actual number of same‐sex couples that are legally married within the U.S. (Gates, 
+2009).  Several theories are offered to explain this apparent overreporting. For one, as same‐sex unions 
+                                                      2 
+ 
+
+have become more accepted and mainstream in the last few decades, it is posited that some couples 
+have adopted the terms “husband/wife” to describe their relationship even without the legal 
+recognition of marriage. After all, many are sharing a home and resources and even raising children, just 
+like heterosexual married couples (Carrington, 1999). Likewise, where marriage is not an option, same‐
+sex couples may engage in non‐government sanctioned ceremonies to recognize their relationship (such 
+as a commitment ceremony or religious blessing) or enter into more legal unions such as a legal 
+domestic partnership or civil union (Hull, 2006). Both may influence how couples define their living 
+situations and how they refer to one another in social situations and on official forms.   
+Lastly, the discrepancy in numbers could simply reflect self‐reporting errors in the data collection 
+process.  Primacy effect1 may have played a part on 2010 Census form ‐ the unmarried partner category 
+was next to last in a long list of 14 relationship categories, so some respondents may simply select 
+“husband or wife” since it is first in the list. Alternatively, a very small fraction of married heterosexual 
+couples marking “husband or wife” may also misreport gender, thereby causing an abundance of false 
+positive same‐sex married couples. Several studies have attempted to estimate the magnitude of the 
+latter reporting error and, although there is no consensus on the precise number, all conclude the 
+number of same‐sex spousal couples is inflated due these mismarks (O’Connell and Gooding, 2006; 
+Black, Gates, Sanders, and Taylor, 2007; Gates and Steinberger, 2009).  
+       2. Research Background 
+To date, there are few studies seeking to understand how same‐sex couples currently report their 
+relationship status on surveys and official forms. In a cross‐country European study, Mills and Poortman 
+(2010) report irregularities in partnership status reporting among gay and lesbian respondents. They 
+found that 67 percent of gay and lesbian respondents reported being married even though that option 
+                                                            
+1
+   A primacy effect is the effect of selecting categories that appear earlier in a long list of choices. This effect occurs 
+more often in self‐administered surveys. 
+                                                             3 
+ 
+
+was not legally possible in their country.2  Likewise O’Connell and Lofquist (2009) reported that of the 
+same‐sex couples identified in the 2000 Census, 43 percent reported as spouse (prior to an edit that 
+reclassified them as unmarried partners).  A more recent study conducted a few months after the 2010 
+Census by Gates (2010) attempted to understand how same‐sex couples reported in the 2010 Census. 
+Using an internet panel with pre‐identified same‐sex couple households, Gates presented respondents 
+with a facsimile of the 2010 Census relationship question, then asked which category they had selected. 
+He found that over 90 percent of same‐sex couples either were legally married, lived in a state that 
+recognized the marriage, and reported choosing “husband/wife” or lived in state that did not recognize 
+same‐sex marriage and reported choosing “unmarried partner.” Additionally, he reported that 84 
+percent of those in civil unions or registered domestic partnerships used “unmarried partner” to 
+describe their relationship, while 97 percent without any legal relationship status reported selecting this 
+category. 
+Far fewer studies have systematically examined different approaches to collecting data on same‐sex 
+couples (and the change in estimates that result from these differences).  A review of demographic 
+surveys conducted by the Census Bureau revealed a surprising variety of categories and questions for 
+both relationship and marital status.  Some surveys do not contain a relationship category to easily 
+classify unmarried same‐ (or opposite‐) sex couples (e.g., the National Crime Victimization Survey ‐ 
+NCVS, the Fishing Hunting and Wildlife‐Associated Recreation Survey – FHWAR, and the American 
+Housing Survey ‐ AHS), while others do present an unmarried partner option (the 2010 Decennial 
+Census, the Current Population Survey ‐ CPS, the National Health Interview Survey ‐ NHIS, and the 
+Consumer Expenditure Survey ‐ CE).  Still others have introduced new/expanded categories with less 
+traditional offerings, for example: 
+                                                            
+2
+   Mortensen and Orten (2009) report that the category “married” tends to be overreported in Eurostat statistics, 
+but do not disaggregate between same‐sex and opposite‐sex relationships. 
+                                                             4 
+ 
+
+    ‐    Telephone Point of Purchase Survey (TPOPS):  “Spouse (wife or common‐law wife, husband or 
+         common‐law husband)”  
+    ‐    CPS,  NHIS, American Time Use Survey (ATUS), CE: “Spouse (husband/wife)”  
+    ‐    Beginning Teacher Longitudinal Study (BTLS): “living with a partner in a marriage‐like 
+         relationship” 
+    ‐    National Survey of College Graduates (NSCG): “living in a marriage‐like relationship” 
+    ‐    FHWAR: “Married/Living in a marriage like relationship” 
+Recently, the National Center for Family and Marriage Research published a crosswalk of items used to 
+collect relationship status among same‐sex cohabiting couples from other surveys 
+(http://ncfmr.bgsu.edu/page92231.html). To classify same‐sex married couples, most use the categories 
+“spouse” or “husband/wife.” To classify same‐sex cohabiting couples, the National Survey of Family 
+Growth uses “Female partner” and “Male partner” while the National Longitudinal Study of Adolescent 
+Health Survey (AHS) uses “Partner;” “Partner, boyfriend;” “Partner, girlfriend;” and 
+“Partner/boyfriend/girlfriend.” Several other surveys (the AHS and National Longitudinal Survey of 
+Youth [NLSY]) include references to living in “a marriage‐like relationship,” which is defined in the NLSY 
+as “a sexual relationship in which partners establish one household and live together.”  Finally, 
+international examples include the Canadian census form which uses “opposite‐sex husband or wife” 
+“opposite‐sex common‐law partner,” “same‐sex married spouse,” and “same‐sex common‐law partner,” 
+while the U.K. census form includes “same‐sex civil partner” and “partner” categories to enumerate gay 
+couples. 
+Under the auspices of the OMB interagency work group, the Census Bureau sponsored a series of 18 
+focus groups across the country in 2010. The groups explored the meaning and interpretation of the 
+current decennial Census and ACS relationship and marital status items and sought to uncover 
+                                                     5 
+ 
+
+alternative ways to ask the question in hopes of reducing measurement and classification error. Major 
+conclusions from the groups (reported in Bates, et al., 2010) were: (1) both items are perceived to be 
+asking about a  legal status; (2) few same‐sex couples that were not legally married chose 
+“husband/wife” or “now married;” (3) most legally married same‐sex couples reported  “husband/wife”  
+and “now married” (regardless of  place of residence);  (4) the current marital status categories were 
+viewed as inadequate by unmarried same‐sex couples; and (5) relationship categories should be re‐
+ordered according to functional equivalence.  Based on this research and input from an expert advisory 
+panel, we developed the two alternative versions to the relationship and marital status as well a 
+separate cohabitation question (to include a relationship measure for couples without any legal 
+recognition). See Appendix A for exact wordings.  
+       3. Methodology  
+Two different versions of the relationship and marital status question series were tested in the cognitive 
+interviews.  The two versions were crossed, resulting in four different versions of the questionnaire.3  
+The target questions were tested in the context of an abbreviated ACS mailout questionnaire.4   
+A total of 40 cognitive interviews were conducted, four with each questionnaire version, using 
+retrospective probing methods.  The respondent first completed the test questionnaire and was 
+observed by the researcher.  Afterwards, the researcher asked a series of probing questions to 
+determine why the respondent answered the relationship and marital status questions the way he/she 
+did, whether the respondent felt that the questions adequately captured his/her situation, and how the 
+respondent interpreted specific response categories of interest.  In addition, the researcher asked 
+questions about the respondent’s specific marital situation (such as type and date of marriage ceremony 
+                                                            
+3
+   Version 1 contained Relationship A and Marital Status A; version 2 contained Relationship A and Marital Status B; 
+version 3 contained Relationship B and Marital Status A; version 4 contained Relationship B and Marital Status B.  
+4
+   The questionnaire included  name, relationship, sex, age and date of birth, place of birth, citizenship, year of 
+entry to the U.S., education, language spoken at home, marital status, marital history, and fertility questions. 
+                                                             6 
+ 
+
+or domestic partnership registration) to better understand how the respondent interpreted the 
+questions and whether they were answered accurately.   Then the researcher gave the respondent 
+another questionnaire, which contained the other version of both the relationship and marital status 
+questions, and asked the respondent to complete those questions.  This was followed by a discussion of 
+responses to these questions, terms in the questions, and a reaction as to preferences for the different 
+versions.  Finally, the researcher asked whether the respondent thought any of the questions would be 
+sensitive to other people.  
+The questions were tested with respondents from a mixture of sexual orientations, marital statuses, and 
+geographic areas.  We wanted to administer the questionnaire to a wide variety of types of people to 
+maximize what we would learn in terms of reactions to the questions.   We recruited the following types 
+of respondents:   
+        Respondents in a same‐sex cohabitating relationship that had no legal status; 
+        Respondents in a same‐sex or opposite‐sex registered domestic partnership or civil union; 
+        Respondents who were part of an opposite‐sex married couple; 
+        Respondents who were part of a same‐sex married couple living in a place where same‐sex 
+         marriage is recognized; and 
+        Respondents who were part of a same‐sex married couple living in a place where same‐sex 
+         marriage is not recognized. 
+To meet these recruiting criteria it was necessary to have some geographic diversity because same‐sex 
+marriage and registered domestic partnerships are not available in all states.  Furthermore, we wanted 
+                                                     7 
+ 
+
+to include respondents with a broad spectrum of reactions to the changes we made to the questions, to 
+determine whether backlash would affect response.   
+We selected Ohio, North Carolina, Nevada, and the Washington, DC metropolitan area as interview 
+locations.  Nevada was chosen because registered domestic partnerships are recognized for both same‐
+sex and opposite‐sex couples.  North Carolina was chosen as a southern state where individuals could  
+potentially have conservative views, as same‐sex marriage and legal relationships are not recognized.  
+Ohio was chosen because it is a Midwestern state in which same‐sex marriage is not recognized and 
+DOMA is written into the state constitution.  The Washington, DC metropolitan area was selected 
+because it is convenient to the Census Bureau and offers a mix of place types: since same‐sex marriage 
+is legal in the District of Columbia, recognized but not legal in Maryland, and neither legal nor 
+recognized in Virginia.  
+Recruiting for the Ohio, North Carolina, and Nevada interviews was contracted to Community 
+Marketing, Inc., a California‐based marketing group that has developed and maintains a database of 
+LGBT consumers.  They were able to recruit opposite‐sex respondents in the required categories as well.  
+Based on their database and the desire to avoid interviewing in college towns, Cleveland, Ohio; 
+Charlotte, North Carolina; and Las Vegas, Nevada were selected as interviewing sites.  The contractor 
+arranged for focus group facilities to be used as the interviewing sites in Cleveland and Charlotte.  In Las 
+Vegas, interviews were conducted in conference rooms in a local hotel. 
+Recruiting for the Washington, DC area interviews was handled by Census Bureau staff.  These 
+interviews were conducted either in the Census Bureau’s cognitive laboratory or in locations convenient 
+to respondents.   
+Interviewing for all the sites was done by staff from the Census Bureau.   Respondents were paid $40 by 
+the researchers for their participation.  All the sessions were tape‐recorded and the tapes were used to 
+                                                       8 
+ 
+
+write summaries of the interviews.  Data analysis was conducted by carefully reviewing the summaries 
+to discern patterns in responses to the survey questions, respondents’ spontaneous comments, and 
+probes about their reasons for answering and reactions to the terminology.  
+The table below documents the demographic characteristics of the respondents who participated in the 
+interviews.  They were evenly split by gender and fairly evenly split by sexual orientation (with slightly 
+more gay than straight respondents).  The ages of the respondents ranged from 21‐70, with the majority 
+being under 40 years old.  The majority of the participants had either some college or a 4‐year college 
+degree, but the education level ranged from those who did not complete high school to those with a 
+Master’s degree. 
+Table 1.  Demographic Characteristics of Respondents               
+                     Gender                      
+                        Male                     21 
+                        Female                  19 
+                                                 
+                     Sexual Orientation          
+                        Gay                     25 
+                        Straight                15 
+                                                 
+                     Age                         
+                        20‐30                   10 
+                        31‐40                   12 
+                        41‐50                     8 
+                        51‐60                     7 
+                        61‐70                     3 
+                                                 
+                     Race                        
+                        White                   28 
+                        Black                     7 
+                        Hispanic                  3 
+                        Asian                     1 
+                        Mixed                     1 
+                                                 
+                     Education                   
+                        < high school graduate    2 
+                                                     9 
+ 
+
+                        High school graduate       5 
+                        Some college             11 
+                        College graduate         14 
+                         Advanced degree           8 
+                                                  
+                     Residence of                 
+                     Respondent 
+                        OH                         9 
+                        NC                         9 
+                        NV                       12 
+                        DC                         7 
+                        MD                         2 
+                        VA                         1 
+      
+     4. Findings:  New Relationship Questions 
+Revisions to the relationship items included adding “spouse” to the “husband/wife” category, moving up 
+the “unmarried partner” category to second in the list and adding the delineation of “same‐sex” and 
+“opposite‐sex” qualifiers before the “husband/wife/spouse” and “unmarried partner” categories on one  
+version.  
+The cognitive interviews confirmed much of what was heard in the earlier focus groups. For example, 
+when asked to express the category meanings in their own words, most respondents associated any 
+category containing the words “husband/wife/spouse” to mean legally married.  Adding the term 
+“spouse” did not elicit much discussion. At least one married gay respondent indicated preference for 
+this term over “husband” and another gay respondent suggested spouse had less of a legal connotation 
+compared to husband or wife; otherwise the change appeared to have little impact on how respondents 
+answered.  The term “partner” was associated most often as referring to homosexual couples – again 
+                                                      10 
+ 
+
+confirming a theme that surfaced in the focus groups. In fact, one straight respondent indicated he 
+would be comfortable having a choice to mark “opposite‐sex unmarried partner” but not “unmarried 
+partner” because partner is usually assumed to mean gay/lesbian and he wouldn’t want his answer to 
+be construed as a homosexual relationship.  Another straight respondent put it this way: 
+         “He’s my boyfriend. I don’t know what partner consists of so that’s why I don’t ever use that 
+        word…this (partner) just does not seem to be the word I would use.”  
+That said, all three of the straight respondents who were living with someone without legal recognition 
+selected “unmarried partner” for relationship.  
+When it came to answering the relationship question, regardless of version tested, the majority of 
+respondents chose their intimate partner relationship answer according to the legal status of the 
+relationship (see Table 2). This meant that persons who were legally married chose 
+“husband/wife/spouse,” “opposite‐sex husband/wife/spouse” or “same‐sex husband/wife/spouse” and 
+that persons not legally married (whether in a registered domestic partnership/civil union or without 
+any legal recognition) tended to select “unmarried partner,” “opposite‐sex unmarried partner” or 
+“same‐sex unmarried partner.”   Of the 40 interviews conducted, five respondents reported a 
+relationship that did not align with their legal relationship status. Upon closer examination we 
+discovered that all five were respondents from gay couples – three had no legal status and two were in a 
+registered domestic partnership/civil union. All five reported as “same‐sex husband/wife/spouse.”  
+In three cases, this selection was the result of the respondent not reading far enough down the list ‐‐  at 
+the second category, respondents saw “same‐sex” in the “same‐sex husband/wife/spouse” category, 
+chose it, and moved to the next item.  In the debriefing, all three respondents later noticed the “same‐
+sex unmarried partner” category (4th in the list) and agreed it might fit better (although one respondent 
+said the fact she has been living with her partner for 10 years and neither spousal category contains the 
+                                                       11 
+ 
+
+word “married” factored into her original selection).  In the other two cases, the reasons varied for 
+selecting the spousal category. In one case the respondent had been together with her partner for 16 
+years, had been married in Oregon (but the marriage was annulled), and was now in a registered 
+domestic partnership. She considered her partner her “wife” and did not interpret “partner” as a term 
+to describe an intimate couple. Consequently, “same‐sex husband/wife/spouse” was the only category 
+she considered. In the other case, the respondent said the category fit closest since he had a legal 
+domestic partnership and “spouse” described his situation better than “unmarried partner.” Likewise, 
+there was at least one other gay respondent in a domestic partnership who first answered the version 
+without the “same‐sex” categories and selected “unmarried partner,” but upon the seeing the other 
+version indicated she would have selected “same‐sex husband/wife/spouse.” She explained that “by 
+presenting the same‐sex breakout you are acknowledging that it exists” ‐‐ it being same‐sex marriage. 
+This sentiment was also expressed in some of the focus groups conducted in areas where same‐sex 
+marriage was not legally recognized, that is, if a category is printed on the form, then that option is 
+available to choose (even if it’s not legally recognized where a person resides).  
+With few exceptions, respondents indicated the relationship categories adequately described their 
+current living situation ‐‐ there were no other choices they considered or were looking for.  One 
+exception was three gay respondents in registered domestic partnerships. Each indicated they were 
+looking for a “domestic partner” category because as one put it “I think the wording should be 
+consistent with what’s available in a particular state.”  Two of the respondents selected the “unmarried 
+partner” category while the third chose “same‐sex husband/wife/spouse.” For the balance of the other 
+interviews, especially those legally married (gay or straight), the options were clear cut with little 
+discussion – changes in the category wordings and ordering caused no discernable confusion or changes 
+to how they made their selections.  
+                                                      12 
+ 
+
+One of the goals of the cognitive interviews was to gauge if the new questions might be perceived as 
+sensitive or offensive. In particular, we wondered how the relationship categories broken out  by 
+opposite‐ and same‐sex would be received in more conservative parts of the county, especially among 
+heterosexuals. To assess this, we asked if there were any questions the respondent thought other 
+people might find sensitive.5  The new relationship item with differentiated categories had the greatest 
+amount of mentions; however, the reasons were twofold. The first came from both gay and straight 
+respondents who suggested the “same‐sex” / “opposite‐sex” categories might offend people who don’t 
+agree with gay unions and believe it is unnecessary to differentiate between them.  The other was 
+voiced by gays who thought the categories would cause closeted gays to answer less truthfully out of 
+fear their answers might be used to locate or single them out.  Despite these opinions, a careful reading 
+of the summaries suggested that only two respondents really took issue with these categories. Both 
+were married heterosexual females in Charlotte and both expressed personal disapproval of same‐sex 
+marriage. Specifically one said:  
+               “This [version with opposite‐sex and same‐sex labels] actually might, would offend me a little 
+               bit, because I think it’s…I feel like we’re kind of just lowering the standards…[as in] ‘Okay we’ve 
+               got to conform to everyone, we want to be politically correct’.  And that just really gets on my 
+               nerves, honestly…you know in a different part of the country, you might not be hearing this, but, 
+               that’s how I feel about it.” 
+The other said: 
+                                                            
+5
+   About midway through the interviews, we realized it would be preferable to assess sensitivity immediately after 
+respondents had completed the form and prior to the retrospective debriefing. However, this change was only 
+administered to about ¼ of the interviews – the rest followed the protocol and asked it at the end of the interview. 
+                                                              13 
+ 
+
+               “[that version] tries too hard…it’s making a point.  [that version means] “we’re gonna put it out 
+               there…that we’re including everybody (emphasis added). But I get that..it’s fine…we’re in 
+               America.” 
+However, when pressed directly, neither indicated this opinion would lead them to discard the survey or 
+otherwise not participate. Or, as one put it “I wouldn’t write my Congressman. I wouldn’t go on 
+Facebook about it…it’s not that deep.” Of course, this is a hypothetical judgment given in the context of 
+a cognitive interview, so we can only surmise their actual behavior.     
+When asked if respondents had a preference for one version over another, we found that 25 preferred 
+the break‐out version, 11 preferred the version that did not differentiate, and 3 had no preference (see 
+Table 3). Of the 11 who did not prefer the delineated categories, the gay/straight split was close with 5 
+and 6, respectively.6  Reasons against included: would single‐out/offend gays, too pushy, not necessary, 
+too wordy/too many categories. Reasons for included: more inclusive, more accurate/defined, easier for 
+gays to place themselves.  
+       5. Findings:  New Marital Status / Marital History Series  
+Revisions to the marital history question included the addition of an “in a registered domestic 
+partnership or civil union” category in one version and, in the other version, adding a separate question 
+to obtain this information while keeping the marital status question categories the same as they are 
+currently. 
+For the most part, respondents’ reports of marital status were consistent with their true legal status.  
+There were four cases in which inconsistencies occurred across both forms that were completed by the 
+                                                            
+6
+   Readers are reminded we conducted 25 interviews with gay participants and 15 with straight.  
+                                                             14 
+ 
+
+respondent (see Table 2).  All of them involved the category “in a registered domestic partnership or 
+civil union” in different ways. 
+One case was a lesbian respondent who reported “in a registered domestic partnership or civil union.” 
+She said she and her partner were going to register their partnership next week.  She did not want to 
+report “widowed” for her partner and “divorced” for herself because she did not feel that defined their 
+lives currently, even though each had previously been in heterosexual marriages.  She and her partner 
+had previously had a commitment ceremony in Provincetown, MA that she referred to as a marriage, 
+but she recognized that this was not a marriage legally sanctioned by the government.  This is a case of 
+answering based on the respondent’s self‐perception of her relationship.   
+         “Married in today’s American culture means legal marriage…As much as we all might want to 
+         say, ‘Oh yeah, I’ve been with this person 20 years, we’re married.’  Well, we’re not…When you 
+         say opposite‐sex, we all know what that means, we all know what same‐sex is because that’s a 
+         cultural term that’s all over the place.  Front page...I can’t in all conscience put married, but I 
+         certainly could put registered in a domestic partnership.  And, I don’t know what civil union is.  I 
+         think that’s a very ambiguous term.” 
+In another case, a gay respondent reported that he was “in a registered domestic partnership or civil 
+union,” although he and his partner had been legally married in Canada.  He was reluctant to mark “now 
+married” because same‐sex marriage is not legal in the U.S.  This is the only case from either the 
+cognitive interviews or the focus groups (see Bates et al., 2010) in which someone in a same‐sex 
+marriage did not report being married in response to this question, regardless of where the marriage 
+took place.  It should be noted that this respondent was an immigrant from Canada who had been 
+married to an American in Canada shortly after same‐sex marriage became legal there.  We wonder 
+whether his American husband would have answered the same way if he had been the respondent for 
+                                                       15 
+ 
+
+this interview.  This was a case of answering based on the respondent’s perception of the legal status of 
+his relationship. 
+Another related situation occurred with a male respondent in an opposite‐sex domestic partnership who 
+reported his legal marital status (never married for himself, divorced for his partner) because he said 
+that a domestic partnership is not a marital status.  He took the question wording seriously and 
+answered accordingly.   
+The final case in which the respondent’s report was inconsistent with his actual status was a gay 
+respondent who was in a civil union and reported “divorced” for himself and “never married” for his 
+partner.  This occurred because he did not see the term “civil union” in the new response category.  He 
+noticed the new category, but did not see the part of the category that applied to him. 
+The inconsistencies in reporting of the legal status of these respondents resulted in inconsistent 
+reporting across the two question versions for only one of them.  The respondent who was married in 
+Canada marked “now married” in the version with the follow‐up question.  Even though the marriage is 
+not legally recognized in this country, this category was closer to the truth than his only other option, 
+“never married.”  Thus, in one version he demoted his status to one that he thought was more legal 
+even though it wasn’t true; in the other version he answered correctly ‐‐ even though he thought he 
+shouldn’t ‐‐ because it was the closest option.  In the other three cases, the domestic partnership or civil 
+union was reported in the follow‐up question and the respondent’s actual marital status was reported in 
+the first part of the question.  When respondents who answered this question series initially were asked 
+whether they thought these questions adequately captured their status, they generally said yes; they 
+were able to report their domestic partnership in the follow‐up question, and if they were not 
+registered, they were able to report that they were partnered with someone in the household.    
+                                                      16 
+ 
+
+So the bottom line in terms of reporting is that there was a small amount of confusion or incorrect 
+reporting in the version that includes “in a registered domestic partnership or civil union” as a response 
+category in the marital status question (V1 in Appendix A).  It was not concentrated among respondents 
+in a particular subgroup, as this confusion was evidenced by same‐sex married respondents, same‐sex 
+respondents with no legal status, same‐sex respondents in civil unions, and opposite‐sex respondents in 
+domestic partnerships.   
+Respondents were asked about the term “in a registered domestic partnership or civil union.”   Only a 
+few people said they were unfamiliar with either domestic partnerships or civil unions, and these were 
+fairly evenly split between gay and straight respondents.  Three people reported not knowing what a 
+civil union was—one of these was straight and two were gay.  Three other people reported not knowing 
+what a domestic partnership was—two of these were straight and one was gay. 
+While few people were totally unfamiliar with the terms, there was a fair amount of misunderstanding 
+what the term meant.  One common misunderstanding was equating this concept to gay marriage.  “To 
+me it’s the same thing almost as what the federal government classifies as marriage, just for non male‐
+female persons;” “in California you can do a domestic partnership, which is a same‐sex marriage.”  
+These views were expressed by both gay and straight respondents. 
+Another was equating it to common‐law marriage.  “It seems like domestic partnership may be you’ve 
+been living together for awhile.  I think, legally after 5 years in North Carolina it’s considered…I can’t 
+think of the term.”  A civil union is “two people that have lived together for at least seven years.”  A civil 
+union “could be how DC views common law.”  Again, these views were expressed by both gay and 
+straight respondents. 
+Less common misinterpretations included equating domestic partnership to marriage (“two married 
+people, male or female, or male and male and female and female”) and equating it to gay relationships 
+                                                       17 
+ 
+
+(“I read that as a homosexual relationship…I know a lot of states only will accept civil unions or domestic 
+partnerships.  Or it could be people who just choose not to get married…they just live the same way, just 
+in a partnership.”)   
+The people who properly understood the term described it in different terms.  One facet of the 
+description was the process of attaining the status:  these respondents reported things like having a 
+ceremony (for civil unions); filling out forms or doing paperwork (this was denoted by the “registered” 
+term in the category).  Another facet was the effects of having the status.  Examples of this included:  
+whether to keep a person on life support in case of an accident, whether the person wants to be buried 
+or cremated; “you’re on the books, so if someone is in the hospital you have the right to see them;” 
+taxes and hospital care and other legal rights that couples acquire that total strangers could not.  Several 
+respondents mentioned tax benefits as a benefit of having domestic partnership status.  None 
+mentioned health insurance benefits at this point, although all of the opposite‐sex domestic partners 
+had previously mentioned this as the primary reason they applied for registered domestic partnership 
+status.    
+Several respondents reported that the availability of domestic partnership status varied across states.   
+Some reported that domestic partnership status applied to both same‐sex and opposite‐sex couples.  
+However, there was some difference of opinion on this topic, with a few respondents stating that 
+domestic partnership was available for same‐sex couples only.  To some extent this may be a reflection 
+of where the interviews were conducted, although at least one straight respondent in North Carolina, 
+where it is not available at all, said that it was available for both same‐ and opposite‐sex couples.  
+Respondents were asked whether they had a preference for one version of the marital status questions 
+over the other, and if so, what the preference was.  Only a few respondents did not express a 
+preference.  And the version with the embedded response category was the overwhelming favorite of 
+                                                        18 
+ 
+
+those with a preference (see Table 3).  Respondents liked the fact that the category “in a registered 
+domestic partnership or civil union” was included in the list of categories in the first question in the 
+series.  Reasons given included the following:  “if two people no matter their sexual preference are 
+registered in a civil union it needs to be clarified;” “it gives the LGBT community a place to answer;” 
+having domestic partnership  or civil union in the list was more inclusive and easier to see, not as hard to 
+miss as it would be in a separate follow‐up question’” “it’s a way to recognize the relationships of all 
+those people in our country who’ve not yet taken that jump into marriage, whether they’re the same 
+sex or opposite sex.  I consider that different than not married;” “because it’s at least acknowledging 
+domestic partnerships but I think it’s funny that it has marital status in the question because it’s not a 
+marital status.”  These sentiments were expressed by same‐sex and opposite‐sex respondents alike.  
+Recall that one of the four misreports in this question version occurred for the very reason expressed in 
+the last quote.  The respondent did not mark the correct response (“in a registered domestic 
+partnership or civil union”) because he said this was not a marital status.   
+One of the few respondents who expressed a preference for the version with a follow‐up question did 
+so in reaction to the last quote.  He said that “I don’t know that I would consider domestic partnership 
+or civil union a marital status because it’s not a marriage.”  A couple of respondents said they preferred 
+to report their domestic partnerships in a separate question, it is more direct.  A few people pointed out 
+that this question actually provides more information—it provides information about marital status and 
+domestic partnership or civil union status.  One respondent made a political statement about the 
+embedded question in making his choice:  he felt that domestic partnership and civil unions are the 
+equivalent of gay marriage, and by including this category in the embedded question, it allowed for 
+separate identification of gay and straight marriage.  He didn’t like that. 
+                                                        19 
+ 
+
+These results reflect a disjuncture between respondents’ behavior in completing the two different 
+versions of the marital status questions and their preferences.  The only problems with accuracy that 
+were observed occurred in completing the embedded question, yet this version was overwhelmingly 
+preferred by respondents.  Neither the errors nor the preferences were concentrated among one type 
+of respondent.  Both same‐ and opposite‐sex respondents were represented in each category.  This 
+reflects a surprising consistency among population subgroups and suggests that the marital status 
+question is less prone to differential political sensitivities than the relationship question. 
+In contrast to the relationship question, the marital status question was not generally viewed as being 
+sensitive.  In response to a probe that asked respondents to identify potentially sensitive questions, only 
+a few people mentioned this question, and most of these grouped relationship and marital status 
+together in answering the question.  Two respondents identified specific aspects of the marital status 
+questions as being sensitive:  one person took offense at asking about domestic partnership or civil 
+union status as a separate question rather than including it as a marital status.  The other respondent 
+thought that the cohabitation question might be sensitive “depending on your values and morals and 
+religion…some people might not want to tell the government something so intimate…when they haven’t 
+yet decided if they want to be married or not.”  
+       6.  Findings:  Cohabitation Question  
+Both versions of the marital status questions contained a question new to the ACS ,7 which allows 
+measurement of cohabitation status of all household members.8  For each person it asks, “Is this person 
+currently living with a boyfriend/girlfriend or partner in this household?”  The intent of adding this 
+question was to allow respondents without a legal status (either marriage or domestic partnership or 
+civil union) to report a relationship measure.  During the testing, we noted whether response to this 
+                                                            
+7
+   This question has been included in the Current Population Survey since 1996. 
+8
+   Currently the ACS only identifies the person who is cohabiting with the householder, or Person 1. 
+                                                             20 
+ 
+
+item was consistent with responses to the previous items and our knowledge of respondents’ actual 
+status.  In almost all cases, respondents appeared to answer the question correctly; that is, with one 
+exception, every respondent who did not have a legal status marked “yes” in response to the 
+cohabitation question.  The one exception was a gay person without legal status who (incorrectly) 
+marked “in a registered domestic partnership or civil union” in the marital status question and then 
+skipped the cohabitation question.   
+We also probed to determine how respondents interpreted the question.  An overwhelming majority of 
+respondents had a positive reaction to the question.  They understood that the question was eliciting 
+additional information verbalized as “If you’re living with someone who is more than a roommate?,” “if 
+they’re living with someone they aren’t married to,” and are they “living together but don’t have any 
+legal…there’s nothing legal to their partnership or their relationship…boyfriend, girlfriend or same‐sex 
+partner, that could refer to same‐sex partners too.  But they have not gone as far as either civil union, 
+domestic partner, or a marriage situation.”  One respondent thought the question was there to catch 
+unmarried gay people who are partnered.   
+In addition to evaluating whether the question was understood as intended, we also probed to elicit the 
+respondents’ reactions to the terms in the question.  Results of the focus groups had shown that there 
+were varying reactions to the terms “boyfriend” and “girlfriend” among the same‐sex participants.  
+These terms are included in the new question.  Respondents did not object to these terms when used in 
+conjunction with “partner” in the question.  In fact, they defined the terms in terms of two different 
+dimensions.  Some thought the terms boyfriend and girlfriend were meant to capture opposite‐sex 
+relationships while partner was used to capture same‐sex relationships.  Others thought that the term 
+“partner” could capture all relationships, both gay and straight, but they felt that a large portion of the 
+population (“middle America”) would not understand the term partner.  Still others felt that the terms 
+                                                     21 
+ 
+
+could also describe the variation in the life cycle of relationships, with newer relationships, temporary 
+relationships or more casual relationships falling into the “boyfriend/girlfriend” category and longer 
+term more committed relationships falling under the “partner” rubric.  Whichever way they viewed the 
+terms, all respondents could see the need for a range of terms.  While they may have had preferences 
+for certain terms, they could see the need for all of them. 
+ 
+     7. Summary and recommendations  
+Several themes run through the results of the cognitive interviews.  The first is that respondents 
+generally perceived both relationship and marital status as asking about legal status.  That being said,  
+however, the relationship question was perceived a bit more subjectively than marital status.  There was 
+a bit more wiggle room for this item when it came to a strict legal interpretation.   One aspect of this 
+was the option of “same‐sex husband/wife/spouse.”  Just seeing this option seemed to open the door to 
+selecting the category, even if it did not align with the respondent’s actual legal status.  This was 
+particularly true among gay couples without any legal recognition who resided in areas where there was 
+no same sex recognition of any kind.  This illustrates a pitfall of designing a one‐size‐fits‐all federal form 
+when the legal reality of same‐sex partner recognition is extremely fragmented on a state‐by‐state 
+basis. 
+Both gay and straight respondents generally felt that the term “partner” applies primarily to the same‐
+sex population.  This did not, however, deter opposite‐sex respondents who were in relationships 
+without any legal recognition from marking the “unmarried partner” or the “opposite‐sex unmarried 
+partner” category. 
+                                                       22 
+ 
+
+There was sentiment among respondents that the same‐sex options in the relationship category should 
+be listed together.  Same‐sex respondents were surprised, albeit pleasantly surprised, to see these 
+phrases included in the question.  They thought that people might mark the first same‐sex category they 
+came to in the current sequence, and since the same‐ and opposite‐sex categories were alternated, they 
+might in some cases mark “same‐sex husband/wife/spouse” when they really should mark “same‐sex 
+unmarried partner.”  The option of listing the two opposite‐sex categories before the two same‐sex 
+categories did not present a problem for anyone.  
+The changes made to the relationship question were perceived as potentially sensitive to some people.  
+This was observed particularly in the North Carolina interviews, which were chosen specifically to get a 
+reading of how the changes would play in more conservative parts of the country.  The reactions were 
+not extreme, however; respondents did not think that, for themselves at least, the new categories on 
+the form would preclude their completing the form. 
+Many respondents, both same‐ and opposite‐sex, were unfamiliar with the concepts of domestic 
+partnership and civil union.  There was geographic diversity in how well the meaning of these terms was 
+understood.  Most respondents saw this option as a “gay thing,” although some respondents knew that 
+domestic partnerships can apply to both same‐ and opposite‐sex relationships. 
+The new cohabitation question worked well as a way of identifying people who live in relationships with 
+no legal status.  The intent of the question was understood and the terminology used was acceptable to 
+all respondents. 
+These results have implications for choosing a single version of the relationship and marital status 
+questions to use in forthcoming large‐scale quantitative tests.   For the relationship question, we 
+recommend the version that delineates same‐ and opposite‐sex categories.  However, we do not 
+recommend the exact version we tested.  We think the evidence provided in the interviews shows 
+                                                    23 
+ 
+
+support for re‐ordering the first four categories so that the two opposite‐sex categories come first, and 
+then the two same‐sex categories.   
+A couple of reasons support the decision to use this version.  For one thing, respondents preferred that 
+version by a 2‐to‐1 margin. For another, delineating same‐ and opposite‐sex in the relationship 
+categories would help reduce classification errors by providing a check against mismarks in the sex 
+question.  Similar categories are used by Statistics Canada and have shown to reduce misreporting of 
+opposite‐sex couples as same‐sex couples (Lathe, personal communication). This delineation may, 
+however, also open the door for more same‐sex couples without legal status to select “same sex 
+husband/wife.”  Reordering the categories to place the two same‐sex categories together should reduce 
+the extent of this potential misreporting somewhat.  But in the end, we cannot know the impacts of this 
+delineation until we can obtain quantitative results from a controlled experiment. 
+The recommendation for the marital status question is murkier.  Although the respondents’ preferences 
+for the question including the “in a registered domestic partnership or civil union” category were 
+overwhelming, their understanding of the concept is marginal at best.  Further qualitative testing using 
+the embedded question with larger numbers of same‐sex couples without legal status and with 
+opposite‐sex unmarried couples would provide a better sense of whether reports of domestic 
+partnerships and civil unions would be inflated by respondents misreporting because they don’t 
+understand the category.   For now, it may be safer to collect this information in a separate question and 
+not tamper with the current marital status categories.   
+Finally, we recommend adding the cohabitation question as part of the marital history series.  This 
+serves two purposes.  It provides a place for respondents without legal relationships to acknowledge 
+their partnership status, which responds to some of the negative feedback we heard during the focus 
+                                                      24 
+ 
+
+groups.  In addition, it will enable demographers to identify subfamilies, which will enhance the 
+informational value of the data the Census Bureau collects. 
+                                    
+                                                    25 
+ 
+
+                       Table 2.  Legal Relationship Status of Respondents by Answers to 
+                                    Relationship and Marital Status Questions 
+     
+                                                                 MARITAL STATUS ‐ DP/CU    COHABITATION 
+                                RELATIONSHIP 
+                                                                          STATUS            QUESTION*** 
+                                                                                    Never 
+Partnership                           Unmarried                  Now 
+                   Husband/wife*                    Other                  DP/CU  Married/  YES       NO 
+Status                                partner**                 married 
+                                                                                    Other 
+  Gay married 
+                         10                0            0          9         1        0          n/a 
+       (10) 
+Straight married 
+                          9                0            0          9         0        0          n/a 
+        (9) 
+ Gay DP/CU (7)            2                5            0          0         6        1          n/a 
+ Straight DP/CU 
+                          0                2            0          0         1        1          n/a 
+        (2) 
+  Gay no legal 
+                          3                5            0          0         1        7      7        0 
+    status (8) 
+Straight no legal 
+                          0                4            0          0         0        4      4        0 
+    status (4) 
+      N=40               24                16           0         18         9        13    11        0 
+     
+    * includes: Husband/wife/spouse, Opposite‐sex husband/wife/spouse, Same‐sex husband/wife/spouse  
+    **includes: opposite‐sex unmarried partner, same‐sex unmarried partner 
+    ***There was 1 gay respondent w/o legal status who marked DP/CU & skipped the cohabitation 
+    question 
+                                     
+                                                       26 
+     
+
+      Table 3.  Respondents’ Stated Preferences to Alternative Relationship and Marital Status Items 
+                                                             PREFERENCES 
+                                    RELATIONSHIP                                     MARITAL STATUS 
+  Partnership          No sex           Delineated by         No                      DP/CU category      No 
+                                                                        Traditional
+     Status          delineation        same/opp sex     preference                        added      preference 
+ Gay married 
+                          1                   9                0             1                9            0 
+      (10) 
+    Straight 
+                          3                   5                1             3                5            1 
+  married (9) 
+Gay DP/CU (7)             0                   7                0             0                7            0 
+Straight DP/CU 
+                          0                   1                1             1                1            0 
+       (2) 
+ Gay, no legal 
+                          4                   4                0             2                5            1 
+   status (8) 
+  Straight, no 
+                          3                   0                1             0                3            1 
+legal status (4) 
+     N=40                 11                 26                3             7               30            3 
+       
+                                       
+                                                         27 
+       
+
+                                                                                                                                     Appendix A 
+                                                                Relationship Question 
+      How is this person related to Person 1? Mark (X) ONE box. 
+                         Version 1                                                                 Version 2
+[  ] Husband/wife/spouse               [  ] Parent‐in‐law                    [  ] Opposite‐sex                         [  ] Grandchild 
+                                                                             husband/wife/spouse 
+[  ] Unmarried partner                 [  ] Son‐in‐law or daughter‐in‐law                                              [  ] Parent‐in‐law 
+                                                                             [  ] Same‐sex 
+[  ] Biological son or daughter        [  ] Other relative                   husband/wife/spouse                       [  ] Son‐in‐law or daughter‐in‐law 
+[  ] Adopted son or daughter           [  ] Roomer or boarder                [  ] Opposite‐sex unmarried               [  ] Other relative 
+                                                                             partner 
+[  ] Stepson or stepdaughter           [  ] Housemate or roommate                                                      [  ] Roomer or boarder 
+                                                                             [  ] Same‐sex unmarried partner 
+[  ] Brother or sister                 [  ] Foster child                                                               [  ] Housemate or roommate 
+                                                                             [  ] Biological son or daughter 
+[  ] Father or mother                  [  ] Other non relative                                                         [  ] Foster child 
+                                                                             [  ] Adopted son or daughter 
+[  ] Grandchild                                                                                                        [  ] Other non relative 
+                                                                             [  ] Stepson or stepdaughter 
+                                        
+                                                                             [  ] Brother or sister 
+                                        
+                                                                             [  ] Father or mother 
+                                        
+                                                                              
+                                                                Marital Status Question 
+             Version 1                                                                          Version 2 
+a. What is this person’s current marital status?                                        a. What is this person’s current marital status.  
+Mark (X) ONE box.                                                                        Mark (X) ONE box. 
+[  ] Now married – SKIP to question 13                                                  [  ] Now married – SKIP to question 13 
+[  ] Widowed                                                                            [  ] In a registered domestic partnership or civil union – SKIP to 
+                                                                                        question 13 
+[  ] Divorced 
+                                                                                        [  ] Widowed 
+[  ] Separated 
+                                                                                        [  ] Divorced 
+[  ] Never married 
+                                                                                        [  ] Separated 
+ 
+                                                                                        [  ] Never married  
+b. Is this person currently living in a registered domestic 
+partnership or civil union?                                                              
+[  ] Yes – SKIP to C                                                                     
+[  ] No                                                                                  
+ 
+ 
+ 
+                                                                           28 
+ 
+
+ 
+                                     Cohabitation Question 
+  c. Is this person currently living with a boyfriend /girlfriend or partner in this household? 
+  [  ] Yes 
+  [  ] No 
+                     
+                                               29 
+ 
+
+ 
+Acknowledgements 
+The authors wish to acknowledge Katherine Drom, Diana Elliott, Rachael Freidus and Barbara O’Hare for 
+helping collect the cognitive interview data that made this research possible. We also thank Howard 
+Hogan and Diana Elliott for their helpful comments on a previous draft of the paper. 
+References 
+Bates, N., DeMaio, T.J., Robins, C. and Hicks, W. (2010). “Classifying Relationship and Marital Status 
+     Among Same‐Sex Couples.” Paper presented at the annual conference of the American Association 
+     for Public Opinion Research, Chicago, IL, May 13‐16.  
+Black, G., Gates, G., Sanders, S. and Taylor, L. (2007). “The Measurement Error of Same‐Sex Unmarried 
+     Partner Couples in the U.S. Census.” California Center for Population Research, December 1, 2007. 
+Carrington, C. (1999).  No Place Like Home:  Relationships and Family Life among Lesbians and Gay Men.  Chicago, 
+     IL:  The University of Chicago Press.   
+ 
+Gates, G. (2011). “How Many People are Lesbian, Gay Bisexual and Transgender?”. Williams Institute 
+     Press release, April, 2011. http://www2.law.ucla.edu/williamsinstitute/home.html. 
+Gates, G. (2010). “Same‐sex couples in the US Census Bureau Data: Who get counted and why?” The 
+     Williams Institute, August 2010.  
+Gates, G. (2010). “Same‐sex couples in the U.S: Legal, Social and Measurement Trends.” A panel 
+     presentation at the DC AAPOR Chapter, March 2, Urban Institute, Washington D.C.  
+Gates, G. (2009). “Same‐sex Couples and Unmarried Partners in the ACS, 2008.” The Williams Institute, 
+     October, 2009, http://www.law.ucla.edu.williamsinstitute/pdf/ASC2008Final(2).pdf. 
+Gates, G. and Steinberger, M. (2009). “Same‐sex Unmarried Partner Couples in the ACS: The Role of 
+     Misreporting, Miscoding, and Misallocation.” Paper presented at the Annual Meetings of the 
+     Population Association of America, Detroit, MI, and April 30, 2009.  
+Hull, K.E.  (2006).  Same‐Sex Marriage:  The Cultural Politics of Love and Law.  New York, NY:  Cambridge University 
+     Press. 
+Lathe, H. (2011).  Personal communication, March 11, 2011. 
+Markon, J. and Somashekhar, S. (2011). “In gay rights victory, Obama administration won’t defend 
+     Defense of Marriage Act.” Washington Post, February 23, 2011. 
+Mills, M. and Poortman, A.R. (2010). “Registered Partnerships in Europe: An alternative to marriage and 
+     cohabitation?” A paper presented at the Population Association of America 2010 Annual Meeting, 
+     April 15‐17, Dallas, TX. 
+                                                           30 
+ 
+
+ 
+Mortensen, A.K. and Orten, H. (2009).  Measuring Legal Marital Status:  Cognitive interviews on two 
+    instrument versions in a Norwegian context,”  A paper presented at the Conference of the European 
+    Survey Research Association, June 29‐July 3, 2009, Warsaw, Poland. 
+National Center for Marriage and Family Research (2010) “Same‐Sex Couple Households in the U.S., 
+    2009.” Family Profiles, October, 2010.  
+National Center for Marriage and Family Research (2010) “Question Crosswalks”. Found on the NCFMR 
+    webpage:  http://ncfmr.bgsu.edu/page88943.html. 
+O’Connell, M. and Lofquist, D. (2009). “Counting Same‐sex Couples: Official Estimates and Unofficial 
+    Guesses.” Paper presented at the Annual Meetings of the Population Association of America, 
+    Detroit, MI, April 30‐May 2, 2009.  
+O’Connell, M. and Gooding, G. (2006). “The Use of First Names to Evaluate Reports of Gender and its 
+    Effect on the Distribution of Married and Unmarried Couple Households.” Poster presented at the 
+    Annual Meetings of the Population Association of American, Los Angeles, CA.  
+                                                   31 
+ 
+

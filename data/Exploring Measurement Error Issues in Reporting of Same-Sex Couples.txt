@@ -1,0 +1,566 @@
+Public Opinion Quarterly, Vol. 77, Special Issue, 2013, pp. 145–158
+Exploring Measurement Error Issues
+in Reporting of Same-Sex Couples
+Theresa J. DeMaio*
+Nancy Bates
+Martin O’Connell
+                                                                                                               Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+         Abstract	 The measurement of household relationships has a long his-
+         tory at the U.S. Census Bureau, but recent challenges include accurately
+         measuring the number of same-sex couples. In 2010, the American
+         Community Survey estimated that there were 593,000 same-sex house-
+         holds. In the same year, the census estimate for the number of same-sex
+         couples was 902,000 (O’Connell and Feliz 2011). Same-sex couples
+         are classified through two questionnaire items: relationship and sex.
+         In an effort to understand the measurement error that might be caus-
+         ing the estimates to differ, we compared questionnaire design formats
+         and modes and conducted a sex-by-name analysis, focus groups, and
+         cognitive interviews. The paper demonstrates that misreporting of sex
+         rather than relationship was responsible for the overreporting of same-
+         sex couples.
+Introduction
+In 2004, when Massachusetts became the first state to grant same-sex partners
+the right to marry, the debate over same-sex unions became a front-page story
+and a piece of the public agenda. Since then, six more states and the District
+of Columbia have legalized same-sex marriage and the topic has become a
+Theresa J. DeMaio and Nancy Bates are with the U.S. Census Bureau, Washington, DC, USA.
+Martin O’Connell is retired from the U.S. Census Bureau, Washington, DC, USA. The authors
+thank Robert Kominski, Diana Elliott, Daphne Lofquist, and all those involved in conducting
+the research described in this paper. They also thank Peter Miller and three anonymous review-
+ers for helpful comments on a previous version of the paper. This report is released to inform
+interested parties of research and to encourage discussion. The views expressed are those of the
+authors and not necessarily those of the U.S. Census Bureau. *Address correspondence to Theresa
+J. DeMaio, U.S. Census Bureau, 4600 Silver Hill Road, Washington, DC 20233, USA; e-mail:
+Theresa.j.demaio@census.gov.
+doi:10.1093/poq/nfs066
+Published by Oxford University Press on behalf of the American Association for Public Opinion Research 2013.
+
+146                                                  DeMaio, Bates, and O’Connell
+presidential campaign issue. But, despite the public and legal debate, enu-
+merating gay and lesbian couples in the United States remains challenging.
+This is especially true of same-sex couples who have formalized their relation-
+ships with some type of legally recognized status such as a marriage, domestic
+partnership, or civil union. Yet legislative bodies, courts, and voters are mak-
+ing decisions—for example, whether basic legal rights and safeguards will be
+afforded, such as partner health insurance, survivor benefits, or hospital visita-
+tion—that affect the day-to-day lives of this population. To inform the debate,
+                                                                                              Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+accurate classification and enumeration is essential. Without them, social sci-
+entists, lawmakers, and policy advocates alike cannot begin to assess the size,
+composition, health, or welfare status of these households or the economic
+impact of expanding marriage rights.
+Measurement Error in Counting Same-Sex Couples
+The task of accurately measuring same-sex couple relationships is challenging
+for a number of reasons. U.S. laws recognizing same-sex couples vary on a
+state-by-state basis, and federal law does not recognize same-sex partnerships.
+   The Census Bureau tabulates same-sex couples in both the American
+Community Survey (ACS) and the decennial census. Two questions are used
+to identify same-sex couples: relationship and sex. The agency follows edit
+rules that are used to change data values for seemingly contradictory answers.
+The edit rules for combining information from relationship and sex have
+evolved since the category of unmarried partner was added in 1990. In that
+census, if a household consisted of a married couple and both spouses reported
+the same sex, the relationship category remained husband or wife, but the sex
+of the partner who reported being a spouse to the householder was changed.
+In 1996, the Federal Defense of Marriage Act (DOMA) included a provision
+that federal agencies recognize only opposite-sex couples when defining a
+married couple for federal program purposes. Partly in response to DOMA, in
+the 2000 and 2010 Censuses, sex was assumed accurate and left as reported,
+and the relationship of partners in same-sex couples that selected “husband or
+wife” was changed to “unmarried partner.”1
+   The Census Bureau did produce a special tabulation of Census 2010 state-
+level counts of same-sex couples broken out by relationship type. For this tabu-
+lation only, same-sex partners who indicated their relationship as “husband or
+wife” were classified as same-sex married households (i.e., the edit rule was not
+applied). Persons reporting their relationship to the householder as “unmarried
+partner” were categorized as same-sex unmarried partner households.
+1.  For more information on how same-sex couples were edited in the 1990 and 2000 Censuses,
+see U.S. Census Bureau (2000, p. 37).
+
+Measurement Error in Reporting of Same-Sex Couples                                            147
+Table 1. Same-Sex Couple Households: 2008–2010 American
+Community Survey Estimates, 2010 Census, and Administrative Records
+                             Number of Same-Sex Households
+                     American Community Survey
+                                                                  2010          Administrative
+                    2008            2009           2010          Census           records
+Married           150,000         152,000        152,000         349,000             50,000
+                                                                                                     Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+Unmarried
+  partners        415,000         429,000        441,000         553,000              N/A
+   In 2010, estimates from the ACS indicated that there were 593,324
+same-sex couple households in the United States (O’Connell and Feliz
+2011). Of these, 26 percent reported their relationship as “husband/wife”
+and the other 74 percent reported it as “unmarried partner.” Across the
+2008–2010 ACS, the total number of same-sex households and the dis-
+tribution of married couples to unmarried partner couples was stable (see
+table  1). However, a larger total number of same-sex couple households
+was reported in the 2010 Census, much of it coming from same-sex mar-
+ried households (349,000 according to the census versus around 152,000
+according to the ACS).
+   Another study, conducted by the UCLA Williams Institute, estimated the
+number of same-sex couples who formalized their relationships in the United
+States. These authors consulted state agency databases on marriage, domestic
+partnership, civil unions, and other beneficiary agreements afforded same-sex
+couples.2 The report estimated that about 134,000 same-sex couples, or 21 per-
+cent of all U.S. same-sex couples, were currently in a legally recognized rela-
+tionship and around 50,000 of these same-sex couples were married within the
+United States (Badgett and Herman 2011).3
+   In this paper, we explore the difference in the estimates from the 2010 ACS
+and 2010 Census and the Williams Institute. We examine both the relationship
+and sex questions in the ACS and census as sources of measurement error. Our
+study includes a comparison of questionnaire design formats and modes, a
+sex-of-name analysis, focus groups, and cognitive interviews.
+2. In some states, the gender of married couples is recorded, but in many others, this information
+is not captured. Consequently, the number of same-sex married couples is based on a mixture of
+administrative records, estimates from state court representatives, and estimates based on mar-
+riage counts before and after same-sex marriage laws were enacted.
+3.  The 50,000 figure includes marriages since 2004 and couples who entered civil unions that
+were automatically converted to marriages in Connecticut and New Hampshire.
+
+148                                                      DeMaio, Bates, and O’Connell
+Potential Explanations for Measurement Error
+in Classifying Same-Sex Couples
+Identification of same-sex couples in these data is based on relationship and
+sex. Although sex is a straightforward question for most people, reporting
+errors do occur. One potential explanation why the 2010 Census yielded a
+higher number of same-sex married couples is that a small proportion of errors
+in reporting sex occurred among the large married heterosexual population.
+                                                                                                  Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+Such errors would produce an abundance of false “same-sex” married cou-
+ples. Although there is no consensus on the precise number of errors, previous
+studies concluded that the number of same-sex married couples is probably
+inflated because sex was mismarked (O’Connell and Gooding 2006; Black
+et al. 2007; Gates and Steinberger 2009).
+   Another reason for the inflated estimate might be the perception by same-
+sex couples that their committed relationships are equivalent to marriage. As
+same-sex unions have become more accepted and mainstream, some couples
+may have adopted the terms “husband/wife” to describe their relationship even
+without the legal recognition of marriage. Similarly, same-sex couples may
+engage in non-government-sanctioned ceremonies to recognize their rela-
+tionship or enter into legal domestic partnerships or civil unions (Hull 2006).
+These actions may influence how couples perceive themselves and report their
+relationship on official forms.
+Reporting of Sex by Members of Opposite-Sex Couples
+To investigate how often members of opposite-sex couples mismark the sex
+item, we examine data from the 2010 ACS and 2010 Census. Each study has
+distinguishing design features that allow us to determine how and where errors
+might occur.
+   The 2010 Census employed a multi-mode design with a mail-out/mail-back
+initial phase. The mail questionnaire used a sequential format in which demo-
+graphics were collected in a person-by-person sequence running from the top
+to the bottom of the page (figure 1). The sex and relationship questions used
+to classify the same-sex couple’s relationship were placed one after the other,
+and the response option check boxes for the sex item were placed horizontally.
+For households that did not mail back a census form, the nonresponse follow-
+up (NRFU) phase used a paper-and-pencil instrument that was administered in
+person or over the phone by temporary census enumerators. Demographic items
+were formatted using a matrix or grid design with items arranged horizontally on
+the page from left to right. Response check boxes for the sex item were arranged
+vertically. (See figure 2 and table 2 for a summary of design differences.)4
+4.  For entire forms, see online appendices 1 and 2 (please see the supplementary data online).
+
+Measurement Error in Reporting of Same-Sex Couples                                                                                     149
+          1. Print name of Person 2
+                  Last Name
+                  First Name                                                                                        MI
+          2. How is this person related to Person 1? Mark IJX ONE box.
+                       Husband or wife                                    Parent-in-law
+                                                                                                                                             Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+                       Biological son or daughter                         Son-in-law or daughter-in-law
+                       Adopted son or daughter                            Other relative
+                       Stepson or stepdaughter                            Roomer or boarder
+                       Brother or sister                                  Housemate or roommate
+                       Father or mother                                   Unmarried partner
+                       Grandchild                                         Other nonrelative
+          3. What is this person’s sex? Mark IJX ONE box.
+                       Male               Female
+Figure 1. Relationship and Sex Items from the 2010 Census Mail Form.
+1.   Let’s make a list of all those people. Please start with   2.   Please look at list B on the Information         3.   Is (Name)
+     the name of an owner or renter who was living here              Sheet. How is (Name) related to (Read name            male or
+     on April 1. Otherwise, start with any adult living here.        of Person 1)?                                         female?
+                                                                     Mark X ONE box.                                  Mark X ONE box.
+Person 1                                                        X Person 1                                                     Male
+     First Name                                     MI                                                                         Female
+     Last Name
+Person 2
+                                                                     Husband or wife              Son-in-law or                Male
+                                                                     Biological son or daughter   daughter-in-law              Female
+     First Name                                     MI
+                                                                     Adopted son or daughter      Other relative
+                                                                     Stepson or stepdaughter      Roomer or boarder
+     Last Name                                                       Brother or sister            Housemate
+                                                                     Father or mother             or roommate
+                                                                     Grandchild                   Unmarried partner
+                                                                     Parent-in-law                Other nonrelative
+Figure 2. Relationship and Sex Items from the 2010 Census Non-response
+Follow-Up Form.
+   We are not aware of any study that directly assesses whether the two for-
+mats differ in how often sex is misreported, but two studies are worth men-
+tioning. The first is a small eye-tracking study (N  =  13), which concluded
+that respondents navigated demographic items more variably in a matrix than
+in a sequential design. Although most participants in the matrix format did
+not answer questions on a person-by-person basis, most who received the
+
+150                                                    DeMaio, Bates, and O’Connell
+Table 2. Summary of Differences in Design between 2010 Census and
+2008–2010 American Community Survey
+Phase of data                                                          2008–2010 American
+collection       Design feature                2010 Census             Community Survey
+Initial data     Mode of data collection       Paper by mail       Paper by mail
+   collection    Person recording              Household member Household member
+                   responses                     or proxy            or proxy
+                                                                                                 Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+                 Layout of questions for       Sequential/vertical Sequential/vertical
+                   a single person
+                 Layout of sex response        Horizontal              Horizontal
+                   categories
+Nonresponse      Mode of data Collection   Paper (in person or Computer (in person
+  follow-up                                  telephone)          or telephone)
+  (NRFU)         Person recording          Temporary           Permanent
+                   responses                 enumerator          Census Bureau
+                                                                 interviewer
+                 Layout of questions for   Grid/horizontal     One screen per
+                   a single person                               question
+                 Layout of sex response    Vertical            NA—programmed
+                   categories                                    questions
+                 Verification for same-sex No                  Yes
+                   married household
+sequential format did (Ashenfelter 2012). The second study was a mail split-
+panel test to compare response distributions in a matrix and sequential layout.
+This investigation reported that for all of the demographic items, the incidence
+of missing data was similar for both forms or lower for the sequential for-
+mat (U.S. Census Bureau 2008). Together, these studies suggest the potential
+for more sex misreporting in the matrix format, especially since the quickly
+trained census enumerators were using the matrix form.
+   The 2010 ACS also employed a multi-mode design with mail offered first.
+The layout and sequencing of demographic questions were practically identi-
+cal to the 2010 Census mail form. But, unlike in the census, households that
+did not return a mail form were followed up with computer-assisted telephone
+interviewing (CATI) or computer-assisted personal interviewing (CAPI). In
+CATI/CAPI cases where the householder’s husband/wife was recorded as the
+same sex as the householder, both instruments had an automatic edit requiring
+interviewers to verify the relationship and sex items.5
+   To explore the discrepancies depicted in table 1, we break down the data
+by mode of response (table  3). In both the census and ACS mail response
+modes, about 0.7 percent of all households indicated that they were same-sex
+5.  The edit verified only same-sex husband/wife households, not unmarried partner households.
+
+Measurement Error in Reporting of Same-Sex Couples                             151
+Table 3. Percent of Households Reporting as Same-Sex Couple
+Households (Unmarried Partner + Married Households Combined) by
+Response Mode: 2010 Census and American Community Survey 2010
+Estimates
+                                                                2010 American
+                                      2010 Census              Community Survey
+Mail forms                               0.724                        0.667
+                                                                                     Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+Non-mail forms                           0.934a                       0.322b
+All forms                                0.773                        0.518
+  a
+   Forms were paper with a horizontal/grid structure.
+  b
+   Forms were CATI/CAPI instruments.
+households. However, in the nonresponse follow-up phase, differences emerge.
+The percent of households reported as same sex in the ACS CATI/CAPI data
+collection is far lower (0.322) than that reported by the census NRFU data
+collection (0.934). The lower proportion in the ACS is likely a function of
+the automatic pop-up edit requiring interviewers to confirm same-sex married
+households. To better understand the larger number coming from the NRFU
+forms, we use a metric designed to quantify the number of opposite-sex cou-
+ples who were counted erroneously as same-sex couples.
+   Because we lack information from a reinterview, we used an indirect
+method of evaluation based on consistency between first name reported on
+the form and the response recorded for sex. The Census Bureau has developed
+statistical “name directories,” which are files of first names associated with
+a probability index that identifies the “maleness” of the name. These name
+directories for the 2010 Census were developed for each state. The probability
+index (from 0 to 1,000) for each name was constructed by taking the ratio of
+the number of times a name was recorded with a male response to the sex item
+to the total number of times a name was recorded as either male or female. For
+example, an index of 950 indicates that when a name appeared in the census
+for a given state, 950 times out of 1,000 the person was a male. An index of 20
+would indicate that 980 times out of 1,000 that name was identified as being
+reported female. Clearly, age and cultural and geographical differences may
+affect this probability, and census directories prepared at the state level partly
+address these issues.
+   We used consistency with this index to evaluate a person’s report of their
+sex. After examining several cutoffs, we selected a threshold of 0–50 to indi-
+cate an error in households classified as male-male, and a level of 950–1,000
+to indicate an error in households classified as female-female. This conserva-
+tive approach was selected to minimize the likelihood that a name with an
+ambiguous sex (for example, Morgan or Kelly) would be classified as an error
+when the sex was reported correctly. To estimate how often sex was probably
+
+152                                            DeMaio, Bates, and O’Connell
+recorded incorrectly for relationships classified as “same-sex unmarried part-
+ners,” an inconsistency ratio was constructed showing the number of same-sex
+unmarried partners with inconsistent name and sex reports per 100 opposite-
+sex unmarried partner households. Similarly, for same-sex spouses, the ratio
+was the number of same-sex spouses with inconsistent name and sex reports
+per 100 opposite-sex spouses. No household was classified as a same-sex mar-
+ried household if either the sex or the relationship item for either the house-
+holder or the spouse had been changed or imputed in any way in the editing
+                                                                                    Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+process.
+   We found different levels of inconsistency in name and sex reporting in self-
+enumerated (mail) forms versus interviewer-administered NRFU forms for both
+unmarried partners and spouses. The name-sex inconsistency at the national
+level is three to four times higher when the data were collected on NRFU forms
+as opposed to mail forms; for both unmarried partners and spouses, there were
+about 1.1 inconsistent reports per 100 comparable couples for NRFU forms and
+0.2–0.3 inconsistent reports per 100 comparable couples for the mail forms.
+This suggests that the recording error arises in the census NRFU operation.
+Some hypothesized causes include the matrix sequencing of the NRFU form,
+the placement of check boxes for recording sex on the NRFU form, and the
+quickly trained temporary workforce. Although these inconsistency ratios
+may seem trivially small, their effect is greatly magnified when applied to the
+extremely large population bases of 56.5 million opposite-sex married and 6.8
+million opposite-sex unmarried partners in Census 2010.
+   As a result of this reporting error, 28.3 percent of reported same-sex cou-
+ple households in Census 2010 are likely to be opposite-sex households (see
+figure 3). About one-half of the same-sex couple households reported on the
+NRFU forms were probably data-reporting errors, compared with 20 percent
+of same-sex households reported on the mail forms.
+   Because there are so many more opposite-sex spouses than partners to
+potentially generate reporting errors, errors by opposite-sex spouses result
+in a greatly inflated number of misclassified same-sex married households.
+Figure 3 shows that 7 percent of same-sex unmarried partners are estimated
+to have errors, compared with 62 percent of same-sex spouses. These data
+strongly indicate that data-collection errors by opposite-sex couple house-
+holds who responded during NRFU inflated estimates of same-sex couples.
+Reporting of Relationship
+Errors in the reporting of the relationship could occur for at least two reasons.
+First, the item involves a long list of options (fifteen in the ACS and fourteen
+in the census). “Husband/wife” is the first category, and “unmarried partner”
+is next (or third) to last. Second, as society has expanded the recognition of
+same-sex partnerships, some unmarried same-sex couples may perceive their
+
+   Measurement Error in Reporting of Same-Sex Couples                                                                153
+                                  80
+Percent with inconsistent names
+                                                                                                              68.9
+                                  70
+                                                                                                62.3
+                                  60                                                                   56.9
+                                                      50.2
+                                  50
+                                  40
+                                       28.3
+                                  30
+                                                                                                                           Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+                                              19.8                               21.5
+                                  20
+                                  10                                6.9
+                                                                          3.7
+                                   0
+                                              Total              Unmarried partners            Reported Married
+                                                             All forms    Mail          NRFU
+   Figure  3. Percentage of Same-Sex Couple Households (Unmarried
+   Partner + Married Households Combined) with Inconsistent Name-Sex
+   Reporting, by Response Mode: 2010 Census.
+   committed relationships as equivalent to marriage. We had no definitive way
+   to measure the consistency of relationship reporting for same-sex couples.
+   However, the Census Bureau sponsored a series of eighteen focus groups and
+   forty cognitive interviews to investigate how members of same-sex couples
+   report their relationship on Census Bureau questionnaires.
+      Focus groups were conducted with same- and opposite-sex cohabitating
+   couples in seven geographically diverse areas, including states where same-
+   sex marriage is legal, same-sex domestic partnerships are legal, and no legal
+   recognition exists.6 The groups explored the meaning and interpretation of
+   the 2010 Census relationship item and whether respondents interpreted the
+   question as asking about legally defined relationships or something else (see
+   figure 1).
+      Discussions about how participants answered the relationship item yielded
+   several findings that were consistent across sexual orientation and geographic
+   area. For example, across the board, participants reported that they perceived
+   the question to be asking about a legal status, probably because the form
+   comes from a federal agency. Consequently, very few people who were not
+   6. San Francisco, CA; Boston, MA; Houston, TX; Topeka and Wichita, KS; Ft. Lauderdale, FL;
+   three rural locations in GA; and Washington, DC. Recruitment in cities was conducted by a les-
+   bian, gay, bisexual, transgender marketing group. Recruiting in rural locations was conducted
+   through personal contact by the focus group moderators in gay-friendly churches; local gay bars,
+   bookstores, and restaurants; and advertisements in gay media. A  table summarizing the focus-
+   group characteristics and the protocols are available in online appendices 3 and 4 (please see the
+   supplementary data online).
+
+154                                                      DeMaio, Bates, and O’Connell
+legally married marked the “husband/wife” category on the form. We also
+found that legally married same-sex couples reported “husband/wife” regard-
+less of whether the marriage was recognized in their state of residence. This
+occurred for every legally married focus-group respondent from Boston to
+rural Georgia. Although participants recognize that there is no federal recogni-
+tion of same-sex marriage, having been legally married anywhere translated to
+“husband/wife,” even on a federal form.
+   Same-sex participants reacted negatively to the placement of the “unmar-
+                                                                                                     Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+ried partner” category. They felt that this category was functionally equivalent
+to the “husband/wife” category in terms of commitment and responsibilities
+and should be moved toward the top. Based on this research and input from
+an expert advisory panel, two alternative versions were developed. Revisions
+included adding “spouse” to the “husband/wife” category, placing the “unmar-
+ried partner” category second in the list in one version, and adding the deline-
+ation of “same-sex” and “opposite-sex” qualifiers before the “husband/wife/
+spouse” and “unmarried partner” categories in the other (see figure 4).7
+   These two versions of the relationship question were then tested in forty
+cognitive interviews conducted in four geographic areas with differing lev-
+els of same-sex partner recognition8 and with respondents who comprised a
+mixture of sexual orientations and relationship statuses.9 The target questions
+were tested in an abbreviated ACS mail-out questionnaire.10 Respondents
+completed one version of each question initially (randomly assigned) and then
+completed the other version at the end of the interview.11
+   The cognitive interviews supported much of what was heard in the focus
+groups. For example, regardless of version tested, the majority of respondents
+in the cognitive interviews chose their intimate-partner relationship answer
+according to the legal status of the relationship (see table 4). This meant that
+7.  Due to time and resource constraints, only one version distinguishing between spouses and
+unmarried partners for both same-sex and opposite-sex couples was tested. Based on the focus-
+group results, we put the two “husband/wife/spouse” categories together, followed by the two
+“unmarried partner” categories.
+8. Ohio and North Carolina (no recognition), Nevada (same- and opposite-sex domestic part-
+nership recognition), and the Washington, DC, metropolitan area (DC—same-sex marriage;
+Maryland—recognizes same-sex marriage but doesn’t issue licenses; Virginia—no legal
+recognition).
+9. We recruited same-sex cohabitating couples without legal status; same-sex or opposite-sex
+couples in registered domestic partnerships or civil unions; opposite-sex married couples; and two
+sets of same-sex married couples—those living where same-sex marriage is recognized and those
+living where it is not. A table summarizing the respondent characteristics and the protocols are
+available in online appendices 5 and 6 (please see the supplementary data online).
+10.  The questionnaire included name, relationship, sex, age, date of birth, place of birth, citi-
+zenship, year of entry to the United States, education, language spoken at home, marital status,
+marital history, and fertility questions.
+11. Respondents were debriefed after they completed the first form and were then given the alter-
+native version, asked to complete it, debriefed, and asked about any preference between the two.
+
+Measurement Error in Reporting of Same-Sex Couples                          155
+                                                                                   Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+Figure 4. Two Versions of Relationship Item Tested in Cognitive Interviews.
+persons who were legally married chose “husband/wife/spouse,” “opposite-
+sex husband/wife/spouse,” or “same-sex husband/wife/spouse,” and that per-
+sons not legally married (whether in a registered domestic partnership/civil
+union or without any legal recognition) tended to select “unmarried partner,”
+“opposite-sex unmarried partner,” or “same-sex unmarried partner.”
+   Five of the forty respondents reported a relationship that did not align with
+their legal relationship status. All five were respondents from gay couples—
+three had no legal status, and two were in a registered domestic partnership/
+civil union—and all five reported as “same-sex husband/wife/spouse.” The
+sequence of the response categories appears responsible for three reports—
+respondents did not read far enough down the list. At the second category,
+respondents saw “same-sex” in the “same-sex husband/wife/spouse” category,
+chose it, and moved to the next item. During the debriefing, they acknowl-
+edged that the fourth category—“same-sex unmarried partner”—might fit
+better. The other two cases reflected perceptions of respondents in registered
+domestic partnerships that their partners were more than “unmarried partners.”
+   In summary, the results of the focus groups and cognitive interviews do
+not suggest that unmarried same-sex couples have widely adopted the terms
+
+156                                                     DeMaio, Bates, and O’Connell
+Table 4. Legal Relationship Status of Respondents in Cognitive
+Interviews by Answers to Relationship Question
+                                                                  Relationship
+                                                   Husband/      Unmarried
+“True” legal statusa                                wifeb         partnerc      Other    Total
+Gay married                                           10              0           0        10
+                                                                                                   Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+Straight married                                       9              0           0         9
+Gay domestic partnership or civil union                2              5           0         7
+Straight domestic partnership or civil union           0              2           0         2
+Gay no legal status                                    3              5           0         8
+Straight no legal status                               0              4           0         4
+N = 40                                                24             16           0        40
+   a
+    This status was determined by responses to the screener questionnaire when participants were
+recruited.
+   b
+     Includes: husband/wife/spouse, opposite-sex husband/wife/spouse, same-sex husband/wife/
+spouse.
+   c
+    Includes: opposite-sex unmarried partner, same-sex unmarried partner.
+“husband/wife/spouse” to describe their partners on official forms. Since very
+few unmarried couples reported “husband/wife/spouse,” we conclude that this
+was not the main driver of the overreporting of same-sex married couples.
+Discussion
+In this paper, we examine an unusual case of measurement error involving
+estimates of a very small population derived indirectly from two questions—
+relationship and sex. Although a naïve observer might think the relation-
+ship question would be the culprit because of its relative subjectivity in the
+context of societal changes, our research suggests otherwise. The results of
+rigorous quantitative analysis of 2010 Census data show that misreporting
+in the sex item is the main culprit. In contrast, the qualitative data showed
+that respondents interpreted the form to be requesting legal partnership sta-
+tus. Consequently, it was rare for unmarried couples to choose “husband/wife/
+spouse” to classify their intimate-partner relationship.
+   The measurement issues identified in this paper have important implications.
+First, since 28 percent of reported same-sex couples were probably opposite-
+sex couples, the Census Bureau issued a set of 2010 Census “preferred” state-
+level estimates of same-sex couples (U.S. Census Bureau 2011). The number
+of same-sex couple households dropped from 901,997 to 646,464, and the
+number of same-sex married households dropped from 349,377 to 131,729.
+For analyses at the national and state levels for 2010, we recommend that
+
+Measurement Error in Reporting of Same-Sex Couples                                           157
+researchers use these preferred estimates. For changes between Census 2000
+and 2010, researchers may use the estimates found in O’Connell and Feliz
+(2011). There is no plan to retabulate preferred estimates for sub-state geogra-
+phies; however, research external to the Census Bureau proposes adjustments
+for analyzing lower geography estimates and presents comparative analyses
+using the original versus preferred numbers (Williams Institute 2011; Poston,
+Chang, and Deng 2012). Additionally, the 2010 Census Public Use Microdata
+Sample (PUMS) will be a 10-percent sample and will contain a variable indi-
+                                                                                                     Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+cating if a same-sex partner household was originally reported as a spouse
+(and subsequently reclassified as an unmarried partner).
+   Second, the problems identified here involved the layout of the paper NRFU
+form. One way to avoid these problems is to avoid using a matrix format,
+which is visually complicated with no clear navigational path for respondents.
+A final questionnaire design consideration is the ordering of the new relation-
+ship categories. We found instances where unmarried same-sex couples did
+not read far enough down the list and misreported. Consequently, we recom-
+mend changing the order of the categories to first list both opposite-sex cat-
+egories and then list both same-sex categories.
+   Another recommendation is to create edits or probes to double-check for
+rare occurrences. The same-sex and opposite-sex response categories tested in
+cognitive interviews do this by collecting the sex of the intimate partner in two
+places. Further testing of this new option is warranted, but we are optimistic
+that a different format could reduce the overreporting errors observed in the
+2010 Census.
+Supplementary data
+Supplementary data are freely available online at http://poq.oxfordjournals.org/.
+References
+Ashenfelter, Kathleen. 2012. “Differential Strategies and Reading Patterns for Demographic
+  Surveys: Question Organization and Its Impact on Response Strategy.” In Cognitive Processes
+  in Language, edited by K. Kosecki and J. Badio, 13–27. Frankfurt, Germany: Peter Lang.
+Badgett, M. V. Lee, and Jody L. Herman. 2011. “Patterns of Relationship Recognition by Same-
+  Sex Couples in the United States.” Williams Institute report, available at http://williamsinsti-
+  tute.law.ucla.edu/wp-content/uploads/Marriage-Dissolution-FINAL.pdf.
+Black, Dan, Gary J. Gates, Seth G. Sanders, and Lowell Taylor. 2007. “The Measurement Error
+  of Same-Sex Unmarried Partner Couples in the U.S. Census.” California Center for Population
+  Research.
+Gates, Gary J., and Michael D.  Steinberger. 2009. “Same-Sex Unmarried Partner Couples in
+  the ACS: The Role of Misreporting, Miscoding, and Misallocation.” Paper presented at the
+  Population Association of America Meeting, Detroit.
+Hull, Kathleen E. 2006. Same-Sex Marriage: The Cultural Politics of Love and Law. New York:
+  Cambridge University Press.
+
+158                                                     DeMaio, Bates, and O’Connell
+O’Connell, Martin, and Sarah  Feliz. 2011. “Same-Sex Couple Household Statistics from the
+  2010 Census.” Social and Economic Household Statistics Division Working Paper, 2011–26.
+  Washington, DC: U.S. Census Bureau.
+O’Connell, Martin, and Gretchen Gooding. 2006. “The Use of First Names to Evaluate Reports
+  of Gender and Its Effect on the Distribution of Married and Unmarried Couple Households.”
+  Paper presented at the Population Association of America Meeting, Los Angeles.
+Poston, Dudley L., Yu-Ting Chang, and Danielle Deng. 2012. “Patterns of Gay Male and Lesbian
+  Partnering in the States and Metropolitan Areas of the United States in 2010.” Paper presented
+  at the Population Association of America Meeting, San Francisco.
+                                                                                                   Downloaded from http://poq.oxfordjournals.org/ at Exec. Ofc. of the President Library on March 13, 2016
+U.S. Census Bureau. 2000. 2000 Census of Population and Housing—Notes and Errata. U.S.
+  Government Printing Office. http://www.census.gov/prod/cen2000/notes/errata.pdf.
+———. 2008. “Effects of Using a Grid versus a Sequential Form on the ACS Basic Demographic
+  Data: Final Report.”
+———. 2011. “Census Bureau Releases Estimates of Same-Sex Married Couples.” Press release,
+  September 27. http://www.census.gov/newsroom/releases/archives/2010_census/cb11-cn181.
+  html.
+Williams Institute. 2011. “Census Snapshot: 2010 Methodology Adjustment Procedures for Same-
+  Sex Couple Data.” Available at http://wiwp.law.ucla.edu/wp-content/uploads/Census2010-
+  Snapshot-Adjustment-Procedures.pdf.
+

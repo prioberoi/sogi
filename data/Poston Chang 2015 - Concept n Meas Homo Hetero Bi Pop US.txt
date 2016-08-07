@@ -1,0 +1,690 @@
+Chapter 22
+The Conceptualization and Measurement
+of the Homosexual, Heterosexual, and Bisexual
+Populations in the United States
+Dudley L. Poston and Yu-Ting Chang
+Introduction
+In this chapter we use sexuality data from the 2006–2008 Survey of Family Growth
+(NSFG) to conceptualize and measure sexuality and sexual orientation. We first
+discuss the two main approaches used by social scientists to conceptualize sexual
+orientation, namely, essentialism and social constructionism. Next we review some
+of the prior empirical literature that has endeavored to measure sexual orientation.
+We next specify three different dimensions of sexuality, namely, sexual behavior in
+one’s lifetime, sexual self-identification, and sexual preference. We use the 2006–
+2008 NSFG data to explore the multiple dimensions of sexuality, in contrast to
+using only a single dimension, say, only behavior or only self-identification or only
+desire. We examine the consistency in the dimensions for heterosexual persons,
+homosexual persons, and bisexual persons. We show that an essentialist view works
+in a fairly consistent manner for heterosexual persons but is not at all consistent
+for homosexual and bisexual persons. This is so because heterosexuality is more
+pervasive, with less room for differences. We then develop several percentages of
+the U.S. adult population who according to various definitions may be classified as
+heterosexual, homosexual, or bisexual. Finally we discuss some of the implications
+of the findings of our research for demographic analyses of sexuality.
+Conceptualizing Sexuality
+Most of the social science literature on sexual orientation conceptualizes the phe-
+nomenon using two basic perspectives or approaches, or a combination thereof.
+These two views are known as essentialism and social constructionism (Lau-
+mann et al. 1994, p. 284; Baumle et al. 2009, pp. 19–21). Founded in biology, the
+D. L. Poston () · Y.-T. Chang
+Department of Sociology, Texas A&M University, College Station, TX, USA
+e-mail: d-poston@tamu.edu
+M. N. Hoque, L. B. Potter (eds.), Emerging Techniques in Applied Demography,      359
+Applied Demography Series 4, DOI 10.1007/978-94-017-8990-5_22,
+© Springer Science+Business Media Dordrecht 2015
+
+360                                                                     D. L. Poston and Y.-T. Chang
+essentialist view is one of dimorphism; it states that there is an “essential” biologi-
+cal or psychological characteristic or attribute that is common to all persons and that
+distinguishes them as either of one sexuality or not of that sexuality. This common
+characteristic, or essence, is thought to be a fundamental drive or trait that estab-
+lishes a person’s inclusion into, or not into, one of the sexual categories of hetero-
+sexual, homosexual, or bisexual (Laumann et al. 1994, p. 285; Baumle et al. 2009,
+pp. 19–20). The essentialist view states that a person is classified, or is not classi-
+fied, as homosexual or as heterosexual or as bisexual; a binary distinction is made
+between one who is in that category and one who is not. Thus, sexual orientation is
+determined by the definition of the sexually distinct categories.
+    The social constructionist view of homosexuality on the other hand counters
+and critiques the essentialist perspective. Social constructionism argues against
+the notion of binary categories, that is, that one either is or is not in a specific
+sexual category (Foucault 1978; Butler 1990; Seidman 1996; Baumle et al. 2009,
+pp. 20–21). Instead, this approach argues for a continuum with varying degrees of
+the categories of sexuality. For example, social constructionists point out that the
+degree of homosexual and bisexual prevalence and visibility tends to vary across
+time and settings and that the concepts, definitions, and practices of homosexuality
+and bisexuality are often not the same across context and cultures (Laumann et al.
+1994, p. 285). To illustrate, what in one culture may be defined as “homosexual”
+may not be so defined in another culture. For example, an individual may engage in
+same-sex sexual behavior but not identify himself/herself as homosexual. Likewise,
+one might identify as homosexual but never have experienced same-sex sex. Also,
+the sexuality definitions and labels attached to individuals by other persons and by
+the larger society may be incongruent with how individuals self-identify (Baumle
+et al. 2009, pp. 19–21). Social constructionists would make similar statements with
+regard to heterosexuality and bisexuality. Or as Hanne Blank (2012, p. xviii) writes
+in her intriguing book about the history of heterosexuality, “despite the fact that
+most of us use the term ‘heterosexual’ with enormous and cavalier certainty, there
+seems to be no aspect of ‘heterosexual’ for which a truly iron-clad definition has
+been established.” And the same may be stated about “homosexual” and “bisexual.”
+    Until the sexuality research conducted in the 1940s and 1950s by Alfred Kinsey
+and his colleagues (Kinsey et al. 1948; Kinsey et al. 1953), most sexuality research-
+ers used an essentialist orientation. It was Kinsey who moved sexuality research
+away from a position of essentialism. He argued that the sexuality of humans is
+a lot more varied than was originally thought. The range of expression he created
+has become known as the “Kinsey scale,” which is a 7-point scale that ranks over-
+all sexuality from completely heterosexual (scored 0) to completely homosexual
+(scored 6) and everything in-between. When he introduced his 7-point scale, he
+wrote the following:
+    Males do not represent two discrete populations, heterosexual and homosexual. The world
+    is not to be divided into sheep and goats. It is a fundamental of taxonomy that nature rarely
+    deals with discrete categories… The living world is a continuum in each and every one of
+    its aspects … While emphasizing the continuity of the gradations between exclusively het-
+    erosexual and exclusively homosexual histories, it has seemed desirable to develop some
+
+22 The Conceptualization and Measurement of the Homosexual, Heterosexual, …                  361
+    sort of classification which could be based on the relative amounts of heterosexual and
+    homosexual experience or response in each history… An individual may be assigned a
+    position on this scale, for each period in his life… A seven-point scale comes nearer to
+    showing the many gradations that actually exist (Kinsey et al. 1948, pp. 639, 656).
+In demographic and social science research on sexuality, the manner in which sexu-
+ality and sexual orientation is conceptualized tends to vary. This is largely due to the
+different ways sexual orientation has been defined in surveys and conceptualized by
+the researchers (Saewyc et al. 2004). Sexuality may be defined in terms of sexual
+behavior, sexual desire (including fantasy), and self-identification (Laumann et al.
+1994; Saewyc et al. 2004). In analyses based on data from national surveys, social
+scientists have used one or more of the above concepts of sexuality but particularly
+those based on self-identification and behavior.
+    For instance, analyses of homosexuality using data from the General Social
+Survey (GSS) usually employ a behavioral definition of homosexuality, such as
+whether a person’s sex partners within a particular timeframe (such as over the past
+12 months, or the past 5 years, or in one’s lifetime) have or have not been entirely
+or predominantly of the same sex as the respondent (Badgett 1995; Berg and Lien
+2002; Black et al. 2003). The GSS does not include a question on the self-identifi-
+cation of the respondent’s sexual orientation.
+    Researchers using data from other surveys sometimes use questions tapping dif-
+ferent definitions or dimensions of homosexuality. For instance, the NSFG includes
+questions dealing with sexual behavior, sexual orientation, and sexual desire; these
+are the survey data we use in this chapter. Another source is the National Health and
+Social Life Survey (NHSLS) conducted by Laumann and his associates in 1992 (see
+The Social Organization of Sexuality: Sexual Practices in the United States [1994]).
+Because these surveys allow researchers to define sexuality in various ways, it is
+possible for their analyses to be more closely attuned to a social constructionist,
+rather than to an essentialist, view of sexuality in general and homosexuality in
+particular (Baumle et al. 2009, p. 20).
+    In contrast, when demographers and other social scientists use census data to
+analyze sexuality, they almost always take an essentialist view owing to the type
+of data available. Employing the so-called “unmarried partner” census data, for
+instance, involves, by definition, a clear-cut and straightforward definition of a part-
+nered same-sex individual, a partnered opposite-sex person, and a married person.
+    Overall, a review of the literature about the conceptualization of sexuality shows
+some basic methodological critiques, namely, the lack of common and consistent
+definitions across the various surveys, samples not sufficiently representative of the
+subpopulations under investigation, and a reliance on only one or two sexuality-
+related questions. These issues may well be associated with social stigma attached
+to sexualities other than heterosexuality, thus affecting not only the way the ques-
+tionnaires are designed, but also the ways in which the respondents answer the
+questions. For example, a person may be reluctant to identify as a homosexual or as
+a bisexual and/or to report homosexual or bisexual behavior (Laumann et al. 1994,
+p. 284; Baumle et al. 2009, p. 21).
+
+362                                                           D. L. Poston and Y.-T. Chang
+    No doubt there are problems with data on sexuality no matter how the phenom-
+enon is conceptualized and quantified. There are likely methodological limitations
+and problems inherent in gathering and analyzing any data about sexuality, particu-
+larly the sexually stigmatized minorities. Nonetheless, we find that the survey data
+from the National Survey of Family Growth are particularly useful for researchers
+following a social constructionist approach.
+Empirical Analyses of Sexuality
+In our opinion, perhaps the very best and most comprehensive analysis of sexual-
+ity in the United States is The Social Organization of Sexuality: Sexual Practices
+in the United States by Edward O. Laumann, John H. Gagnon, Robert T. Michael,
+and Stuart Michaels, published in 1994. The authors began their chapter on “Ho-
+mosexuality” with the following sentence: “Perhaps no other single number in this
+study will attract greater public interest than our estimate of the prevalence of ho-
+mosexuality” (Laumann et al. 1994, p. 283). They then reviewed some of the prior
+research on this topic and addressed what they referred to as the “myth of 10 %,”
+i.e., the belief that “there is a single prevalence rate of homosexuality and a single
+estimate of 10 %,” and that both come from the same source, namely, the sexual-
+ity research conducted by Alfred Kinsey and his associates in the 1940s and 1950
+(Kinsey et al. 1948; Kinsey et al. 1953).
+    In their research, Laumann et al. (1994) showed that there is not a single preva-
+lence rate of homosexuality, and, moreover, that the 10 % figure did not come from
+the work of Kinsey and his colleagues. The prevalence of homosexuality depends
+on the way that homosexuality is defined. If one defines as homosexual a person
+who self-identifies as homosexual, Laumann and his associates (1994) showed that
+the percentage of persons who are homosexual is about 1.4 % for women and 2.8 %
+for men. If the definition of homosexuality depends on same-sex desire and attrac-
+tion, then they showed that the levels for males and females vary around 5 %. If one
+uses same-sex behavior as the criterion, then the percentages for females range from
+1.3 to 4.1 %, depending on how the behavior is defined, and from 2.7 to 4.1 % for
+males. An important contribution of the research by Laumann and his colleagues is
+that the prevalence of homosexuality, and also of heterosexuality and of bisexual-
+ity by implication, varies according to the dimension of sexuality employed by the
+researcher. If one chooses to focus on self-identification, then the prevalence of
+homosexuality (and heterosexuality and bisexuality) in the population will likely
+differ from the prevalence level obtained were one to use behavior or desire as the
+principal criterion.
+    In a more recent analysis, Gates (2011) combined five population-based surveys
+containing data on sexuality that were conducted between 2004 and 2009. He es-
+timated that on average for the adult populations enumerated in the surveys, 3.4 %
+of females and 3.6 % of males in the United States identified themselves as les-
+bian, gay, or bisexual. More interestingly, within the several surveys, he found that
+
+22 The Conceptualization and Measurement of the Homosexual, Heterosexual, …            363
+women were more likely than men to identify as bisexual, with more than half of
+the men who engage in gay and/or bisexual sex identifying themselves as gay men.
+    Self-identification, however, as we have shown above, is not the only criteri-
+on used for measuring sexual orientation. Different dimensions for approaching
+sexual orientation often result in different estimates of homosexual and bisexual
+prevalence. Considering the dimensions of same-sex attraction and behavior, Gates
+(2011, p. 5) reported that “adults are two to three times more likely to say that they
+are attracted to individuals of the same sex or have had same-sex sexual experiences
+than they are to self-identify” as lesbian, gay, or bisexual. He showed that over 8 %
+of adults stated that they have ever engaged in same-sex sexual behaviors and about
+11 % have at least some same-sex sexual attraction.
+    In a much older study, Fay et al. (1989) used data from a national survey con-
+ducted in the late 1970s to estimate that about one of five American men had ever
+had same-sex sexual contacts in their lifetimes. They also indicated that about half
+of men who had ever had same-sex sexual contacts were currently or previously
+married. Smith (1991) used data from an adult household sample surveyed in 1989
+to show that there were no sex differences in same-sex behavior prevalence; also
+he reported that 5.6 % of American adults had been bisexual and only 0.7 % were
+exclusively homosexual. Analyses of more recent data by Chandra et al. (2011)
+showed that twice as many women than men reported having any same-sex sex
+behavior in their lifetimes.
+    In all the above analyses, a common finding seems to be the fluidity of sexual
+orientation. All the analyses show that the estimated prevalence rates of homosex-
+uality, heterosexuality, and bisexuality vary, often considerably, according to the
+particular dimension of sexuality (behavior, attraction/desire, or self-identification)
+used. We find similar results in our analyses of the 2006–2008 NSFG data. Accord-
+ingly, in this chapter we examine sexuality from a social constructionist perspec-
+tive, using one or more of the three dimensions of sexuality. We hold that heterosex-
+uality, homosexuality, and bisexuality are complex phenomena, without universal
+definitions. By following a social constructionist approach and using data on all
+three dimensions of sexuality, we hope to show empirically the multi-faceted nature
+and the fluidity of sexuality.
+    With respect to the three dimensions, strictly speaking, identification is a straight-
+forward question and, thus, should be a simple matter to measure. Were persons to
+self-identify themselves as homosexual or heterosexual or bisexual, they would be
+so identified in the research. But this does not necessarily mean that they would
+respond in a similar manner to questions dealing with other dimensions of sexuality,
+i.e., behavior or desire. Indeed a person could self-identify as homosexual, but state
+that he or she has engaged in sexual activity with both males and females.
+    Alternately, sexual desire or attraction is a variable that is not as straightfor-
+ward as personal identification in the construction of a sexual category. Desire has
+to do with individual feelings and wants regardless of behavior or identification.
+If a respondent were to declare to desire sexual relations with someone of the
+same sex, he or she would be defined as homosexual according to this dimension
+of sexuality.
+
+364                                                        D. L. Poston and Y.-T. Chang
+    Like desire, behavior is only one aspect of a constructed view of sexuality. For
+instance, a person may engage in same-sex sexual behavior but not self-identify as
+homosexual.
+    The 2006–2008 NSFG includes questions enabling us to directly assess each of
+the above dimensions of sexuality. We discuss next these issues in more detail.
+The NSFG Data
+The data in this chapter are from the 2006–2008 National Survey of Family Growth
+(NSFG). The data were generated from 7,356 interviews with women and 6,139
+interviews with men; the respondents were 15–44 years of age, and the interviews
+were conducted from about July 1, 2006, through December 2008. Also, in some
+parts of our chapter, data are drawn from comparable samples of women and men
+interviewed in the 2002 NSFG. The “interviewing and data processing for the
+2006–2008 NSFG were conducted by the University of Michigan’s Institute for
+Social Research, under a contract with the National Center for Health Statistics
+(NCHS). In-person interviews were conducted by trained professional interviewers
+in the homes of a national sample of households. Interviewers entered respondents’
+answers directly into laptop computers. Interviews averaged about 80 min in length.
+The interview was voluntary; participants were provided information about the sur-
+vey before being asked for signed informed consent. The survey was reviewed and
+approved by the NCHS and University of Michigan Institutional Review Boards.
+The overall response rate was 75 %…. The sample is a nationally representative
+multistage area probability sample drawn from 85 areas across the country” (Mosh-
+er 2010, pp. 2–3).
+    The 2006–2008 NSFG questions we used to obtain respondent data on the be-
+havioral dimension of sexuality are two. For females, the two questions are:
+ Counting all your male sexual partners, even those you had intercourse with only
+    once, how many men have you had sexual intercourse with in your life?
+ Thinking about your entire life, how many female sex partners have you had?
+For males, the two questions are:
+ How many different females have you ever had intercourse with? This includes
+    any female you had intercourse with, even if it was only once or if you did not
+    know her well.
+ Thinking about your entire life, how many male sex partners have you had?
+A respondent answering having only opposite-sex partners and no same-sex part-
+ners is defined as heterosexual on the behavior dimension of sexuality. A respondent
+answering having both opposite-sex partners and same-sex partners is defined as bi-
+sexual, and a respondent answering having only same-sex partners and no opposite-
+sex partners is defined as homosexual. It is important to note that this behavioral
+measurement is limited to assessing behaviors in one’s lifetime.
+
+22 The Conceptualization and Measurement of the Homosexual, Heterosexual, …            365
+    With respect to the self-identification of sexual orientation, the 2006–2008
+NSFG asked each respondent the following question:
+ Do you think of yourself as heterosexual or straight; as homosexual, gay or les-
+    bian; as bisexual; or as something else?
+One’s sexuality status according to the self-identification dimension is based on the
+person’s answer to the above question.
+    With respect to sexual desire and attraction, the 2006–2008 NSFG asked males
+the following question, and a similar question was asked of females:
+ People are different in their sexual attraction to other people. Which best de-
+    scribes your feelings? Are you…Only attracted to females; Mostly attracted to
+    females; Equally attracted to females and males; Mostly attracted to males; Only
+    attracted to males; Not sure.
+We specified the sexuality of males on the desire dimension as follows. Males who
+are only attracted or mostly attracted to females are heterosexual; males who are
+only attracted or mostly attracted to males are homosexual; males who are equally
+attracted to females and males are bisexual. We specified the sexuality of females
+on the desire dimension in a similar way.
+    In our chapter, we report estimates of the U.S. male and female population aged
+15–44 who provide the “heterosexual response,” the “homosexual response,” and
+the “bisexual response” to at least one of the above questions on behavior, self-iden-
+tification, and desire. We also use a social constructionist approach and combine the
+responses to the above three questions and provide estimates of the percentages of
+persons who give one of the three “sexual responses” according to one or more of
+the above three questions. We first examine empirically the dimensions of sexuality,
+i.e., self-identification, behavior, and desire, with regard specifically to homosexu-
+ality, heterosexuality, and bisexuality.
+Our Empirical Analyses of Sexuality
+The Empirical Interrelations of the Dimensions of Sexuality
+We now examine empirically the intersection of the three dimensions of sexuality.
+We use data from the 2006–2008 NSFG and combine the sexuality responses to the
+above three NSFG questions into seven possible outcomes as follows: providing a
+homosexual (or a heterosexual or a bisexual) response (1) only to identification, (2)
+only to desire, (3) only to behavior, (4) to both identification and desire, (5) to both
+identification and behavior, (6) to both desire and behavior, and (7) to identifica-
+tion, desire, and behavior. Unweighted percentages for U.S. females and males aged
+15–44 are shown in the Venn diagrams in Figs. 22.1, 22.2, 22.3, 22.4, 22.5, 22.6.
+    Figure 22.1 refers to the intersection of the sexuality dimensions for heterosexuality
+for females. The Venn diagram shows the degree of overlap among the conceptually
+
+366                             D. L. Poston and Y.-T. Chang
+FiJ ௘ Heterosexual females
+FiJ ௘ Heterosexual males
+
+22 The Conceptualization and Measurement of the Homosexual, Heterosexual, … 367
+FiJ ௘ Homosexual females
+FiJ ௘ Homosexual males
+
+368                         D. L. Poston and Y.-T. Chang
+FiJ ௘ Bisexual females
+FiJ ௘ Bisexual males
+
+22 The Conceptualization and Measurement of the Homosexual, Heterosexual, …              369
+distinct dimensions of sexuality applied to female heterosexuality. As Laumann et al.
+(1994, p. 298) have written in a similar presentation, “these (Venn) diagrams make
+use of overlapping circles to display all the logically possible intersections among
+different categories (of sexuality).” Whereas the diagrams in this chapter show all
+possible combinations, they do not scale the areas of each circle; instead the percent-
+ages attached to each area are shown in the figures. Each circle represents a dimen-
+sion of sexuality. We show in Fig. 22.1 how exactly the 6,878 women who reported
+any heterosexual behavior, desire, or identity are actually distributed across the seven
+mutually exclusive combinations of the three sexuality dimensions.
+    The data and diagram in Fig. 22.1 indicate that 93.5 % of all the female respon-
+dents in the 2006–2008 NSFG, that is, 6,878 women of the total NSFG sample of
+7,356 women, gave a “heterosexual” response to at least one of the three questions
+pertaining to sexual behavior, self-identification, and desire. Specifically, for purposes
+of illustration, the part of the “Desire” circle in Fig. 22.1 that does not overlap with the
+“Behavior” or “Identity” circles indicates that just under 1.5 % of the women giving a
+heterosexual response to any one or more of the three questions reported a desire for
+persons of the opposite sex, but did not identify themselves as heterosexual and did
+not report having only heterosexual sex in their lifetimes. However, nearly 75 % of the
+women giving a heterosexual response to at least one of the three questions gave a het-
+erosexual response to all three questions (see the overlapping component of all three
+circles in the center of the Venn diagram). That is, almost three-fourths of the females
+reported self-identifying as heterosexual, having only opposite-sex sex behavior in
+their lifetimes, and being only or mostly attracted to males.
+    Fig. 22.2 shows corresponding data for male heterosexuality. Nearly 94 % of the
+males in the 2006–2008 NSFG gave a heterosexuality response to at least one of the
+three questions dealing with self-identification, behavior, and desire. Importantly,
+over 82.5 % of those males giving a heterosexual response to at least one of the three
+questions gave a heterosexual response to all three questions.
+    For males and females, there is a tremendous amount of consistency with respect
+to heterosexuality. Almost 75 % of females and over 82 % of males who indicate a
+heterosexual response to at least one of the three sexuality questions gave a hetero-
+sexual response to all three questions. As we will see when we turn next to analyses
+of homosexuality and of bisexuality, there is not nearly as much agreement. Where-
+as one could argue that an essentialist approach works fairly well for female and
+male heterosexuality, we show below that it does not work well at all with regard to
+homosexuality and bisexuality.
+    Figures 22.3 and 22.4 show Venn diagrams and data for female (Fig. 22.3) and
+male (Fig. 22.4) homosexuality. Unlike the situation with regard to female and male
+heterosexuality (Figs. 22.1 and 22.2), the data tables in the two figures indicate that
+very small percentages of females and males gave a homosexual response to at
+least one of the three sexuality questions dealing with self-identification, behavior,
+and desire. Just over 2.4 % of the females and almost 2.9 % of the males stated that
+they only had had same-sex sex in their lifetimes, and/or that they desired or were
+attracted to same-sex persons, and/or that they self-identified as homosexuals. Also,
+unlike the situation with heterosexuals, the Venn diagrams show that only 17.6 %
+(see the middle overlapping area in the diagram of Fig. 22.3) of the females giving
+
+370                                                          D. L. Poston and Y.-T. Chang
+a homosexual response to at least one of the three sexuality questions gave the
+homosexual response to all three questions, and the corresponding percentage for
+homosexual males is 28.7 % (Fig. 22.4). Whereas an essentialist approach works
+well for male and female heterosexuals (there is overwhelming support for treat-
+ing heterosexuals as binary, that is, 75 % of females and 83 % of males are hetero-
+sexual on all three questions), the essentialist approach does not work well at all
+for homosexuals. Much smaller percentages of homosexuals are consistent in their
+homosexual categorization.
+    We note that a companion analysis of homosexuality in China (Farris et al. 2013)
+shows much lower levels of agreement and consistency among the Chinese respon-
+dents. The Venn diagram data in the China analysis indicate that only 4 % of the
+females giving a homosexual response to at least one of the three sexuality ques-
+tions gave the homosexual response to all three questions; and the corresponding
+percentage for males is 3 %.
+    The data and diagrams for bisexuals are reported in Figs. 22.5 and 22.6, and
+they are similar to those for homosexuals. First, the bisexual data show that almost
+15 % of all the females in the NSFG, and 5 % of all the males in the NSFG, gave
+a bisexual response to at least one of the three sexuality questions. Also, there is
+very little consistency in the categorization of bisexuals. Only 12 % of the women
+giving a bisexual response to at least one of the sexuality questions gave a bisexual
+response to all three questions (Fig. 22.5); and the corresponding percentage for
+males is even smaller, at 6 % (Fig. 22.6).
+    If one subscribes to an essentialist view of homosexuality and bisexuality (that
+is, persons either are or are not homosexuals or either are or are not bisexuals), we
+show that according to the 2006–2008 NSFG data there are very small percentages
+of males and females consistently categorized as homosexual or as bisexual. An
+essentialist strategy clearly does not work well at all with regard to conceptualizing
+and measuring homosexuality and bisexuality. Taking a social constructionist ap-
+proach, on the other hand, permits a more flexible understanding of homosexuality
+and bisexuality. For example, according to this approach, homosexuals can be de-
+fined based solely on the behavioral dimension or on a combination of two or more
+of the dimensions of sexuality.
+    Our empirical analyses demonstrate the importance of a social constructionist
+perspective in developing an understanding of sexuality. Although some individuals
+provided the same sexual response (e.g., heterosexual or homosexual or bisexual)
+on all three dimensions, most of the respondents gave one sexual response (e.g.,
+homosexual) to the NSFG question on one dimension and another sexual response
+(e.g., bisexual or heterosexual) to the NSFG question on another dimension. Using
+a social constructionist orientation in our analysis of sexuality provides us with a
+much more encompassing understanding of sexuality.
+Prevalence Rates of Sexuality
+Having examined the interrelations of the dimensions of sexuality for males and
+females with respect to heterosexuality, homosexuality, and bisexuality, we turn
+
+22 The Conceptualization and Measurement of the Homosexual, Heterosexual, …         371
+now to a presentation of estimates of the percentages of persons who give one of
+the three “sexual responses” according to one or more of the above three questions.
+We are endeavoring here to answer the question, what are the percentages of the
+U.S. population aged 15–44 who are heterosexual, who are homosexual, and who
+are bisexual.
+    We first need to attend to an important methodological issue. We noted earlier
+that the 2006–2008 NSFG consists of data for 7,356 women and 6,139 men, aged
+15–44, in households in the United States. Mosher (2010, p. 33) has written that
+the 2006–2008 NSFG sample “is a nationally representative multistage area prob-
+ability sample drawn from 85 areas across the country…Persons were selected for
+the NSFG in five major steps: Large areas (counties and cities) were chosen first.
+Within each large area or “Primary Sampling Unit,” groups of adjacent blocks …
+were chosen at random. Within segments, addresses were listed and some addresses
+were selected at random. The selected addresses were visited in person … [If it was
+determined that a person 15–44 lived at the address, then] … one person was chosen
+at random for the interview and was offered a chance to participate.”
+    Since the 2006–2008 NSFG is based on multistage probability sampling, one
+cannot use these data to make inferences to the larger population of U.S. adults from
+which the sample was drawn without first taking into account the sampling design.
+Otherwise, the data will be treated by the statistical software as based on a simple
+random sample. This will tend “to understate the true extent of sampling error in the
+data … [because] when observations are clustered [i.e., drawn from a few selected
+sampling points as is the case with the 2006–2008 NSFG], for many variables the
+within-cluster variance tends to be smaller than the variance across the population
+as a whole. This in turn implies that the between-cluster variance, i.e., the variance
+of the cluster means, which gives the standard error for clustered samples, is in-
+flated relative to the variance of the same variable computed from a simple random
+sample drawn from the same population. Reduced within-cluster variance, espe-
+cially with respect to sociodemographic variables, is typical within the small areas
+that make up … [a] stage of multistage probability samples: areas of a few blocks
+tend to be more homogeneous with respect to education, age, race, and so on than
+the population of the entire country. The result is that when we use statistical proce-
+dures based on the assumption of simple random sampling, our computed standard
+errors typically are too small. What we need to do is to take account not only of the
+variance among individuals within a cluster, but of the variance between clusters”
+(Treiman 2009, pp. 207–208).
+    Thus in the empirical analyses reported this section of our paper, we use the
+“svy” suite of statistical sample adjustment methods available in the Stata 12 sta-
+tistical package (StataCorp 2011) that introduce survey adjustment estimators. We
+are thus able to adjust our analyses according to the various population and strata
+weights available in the 2006–2008 NSFG.
+    We show in Tables 22.1, 22.2, and 22.3 weighted (adjusted) percentage esti-
+mates for the period of 2006–2008 of the prevalence of female and male hetero-
+sexuality (Table 22.1), bisexuality (Table 22.2), and homosexuality (Table 22.3);
+we also show the 95 % confidence intervals for each estimate (reported in the tables
+
+372                                                          D. L. Poston and Y.-T. Chang
+as “margin of error”); also shown in the tables are adjusted percentage estimates for
+2002 using data from the 2002 NSFG.
+   In the very bottom row of the tables, we provide a weighted percentage of per-
+sons selecting the respective sexuality response to any one or more of the questions
+pertaining to identification, behavior, and desire/attraction. For instance, the figure
+of 95.43 for 2008 in the female heterosexuality table (Table 22.1) means that in
+2006–2008, 95.4 % of U.S. females aged 15–44 gave a heterosexual answer to at
+least one of the three questions dealing with the three dimensions of sexuality; an
+estimated 72 % of U.S. women gave the heterosexual response to all three ques-
+tions. In 2002, the percentages were 96 and 78 %, respectively. For males, the cor-
+responding percentages were 96 and 79 %, respectively, in the 2006–2008 period,
+and 95 and 81 % in 2002.
+   So what is the prevalence level of heterosexuality in the United States for females
+and males in 2006–2008 and in 2002? There is no one answer because it depends
+on how one defines heterosexuality. To repeat Blank’s (2012, p. xviii) statement
+that we quoted earlier in this chapter, “despite the fact that most of us use the term
+‘heterosexual’ with enormous and cavalier certainty, there seems to be no aspect of
+‘heterosexual’ for which a truly iron-clad definition has been established.”
+   So if we define a heterosexual as a person who identifies as a heterosexual, and
+engages in sexual behavior exclusively as a heterosexual, and desires or is attracted
+only to heterosexuals, then the answer for females is around 72 % and for males
+79 %. But if we invoke a social constructionist approach and define a heterosexual
+as a person who identifies as a heterosexual, and/or engages in sexual behavior ex-
+clusively as a heterosexual, and/or desires or is attracted to heterosexuals, then the
+percentages are 95 % for females and 96 % for males.
+   In Table 22.2, we present similar information for female and male bisexuality.
+What are the percentages of bisexuality in the United States in 2006–2008 for fe-
+males and males aged 15–44? Again, it depends on how we define bisexuality. If
+we hold that a bisexual self-identifies as a bisexual, and engages in sexual behavior
+with both males and females, and is attracted to persons of both sexes, then the
+answer for females is 1.5 % and for males 0.3 %, and the corresponding percentages
+for 2002 are about the same. But if we do not insist on this all-inclusive defini-
+tion, and allow a bisexual to either identify herself/himself as a bisexual, and/or to
+engage in sex with both same sex and opposite sex persons, and/or to be attracted
+to both males and females, then the percentages are 13 % for females and 5 % for
+males, with similar percentages for 2002.
+   Finally, we show in in Table 22.3 similar information for female and male ho-
+mosexuality. What are the percentage levels of homosexuality in the United States
+in 2006–2008 for female and males? Again, it depends on the definition. If we
+hold that a homosexual is one who self-identifies as a homosexual, and engages in
+sexual behavior only with persons of the same sex, and is attracted to persons of
+the same sex, then the answer for females is 0.3 % and for males is 0.6 %, and the
+corresponding percentages for 2002 are around the same. But if we do not insist on
+such a comprehensive definition, and if we hence define a homosexual in a broader
+way as one who identifies as a homosexual, and/or engages in sex only with same
+
+TaEle ௘ Percentage estimates of female and male heterosexuality, United States, 2006–2008 and 2002
+                   Female                                                                Male
+                   2008                              2002                                2008                        2002
+Heterosexuality Within sample                        Within sample                       Within sample               Within sample
+                   %           Margin of error       %            Margin of error        %         Margin of error   %         Margin of error
+Behavior            0.41       ± 0.17                 0.60        ± 0.23                  0.11     ± 0.11             0.33     ± 0.14
+Desire              1.38       ± 0.41                 1.43        ± 0.39                  0.39     ± 0.18             0.86     ± 0.38
+Identity            0.54       ± 0.25                 0.17        ± 0.10                  0.21     ± 0.16             0.22     ± 0.13
+Behave & desire     0.48       ± 0.21                 3.29        ± 0.54                  0.27     ± 0.15             4.09     ± 0.93
+Behave & ID         0.84       ± 0.31                 0.56        ± 0.19                  0.22     ± 0.14             0.58     ± 0.31
+Desire & ID       20.25        ± 2.53                12.61        ± 1.13                 15.47     ± 2.48             8.35     ± 1.09
+Beh. & des. & ID 71.54         ± 2.33                77.82        ± 1.41                 79.09     ± 2.45            80.82     ± 1.70
+Sample (n)        6,878                              6,602                               5,768                       4,014
+Total sample (N) 7,356                               6,864                               6,139                       4,295
+Svy sample%       95.43        ± 0.83                96.48        ± 0.52                 95.77     ± 0.88            95.24     ± 0.80
+                                                                                                                                                 22 The Conceptualization and Measurement of the Homosexual, Heterosexual, …
+                                                                                                                                                 373
+
+                                                                                                                                                  374
+TaEle ௘ Percentage estimates of female and male bisexuality, United States, 2006–2008 and 2002
+                    Female                                                            Male
+                    2008                            2002                                                            2008
+Bisexuality         Within sample                   Within sample                     Within sample                 Within sample
+                    %        Margin of error        %               Margin of error   %           Margin of error   %           Margin of error
+Behavior            8.48     ± 1.32                 8.53            ± 0.92            3.60        ± 0.83            4.07        ± 0.93
+Desire              0.47     ± 0.29                 0.29            ± 0.14            0.02        ± 0.03            0.24        ± 0.16
+Identity            0.43     ± 0.22                 0.26            ± 0.13            0.38        ± 0.22            0.69        ± 0.40
+Behave & desire     0.34     ± 0.20                 0.20            ± 0.12            0.00        N/A               0.17        ± 0.13
+Behave & ID         1.27     ± 0.33                 1.15            ± 0.34            0.32        ± 0.20            0.54        ± 0.32
+Desire & ID         0.50     ± 0.18                 0.29            ± 0.19            0.33        ± 0.19            0.18        ± 0.12
+Beh. & des. & ID    1.50     ± 0.33                 1.15            ± 0.24            0.30        ± 0.24            0.40        ± 0.16
+Sample (n)          1,074                           840                               317                           335
+Total sample (N)    7,356                           6,864                             6,139                         4,295
+Svy sample %        13.00    ± 1.56                 11.86           ± 1.08            4.95        ± 0.94            6.28        ± 1.07
+                                                                                                                                                  D. L. Poston and Y.-T. Chang
+
+TaEle ௘ Percentage estimates of female and male homosexuality, United States, 2006–2008 and 2002
+               Female                                                                Male
+               2008                                 2002                             2008                              2002
+Homosexuality Within sample                         Within sample                    Within sample                     Within sample
+               %              Margin of error       %          Margin of error       %                 Margin of error %             Margin of error
+Behavior       0.43           ± 0.18                0.17       ± 0.13                0.28              ± 0.20          0.16          ± 0.16
+Desire         0.42           ± 0.19                0.52       ± 0.19                0.30              ± 0.22          0.41          ± 0.18
+Identity       0.08           ± 0.09                0.50       ± 0.19                0.10              ± 0.09          0.58          ± 0.41
+Behave &       0.01           ± 0.02                0.05       ± 0.05                0.02              ± 0.02          0.09          ± 0.08
+   Desire
+Behave & ID 0.01              ± 0.02                0.00       N/A                   0.00              N/A             0.02          ± 0.03
+Desire & ID 0.58              ± 0.24                0.56       ± 0.25                0.89              ± 0.29          0.99          ± 0.36
+Beh. & Des. 0.33              ± 0.16                0.26       ± 0.14                0.64              ± 0.22          0.69          ± 0.33
+  & ID
+Sample (n)     179                                  162                              176                               174
+Total sample 7,356                                  6,864                            6,139                             4,295
+  (N)
+Svy sample % 1.86             ± 0.45                2.06       ± 0.42                2.24              ± 0.48          2.94          ± 0.78
+                                                                                                                                                       22 The Conceptualization and Measurement of the Homosexual, Heterosexual, …
+                                                                                                                                                       375
+
+376                                                          D. L. Poston and Y.-T. Chang
+wsex persons,wand/or desires or is attracted to persons of the same sex, that is, if
+we use a social constructionist approach in our definition of a homosexual, then the
+percentages are 1.9 % for females and 2.2 % for males, with roughly similar percent-
+ages for 2002.
+    Since we are subscribing to a social constructionist approach and not an essen-
+tialist one, we will define each of the sexualities in a more inclusive manner. Thus
+we would state that a homosexual is one who gives a homosexual response to any
+one or more of the three questions dealing with the dimensions of sexuality, and we
+would define heterosexuals and bisexuals in a similar way. Hence in the 2006–2008
+period, we would estimate, based on the 2006–2008 NSFG data, that among female
+adults (aged 15–44), 95 % are heterosexual, 13 % are bisexual, and 2 % are homo-
+sexual. The corresponding percentages for males are 96, 5, and 2 %. It is important
+to recognize that the percentages for females, and for males, sum to more than
+100 % because of the fluid nature of our definitions. In the next section of this chap-
+ter we explore some of the implications of our analyses.
+Summary and Discussion
+In this chapter we used data from the 2006–2008 National Survey of Family Growth
+(NSFG) to conceptualize and measure various aspects of sexuality and sexual orien-
+tation. We first discussed the two main approaches used by social scientists to con-
+ceptualize sexual orientation, namely, essentialism and social constructionism and
+then reviewed some of the empirical literature measuring sexual orientation. We
+next specified three different dimensions of sexuality, namely, sexual behavior in
+one’s lifetime, sexual self-identification, and sexual preference/attraction. We then
+used the 2006–2008 NSFG data to first examine the degree of consistency in the
+three dimensions for heterosexual persons, for homosexual persons, and for bisex-
+ual persons. We showed that an essentialist view works fairly well for heterosexual
+persons, but not at all for homosexuals and for bisexuals. We then calculated several
+percentages of the U.S. adult population who according to the different definitions
+would be classified as heterosexual, homosexual, and bisexual. We found that con-
+clusions about the prevalence of homosexuality, heterosexuality, and bisexuality
+in the U.S. adult population depend significantly on the way we define the three
+sexualities.
+    The percentages of heterosexuality, bisexuality, and homosexuality among U.S.
+adults are at their highest when we use a broader definition. That is, if we follow a
+social constructionist approach and define, for example, a homosexual as one who
+gives a “homosexual” response to at least one of the three NSFG questions dealing
+with the three dimensions of sexuality (self-identification, behavior, and attraction),
+and if we define heterosexuals and if we define bisexuals in similar ways, then 95 %
+of the U.S. female population is heterosexual, 13 % is bisexual, and 2 % is homosex-
+ual; the corresponding figures for males are 96, 5, and 2 %. The percentages sum to
+more than 100 % because we used a broad definition. On the other hand, if we insist
+
+22 The Conceptualization and Measurement of the Homosexual, Heterosexual, …           377
+that a person’s sexuality must reflect a consistency across the three dimensions, that
+is, for example, a homosexual must give the homosexual response to each of the
+three survey questions on the sexuality dimensions, then the percentages are con-
+siderably lower, at 72 and 79 % for female and male heterosexuals, 1.5 and 0.3 %
+for female and male bisexuals, and 0.3 and 0.6 % for female and male homosexuals.
+Empirical estimates of the prevalence among U.S. adults of the three sexualities
+certainly depend on how sexualities are conceptualized.
+    As Blank has written, “sexual expectations and behaviors, like all other social
+expectations and behaviors, change over time … [if ] we speak … of interactions of
+males and females, these relationships have simply not always been the same, nor
+have the people participating in them been expected to do, think, feel, or experience
+the same sorts of things” (2012, p. xvii). In our opinion it is much more realistic and
+appropriate to view sexuality with a social constructionist eye.
+    Certainly, an important implication of our research is the need to use a social
+constructionist approach in analyses of sexuality instead of an essentialist approach.
+Persons in one sexual category, say, homosexuals, may be distinguished from per-
+sons in another sexual category, say, heterosexuals, in many different ways. Given
+the limited empirical research on sexuality and sexual orientation and the lack of
+agreement regarding the meaning of the sexualities, it would appear best to use as
+broad a purview as possible. It would be a mistake, we believe, to use an essentialist
+view that assumes that there is an essential biological or psychological character-
+istic common to all persons in a sexual category that is distinct and separate from
+persons in another sexual category. An essentialist approach is excessively narrow
+and necessarily results in the identification of very small percentages of homosexu-
+als and bisexuals.
+    Our empirical results about the lack of a consistency with regard to the three
+dimensions of sexuality, particularly for homosexuals and for bisexuals, replicate
+earlier research focusing on homosexuals by Laumann and his colleagues (1994,
+pp. 300–301). Their research pointed to the “high degree of variability in the way
+that differing elements of homosexuality are distributed in the population. This vari-
+ability relates to the way that homosexuality is both organized as a set of behaviors
+and practices and experienced subjectively. It raised quite provocative questions
+about the definition of homosexuality.”
+    Overall, our findings indicate that future research should continue to refine the
+understanding of what it means to be heterosexual, homosexual, and bisexual, and
+how these meanings vary among populations and over time. There exists a real need
+for broad-based scholarship on the existence of the various sexualities, their compo-
+nents, and their defining characteristics.
+    We end our chapter with a pithy observation from Blank in the first pages of her
+book on heterosexuality. She writes the following: “every time I go to the doctor, I end
+up questioning my sexual orientation … The clinic I visit (has a form that) includes
+… little boxes, a small matter of demographic bookkeeping. Next to the boxes are the
+options, ‘gay,’ ‘lesbian,’ ‘bisexual,’ ‘transgender,’ or ‘heterosexual.’ You’re supposed
+to check one. You might not think this would pose a difficulty” (Blank 2012, p. ix). In
+the balance of her very insightful book, she argues that indeed it is a difficulty; what
+you are depends on the definitions and the approach followed.
+
+378                                                                     D. L. Poston and Y.-T. Chang
+References
+Badgett, M. V. L. (1995). The wage effects of sexual orientation discrimination. Industrial and
+   Labor Relations Review, 48, 726–739.
+Baumle, A. K., Compton, D., & Poston, D. L. Jr. (2009). Same-sex partners: The social demogra-
+   phy of sexual orientation. New York: SUNY.
+Berg, N., & Lien, D. (2002). Measuring the effect of sexual orientation on income: Evidence of
+   discrimination? Contemporary Economic Policy, 20, 394–414.
+Black, D. A., Makar, H. R., Sanders, S. G., Taylor, L. J. (2003). The earnings effects of sexual
+   orientation. Industrial and Labor Relation Review, 56, 449–469.
+Blank, H. (2012). Straight: The surprisingly short history of heterosexuality. Boston: Beacon.
+Butler, J. (1990). Gender trouble. New York: Routledge.
+Chandra, A., Mosher, W. D., Copen, C. (2011). Sexual behavior, sexual attraction, and sexual
+   identity in the United States: Data from the 2006–2008 national survey of family growth. Na-
+   tional vital statistics report: 36. Hyattsville, MD: National Center for Health Statistics. http://
+   www.cdc.gov/nchs/data/nhsr/nhsr036.pdf. Accessed 15 June 2012.
+Farris, D. N., He, L., Poston, D. L. Jr., Walther, C. S., Russell, C., Kincannon, H. (2013). Sexual-
+   ity in China. In A. K. Baumle (Ed.), International handbook on the demography of sexuality,
+   pp. 107–127. New York: Springer.
+Fay, R. E., Turner, C. F., Klassen, A. D., Gagnon, J. H. (1989). Prevalence and patterns of same-
+   gender sexual contact among men.. Science, 243, 338–348.
+Foucault, M. (1978). The history of sexuality: An introduction, Vol. 1. New York: Vintage Books.
+Gates, G. J. (2011). How many people are lesbian, gay, bisexual and transgender. Research brief,
+   The Williams Institute (April): http://williamsinstitute.law.ucla.edu/wp-content/uploads/Gates-
+   How-Many-People-LGBT-Apr-2011.pdf.
+Kinsey, A. C., Pomeroy, W. B., Martin, C. E. (1948). Sexual behavior in the human male. Phila-
+   delphia: Saunders.
+Kinsey, A. C., Pomeroy, W. B., Martin, C. E., Gebhard, P. H. (1953). Sexual behavior in the human
+   female. Philadelphia: Saunders.
+Laumann, E. O., Gagnon, J. H., Michael, R. T., Michaels, S. (1994). The social organization of
+   sexuality: Sexual practices in the United States. Chicago: University of Chicago Press.
+Mosher, W. D. (2010). Use of contraception in the United States: 1982–2008. National Center for
+   Health Statistics. Vital and Health Statistics, 23(29), 1–54.
+Saewyc, E. M., Bauer, G. R., Skay, C. L., Resnick, M. D., Reis, E., Murphy, A. (2004). Measur-
+   ing sexual orientation in adolescent health surveys: Evaluation of eight school-based surveys.
+   Journal of Adolescent Health, 35, 345 e1–345 e15.
+Seidman, S. (1996). Introduction. In S. Steven (Ed.), Queer theory/sociology, pp. 1–29. Cam-
+   bridge: Blackwell.
+Smith, T. W. (1991). Adult sexual behavior in 1989: Number of partners, frequency of intercourse
+   and risk of AIDS.. Family Planning Perspectives, 23, 102–107.
+StataCorp. (2011). Stata survey data reference manual, release 12. College Station: StataCorp.
+Treiman, D. J. (2009). Quantitative data analysis: Doing social research to test ideas. San Fran-
+   cisco, : Jossey-Bass.
+

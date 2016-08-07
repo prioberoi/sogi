@@ -1,0 +1,611 @@
+ C    URRENT
+  OPINION           Advancing methods for US transgender
+                    health research
+                                        Sari L. Reisner a,b,c, Madeline B. Deutsch d, Shalender Bhasin e,
+                                        Walter Bockting f, George R. Brown g, Jamie Feldman h, Rob Garofalo i,
+                                        Baudewijntje Kreukels j, Asa Radix k, Joshua D. Safer l, Vin Tangpricha m,n,
+                                        Guy T’Sjoen o, and Michael Goodman p
+                      Purpose of review
+                      This article describes methodological challenges, gaps, and opportunities in US transgender health
+                      research.
+                      Recent findings
+                      Lack of large prospective observational studies and intervention trials, limited data on risks and benefits of
+                      sex affirmation (e.g., hormones and surgical interventions), and inconsistent use of definitions across studies
+                      hinder evidence-based care for transgender people. Systematic high-quality observational and intervention-
+                      testing studies may be carried out using several approaches, including general population-based, health
+                      systems-based, clinic-based, venue-based, and hybrid designs. Each of these approaches has its strength
+                      and limitations; however, harmonization of research efforts is needed. Ongoing development of evidence-
+                      based clinical recommendations will benefit from a series of observational and intervention studies aimed
+                      at identification, recruitment, and follow-up of transgender people of different ages, from different racial,
+                      ethnic, and socioeconomic backgrounds and with diverse gender identities.
+                      Summary
+                      Transgender health research faces challenges that include standardization of lexicon, agreed upon
+                      population definitions, study design, sampling, measurement, outcome ascertainment, and sample size.
+                      Application of existing and new methods is needed to fill existing gaps, increase the scientific rigor and
+                      reach of transgender health research, and inform evidence-based prevention and care for this
+                      underserved population.
+                      Keywords
+                      health disparity, research methods, transgender
+a
+  The Fenway Institute, Fenway Health, bDepartment of Epidemiology, Harvard T.H. Chan School of Public Health, cDivision of General Pediatrics, Boston
+Children’s Hospital/Harvard Medical School, Boston, Massachusetts, dDepartment of Family and Community Medicine, University of California, San
+Francisco, California, eResearch Program in Men’s Health: Aging and Metabolism Brigham and Women’s Hospital, Harvard Medical School Boston,
+Massachusetts, fLGBT Health Initiative, New York State Psychiatric Institute/Columbia Psychiatry and the Columbia University School of Nursing, New
+York City, New York, gQuillen College of Medicine, East Tennessee State University, Johnson City, Tennessee, hDepartment of Family Medicine and
+Community Health, University of Minnesota, School of Medicine, Minneapolis, Minnesota, iDepartment of Pediatrics, Northwestern University/Ann &
+Robert H. Lurie Children’s Hospital of Chicago, Chicago, Illinois, USA, jCenter of Expertise on Gender Dysphoria, Department of Medical Psychology,
+VU University Medical Center, Amsterdam, the Netherlands, kCallen-Lorde Community Health Center, New York City, New York, lSection of
+Endocrinology, Diabetes, Nutrition, and Weight Management, Boston University School of Medicine, Boston, Massachusetts, mDivision of Endocrin-
+ology, Metabolism and Lipids, Department of Medicine, Emory University School of Medicine, Atlanta, nThe Atlanta VA Medical Center, Decatur, Georgia,
+USA, oDepartment of Endocrinology and Center for Sexology and Gender, Ghent University Hospital, Ghent, Belgium and pDepartment of
+Epidemiology, Rollins School of Public Health, Emory University, Atlanta, Georgia, USA
+Correspondence to Sari L. Reisner, ScD, The Fenway Institute, Fenway Health, 1340 Boylston Street, 8th floor, Boston, MA 02215, USA.
+Tel: +1 617 927 6017; e-mail: sreisner@fenwayhealth.org
+Curr Opin Endocrinol Diabetes Obes 2016, 23:198–207
+DOI:10.1097/MED.0000000000000229
+www.co-endocrinology.com                                                                                   Volume 23  Number 2  April 2016
+                        Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+                                                                                                 conditions thought to be affected by hormone
+ KEY POINTS                                                                                      exposures [13,14 ].
+                                                                                                                           &
+  Challenges in transgender health research include                                                 An important methodological issue specific
+   standardization of lexicon, agreed-upon population                                            to transgender health research is identification,
+   definitions, study design, sampling, measurement,                                             measurement, and operationalization of ‘transgen-
+   outcome ascertainment, and sample size.                                                       der’ [15]. Additional challenges facing transgender
+                                                                                                 health research include heterogeneity of settings,
+  Ongoing development and refinement of clinical
+   recommendations will benefit from a series of evidence-                                       limited numbers of trained physicians and research-
+   based observational and intervention studies aimed at                                         ers with a specific focus in transgender medicine,
+   identifying, recruiting, and following diverse cohorts of                                     lack of uniform data collection, and potential prob-
+   transgender people.                                                                           lems of nonparticipation, retention, and dropout.
+                                                                                                     Important unanswered questions in transgender
+  Applying existing and new methodologies will increase
+   the scientific rigor and reach of transgender health                                          health research may be placed into two broad
+   research, and inform evidence-based prevention and                                            categories: those that deal with estimating popu-
+   care for this underserved patient population.                                                 lation parameters and those concerned with
+                                                                                                 evaluating causal effects of exposures on health
+                                                                                                 outcomes [16]. Both categories of research are
+                                                                                                 needed in transgender health. An essential meth-
+                                                                                                 odological requirement of studies aimed at answer-
+INTRODUCTION                                                                                     ing questions in the first category is a representative
+Expansion of the evidence base to inform trans-                                                  sample of the population of interest. By contrast, for
+gender clinical care requires rich systematically                                                the second category, representativeness is of a lesser
+collected data that at present are scarce or lacking                                             concern [17]; the main issue is whether a particular
+in the USA [1]. The available data pertaining to                                                 sample allows testing a causal hypothesis through
+transgender health are often based on convenience                                                comparability of exposed and nonexposed groups
+samples and the majority of published studies in                                                 [18]. Studies that most often meet this criterion
+the USA are cross-sectional [2,3,4 ,5–7] or retro-
+                                                                      &
+                                                                                                 are randomized placebo-controlled clinical trials;
+                    &
+spective [8,9,10 ]. The few published prospective                                                however, in transgender clinical research individual
+follow-up studies are small and have examined a                                                  randomized controlled trials may not always be
+limited number of outcomes [11,12]. Most US stud-                                                feasible or ethically acceptable [19,20]. For example,
+ies evaluating transgender health focus on sub-                                                  randomizing transgender people to receive or not
+stance use and abuse, sexual health, and mental                                                  receive hormone therapy would violate the prin-
+health issues (Fig. 1). Relatively little emphasis has                                           ciple of equipoise, given guidelines recommending
+been placed on other relevant issues such as health-                                             hormonal treatment to alleviate gender dysphoria
+care access and utilization patterns over time,                                                  [21,22]. In those circumstances, observational
+determinants of hormonal and surgical treatment                                                  comparative effectiveness research is needed.
+complications, and rates of chronic age-related                                                  Other research questions do lend themselves to
+                                                    180
+                                                              159
+                                                    160
+                        Number of data points (n)
+                                                                           140
+                                                    140                                   135
+                                                    120
+                                                    100                                                    94
+                                                    80
+                                                                                                                         59
+                                                    60
+                                                    40
+                                                                                                                                        21
+                                                    20
+                                                     0
+                                                          Substance use Sexual and    Mental health     Violence/      Stigma/     General health
+                                                                       reproductive                   victimization discrimination
+                                                                          health
+                                                                                      Health outcome category
+FIGURE 1. Distribution of health outcomes in US Transgender Research, 2008–2014.
+1752-296X Copyright ß 2016 Wolters Kluwer Health, Inc. All rights reserved.                                                   www.co-endocrinology.com   199
+                        Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+randomized controlled trials; for example, compar-      various health-related measures, such as incidence
+ing different hormone regimens, or giving some          of disease or prevalence of risks [32]. On the other
+transgender women aspirin and some placebo to           hand, this approach may be inefficient, if the goal is
+see if rates of deep vein thrombosis or coronary        to assemble a cohort of sufficient power to examine
+artery disease differ.                                  relatively rare events, or to assess clinically relevant
+     The acquisition of high-quality study samples      exposure–outcome associations.
+to examine transgender health may be carried out
+via four main systematic approaches: general popu-
+lation based, health systems based, clinic based, and   HEALTH SYSTEMS-BASED APPROACH
+venue based. Although in some circumstances other       Electronic medical records offer a number of
+approaches such as respondent-driven sampling or        research opportunities, especially in integrated
+Internet-based recruitment may offer useful altern-     healthcare systems. The most notable examples
+atives, those are considered a form of convenience      of integrated systems are the Veterans Health
+sampling [23] and remain beyond the scope of            Administration (VHA) and health maintenance
+this review.                                            organizations.
+     In the next sections of this communication, we          Several studies examined transgender health
+describe each of the four main sampling approaches,     within the VHA using International Classification
+discuss their advantages and disadvantages, and         of Diseases Ninth edition (ICD-9) codes. Kauth and
+provide illustrative examples of completed or           colleagues examined all VHA encounters 2006–
+ongoing studies. We then address additional meth-       2013 for the following three ICD-9 codes: 302.85
+odological challenges facing transgender health         (gender identity disorder in adolescent or adult),
+research and propose paths forward toward the goal      302.6 (gender identity disorder not otherwise speci-
+of identifying and filling current methods’ gaps        fied), and 302.5 (transsexualism) [33]. Additional
+through various observational and interventional        VHA-based studies examined incidence of breast
+                                                                    &
+studies.                                                cancer [10 ] and lifetime prevalence of various
+                                                        health conditions [9,33] among veterans with and
+                                                        without transgender-related diagnoses.
+GENERAL POPULATION-BASED                                     Another possible source of data are Health Care
+APPROACH                                                Systems (HCS, formerly known as health mainten-
+A population-based study is feasible if the members     ance organizations or HMOs), which often collab-
+of a given population can be enumerated to enable       orate via the Healthcare Systems Research Network
+drawing of random samples or even inclusion of the      [34]. HCS data make it possible to construct histori-
+entire population of interest [24]. Common sources      cal and prospective multicenter cohorts, and track
+of data for population-based studies include the        the enrollment and healthcare utilization histories
+Department of Motor Vehicles records, voter regis-      over extended periods of time [35].
+tration lists, and various commercial population             The research infrastructure available through
+directories [25]. For population-based transgender      HSC is used in the ongoing federally funded study
+health research, these data sources would only be       ‘Comparative risk and benefits of gender confir-
+useable if they systematically collected information    mation therapies’ [35]. The study is designed as a
+on gender beyond binary natal ‘sex’ categories          mixed historic/prospective cohort of transgender
+[26,27]. A number of recent publications urge           people enrolled in Kaiser Permanente plans at three
+expansion of existing data capture to identify          sites (Atlanta Georgia, Northern California, and the
+transgender individuals in a systematic fashion,        Greater Los Angeles area) (Fig. 2). Cohort candidates
+                                               &
+including use of the two-step method [28 ,29,30];       are identified based on relevant ICD-9 codes or pres-
+however, to date these efforts have not translated      ence of free-text keywords in the medical notes [36].
+into standard practice in population-level research.         The advantages of a health systems-based
+     TransPOP is an example of an ongoing federally     approach include its relative efficiency in identify-
+funded population-based study [31]. Conducted at        ing eligible study participants, availability of cisgen-
+the Williams Institute in collaboration with Gallup,    der (nontransgender) controls who can be matched
+Inc., the study’s primary goal is to collect a national to transgender participants, and ability to involve
+probability-based sample to examine sociodemo-          multiple sites. On the other hand, this approach
+graphic characteristics and health status of the US     may miss key hard-to-reach (e.g., uninsured or not
+transgender population.                                 engaged in healthcare) transgender population sub-
+     A well designed and executed population-based      groups. Additionally, if data collection procedures
+study maximizes external validity and offers accu-      are limited to electronic medical records, the result-
+rate estimation of frequency and distribution of        ing information may lack detail.
+200      www.co-endocrinology.com                                             Volume 23  Number 2  April 2016
+                 Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+                                               Search electronic medical records (EMR)
+                                                     to identify a data-only cohort of
+                                                            transgender people
+                          Link cohort to                                                        Invite cohort
+                         national death                    Add information                  members to fill out
+                        index (NDI) and                      on diagnoses,                  a survey and enroll
+                        cancer registries                   laboratory tests                   in prospective
+                                                            and procedures                        follow-up
+                                                          Link EMR, NDI, and
+                                                            registry data to
+                                                         surveys to create the
+                                                        final baseline dataset
+                                                  Perform retrospective and cross-
+                                                           sectional analyses
+                                                    Begin prospective follow-up
+FIGURE 2. A flow diagram depicting data collection and design of a mixed retrospective/prospective health systems-based
+study.
+CLINIC-BASED APPROACH                                                   York and similar centers in Philadelphia, Washing-
+A clinic-based approach uses institutions that                          ton, Chicago, Los Angeles, and San Francisco.
+provide care to the patient population of interest.                           A clinic-based approach offers excellent oppor-
+An example of successful implementation of this                         tunities for in-depth data collection, biospecimen
+approach is the European Network for the Investi-                       acquisition, and both patient and provider-reported
+gation of Gender Incongruence (ENIGI). ENIGI is a                       information. Many clinics, particularly community
+collaboration of several Western European gender                        health centers, also serve underserved transgender
+                          &
+identity clinics [37,38 ,39,40]. The project recruits                   subgroups such as uninsured or underinsured indi-
+and prospectively follows people that apply at these                    viduals, racial/ethnic minorities, patients with non-
+gender identity clinic of ages 17 years or older from                   binary gender identities, and HIV-infected patients.
+clinical entry (before initiation of hormonal therapy                   Putting together a large clinic-based cohort requires
+or surgical gender affirmation) onward. Data collec-                    multiple study sites, and per participant cost and
+tion procedures include periodic administration                         effort is relatively high; however, scientific knowl-
+of survey instruments, systematic abstraction of                        edge to be gained is high.
+medical records, and acquisition and storage of
+biospecimens [39].
+     Clinic-based studies of US transgender patients                    VENUE-BASED APPROACH
+will also benefit from the experience of other US                       Developed in the mid-1990s, venue-based sampling
+clinic-based multicenter projects such as the Centers                   combines outreach activities with standard methods
+for AIDS Research [41]. One approach would be to                        of sampling to study hard-to-reach groups [44].
+establish a multisite cohort study of transgender                       Following success of this approach in several cities
+patients by joining federally qualified health centers                  [45], venue-based sampling was adapted for the
+(FQHCs), also known as community health centers                         National HIV Behavioral Surveillance studies of
+[42]. For example, Fenway Health in Boston,                             MSM [46].
+Massachusetts is a FQHC that served more than                                 Venue-based methods are currently applied
+1700 unique transgender patients in 2014 [43]. Ot-                      in the ongoing federally funded multisite study
+her FQHCs with large transgender patient popu-                          ‘Identity Development, Risk, and Resilience among
+lations are located in most major cities, including                     Gender Diverse Populations.’ The study uses purpo-
+Callen-Lorde Community Health Center in New                             sive, venue-based sampling to recruit transgender
+1752-296X Copyright ß 2016 Wolters Kluwer Health, Inc. All rights reserved.                 www.co-endocrinology.com      201
+                      Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+  Table 1. Data need and research priorities
+ Data need in transgender health research:
+   Implementation of uniform collection of gender identity data, using the two-step method (Table 2). Uniform collection of sexual orientation
+   and sexual behavior data will also allow improved resolution when defining cohorts
+   Reliable and valid measures to examine health disparities by transgender status, and reliably assess exposures (e.g., gender affirmation
+   and treatment) and health outcomes for transgender people
+   Standardization of terminology to allow direct comparisons between studies
+   Involvement of community and care provider stakeholders in every stage of research design, implementation and evaluation to provide
+   appropriate context and insure that research methods are relevant, adaptable, and culturally appropriate
+   Large sample size to enable well powered statistical analyses (statistical conclusion validity)
+   Longitudinal prospective data to allow follow-up over time (opportunity for nested and ancillary studies)
+   Representation of hard-to-reach subgroups and diverse transgender people in terms of age, race/ethnicity, socioeconomic status, gender
+   identities (examine health disparities and identify mediators for future interventional studies)
+ Methodological needs in transgender health research:
+   Measures and data collection – identifying transgender people, standardized data collection in clinical settings (implement the two-step
+   method), skip patterns for trans-specific data (anatomy inventory)
+   Prospective longitudinal cohort – design engine (supports nested and ancillary studies)
+   Interventional studies – Sequential, Multiple Assignment, Randomized Trials designs, cluster randomized clinical trials, implementation
+   science (alternative models to individual-level randomized trials)
+   Treatment outcomes – gender affirmation, hormones, surgical interventions, and health
+   Fit methodology to study population – acceptability and ethnics of research with transgender people (observational vs experimental
+   designs)
+people in three US cities (New York, San Francisco,                           routinely collecting gender identity data, identify-
+and Atlanta). Venues include commercial establish-                            ing and recruiting transgender people for participa-
+ments (e.g., bars, coffee shops, and beauty salons)                           tion in research, developing accurate measures and
+and outdoor spaces (e.g., streets and parks); groups                          efficient data collection protocols, and using con-
+(e.g., community organizations and groups organ-                              sistent terminology. A summary of these issues is
+ized around culture, sports, and seniors); and events                         presented in Table 1.
+(e.g., Lesbian, Gay, Bisexual, Transgender Pride).                                 Routine collection of gender identity data is
+Sampling is stratified by age and gender identity,                            critical for transgender health clinical practice and
+while maximizing ethnic and racial diversity. The                             research. The two-step method is recommended
+                                                                                      &
+goal of the study is to test an adaptation of the                             [15,49 ], including by the World Professional Associ-
+minority stress model to investigate vulnerability,                           ation for Transgender Health [50]. The two-step
+risk, and resilience in the context of transgender                            method asks questions about current gender identity
+identity development across the lifespan [47].                                and assigned sex at birth (Table 2) [50]. Cross-tabu-
+      Access to hard-to-reach participants identified                         lating these items allows for different sex and gender
+via venue-based recruitment can improve general-                              combinations to identify transgender patients. Such
+izability and allow correcting selection biases [48].                         an approach has been found to identify twice as many
+This approach enables a single study team to                                  transgender people as a single-question method [51].
+cover an entire city or geographic area. Limitations                               Enrollment of a large multisite cohort of US
+include difficulty of maintaining high response and                           transgender patients has not yet been executed.
+retention rates, and problems with recruiting large                           Such a cohort could act as a vehicle and infrastruc-
+numbers of participants.                                                      ture for multiple analyses and ancillary studies.
+                                                                              A series of protocols for identification, recruitment,
+                                                                              and follow-up of diverse transgender people in age,
+OTHER METHODOLOGICAL ISSUES IN                                                racial, ethnic, and socioeconomic backgrounds, and
+TRANSGENDER HEALTH RESEARCH                                                   with diverse gender identities could be developed.
+In addition to selecting an appropriate sampling                              It is conceivable that such a multisite research
+strategy, additional methodological issues that need                          project could enroll a cohort study with as many
+to be considered in transgender health studies                                as 10 000–25 000 participants (Fig. 3). Sample size
+include defining the target population, using                                 considerations for such a multisite cohort study are
+optimal study design for the research question,                               summarized in Table 3 [52–54].
+202         www.co-endocrinology.com                                                                    Volume 23  Number 2  April 2016
+                      Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+  Table 2. Routine data collection using the two-step method
+                                 About the Two-Step Method
+                                 Standardization of data collection is critical for transgender health clinical practice and research.
+                                 The two-step method is recommended, including by the World Professional Association for
+                                 Transgender Health (WPATH). The two-step method asks questions about both assigned sex at
+                                 birth and current gender identity. Cross-tabulating these questions allows for different sex and
+                                 gender combinations to assess transgender health.
+                                 Example of a Recommended Two-Step Method [50]
+                                        Question 1: How do you describe your gender identity? (check one)
+                                        q Male
+                                        q Female
+                                        q Transmale/ Trans Man/ Female-to-male (FTM)
+                                        q Transfemale/ Trans Woman/ Male-to-female (MTF)
+                                        q Genderqueer/ Gender Nonconforming
+                                        q Different Identity: Please State: ____________
+                                        Question 2: What sex were you assigned at birth, on your original birth certificate?
+                                        q Male
+                                        q Female
+                                 Author Note: The ordering of questions 1 and 2 is negotiable; no research studies to date
+                                 have examined ordering effects (i.e., whether asking sex or gender first influences identity
+                                 reporting and prevalence estimates).
+                                 Cross-tabulating these questions gives a two by six (2x6) contingency table with 12 cells
+                                 demonstrating different sex and gender combinations.
+                                                                                                 Assigned sex at birth
+                               Current gender identity                                         Male                    Female
+                               Male                                                         Cisgender              Transgender*
+                               Female                                                     Transgender*               Cisgender
+                               Transmale/ Trans Man/ Female-to-male (FTM)                       --                 Transgender*
+                               Transfemale/ Trans Woman/ Male-to-female (MTF)             Transgender*                    --
+                               Genderqueer/ Gender Nonconforming                          Transgender*             Transgender*
+                               Different Identity: Please State: ________________         Transgender*             Transgender*
+                               Cisgender = Nontransgender.
+Cisgender ¼ nontransgender. Adding these cells results in overall prevalence of transgender.
+     In addition to supporting within-cohort                                           for contemporary cohort studies [59–61]. Availabil-
+analyses, the study could also identify comparable                                     ity of a biorepository in a multisite cohort study
+reference groups of cisgender males and females to                                     would offer a variety of opportunities for case-
+conduct comparative studies, including nested case-                                    cohort and nested case-control studies.
+cohort designs.                                                                             A priority in transgender health research is
+     In a longitudinal cohort study of transgender                                     evaluation of risk and benefits of gender affirmation
+patients, additional data can be obtained through a                                    therapies, such as hormones and surgical interven-
+variety of methods during follow-up. Linkages with                                     tions. Although randomized clinical trials of gender
+external data sources such as the National Death                                       affirmation are not always possible or ethical,
+Index, cancer registries, and Medicare and Medicaid                                    multiple areas of equipoise remain. For example,
+may offer an efficient way of assessing morbidity                                      one could design and implement clinical trials com-
+and mortality. In addition, new diagnoses and                                          paring different delivery modes and schedules
+changes in medications, procedures, and test results                                   for hormonal therapy. Another area that lends itself
+can be obtained from periodic reviews of medical                                       to interventional studies is patient management.
+records, using electronic data searches and abstrac-                                   Practice-level randomized studies could test various
+tion methods [35,55]. A number of important out-                                       patient navigation methods or physician-decision
+comes, such as quality of life and satisfaction with                                   algorithms aimed at standardizing and optimizing
+care, can only be obtained by self-report (in-person,                                  gender affirmation including referrals, hormonal
+or via mailed or online surveys) as commonly done                                      treatment, and postsurgery management and
+in other areas of comparative effectiveness research                                   follow-up.
+[56–58]. Rich data can also be obtained through                                             In the absence of randomized studies, some of
+collection of biological specimens, a sine qua non                                     the questions in transgender health can be answered
+1752-296X Copyright ß 2016 Wolters Kluwer Health, Inc. All rights reserved.                                        www.co-endocrinology.com 203
+                           Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+                                                                            Health-system site 1
+                                                                            1500–6000 participants
+                                                                            Health-system site 2
+                                   Epidemiology/                            1500–6000 participants
+                                   biostatistics/
+                                   methods core                             Clinic site 1
+                                                                            2000-300 participants
+                                   Data
+                                                                            Clinic site 2
+                                   management
+                                                                            2000–3000 participants
+                                   core                                                                                                   Total cohort:
+                                                                                                                                          10 000–25 000
+                                   Clinical care/                           Venue site 1
+                                                                                                                                          participants
+                                   specimen                                 500–1000 participants
+                                   repository
+                                   core                                     Venue site 2
+                                                                            500–1000 participants
+                                   Community
+                                   and patient                              Population-based site 1
+                                   engagement                               500-1000 participants
+                                   core
+                                                                            Population-based site 2
+                                                                            500–1000 participants
+FIGURE 3. A concept of a multisite US national transgender cohort study.
+   Table 3. Anticipated sample sizes required for risk ratios of various magnitude assuming binary outcomes, statistical power of
+   80%, and a range of outcome occurrence estimates among the nonexposed (P0)a
+  Two-sided a-error ¼ 0.05, exposed-to-unexposed ratio ¼ 1 : 10
+     P0                                                  RR ¼ 1.5                                                     RR ¼ 1.75                                                   RR ¼ 2.0
+     0.005                                                 7290                                                         3688                                                        1874
+     0.01                                                  3541                                                         1639                                                        933
+     0.05                                                  686                                                          312                                                         179
+  Two-sided a-error ¼ 0.01, exposed-to-unexposed ratio ¼ 1 : 10
+     P0                                                  RR ¼ 1.5                                                     RR ¼ 1.75                                                   RR ¼ 2.0
+     0.005                                                  10847                                                          4812                                                       2789
+     0.01                                                    5268                                                          2435                                                       1388
+     0.05                                                    1021                                                           464                                                        266
+  Two-sided a-error ¼ 0.05, exposed-to-unexposed ratio ¼ 1 : 1
+     P0                                                  RR ¼ 1.5                                                     RR ¼ 1.75                                                   RR ¼ 2.0
+     0.005                                                  15813                                                          7396                                                       4678
+     0.01                                                    7686                                                          3814                                                       2321
+     0.05                                                    1475                                                           718                                                        437
+  Two-sided a-error ¼ 0.01, exposed-to-unexposed ratio ¼ 1 : 1
+     P0                                                  RR ¼ 1.5                                                     RR ¼ 1.75                                                   RR ¼ 2.0
+     0.005                                                  23528                                                         11004                                                       6956
+     0.01                                                   11437                                                          5674                                                       3454
+     0.05                                                    2194                                                          1068                                                        650
+a
+  Each cell shows number of exposed study participants.
+
+   A P0 of 0.5% corresponds to an approximate annual incidence of prostate cancer among natal men over 50 years of age or a 15-year risk of ovarian cancer in natal women over
+40 years of age [52]. A P0 of just under 1% is an estimate of all-cause mortality in the United States [53], and a P0 of about 10% is prevalence of diabetes mellitus in US adults [54].
+204            www.co-endocrinology.com                                                                                                  Volume 23  Number 2  April 2016
+                            Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+   Table 4. Recommended terminology for various descriptors, based on identified or affirmed sexa
+                                  Sex assigned                                  Androphilicb                Gynephilic                  Mixed sexual
+  Sex identity                    at birth            Term                      orientation identity         orientation identity       orientation identity
+  Female                          Female              Cisgender woman           Heterosexual/straight       Homosexual/lesbian          Bisexual/pansexual/queer
+  Male                            Male                Cisgender man             Homosexual/gay              Heterosexual/straight       Bisexual/pansexual/queer
+  Female                          Male                Trans(gender)             Heterosexual/straight       Homosexual/lesbian          Bisexual/pansexual/queer
+                                                         woman
+  Transgender female/             Male                Trans(gender)             Heterosexual/straight       Homosexual/lesbian          Bisexual/Pansexual/queer
+     transfemale/male-                                   woman
+     to-female
+  Male                            Female              Trans(gender) man         Homosexual/gay              Heterosexual/straight       Bisexual/pansexual/queer
+  Transgender male/               Female              Trans(gender) man         Homosexual/gay              Heterosexual/straight       Bisexual/pansexual/queer
+     transmale/female-
+     to-male
+  Nonbinary/fluid/                Male                Trans feminine            Varies by individual        Varies by individual        Varies by individual
+     genderqueer                                         spectrum
+                                                         individual
+  Nonbinary/fluid/                Female              Trans masculine           Varies by individual        Varies by individual        Varies by individual
+     genderqueer                                         spectrum
+                                                         individual
+  Gender identity not             Either              Varies by                 Varies by individual        Varies by individual        Varies by individual
+     listed here (avoid                                  individual
+     using the word
+     ‘other’)
+a
+  An increasing proportion of transgender people have an identity and sexual orientation identity outside of historical binaries. The term ‘queer’ describes a range
+of fluid and nonbinary gender and sexual identities and may be used in combination with the terms listed to describe particular subpopulations.
+b
+  Note: Transgender men and women may identify only as ‘male/female’ or as ‘transgender male/female.’ Androphilic and gynephilic are terms used to describe
+sexual orientation identity. Androphilic describes sexual attraction to men or masculinity. Gynephilic describes sexual attraction to women or femininity. The terms
+are used to identify a person’s attraction without attributing gender identity or sex assignment to the individual. Cisgender refers to being nontransgender. This
+table refers to sexual orientation identity – additional questions regarding sexual behaviors and sexual organs involved in the sexual practices are recommended
+in clinical settings.
+through observational comparative effectiveness                                         will ensure that study design and data collection
+research or implementation science methods [62].                                        methods are feasible and acceptable to participants
+To achieve this goal, data capture should include a                                     [35]. Moreover, in longitudinal studies, for example,
+full history of hormonal exposures and surgical                                         in a prospective cohort, long-term follow-up and
+procedures, therapy received both within and out-                                       ability to recontact participants are keys to success
+side of professional care settings, and gender-affirm-                                  given attrition is the primary threat to validity [64].
+ing treatments both in the USA and abroad.                                              Ways of maximizing retention and protocol adher-
+Validated tools are needed to standardize collection                                    ence should be explored though formative qualita-
+of these patient data elements.                                                         tive and pilot studies, as in other areas of research
+        Regardless of study design or research question,                                with hard-to-reach populations [65,66]. Transgen-
+there is a need for standardized terminology to                                         der health studies will likely benefit from applying
+describe transgender identity and history. Demo-                                        community-based research principles to work ‘with’
+graphic groupings by gender identity should be                                          not ‘on’ transgender people [67] in the design,
+grounded in current best practices to ensure appro-                                     implementation, and dissemination of research
+priate comparisons across genotypic, phenotypic,                                        and to foster trust and synergy between researchers
+and identity categories. Table 4 contains specific                                      and local communities [68,69].
+identity terminology recommendations, taking into
+consideration the increasing proportion of trans-
+gender people who have an identity and sexual                                           CONCLUSION
+orientation outside of historical binaries. Terminol-                                   Transgender health research would benefit from
+ogy for gender-affirming treatments should also be                                      methodological advances that ensure adequately
+consistent and descriptive.                                                             powered statistical analyses, representation of hard-
+        A critical feature of research with transgender                                 to-reach subgroups, a consistent agreed upon shared
+people is patient centeredness [63]. Engaging local                                     lexicon, unified protocols across studies for collecting
+transgender community members from the start                                            data on treatment and health outcomes over time,
+1752-296X Copyright ß 2016 Wolters Kluwer Health, Inc. All rights reserved.                                         www.co-endocrinology.com                     205
+                              Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+                                                                                    2. Bockting WO, Miner MH, Swinburne Romine RE, et al. Stigma, mental health,
+ability to pool data across sites, and ample opportu-                                  and resilience in an online sample of the us transgender population. Am J
+nities for ancillary and nested studies, including                                     Public Health 2013; 103:943–951.
+                                                                                    3. Budge SL, Adelson JL, Howard KA. Anxiety and depression in transgender
+clinical trials. Based on the strengths and limitations                                individuals: the roles of transition status, loss, social support, and coping.
+of different approaches discussed in the previous                                      J Consult Clin Psychol 2013; 81:545–557.
+                                                                                    4. Habarta N, Wang G, Mulatu MS, Larish N. HIV testing by transgender status
+sections, some transgender health studies should                                    &  at centers for disease control and prevention-funded sites in the united states,
+be health systems-based, some clinic-based, some                                       puerto rico, and us virgin islands. Am J Public Health 2015; 105:1917–1925.
+                                                                                  Article describing trends in HIV testing data from the Centers for Disease Control
+should conduct venue-based sampling, and some                                     and Prevention by transgender status.
+should deploy hybrid designs. It is expected that                                   5. Coulter RW, Blosnich JR, Bukowski LA, et al. Differences in alcohol use and
+                                                                                       alcohol-related problems between transgender- and nontransgender-identi-
+studies will have different methodological strengths                                   fied young adults. Drug Alcohol Depend 2015; 33:287–295.
+and address diverse aspects of the transgender health                               6. Feldman J, Romine RS, Bockting WO. HIV risk behaviors in the U.S.
+                                                                                       Transgender population: prevalence and predictors in a large internet sample.
+research agenda. Broadening methodologies used in                                      J Homosex 2014; 61:1558–1588.
+transgender health research represents a key next                                   7. Reisner SL, Bailey Z, Sevelius J. Racial/ethnic disparities in history of
+                                                                                       incarceration, experiences of victimization, and associated health indicators
+step to further scientific and clinical knowledge                                      among transgender women in the U.S. Women Health 2014; 54:750–767.
+and advance health equity for transgender people.                                   8. Blosnich JR, Brown GR, Shipherd Phd JC, et al. Prevalence of gender identity
+                                                                                       disorder and suicide risk among transgender veterans utilizing veterans health
+                                                                                       administration care. Am J Public Health 2013; 103:e27–e32.
+Acknowledgements                                                                    9. Brown GR, Jones KT. Health correlates of criminal justice involvement in 4793
+                                                                                       transgender veterans. LGBT Health 2015; 2:297–305.
+None.                                                                             10. Brown GR, Jones KT. Incidence of breast cancer in a cohort of 5135
+                                                                                  &    transgender veterans. Breast Cancer Res Treat 2015; 149:191–198.
+Financial support and sponsorship                                                 This article presents breast cancer incidence and risk data from a large cohort of
+                                                                                  transgender veterans.
+This work was supported in part by the Eunice Kennedy                             11. Nuttbrock L, Bockting W, Rosenblum A, et al. Gender abuse and major
+                                                                                       depression among transgender women: a prospective study of vulnerability
+Shriver National Institute of Child Health and Human                                   and resilience. Am J Public Health 2014; 104:2191–2198.
+Development of the National Institutes of Health                                  12. Keo-Meier CL, Herman LI, Reisner SL, et al. Testosterone treatment and
+                                                                                       mmpi-2 improvement in transgender men: a prospective controlled study. J
+(R13HD084267), the Endocrine Society, the Tawani                                       Consult Clin Psychol 2015; 83:143–156.
+Foundation, the World Professional Association for                                13. MacCarthy S, Reisner SL, Nunn A, et al. The time is now: attention increases
+                                                                                       to transgender health in the United States but scientific knowledge gaps
+Transgender Health (WPATH), and the Program in                                         remain. LGBT Health 2015; 2:287–291.
+Human Sexuality at the University of Minnesota Medical                            14. Reisner SL, Poteat T, Keatley J, et al. Global health burden and needs of
+                                                                                       transgender populations: a systematic review. Lancet 2015. (In press).
+School. The content is solely the responsibility of the                           &
+                                                                                  Epidemiologic review of global transgender health research.
+authors and does not represent the official views of the                          15. Reisner S, Conron K, Scout N, et al. ‘Counting’ transgender and gender
+                                                                                       nonconforming adults in health research: recommendations from the gender
+National Institutes of Health, the Endocrine Society,                                  identity in U.S. Surveillance group. TSQ 2015; 2:34–57.
+WPATH, or the Department of Veterans Affairs.                                     16. Keyes KM, Galea S. Epidemiology matters. New York: Oxford University
+                                                                                       Press; 2014.
+      Dr Reisner was partially supported through a                                17. Rothman KJ, Gallacher JE, Hatch EE. Why representativeness should be
+Patient-Centered Outcomes Research Institute (PCORI)                                   avoided. Int J Epidemiol 2013; 42:1012–1014.
+                                                                                  18. Hernan MA. A definition of causal effect for epidemiological research.
+Award (CER-1403-12625). Dr Goodman was partially                                       J Epidemiol Community Health 2004; 58:265–271.
+supported through a PCORI Award (AD-12-11-4532)                                   19. Emanuel EJ, Wendler D, Grady C. What makes clinical research ethical?
+                                                                                       JAMA 2000; 283:2701–2711.
+and by the Eunice Kennedy Shriver National Institute                              20. Lilford RJ, Jackson J. Equipoise and the ethics of randomization. J R Soc Med
+of Child Health and Human Development of the                                           1995; 88:552–559.
+                                                                                  21. Coleman E, Bockting WO, Botzer M, et al. Standards of care for the health of
+National Institutes of Health under award number                                       transsexual, transgender, and gender-nonconforming people, version 7. Int J
+R21HD076387. All statements in this report, including                                  Transgenderism 2012; 13:165–232.
+                                                                                  22. Hembree WC, Cohen-Kettenis P, Delemarre-van de Waal HA, et al. Endo-
+its findings and conclusions, are solely those of the                                  crine treatment of transsexual persons: an endocrine society clinical practice
+authors and do not necessarily represent the views of                                  guideline. J Clin Endocrinol Metab 2009; 94:3132–3154.
+                                                                                  23. McCreesh N, Frost SD, Seeley J, et al. Evaluation of respondent-driven
+PCORI, its Board of Governors, or Methodology Com-                                     sampling. Epidemiology 2012; 23:138–147.
+mittee. Likewise, the content is solely the responsibility of                     24. Rothman KJ. Epidemiology: an introduction. New York: Oxford University
+                                                                                       Press; 2002.
+the authors and does not necessarily represent the official                       25. Chintapalli S, Goodman M, Allen M, et al. Assessment of a commercial
+views of the National Institutes of Health.                                            searchable population directory as a means of selecting controls for case-
+                                                                                       control studies. Public Health Rep 2009; 124:378–383.
+                                                                                  26. Conron KJ, Landers SJ, Reisner SL, Sell RL. Sex and gender in the us health
+Conflicts of interest                                                                  surveillance system: a call to action. Am J Public Health 2014; 104:970–976.
+                                                                                  27. Conron KJ, Scott G, Stowell GS, Landers SJ. Transgender health in massa-
+There are no conflicts of interest.                                                    chusetts: results from a household probability sample of adults. Am J Public
+                                                                                       Health 2012; 102:118–122.
+                                                                                  28. Deutsch MB, Buchholz D. Electronic health records and transgender patients:
+REFERENCES AND RECOMMENDED                                                        &    practical recommendations for the collection of gender identity data. J Gen
+                                                                                       Intern Med 2015; 30:843–847.
+READING                                                                           Practical recommendations for working with electronic health records for trans-
+Papers of particular interest, published within the annual period of review, have gender patient care.
+been highlighted as:                                                              29. Deutsch MB, Feldman JL. Updated recommendations from the world profes-
+&   of special interest                                                                sional association for transgender health standards of care. Am Fam Physician
+&& of outstanding interest
+                                                                                       2013; 87:89–93.
+                                                                                  30. Reisner SL, Conron KJ, Tardiff LA, et al. Monitoring the health of transgender
+ 1. Institute of Medicine. The health of lesbian, gay, bisexual, and transgender       and other gender minority populations: validity of natal sex and gender identity
+    people: building a foundation for better understanding. Washington, DC: The        survey items in a U.S. National cohort of young adults. BMC Public Health
+    National Academies Press; 2011.                                                    2014; 14:1224.
+206          www.co-endocrinology.com                                                                                 Volume 23  Number 2  April 2016
+                          Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+
+31. Williams institute launches first-of-its-kind study of U.S. Transgender popula-        50. Deutsch MB, Green J, Keatley J, et al. Electronic medical records and the
+     tion. Los Angeles: The Williams Institute UCLA School of Law; 2015; http://               transgender patient: Recommendations from the world professional associa-
+     williamsinstitutelawuclaedu/press/press-releases/transpop-announcement-                   tion for transgender health emr working group. J Am Med Inform Assoc 2013;
+     march-2015/#sthashTgQmKHHCdpuf. [Accessed 15 December 2015]                               20:700–703.
+32. Szklo M. Population-based cohort studies. Epidemiol Rev 1998; 20:81–90.                51. Tate CC, Ledbetter JN, Youssef CP. A two-question method for assessing
+33. Kauth MR, Shipherd JC, Lindsay J, et al. Access to care for transgender                    gender categories in the social and medical sciences. J Sex Res 2013;
+     veterans in the veterans health administration. Am J Public Health 2014;                  50:767–776.
+     104:S532–S534.                                                                        52. Surveillance Epidemiology and End Results Program, National Cancer In-
+34. Lieu TA, Hinrichsen VL, Moreira A, Platt R. Collaborations in population-based             stitute: Seerstat database: Incidence – seer 18 regs research data þ
+     health research: the 17th annual HMO Research Network Conference, March                   hurricane katrina impacted louisiana cases, Nov 2013 sub (1973–2011
+     23–25, 2011, Boston, Massachusetts, USA. Clin Med Res 2011; 9:137–140.                    varying) – linked to county attributes – total U.S., 1969–2012 counties,
+35. Goodman M, Fletcher RH, Doria-Rose VP, et al. Observational methods to                     based on the November 2013 submission. 2014.
+     assess the effectiveness of screening colonoscopy in reducing right colon             53. National Center for Health Statistics: Death in the United States, 2011, Press
+     cancer mortality risk: SCOLAR. J Comp Eff Res 2015; 4:541–551.                            Release, 2013
+36. Quinn V, Becerra T, Gillespie T, et al. Embedding patients, providers, and             54. U.S. Department of Health and Human Services: National diabetes statistics
+     community stakeholders in research to improve transgender health. J Patient-              report: Estimates of diabetes and its burden in the united states, 2014, Press
+     Centered Res Rev 2015; 2:114–115.                                                         Release, 2014
+37. Van Caenegem E, Wierckx K, Taes Y, et al. Body composition, bone turnover,             55. Guy GP Jr, Lipscomb J, Gillespie TW, et al. Variations in guideline-concordant
+     and bone mass in trans men during testosterone treatment: 1-year follow-up                breast cancer adjuvant therapy in rural georgia. Health Serv Res 2015;
+     data from a prospective case-controlled study (enigi). Eur J Endocrinol 2015;             50:1088–1108.
+     172:163–171.                                                                          56. Barocas DA, Chen V, Cooperberg M, et al. Using a population-based
+38. Wierckx K, Van Caenegem E, Schreiner T, et al. Cross-sex hormone therapy in                observational     cohort    study     to   address      difficult  comparative
+&    trans persons is safe and effective at short-time follow-up: results from the             effectiveness research questions: the ceasar study. J Comp Eff Res 2013;
+     european network for the investigation of gender incongruence. J Sex Med                  2:445–460.
+     2014; 11:1999–2011.                                                                   57. Grant MD, Marbella A, Wang AT, et al. Menopausal symptoms: comparative
+Evidence from a European cohort of safety and effectiveness of cross-sex hormone               effectiveness of therapies. Rockville, MD: Agency for Healthcare Research
+therapy for transgender people.                                                                and Quality; 2015.
+39. Kreukels BP, Haraldsen IR, De Cuypere G, et al. A European network for the             58. Boulet LP, Coeytaux RR, McCrory DC, et al. Tools for assessing outcomes in
+     investigation of gender incongruence: the ENIGI initiative. Eur Psychiatry                studies of chronic cough: CHEST guideline and expert panel report. Chest
+     2012; 27:445–450.                                                                         2015; 147:804–814.
+40. Fuss J, Hellweg R, Van Caenegem E, et al. Cross-sex hormone treatment in               59. Howard VJ, Cushman M, Pulley L, et al. The reasons for geographic and racial
+     male-to-female transsexual persons reduces serum brain-derived neuro-                     differences in stroke study: objectives and design. Neuroepidemiology 2005;
+     trophic factor (BDNF). Eur Neuropsychopharmacol 2015; 25:95–99.                           25:135–143.
+41. Kitahata MM, Rodriguez B, Haubrich R, et al. Cohort profile: the centers for           60. Frank B, Ariza L, Lamparter H, et al. Rationale and design of three obser-
+     aids research network of integrated clinical systems. Int J Epidemiol 2008;               vational, prospective cohort studies including biobanking to evaluate
+     37:948–955.                                                                               and       improve   diagnostics,     management       strategies    and    risk
+42. What are federally qualified health centers (fqhcs)? 2015. http://www.                     stratification in venous thromboembolism: the vteval project. BMJ Open
+     hrsa.gov/healthit/toolbox/RuralHealthITtoolbox/Introduction/qualified.html.               2015; 5:e008157.
+     [Accessed 1 December 2015]                                                            61. Riboli E, Kaaks R. The epic project: Rationale and study design. European
+43. Reisner SL, Bradford J, Hopwood R, et al. Comprehensive transgender                        prospective investigation into cancer and nutrition. Int J Epidemiol 1997; 26
+     healthcare: the gender affirming clinical and public health model of fenway               (Suppl 1):S6–S14.
+     health. J Urban Health 2015; 92:584–592.                                              62. Madon T, Hofman KJ, Kupfer L, Glass RI. Public health. Implementation
+44. MacKellar D, Valleroy L, Karon J, et al. The Young Men’s Survey: methods for               science. Science 2007; 318:1728–1729.
+     estimating HIV seroprevalence and risk factors among young men who have               63. Gabriel SE, Normand SL. Getting the methods right: the foundation of patient-
+     sex with men. Public Health Rep 1996; 111 (Suppl 1):138–144.                              centered outcomes research. N Engl J Med 2012; 367:787–790.
+45. Muhib FB, Lin LS, Stueve A, et al. Community Intervention Trial for Youth              64. Rothman KJ, Greenland S. Cohort studies. In: Rothman KJ, Greenland S,
+     Study T: a venue-based method for sampling hard-to-reach populations.                     Lash TL, editors. Modern epidemiology. Lippincott Williams and Wilkins;
+     Public Health Rep 2001; 116 (Suppl 1):216–222.                                            2008.
+46. MacKellar DA, Gallagher KM, Finlayson T, et al. Surveillance of HIV risk               65. Ofstedal MB, Weir DR. Recruitment and retention of minority participants in
+     and prevention behaviors of men who have sex with men: a national applica-                the health and retirement study. Gerontologist 2011; 51 (Suppl 1):S8–S20.
+     tion of venue-based, time-space sampling. Public Health Rep 2007; 122                 66. Wallace DC, Bartlett R. Recruitment and retention of african american and
+     (Suppl 1):39–47.                                                                          hispanic girls and women in research. Public Health Nurs 2013; 30:159–
+47. Identity development, risk, and resilience among gender diverse populations.               166.
+     2014. https://www.collectiveip.com/grants/NIH:8815604. [Accessed 15                   67. Leung MW, Yen IH, Minkler M. Community based participatory research: a
+     December 2015]                                                                            promising approach for increasing epidemiology’s relevance in the 21st
+48. Magnani R, Sabin K, Saidel T, Heckathorn D. Review of sampling hard-to-                    century. Int J Epidemiol 2004; 33:499–506.
+     reach and hidden populations for HIV surveillance. AIDS 2005; 19 (Suppl 2):           68. Radix AE, Lelutiu-Weinberger C, Gamarel KE. Satisfaction and healthcare
+     S67–S72.                                                                                  utilization of transgender and gender nonconforming individuals in
+49. Cahill S, Singal R, Grasso C, et al. Do ask, do tell: High levels of acceptability by      nyc: a community-based participatory study. LGBT Health 2014; 1:302–
+&    patients of routine collection of sexual orientation and gender identity data in four     308.
+     diverse american community health centers. PLoS One 2014; 9:e107104.                  69. Reisner SL, Gamarel KE, Dunham E, et al. Female-to-male transmasculine
+Study of community health centers showing high levels of acceptability in collect-             adult health: a mixed-methods community-based needs assessment. J Am
+ing patient data on gender identity and sexual orienation.                                     Psychiatr Nurses Assoc 2013; 19:293–303.
+1752-296X Copyright ß 2016 Wolters Kluwer Health, Inc. All rights reserved.                                             www.co-endocrinology.com                        207
+                                 Copyright © 2016 Wolters Kluwer Health, Inc. All rights reserved.
+

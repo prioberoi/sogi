@@ -1,0 +1,434 @@
+NOTICE:       The copyright law of the United States
+(Title 17, U.S. Code) governs the making of photocopies or other
+reproductions of copyrighted material. Under certain conditions
+specified in the law, libraries and archives are authorized to furnish a
+photocopy or other reproduction. One of these specified conditions
+is that the photocopy or reproduction is not to be "used for any
+purpose other than private study, scholarship, or research."
+The CDC library absorbs the cost of copyright fees charged by
+publishers when applicable and the cost of articles and books
+obtained from other libraries. Copyright fees average $35.00 and
+fees charged by the lending libraries are between $10 and $15 per
+request
+
+                                              TSQ
+Counting Trans* Patients
+A Community Health Center Case Study
+                   N ATA L I E I N G R A H A M , VA N E S SA P R AT T, a n d N IC K G O R TO N
+Abstract With the Affordable Care Act revolutionizing the US health care system, the importance of
+collecting clinical, demographic, operational, and utilization data has exponentially increased for
+community health centers (CHC). Data collection of gender and gender identity presents a unique set
+of challenges for medical settings. One central challenge is the conflict between, on one hand, the
+need to know and use patients’ preferred names, gender identities, and pronouns to establish trust
+and safety and, on the other hand, institutional requirements to know and use patients’ legal names
+and gender markers with insurance companies and pharmacies. This essay examines how a community-
+based LGBTQ community health center, Lyon-Martin Health Services, collects and reports data about
+gender identity and how this process has changed over time. Lyon-Martin strongly supports the use of
+the two-step gender data collection method, which allows clinicians to have necessary information
+related to patients’ anatomy-based health care while simultaneously honoring and respecting
+patients’ gender identity and preferred pronouns. Collecting precise information about patient sex
+and gender is vital to providing not only respectful care but also medically appropriate care. The
+ability to quantify and justify the services provided by CHCs is a key part of keeping clinics open and
+thriving, from securing grant support to implementing internal quality improvement efforts to
+provide the best care for trans* patients. The shift toward electronic medical records and electronic
+practice management systems is also highlighted, including billing and clinical practice challenges
+due to narrowed gender options written into practice-management and billing software.
+Keywords trans* health care, health technology, community health center, trans* data collection
+W       ith the Affordable Care Act revolutionizing the US health care system, the
+        importance of collecting clinical, demographic, operational, and utiliza-
+tion data has exponentially increased for community health centers. Being able
+to quantify what we, as a community health center, do and whom we serve is
+expected, if not required, for governmental reporting, private funders, and
+quality improvement efforts. This type of data collection generally includes basic
+demographic information like gender, sexual orientation, race/ethnicity, and
+income. For clinics and hospitals, this information may also inform the type of
+health care received. Data collection of gender and gender identity presents a
+TSQ: Transgender Studies Quarterly * Volume 2, Number 1 * February 2015                            136
+DOI 10.1215/23289252-2848922 ª 2015 Duke University Press
+                          Published by Duke University Press
+
+                                             TSQ
+                    INGRAHAM, PRATT, and GORTON    * Counting Trans* Patients    137
+unique set of challenges for medical settings for a variety of reasons. One central
+challenge is the conflict between, on one hand, the need to know and use patients’
+preferred names, gender identities, and pronouns to establish trust and safety
+and, on the other hand, institutional requirements to know and use patients’ legal
+names and gender markers with insurance companies and pharmacies. These
+challenges persist and perhaps even increase with the proliferation of electronic
+medical records and electronic health systems.
+Gender Identity: One- versus Two-Step Method
+The World Professional Association for Transgender Health (WPATH) Electronic
+Medical Record (EMR) working group recommends the two-step method of
+gender collection adopted by the US Centers for Disease Control and Prevention
+in 2011 (Deutsch et al. 2013). The two-step, or two-question, method involves asking
+on demographic forms about current gender identify first, then about previous
+gender (and/or sex) assignment, to honor the importance of current identity over
+past assignment.
+        This method of assessing gender in the social and medical sciences
+is considered more robust than a single-gender question (Tate, Ledbetter, and
+Youssef 2013). The authors recommend first asking “What is your current gender
+identity?” followed by “What gender were you assigned at birth?” This is opposed
+to a single-question assessment—for example, “What is your gender?” Charlotte
+Chuck Tate, Jay N. Ledbetter, and Cris P. Youssef argue that the two-step method
+allows for greater identification of transgender subjects (almost three times as
+many as the single-step question), less missing data, higher response rate (there
+was seven times more missing data in the one-step method than the two-step
+one), and specific identification of cisgender subjects,1 a data point that is
+impossible to extract without the two-step method. While previous studies of
+transgender health have reported using the two-step method (Deogracias et al.
+2007; Melendez et al. 2006), it is not commonly found in other large-scale data
+collection efforts.
+        This essay examines how a community-based LGBTQ community health
+center, Lyon-Martin Health Services, collects and reports data about gender
+identity and how this process has changed over time. First we present a brief review
+of Lyon-Martin’s history, current services, and patient demographics followed by a
+short examination of how gender-identity data collection has changed over time.
+Then we highlight specific gender-identity data collection and reporting chal-
+lenges. Finally, we explore future directions and challenges based on the imple-
+mentation of electronic medical records and other automated health systems.
+                             Published by Duke University Press
+
+                                           TSQ
+138       TSQ * Transgender Studies Quarterly
+Lyon-Martin Health Services
+Lyon-Martin Health Services (LMHS) is a nonprofit community health center
+founded in 1979 by a group of medical providers and health activists.2 Today, as a
+federally qualified health center,3 Lyon-Martin offers an integrated model of
+primary care and behavioral health to patients who identify as women and/or
+transgender, regardless of ability to pay. LMHS currently has twenty-five full- and
+part-time staff members and serves approximately two thousand patients a year.
+It serves a highly diverse patient population, including 32 percent trans*,4 49
+percent LGBQ (lesbian, gay, bisexual, and queer), 43 percent people of color, and
+approximately 80 percent patients below the federal poverty line. LMHS is also
+well-known for its transgender health education program, Project HEALTH, a
+joint program with the Transgender Law Center that aims to expand health care
+access for trans* patients.5
+LMHS Gender Data Collection Changes over Time
+As mentioned above, Lyon-Martin’s origin was as a service for cisgender lesbian
+women. However, its mission statement and patient population have shifted over
+time. Figure 1 reflects the total number of patients from data available from 2003
+to 2013.
+         These data from the California Office of Statewide Health Planning and
+Development (OSHPD) also include gender categories, although there are only
+two genders available in these reports. The figure reflects an increasing number of
+LMHS patients who are categorized as male. These reports are an example of the
+potential inaccuracies in gender data collection. Not only are there only two
+genders available in the report; it is impossible to know, based on these reports, if
+these numbers reflect patients’ sex assigned at birth or patients’ gender identity.
+For example, the increase in male patients could reflect an increase in FTM or
+trans male patients if these reports reflect current gender identity. Alternatively, if
+these reports reflect sex assigned at birth, the increase in male patients reflects the
+increasing number of trans women in the patient population.
+Figure 1. LMHS patient population by gender, 2003–2013
+                        Published by Duke University Press
+
+                                            TSQ
+                   INGRAHAM, PRATT, and GORTON    * Counting Trans* Patients    139
+        Our past patient demographic forms reflect a shift in gender data col-
+lection as well. Based on a review of past forms, table 1 shows changes in our
+assessments of gender, sex assigned at birth, sexual orientation, and pronoun
+preference in the last fifteen years. These are based on charts from trans* patients
+who have had LMHS as their primary-care home for five or more years. Forms
+used before 1999 were not available.
+        Additional gender categories (such as genderqueer) were added over time
+based on patients’ response to the open-ended “Other” option. Patients are also
+increasingly reporting “my name” as a preferred pronoun, though this has not yet
+been formalized into our data collection forms. Our most recent revision includes
+the addition of a third gender assessment: “For billing purposes if you have
+insurance, what gender do they have on record for you?” This allows us to bill
+insurances without rejection, since every piece of demographic information
+entered for a patient must match what the insurance company has on file before a
+bill can be processed and paid.
+Current LMHS Gender and Sexual Orientation Data Collection Procedures
+Lyon-Martin collects patient gender identity and sexual orientation data at var-
+ious stages of the clinical encounter. New patients or patients reestablishing care
+after more than three years are asked to complete a patient intake demographic
+form that asks about gender identity, sex assigned at birth, insurance gender
+marker, sexual orientation, and pronoun preferences, all as separate questions.
+These forms are available in English and Spanish (see fig. 2).
+        Additionally, patients complete update forms (given at an annual exam or
+more often if the patient notes a change in contact information), where we ask
+questions related to gender identity (see fig. 3).
+        Lyon-Martin strongly supports the use of the two-step gender data col-
+lection method. This method allows clinicians to have necessary information
+related to patients’ anatomy-based health care while simultaneously honoring
+and respecting patients’ gender identity and preferred pronouns. Additionally,
+this method also allows for more complete data collection information from a
+quality-management and data-reporting perspective. For example, in an analysis
+of patients seen from May to November 2013, if we asked only about gender
+identity, 30 percent of our patients would be counted as trans*. Compare this to
+the two-step method, where, instead, 32 percent of our patients are counted as
+trans*. It is also important to note that these two figures reflect a collapse
+of noncisgender gender identities (such as transgender, genderqueer, or nonbi-
+nary) under one trans* umbrella term. In addition, the two-step method also
+makes another option available to our patients: that one can be trans* without
+                             Published by Duke University Press
+
+                                                   TSQ
+140          TSQ   * Transgender Studies Quarterly
+Table 1. Changes in LMHS data collection forms (1999–2013)
+                                          Gender Identity              Gender Identity   SAABa Assessed
+Year             Form Type                Assessed (Yes/No)            Answer Options    (Yes/No)
+1999–2001        Health history           No (see sexual               N/A               No
+                                          orientation)
+2002             Patient                  Yes (“Gender”)               Female            No
+                 registration                                          Transgender
+                                                                         (M‐F/F‐M)
+                                                                       Other ______
+2005             Grant data form          No                           N/A               No
+2006b            Patient                  Yes (“What is your           Female            Yes (“What is
+                 demographic              gender?” [mark one])         Male              your sex?”
+                                                                       Transgender/      [mark one])
+                                                                         transsexual MtF
+                                                                       Transgender/
+                                                                         transsexual FtM
+                                                                       Other ______
+                                                                       Decline
+2010             Patient intake           Yes                          Female            Yes
+                                                                       Male
+                                                                       Decline
+2012–now         Patient intake           Yes                          Female            Yes
+                                                                       Male
+                                                                       Transgender MtF
+                                                                       Transgender FtM
+                                                                       GenderQueer
+                                                                       Other ______
+                                                                       Decline
+a
+  SAAB = sex assigned at birth.
+b
+  2006 is the ﬁrst record of the two‐step gender assessment’s use at LMHS.
+c
+  2006 is the ﬁrst year intersex appears as an option for SAAB.
+necessarily having a trans identity (e.g., marking male for sex and female for
+gender). For example, a trans woman can choose female as her gender versus
+transgender or MTF on an intake form while still indicating that she was assigned
+male at birth. This flags the staff to give this patient trans*-specific health care
+while respecting her preferred gender identity. While this possibility has not been
+                              Published by Duke University Press
+
+                                                TSQ
+                   INGRAHAM, PRATT, and GORTON          * Counting Trans* Patients        141
+SAAB Answer   Sexual Orientation     Sexual Orientation     Pronoun Assessed Pronoun Answer
+Options       Assessed (Yes/No)      Answer Options         (Yes/No)         Options
+N/A           Yes (“How do you       Lesbian                No               N/A
+              identify yourself,     Bisexual
+              sexually?”)            Heterosexual
+                                     Transgender
+                                     Celibate
+N/A           No                     N/A                    No               N/A
+N/A           Yes (open‐ended with Some patients wrote No                    N/A
+              “sexual orientation” in transgender as
+              as prompt)             sexual orientation
+Female        Yes (Decline option    Lesbian                Yes              She/Her
+Male          introduced)            Gay                                     He/Him
+Intersexc                            Bisexual                                Sie/Zie/Hir
+Other ______                         Heterosexual/straight                   Other ______
+Decline                              Queer
+                                     Celibate
+                                     Other ______
+                                     Decline
+Male          Yes                    Lesbian                Yes              She/Her
+Female                               Queer                                   He/Him
+Intersex                             Bisexual                                Zee/Hir
+Other ______                         Gay
+Decline                              Celibate
+                                     Heterosexual
+Male          Yes                    Lesbian                Yes              She/Her
+Female                               Gay                                     He/His
+Intersex                             Queer                                   They/Them/Their
+Other ______                         Bisexual                                Ze/Hir
+Decline                              Heterosexual                            Other ______
+                                     Celibate
+                                     Other ______
+                                     Decline
+noted in other literature on the two-step method, we believe that it allows patients
+to most clearly express their preferred gender identity.
+LMHS Gender Data Collection Challenges
+Even the more accurate two-step method of gender data collection brings chal-
+lenges when collapsing gender categories for internal quality control analysis as
+well as when reporting to outside entities, such as funding agencies, foundations,
+                              Published by Duke University Press
+
+                                           TSQ
+142       TSQ  * Transgender Studies Quarterly
+and health departments. For example, genderqueer patients or those who utilize
+the self-defined “other” category are routinely combined with both trans men and
+trans women in data analysis under one trans* umbrella for reporting purposes.
+Additionally, outside entities often want or need sex data in order to match our
+records to other databases. We know internally that sex data do not translate
+Figure 2. Lyon-Martin Health Services demographic forms (as of August 2014)
+                        Published by Duke University Press
+
+                                                  TSQ
+                     INGRAHAM, PRATT, and GORTON          * Counting Trans* Patients 143
+automatically to our patients’ current gender identities or pronoun preferences,
+but other agencies with less transgender cultural competency may not con-
+sider or understand this. Thus we ran into a customer service debacle earlier this
+year when patient data, including sex but not gender, provided for a utilization
+analysis was then used to infer pronoun preferences for a mailed patient satis-
+faction survey. Since we had such robust data from the two-step method and
+collecting pronoun preferences, we were able to quickly identify which patients
+had been misgendered and place outreach calls. Nonetheless, it was a poignant
+reminder of how challenging collecting patient-centered gender data can be
+when one has to translate them for outside entities that do not have the same
+diverse understanding of gender.
+         While it is known that binary gender options (male/female) offered by
+entities such as insurance companies or government agencies directly conflict
+with the wideness of the gender spectrum, we find that this is also true for
+other agencies tracking LMHS patients or patient outcomes. Required reporting
+for grant-giving foundation and health department data rarely accommodates
+patient gender information beyond the binary gender options. This sometimes
+means that nonbinary (genderqueer, identifying by name only) patients either get
+left out of data collection completely or are misgendered in the data reporting
+process by reversion to their sex assigned at birth for data purposes, especially
+if they are a part of specific reporting populations such as homeless patients or
+Figure 3. Lyon-Martin Health Services demographic update form (as of July 2014)
+                                Published by Duke University Press
+
+                                     TSQ
+144      TSQ * Transgender Studies Quarterly
+HIV-positive patients. Additionally, patients who may not choose to identify as
+trans* on their intake forms, such as the example in the previous section, still need
+to be counted as transgender for specific grant programs to provide an accurate
+reflection of the amount of transgender health care we provide.
+LMHS Electronic Practice Management and Electronic Health Records Challenges
+As implementation of electronic medical records and other automated health
+systems increases, we anticipate continued challenges for accurate collection
+of gender data for patient populations like those at Lyon-Martin and, indeed,
+all health organizations. The challenge we faced in 2013 with misgendering of
+patients during a utilization analysis with an outside agency is one example of the
+ways in which automated health systems like those in electronic practice man-
+agement (EPM), electronic medical records (EMR), or electronic health records
+(EHR) may not be sophisticated enough to deal with more than two genders
+(male and female). We have worked closely with the software designers during
+our ongoing EHR implementation process to make the systems as flexible as
+possible for patient demographic data collection. However, the software has its
+own limitations and thus we continue to adapt by making clinic-level procedural
+changes or work-arounds in order to ensure that health center staff identify our
+patients by their current preferred name and pronoun. Many EHRs also automate
+functions based on patient gender, such as which anatomical systems providers
+should review with patients. For example, a patient with gender marked female
+would have a provider prompt to review for pap smears and breast exams, while a
+male patient would be prompted for prostate screenings. Discrepancies between a
+patient’s preferred gender identity and anatomical medical needs created by
+automated health systems provide a significant barrier to trans* patients’ ability
+to receive safe, competent medical care.
+        M. B. Deutsch and colleagues (2013), from the World Professional Asso-
+ciation for Transgender Health EMR working group, provide specific recom-
+mendations for EMR and transgender patients, including utilization of optional
+data collection fields within the software as well as means for tracking patients’
+gender-related medical treatments and current anatomy. LMHS has utilized these
+optional data fields within our current EPM software; we chose to add sex
+assigned at birth, patient preferred name, preferred pronoun, and sexual orien-
+tation. However, only four optional fields could be added for the entire patient
+record, limiting our ability to collect more detailed information on other
+demographics beyond what is built into the existing program. The main challenge
+is incongruence between preferred gender and the gender reflected on patients’
+insurance cards. From April 2013 to February 2014, our schedule pulled from the
+preferred name, but this resulted in billing staff having to change individual
+                     Published by Duke University Press
+
+                                            TSQ
+                    INGRAHAM, PRATT, and GORTON   * Counting Trans* Patients     145
+patient gender for each bill. This system was not sustainable with our patient
+load and resulted in increased billing errors and automatically denied claims
+based on “incorrect” patient information. Currently, the system pulls a patient’s
+legal name for all billing documents in order to interface properly with outside
+systems such as pharmacies or outside labs. This issue also resulted in the most
+recent edits to our demographic form to assess insurance-identified gender. The
+preferred-name field is used for appointment interfacing such as searching for a
+patient within EPM or appointment reminder calls.
+Future Directions and Challenges
+We agree with Deutsch and colleagues’ recommendations and hope that pro-
+viding information about the challenges we have faced will help other clinics and
+hospitals move forward with respectful, accurate gender and sex data collection.
+Collecting precise information about patient sex and gender is vital to provid-
+ing not only respectful care but also medically appropriate care. The sweeping
+changes in health care as a result of the Affordable Care Act have already started to
+impact transgender individuals, especially those who were previously unable to
+access health care. However, this change also comes with the challenges high-
+lighted in this essay, including clashes between legal gender, preferred gender, and
+insurance companies and the necessity for individual providers to work around
+the binary-focused private or public insurance systems (Murtha 2014). Our ability
+to quantify and justify the services we provide and the individuals we serve is a
+key part of keeping our clinic open and thriving, from securing grant support to
+implementing internal quality improvement efforts to provide the best care for
+our patients. The Affordable Care Act’s expanded insurance coverage for trans*
+patients also means that the two-step method may need to evolve into three or
+more steps in the health care setting, as our most recent demographic form
+revisions indicate. All the pieces of demographic data for a patient must match
+across systems for the insurance billing process to work smoothly or even to work
+at all. For us, that means that we lost the most accurate patient data because of
+EPM limitations in number of optional fields; sex assigned at birth was replaced
+with sex assigned to insurance so that billing requests would move forward. This
+loss of accuracy is small but significant and will become increasingly so as more
+and more trans* individuals interact with the health care system under the
+Affordable Care Act.
+                            Published by Duke University Press
+
+                                              TSQ
+146        TSQ * Transgender Studies Quarterly
+Natalie Ingraham is a project coordinator at Lyon-Martin Health Services and a PhD candidate
+in sociology at the University of California, San Francisco.
+Vanessa Pratt is currently a project manager in the Practice Improvement Program at the San
+Francisco Health Plan. She contributed to this paper as the quality manager at Lyon-Martin
+Health Services.
+Nick Gorton is a primary care provider at Lyon-Martin Health Services. He is an openly trans-
+gender physician.
+Acknowledgments
+The authors would like to thank LMHS Medical Director Dr. Dawn Harbatkin for her review
+and guidance on this article and Elizabeth Sekera for her insight on the EPM/EHR processes at
+LMHS.
+Notes
+1.       The website for Basic Rights Oregon, an LGBT rights organization, defines cisgender (or
+         cissexual) as a term that describes “people who, for the most part, identify as the gender
+         they were assigned at birth” (Basic Rights Oregon 2011).
+2.       For a full history of Lyon-Martin, see Lyon-Martin Health Services 2014.
+3.       Federally Qualified Health Centers (FQHCs) must serve an underserved area or popu-
+         lation, offer a sliding fee scale, provide comprehensive services, have an ongoing quality
+         assurance program, and have a governing board of directors (see HRSA 2014).
+4.       The use of the term trans* reflects an adaptation of web-based language taken up by the
+         trans* community. The * (asterisk) is used as a wildcard in web searches by acting as a
+         placeholder or a fill-in-the-blank symbol. This symbol or representation has been applied
+         to gender identification to expand and include “folks who identify as transgender and
+         transsexual (the terms usually understood as included when the prefix trans is used on its
+         own) as well as other identities where a person does not identify with the gender they
+         were assigned at birth” (Jones 2013).
+5.       For more information about Project HEALTH, see Project HEALTH 2014.
+References
+Basic Rights Oregon. 2011. “Trans 101: Cisgender.” www.basicrights.org/uncategorized/trans-101
+         -cisgender/.
+Deogracias, Joseph J., et al. 2007. “The Gender Identity/Gender Dysphoria Questionnaire
+         for Adolescents and Adults.” Journal of Sex Research 44, no. 4: 370–79. doi:10.1080
+         /00224490701586730.
+Deutsch, M. B., et al. 2013. “Electronic Medical Records and the Transgender Patient: Recom-
+         mendations from the World Professional Association for Transgender Health EMR
+         Working Group.” Journal of the American Medical Informatics Association 20, no. 4: 700–
+         703. doi:10.1136/amiajnl-2012-001472.
+                           Published by Duke University Press
+
+                                                TSQ
+                     INGRAHAM, PRATT, and GORTON        * Counting Trans* Patients          147
+HRSA (Health Resources and Services Administration). 2014. “What Are Federally Qualified
+        Health Centers (FQHCs)?” HRSA, US Department of Health and Human Services. www
+        .hrsa.gov/healthit/toolbox/RuralHealthITtoolbox/Introduction/qualified.html (accessed
+        November 4, 2014).
+Jones, Nash. 2013. “Bridging The Gap—Trans*: What Does the Asterisk Mean and Why Is It
+        Used?” The Q Center, Bridging the Gap (blog), August 8. www.pdxqcenter.org/bridging
+        -the-gap-trans-what-does-the-asterisk-mean-and-why-is-it-used.
+Lyon-Martin Health Services. 2014. “The Lyon-Martin Story.” lyon-martin.org/about-us/the
+        -lyon-martin-story (accessed November 4, 2014).
+Melendez, Rita M., et al. 2006. “Health and Health Care among Male-to-Female Transgender
+        Persons Who Are HIV Positive.” American Journal of Public Health 96, no. 6: 1034–37.
+        doi:10.2105/AJPH.2004.042010.
+Murtha, Tara. 2014. “The Problem with Obamacare for Some Transgender Policyholders.” RH
+        Reality Check. rhrealitycheck.org/article/2014/03/12/problem-obamacare-transgender
+        -policyholders.
+Project HEALTH. 2014. “About Project HEALTH.” project-health.org/about-project-health
+        (accessed November 4, 2014).
+Tate, Charlotte Chuck, Jay N. Ledbetter, and Cris P. Youssef. 2013. “A Two-Question Method for
+        Assessing Gender Categories in the Social and Medical Sciences.” Journal of Sex Research
+        50, no. 8: 767–76. doi:10.1080/00224499.2012.690110.
+                               Published by Duke University Press
+

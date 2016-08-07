@@ -1,0 +1,321 @@
+Brian A. Kojetin, Bureau of Labor Statistics and Paul Mullin, Inst. of Gov. and Public Policy, Univ. of Illinois
+                   Brian A. Kojetin, BLS, 2 Massachusetts Avenue NE, Washington, DC 20212
+Keywords: Proxy Reporting, CPS                                 self and proxy reports. In a series of studies Sudman et
+    What do people living in the same household know           al. (1994) demonstrated that higher participation and
+about each other? Do they, for example, know the               more discussion were reliably related to the
+employment status, work and vacation hours, and wages          convergence of self and proxy reports. In a recent set of
+of other household members? Although household                 studies (Menon et al., 1995), they also showed that the
+surveys frequently ask such information about each             more participation and discussion that occurs between
+member in the household, it is a daunting and expensive        self and proxies, the more the cognitive strategies used
+task to obtain all of this information firsthand from each     by each is similar and the greater the convergence of
+person. Therefore, many household surveys accept               their reports.
+proxy reports from one person for all household                    In the present study we sought to extend the research
+members. In the case of the Current Population Survey          on proxy reporting to the specific context of a large,
+(CPS), proxy reporters typically provide about 50% of          well-known government survey, the Current Population
+the labor force data.         This level of reliance on        Survey (CPS), and to examine additional factors in
+information obtained by proxy may well lead one to be          understanding the convergence of self and proxy reports
+concerned about the quality of the data that proxies           that are apparent in this context and also may generalize
+supply.                                                        to other survey contexts as well. We have focused on
+    In a review of the literature on proxy reporting           the ways in which the proxy is likely to learn about the
+Moore (1988) found little evidence that self reports           labor force activities of the target person and factors
+were inherently superior to data provided by proxy.            underlying this knowledge acquisition process. One
+Rather than being a ringing endorsement of proxy               would expect, and the above mentioned research has
+reporting,     Moore's        review     articulated   the     shown, that some ways of knowing, such as
+methodological weaknesses of much of the relevant              participation and discussion, should lead to greater
+literature on proxy reports, and the paucity of reliable       convergence between self and proxy reports.            We
+information by which to accurately assess the quality of       believe it is also important to note that the underlying
+self and proxy reports.                                        context and perhaps even the motivation for a proxy to
+    More recently researchers have been approaching            acquire knowledge about another person is the
+the study of self and proxy differences from theoretical       relationship that exists between the two people. In most
+perspectives drawn from cognitive and social                   cases, people living in the same household have some
+psychology to provide a framework for understanding            kind of relationship with each other, and often these
+the differences in self and proxy reports. Furthermore,        relationships are the closest ones that the person has.
+several well-controlled experimental studies have been         There is also considerable variability in these
+conducted to examine processes underlying differences          relationships, but the more time household members
+in self and proxy reports. For example, Schwarz and            spend together and the more activities they engage in
+Wellens (1994) draw on social psychological theory             together, over a longer period of time, the more
+and research on actor-observer differences to derive a         knowledge they are likely to have about one another.
+set of hypotheses for differences in self and proxy            Furthermore, specialization frequently occurs within
+reports. In a series of experimental studies they provide      relationships such that certain household members may
+evidence that proxy reporters rely more on general             know more about other household members regarding
+dispositional information when making judgments about          some specific domains. For example, one household
+another person. Seymour Sudman and his colleagues              member may take more responsibility for paying the
+(Menon, Bickart, Sudman & Blair, 1995; Sudman,                 household bills, and this person is likely to place greater
+Bickart, Blair, & Menon, 1994) have also conducted a           importance on knowing the activities of other household
+program of research studies aimed at understanding the         members that are relevant to that task. Therefore, one
+cognitive processes that underlie self and proxy reports       would expect that proxy reporting would be better for
+and that help explain the convergence and divergence of
+1 The opinions expressed in this paper are those of the authors and do not necessarily reflect the opinions or policies
+of the Bureau of Labor Statistics. The authors wish to thank Oak Ridge National Laboratory for their programming
+of the instrument and the Institute of Social Research at the University of Tennesse for data collection.
+                                                           1110
+
+the proxy.                                                        16 years old, who would have been acceptable as a
+    There are additional aspects of this research that           respondent for the CPS, participated in the study. For
+differ from much previous research on proxy reporting.           each proxy report about another household member,
+For example, unlike many researchers studying the                respondents also answered questions concerning how
+quality of data provided by proxy reporters for a wide            they learned about that person's labor force activities
+variety of questions including frequency and attitudinal          and their recent interaction with and knowledge of that
+measures, we are not only interested in relative                 person's labor force activities.
+agreement, i.e., do self and proxy reports correlate well,        Subjects
+but are also concerned with the absolute values that                  Data collection was done by the Institute for Social
+each provides. When we ask a respondent about the                 Research at the University of Tennessee. Initially, they
+number of hours a household member worked or wages                conducted a random digit dialing telephone survey of
+earned, the actual value has meaning, and two reports            400 Knox county residents. Questions were asked to
+that consistently differ is problematic, regardless of the        determine the size of the household and the willingness
+high correlation between the reports. Researchers have            of members to participate in the study as well as
+also frequently utilized only married couples or even             demographic questions concerning the educational
+college roommates in studies of self and proxy                    levels and race of the household members. A sample of
+reporting. Because any responsible adult may serve as             households was drawn from this initial selecting
+a respondent in the CPS, we are also concerned about              households of different sizes and characteristics.
+the proxy reports of parents for children and vice versa,         Because we sought a relatively equal number of two,
+as well as other relatives and non-relatives within the           three and four person households and there were
+household.                                                        insufficient numbers of three and four person
+    The purpose of the present study was to first                 households from the RDD survey, extensive efforts
+examine the agreement between self and proxy reports              were made by the researchers at the University of
+involving important labor force activities using survey           Tennessee to recruit families with the desired
+questions from the Current Population Survey. Our                 characteristics. Some demographic characteristics of
+second goal was to examine factors that we expected               the sample is shown in Table 1. Data from three
+would be related to self-proxy agreement. Specifically,           households were lost completely due to software or
+we      included     measures     of    the     interaction,      hardware problems. Although attempts were made to
+communication, and relationship between self and                  obtain a sample that reflected the diversity and
+proxy reporters. We also sought to extent previous                characteristics of Knox County, Tennessee, this sample
+research by looking at other modes of communication in            is not representative, and was not intended to be
+addition to discussion and participation and to examine           representative.
+the proxy's use of general knowledge of another                   The Current Population Survey
+household member.                                                     The CPS is the primary household survey for
+    While some may argue that it might be preferable to           determining labor force status in the United States. In
+have external data to compare accuracy of self and                the present study a computerized self-administered
+proxy reports, we have employed self and proxy                    instrument containing all of the major CPS questions as
+agreement as our criteria of the quality of a proxy               well as additional measures was programmed by Oak
+report.    Although self-reporters are fallible human             Ridge National Laboratory.
+beings who may forget or may intentionally not provide                The CPS contains a variety of questions requiring
+complete information about their own labor force                  different kinds of responses. Many questions impose a
+activities, they are often the best criteria that can be          strict, recent specified time period, viz. the last week,
+reasonably obtained, and they also represent the only             for consideration and should elicit recall of more
+real alternative to proxy reports for survey researchers          specific instances. For example, "LAST WEEK did .....
+conducting household surveys.                                     do any work for pay?" Other questions draw upon more
+Method                                                            general knowledge and inferences about usual behavior,
+Overview of Design                                                such as "How many hours a week does ..... usually
+    All eligible members from ninety-seven households             work?" Because of the skip patterns, only proxies and
+completed        a    computerized        self-administered       self-reporters who went down the same path can be
+questionnaire that included questions from the CPS.               compared for many questions. For the purposes of the
+Household          members      completed        interviews       present paper, we will focus on CPS questions on
+independently and simultaneously on individual                    whether the person did any work for pay in the last
+personal     computers,     reporting    information     for      week, their usual hours, their actual hours, their usual
+themselves and every other eligible member of their
+                                                             1111
+
+last week (if they did not have a job).                        pay during the last week. Overall, 83.1% of the self and
+Measures of Communication                                      proxy responses were the same; however, because
+    We measured the source of information for major            answers to this item initiated different branching, only
+CPS questions by asking proxy's how they learned               the 339 proxy-self pairs who answered this question the
+about the labor force activities or information of another     same followed the same path from here onwards.
+household. For each major CPS question, proxies were               Respondents who did work for pay are routed to a
+presented with a list of possible ways they could have         series of questions about the hours they worked, their
+learned about the target person's activity or status, and      occupation, industry, and earnings. Specifically, in the
+they were to select as many of them as applied. The            redesigned CPS respondents are first asked how many
+possibilities included: participation with the target,         hours they usually work and then are asked questions
+conversation with the target, first hand observations,         about hours they took off last week or overtime hours
+hearing from others, reading information, and general          they worked last week and finally how many hours they
+knowledge of the target.                                       actually worked last week. The self and proxy reports
+Measures of Relationships                                      for usual and actual hours worked are shown in Table 2.
+    In this study we included modified measures that           Proxies reported that the target person usually worked
+were designed to measure important dimensions of               significantly fewer hours than the self reported.
+interpersonal relationships (Berscheid, Snyder, &              However, this difference does not appear for actual
+Omoto, 1989).           Household members indicated            hours worked last week. The correlation between self
+estimated the amount of time they spent with each other        and proxy reports is around r =.70, p < .01, for both
+during the past week and whether they engaged in a             usual and actual hours. In addition, there was 85.6%
+variety of different activities with each other during the     agreement on the classification of usual part-time or
+past week. We also collected information about the             full-time status, and approximately 75% of the self-
+type of relationship, for example, spouse, parent-child,       proxy dyads also gave the same answers to the
+and child-parent, etc.                                         questions on whether they took off any hours last week
+Results                                                        or worked any overtime hours.
+Overview of Data Analyses                                          A series of items on the CPS also inquire about
+    The present paper represents an initial report from a      earnings. All respondents are given the choice of what
+rich data set. The preliminary results of our research         time period is most convenient for them to report
+are presented in three sections. In the first section, we      earnings: hourly, weekly, biweekly, monthly, or
+examined self and proxy agreement for several                  annually. Thus, a person giving a self report may give
+important questions from the CPS. The next section             the amount from their biweekly paycheck and a proxy
+includes an examination of how well the proxy's mode           reporter may give that person's annual salary. To
+of learning about the target person is related to self-        compare the self and proxy reports of earnings all time
+proxy agreement. In the last section, we examine how           periods were converted to weekly earnings. There were
+the proxy's relationship with the target person and their      no significant differences in the level of earnings
+self-rated knowledge about the target person's labor           reported by self and proxy reporters as can be seen in
+force activities are related to self-proxy agreement.          Table 2, and the correlation between self and proxy
+Levels of Self and Proxy Agreement                             reports was r = .80, p < .01.
+    There were a total of 582 proxy reports to compare             Respondents who did not do any work for pay the
+with the self-reports (slightly less on some items with        previous week and did not report having a job are asked
+missing data). A total of 574 matched self-proxy dyads         if they have done anything to find work in the past four
+reported sufficient information to obtain labor force          weeks. This question, in combination with others, is
+classification and the results are shown below. Overall,       used to determine whether the person is unemployed or
+84.0% of the classifications were exactly the same and         not in the labor force. Overall, 69.9% of the self-proxy
+87.5% of the classifications were the same for in-the-         dyads answering this question gave the same answer
+labor-force versus not-in-the-labor-force.            The      Communication Mode and Self-Proxy Agreement
+unemployment rate reported by all self-reports was                 In the next phase of analyses we sought to examine
+ 11.9% and the unemployment rate using all proxy               factors that might account for differential agreement of
+reports was 12.8%.                                             some self-proxy pairs relative to others. In this section
+    Labor     force    classification    is   a  summary       we focus on the communication mode the proxy had for
+classification obtained from answering several CPS             learning about particular labor force activities of the
+questions. We will focus on the agreement for some of          target person. As can be seen in Table 3, some ways
+those questions as well as questions asked of employed         that proxies said that they learned about the labor force
+persons. One of the first and most important questions         activities of the target person were significantly related
+                                                           1112
+
+proxies who reported that they noticed the target              children acting as proxy reporters agreed less with the
+person's activities or knew this to be generally true of       target person's self-reports than spouses for hours and
+them were more likely to agree with the target persons         earnings, and siblings serving as proxies agreed less
+report that proxies not reporting these communication          with the target's self-reports for hours than spouses did.
+modes.                                                              Similarly, the correlations of self and proxy
+    We next examined whether communication mode                reporters for hours and earnings are shown separately
+was related to the relative agreement of self and proxy        for proxies with high and low levels of interaction and
+reporters for hours and earnings. Table 4 shows the            knowledge in Table 8. Proxies who did more activities
+correlations of the self and proxy reports for proxies         together with the target person showed higher
+reporting different communication modes. Findings for          correlations with the target person's self-reports than
+actual and usual hours were very similar, so only results      proxies who engaged in fewer activities. Proxies who
+for actual hours are reported for the rest of this paper.      said they know more about the target person's work
+Proxies who reported that the target person told them          related activities showed a higher correlation with the
+this information, who read something, or who noticed           self-reports of earnings than proxies who said they knew
+the target person's activities agreed more with the target     less about the target person's work-related activities.
+person's report for hours or earnings than did proxies         Conclusions
+who did not report learning through these                           The present paper contains some initial findings
+communication modes.                                           from a large study on the quality of proxy reports on
+Relationship Characteristics and Knowledge and Self-           B LS surveys. We sought to examine both the levels of
+Proxy Agreement                                                self and proxy agreement for a variety of important
+    We further examined the degree to which aspects of         questions from the CPS as well as some possible factors
+the relationship between the self and proxy were related       that would predict which proxy reporters would agree
+to their agreement about labor force activities. We            most with the self-report of the target person. Although
+chose spouses as a comparison for the other relationship       we found relatively high levels of self-proxy agreement
+types because they are common proxy reporters and are          and correlations compared to many studies of proxy
+expected to be quite accurate. As can be seen in Table         reporting, there is still sufficient room for concerns
+5, there were differences in self-proxy agreement for          about data quality because of the use of these data and
+different relationship types. Specifically, proxies who        the prevalence of proxy reporting in the CPS. In
+were not relatives or related in some other way than           examining communication modes, we found that
+parent, child or sibling agreed less with self-reports on      discussion and participation were not as important in
+whether the target person worked for pay last week than        this context as some other modes of communication or
+proxies who were spouses. Proxies who were siblings            reliance on general knowledge. This may be due in part
+or relatives other than parents or children agreed less        to other studies not examining some of the modes
+with the self-reports of the target person on whether he       included here as well as the nature of the questions
+or she did anything to look for work in the last four          being asked. We expected that relational factors would
+weeks.                                                         be more directly related to self-proxy agreement than
+    We next examined whether the amount of time and            was demonstrated here. It may be that these factors are
+the number of activities the self and proxy were together      more indirectly related through the use of
+for and the proxy's self-rated knowledge of the labor          communication mode and general knowledge.
+force activities of the target would be related to self-       Limitations
+proxy agreement. Although we performed statistical                  The structure of skip patterns in the CPS limits some
+tests using these relationship and knowledge variables         of the comparisons that we are able to make between
+as continuous, for purposes of illustration here we            self and proxy reporters. Proxies who answer the work
+performed median splits on each of these variables to          for pay question differently than the target person can
+distinguish low and high levels of interaction and             not be compared on any other questions because they go
+knowledge. As can be seen in Table 6, proxies who              down different paths and some paths have too few
+said they knew more about the work-related activities of       respondents      to make meaningful comparisons.
+the target person actually agreed more with the target         Furthermore, any comparisons for hours and earnings
+person's self-report on whether they did anything to            implied some prior agreement between the self and
+look for work in the past four weeks.                          proxy and may be restricting the range of some of our
+    To examine whether relationship type was related to        predictors of self-proxy agreement. We do not have
+self-proxy agreement for hours and earnings,                   data from this study reconciling differences between
+correlations between self and proxy reporters were              self and proxy reports which might help us arrive at an
+computed separately for each relationship type and are          accuracy measure. We also did not obtain external data
+                                                           1113
+
+The present study utilized a computerized self-                                                                      How well do you know your partner? Strategies for
+administered version of the CPS, which is an                                                                         formulating proxy-reports and their effects on the
+interviewer conducted survey in the Field. Errors may                                                                convergence to self-reports. Journal of Marketing
+enter into this self-administered version that would not                                                             Research, 32, 75-84.
+be present in an the actual CPS interview.                                                            Moore, J. C. (1988). Self/proxy response status and
+Future Directions                                                                                                     survey response quality: A review of the literature.
+    All of the participants in this study also completed                                                             Journal of Official Statistics, 4, 155-172.
+self and proxy reports for some expenditure categories                                                Schwarz, N. & Wellens, T.                                              (1994).         Cognitive
+from the Consumer Expenditure Surveys sponsored by                                                                    dynamics of proxy responding: The diverging
+BLS. We plan to examine these same factors in those                                                                  perspectives of actors and observers. Unpublished
+data and compare their importance in the context of                                                                   manuscript, U. S. Census Bureau, Washington, D.C.
+those questions about different purchases that were                                                   Sudman, S., Bickart, B., Blair, J., & Menon, G. (1994).
+made, which are highly specific and have differing time                                                               The effect of participation level on reports of
+boundaries.                                                                                                           behavior and attitudes by proxy reporters. In N.
+References                                                                                                            Schwarz and S. Sudman (Eds.) Autobiographical
+Berscheid, E., Snyder, M., and Omoto, A. M. (1989).                                                                   memory and the validity of retrospective reports.
+    The relationship closeness inventory: Assessing the                                                               New York: Springer-Verlag.
+    closeness of interpersonal relationships. Journal of
+    Personality and Social Psychology, 57, 792-807.
+Table 1. Description of the Sample
+Household Characteristics N = 97
+39 with 2 respondents; 30 with 3 respondents; 28 with 4 respondents
+57% Household Income from 20,001 to 60,000
+Respondent Characteristics N= 280 respondents
+Ages ranged from 16 to 85; mean 33.4 years; median 29 years.
+54% Females
+89% White
+60% High School Graduate or less
+ Table 2. Self and Proxy Agreement on Hours Worked and Earnings.
+                                       Usual Hours                                          Actual Hours                                            Earnings
+ Self-report                           34.15                                                32.85                                                   $314.86
+ Proxy report                          32.89                                                 32.45                                                  $303.88
+ Difference (F-value)                  5.13"                                                 .37                                                    1.33
+ Correlation (Pearson r)               .70**                                                 .69**                                                  .80**
+Note: Unless otherwise noted, for all Tables" ** p < .01 * p < .05                                                              + p < .10
+ Table 3. Communication Mode and Self-Proa y A~reement on CPS questions.
+  J
+      % Using as a Communication Mode
+                     ....
+                                                                     Do Any Work for Pay                                                              Doing Anything to Find Work
+                                                                                                                                                               .............     ___.~_
+                                                                                                                                                                                                    i
+                               - -   .             :+:.x+:+:.:..~,,~+.+..:. -. . . . . . . . . . . . . . . . . . . . . . .         x.,+. ~...+:.:.:
+~       ~                                       =======================
+ Conversation                                                      42.9%                                                   53.2%+                         38.2%                          50.6%
+ Learned from Someone else                                          12.2%                                                   8.50%                          8.8%                           6.3%
+ Participation                                                      18.4 %                                                  19.5 %                        17.7 %                         25.3 %
+ Observation                                                       32.7%                                                   52.0%*                         26.5%                          35.4%
+ Read something                                                      3.1%                                                   8.3 %+                         2.9%                           2.5%
+ General Knowledge                                                 35.7%                                                   53.6%**                        14.7%                         46.8%**
+                                                                             1114
+
+Conversation                                  .61               .77*                                                   .78                                              .77
+Learned from Someone else                     .69                .72                                                   .78                                              .55
+Participation                                 .71                .56                                                   .76                                              .95
+Observation                                   .63               .77"                                                   .75                                             .95+
+Read something                                .68                .87                                                   .74                                            .93**
+General Knowledge                             .72                .60                                                   .76                                              .87
+Table 5 Sel-Pro     A reement or di erent Relationshi T          es
+         Relationship Type                   Self and Proxy Match                                               Self and Proxy Match
+Spouse                                                85.1%                                                                                      81.8%
+Parent                                                89.1%                                                                                      80.0%
+Child                                                 86.0%                                                                                       83.3%
+Sibling                                               78.2%                                                                                    50.0%+
+Other relative                                       75.0%+                                                                                    56.3%+
+Other nonrelative                                    73.8%+                                                                                       80.0%
+          + p < .05 one-tailed comparison with spouse
+Table 6. Self-Proxy Agreement for different Relationship Characteristics and the Proxy's self-rated Knowledge
+about the Target.                                                           .                                                                                               .
+                                             Do Any Work for Pay                        Doing Anything to Find Work
+                                                                               =  =  =  =  =  =  =  =  =   =  =  =  =  = = = = = = = = = = = = = = = = = = = = = = =
+Activities Done Together                    82.5%              84.4%                                         64.0%                                                    71.9%
+Time Spent Together                         83.7%              82.2%                                         72.9%                                                   65.4%+
+Self-rated Knowledge                        82.8 %             83.6%                                         66.7 %                                                  72.9%*
+Table 7 Correlations o Pro       re orts with Sel-re orts b Relationshi~ Characteristics.
+                      . .  . . .                                         _ . . . . . . . . . . . . . . . . . . . . . .
+Spouse                                             .77                                        .77
+Parent                                             .78                                        .86
+Child                                             .55"                                     .51 *
+Sibling                                           .37*                                        .70
+Other relative                                     .66                                         .81
+Other nonrelative                                  .75                                         .74
+          • * p < .01     * p < .05 for comparisons made with spouse
+Table 8. Correlations of Proxy re~orts with Self-reports for different Rel.ationship Characteristics.
+~ ctivities Done Together
+   me Spent Together
+   If-rated Knowledge
+                                         .60
+                                         .68
+                                         .69
+                                                       .75"
+                                                        .69
+                                                        .68
+                                                                     .70
+                                                                     .76
+                                                                     .71
+                                                                                                                  .86**
+                                                                                                                     .79+
+                                                                                                                  .85"*
+                                                            1115
+

@@ -1,0 +1,910 @@
+Measuring sexual identity
+    A guide for researchers
+                                        2009
+                                    April  2009
+                               Lucy Haseldon
+                             Theodore Joloza
+                 Household, Labour Market and
+                      Social Wellbeing Division
+                   Office for National Statistics
+                         Government Buildings
+                                   Cardiff Road
+                                       Newport
+                                     NP10 8XG
+
+Foreword………………. ...................................................................................................... ……3
+Acknowledgements……………….                                 ……………………………………………………………..4
+1. Introduction .......................................................................................................................... 5
+2. Conceptual Framework ......................................................................................................... 5
+   2.1 Why ask this question? .................................................................................................... 5
+      Where can I find out more?............................................................................................... 6
+   2.2 What does the question set out to measure?.................................................................... 6
+      What is sexual orientation? ............................................................................................... 6
+      What is sexual identity? .................................................................................................... 6
+      Why measure sexual identity rather than sexual orientation?........................................... 7
+      Where can I find out more about definitions of sexual identity and sexual orientation?.. 7
+   2.3 How do people decide which group to place themselves in? .......................................... 7
+      Where can I find out more?............................................................................................... 7
+   2.4 When should this question be used?................................................................................ 8
+    Where can I find out more? ........................................................................................................... 8
+   2.5 How was this question developed?.................................................................................. 9
+      Where can I find out more?............................................................................................... 9
+3. The questions ....................................................................................................................... 11
+   3.1 Face-to-face .................................................................................................................. 11
+      Where can I find out more?............................................................................................. 11
+   3.2 Telephone ...................................................................................................................... 12
+      Where can I find out more?............................................................................................. 12
+   3.3 Self-completion.............................................................................................................. 12
+4. Key points for administration of the question...................................................................... 14
+   4.1 Question acceptability................................................................................................... 14
+   4.2 Who to ask ..................................................................................................................... 14
+   4.3 Introducing the question................................................................................................ 14
+   4.4 Assisting the respondent with the meaning of response categories............................... 14
+   4.5 Don’t knows/Refusals and ‘Other’ answers .................................................................. 14
+   4.6 Where in the questionnaire to place the question ......................................................... 15
+   4.7 Maintaining respondent privacy and the use of showcards .......................................... 15
+5. Interpreting the data ............................................................................................................ 16
+   5.1 Which data source should I use to benchmark my dataset against? ............................. 16
+      Key points about using the IHS dataset .......................................................................... 16
+   5.2 Why might results from other surveys differ from the IHS results? .............................. 17
+      Self-completion data and ‘Prefer not to say’ .................................................................. 17
+      Sample differences .......................................................................................................... 18
+      Context differences.......................................................................................................... 18
+   5.3 What do we know about those who identify as ‘Other’? ............................................... 19
+   5.4 How can I interpret this data in relation to other key demographics? ......................... 20
+Annex 1- Interviewer Instructions .…………………………………………………………...21
+                                                                     2
+
+Foreword
+The right to equal treatment is a universal human right. It is about securing the freedom of
+choice and equality of opportunity of all individuals. Sexual orientation is one of six
+equality monitoring areas covered by legislation aimed at protecting the right to equal
+treatment.
+On 30 April 2007, the Government introduced the Equality Act (Sexual Orientation)
+Regulations 2007, to tackle discrimination in the provision of goods, facilities and services
+on grounds of sexual orientation. This legislation is a major step forward in ensuring
+dignity, respect and fairness for all. As the National Statistician, it is my responsibility to
+ensure there is statistical information to support such legislation. The ONS has therefore
+developed a question on sexual identity and introduced it on all ONS social surveys. The
+purpose of the question is to estimate how many people in the population are lesbian, gay
+or bisexual (LGB). Additionally, it can be used to help monitor equality of opportunity in
+such areas as employment, education and the provision of services such as housing by
+providing benchmark population estimates.
+While the legislation refers to sexual orientation, this guidance is for a sexual identity
+question. This is because sexual orientation is an umbrella term that covers sexual
+behaviour, sexual attraction and sexual identity. During the development work, it became
+evident that in order to collect data on sexual orientation, we would need to develop a suite
+of questions. Such a suite would not only add to the cost of surveys but also increase the
+burden on survey participants. Sexual identity was identified as the one component of
+sexual orientation for which data would be robust enough to support the legislation.
+It is important to ensure that in our quest to monitor outcomes or establish prevalence of
+the LGB population, we do not depart from our ethical responsibilities. We should
+particularly be wary of analyses at small area or sub group e.g. age and ethnicity analysis.
+These are likely to have small bases that compromise the confidentiality of survey
+participants and/or the statistical validity of the estimates.
+This work would not have been possible without the dedication of colleagues in ONS who
+worked hard in developing the question and also the various experts from outside ONS
+who played a valuable advisory role during the process. I hope you will find this guide
+useful and will be encouraged to include the question in your surveys.
+Karen Dunnell
+                                                 3
+
+Acknowledgements
+This guide was put together using the work of the entire ONS sexual identity team
+including that of:
+Madhavi Bajekal
+Joe Traynor
+Amanda Wilmot
+Peter Betts
+Katherine Ralph
+Jack Eldridge
+Maya Malalgoda
+                                            4
+
+1. Introduction
+The ONS's Sexual Identity Project was established in 2006 to meet user requirements for
+information on sexual identity. ONS had identified this project as a high priority and
+consulted widely. This has included discussions both within and outside government,
+including academics, non-governmental organisations and lesbian, gay and bisexual (LGB)
+groups.
+The project had three main objectives: to develop a question on sexual identity, to test the
+question and implement, and provide user guidance on implementation for use by other
+researchers. This guidance fulfills the last of those objectives. It pulls together all the work
+carried out as part of the project into one reference document for use by researchers seeking
+to include a question on sexual identity. The guidance sets out the background to question
+development, the question itself, and covers key points pertaining to question
+administration and interpretation. For each section, key issues are followed by references to
+sources of further information.
+2. Conceptual Framework
+2.1 Why ask this question?
+Public sector organisations, academics, charities, research organisations and private sector
+organisations have all shown increasing interest, in recent years, in collecting data on
+sexual orientation (of which sexual identity is one component). There have been a number
+of reasons for this interest; key amongst these has been the increasing need for data on
+sexual orientation in order to meet current and future legislative requirements. The Equality
+Act (Sexual Orientation) Regulations 2007 extends the prohibition of discrimination on the
+grounds of sexual orientation to the provision of goods, facilities and services and exercise
+of public duties.
+As well as monitoring equal opportunities for employment and goods or service provision,
+organisations investigating social inequalities generally, or simply wishing to understand
+more about their client base, may also wish to collect data on sexual orientation.
+As discussed below, the question developed by ONS concerns respondents’ perceptions of
+their sexual identity. As sexual identity is the component of sexual orientation most closely
+related to experiences of disadvantage and discrimination, asking about it will enable
+organisations to fulfil their legislative requirements. By using the standard question set out
+by ONS, data collectors will be better able to benchmark their data against that collected by
+ONS as well as data collected elsewhere. They can also be sure that they are using a
+question that has been rigorously tested for acceptability and which we know provides high
+quality data.In addition, the question has also been formally adopted by the cross
+government National Statistics Harmonisation Group as a harmonised standard.
+                                                5
+
+Where can I find out more?
+Legal requirements and the benefits of monitoring are set out in more detail in Hand C and
+Betts P (2008) Developing survey questions on sexual identity: The legal and policy
+framework, available at: www.ons.gov.uk/about-statistics/measuring-equality/sexual-
+identity-project/legal-framework.pdf
+The equality lobbying organisation, Stonewall, has also produced a handbook setting out
+the legal requirements and other advantages of data monitoring: Monitoring: How to
+monitor sexual orientation in the workplace.
+The Government Equalities Office has a website outlining legislation around sexual
+orientation:
+www.equalities.gov.uk/what_we_do/sexual_orientation/sexual_orientation_regulations.asp
+x
+The Communities and Local Government website also gives more details about regulations
+and legislation around sexual orientation: www.communities.gov.uk/archived/general-
+content/communities/sexualorientationlegislation/
+2.2 What does the question set out to measure?
+Legislation uses the term ‘sexual orientation’ but the question sets out to measure the
+respondent’s self-perceived sexual identity. The relationship between sexual orientation
+and sexual identity is discussed below.
+What is sexual orientation?
+Sexual orientation is one of the six equality strands covered by legislation, the other five
+being: race, gender, disability, religion and belief, and age. Sexual orientation is an
+umbrella term which encompasses several dimensions including sexual identity, attraction
+and behaviour. For the purposes of the legislation, sexual orientation is not defined in terms
+of any specific dimension.
+What is sexual identity?
+Self-perceived sexual identity is a subjective view of oneself. Essentially, it is about what a
+person is, not what they do. It is about the inner sense of self, and perhaps sharing a
+collective social identity with a group of other people. The question on sexual identity is
+asked as an opinion question, it is up to respondents to decide how they define themselves
+in relation to the four response categories available. It is important to recognise that the
+question is not specifically about sexual behaviour or attraction, although these aspects
+might relate to the formation of identity. A person can have a sexual identity while not
+being sexually active. Furthermore, reported sexual identity may change over time or in
+different contexts (for example, at home versus in the workplace).
+                                               6
+
+Why measure sexual identity rather than sexual orientation?
+No single question would capture the full complexity of sexual orientation. A suite of
+questions would be necessary to collect data on the different dimensions of sexual
+orientation, including attraction, behaviour and identity, and to examine consistency
+between them at the individual level. Although legislation refers to sexual orientation,
+research during question development deemed sexual identity the most relevant dimension
+of sexual orientation to investigate given its relation to experiences of disadvantage and
+discrimination. Testing showed that respondents were not in favour of asking about sexual
+behaviour in a social survey context, nor would it be appropriate in general purpose
+government surveys.
+Where can I find out more about definitions of sexual identity and
+sexual orientation?
+McManus S (2003), National Centre for Social Research, Sexual Orientation Research
+Phase 1: A Review of Methodological Approaches on behalf of the Scottish Executive,
+available at: www.scotland.gov.uk/Publications/2003/03/16650/19351
+2.3 How do people decide which group to place themselves in?
+We know from testing that how people decide which response category to select depends
+on a number of factors. Those identifying as one sexual identity may place different levels
+of importance on different factors from those identifying as another, and the way in which
+they do so was investigated in focus groups and cognitive interviews.
+ONS research has found that understanding of the concept of sexual identity varied across
+groups. It is more salient for those identifying as lesbian and gay people than for those
+identifying as heterosexuals or bisexuals. Heterosexuals tended to be latent identifiers who
+had not thought much about the concept and answers were generally based on sexual
+attraction or behaviour. Gay and Lesbian respondents were conscious identifiers who had
+previously considered the concept. They may have considered a number of factors to come
+to decide which group they identified most with. Bisexuals were more likely to be reluctant
+identifiers (not wanting to put themselves in any group) and they were also more likely to
+be fluid identifiers, changing which category they put themselves in according to the
+context.
+Where can I find out more?
+Developing survey questions on sexual identity: Rationale and design of sexual identity
+questioning on the Integrated Household Survey (IHS), available at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/quest-test-and-
+implem/index.html
+Betts P, Wilmot A and Taylor T (2008), ONS, Developing survey questions on sexual
+identity: Exploratory focus groups, available at: www.ons.gov.uk/about-
+statistics/measuring-equality/sexual-identity-project/quest-dev/index.html
+                                              7
+
+2.4 When should this question be used?
+The question should be used on all surveys where collecting information about diversity
+strands is of interest. Most research will investigate inequalities between different diversity
+strands (for example, by age, sex, ethnicity, religion) and sexual identity should be included
+as a key demographic variable in just the same way as the other diversity strands are.
+Including it in this way serves two key purposes:
+• It allows data users to investigate whether there are inequalities by sexual identity,
+    allowing a full picture of advantage and disadvantage to be painted
+• It allows individuals to express their identity fully and treats sexual identity in the same
+    way as other aspects of identity. For some, sexual identity is a defining aspect of who
+    they are and a sexual identity question allows them to express this
+This question alone will not provide all the information that may be needed for certain
+pieces of research. In particular, additional questions should be asked if:
+• Sexual behaviour or sexual attraction is of key interest
+• If further information about the ‘Other’ category is of interest
+Both ONS and the GRO (Scotland) have carried out considerable research looking at UK
+and international experiences of asking questions on sexual identity, sexual orientation and
+related topics, and reference to relevant papers is made below. The UK was the first
+country to introduce the sexual identity question as a standard question on mainstream
+surveys. However, smaller or specialist surveys have asked questions on sexual identity
+previously both in the UK and elsewhere.
+The question is not intended to gauge:
+• Sexual activity
+• Gender or transgender issues (a different concept altogether)
+• Sexual behaviours
+• Numbers of relationships
+• Desires or fantasies
+Where can I find out more?
+Reference
+Developing survey questions on sexual identity: Rationale and design of sexual identity
+questioning on the Integrated Household Survey (IHS), available at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/quest-test-and-
+implem/index.html
+Betts (2008), ONS, Developing survey questions on sexual identity: UK experiences of
+administering survey questions on sexual identity/orientation, available at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/quest-
+dev/index.html
+Taylor T (2008b), ONS, Developing survey questions on sexual identity: Review of
+international organisations’ experiences of administering survey questions on sexual
+identity/orientation,     available       at:     www.ons.gov.uk/about-statistics/measuring-
+equality/sexual-identity-project/quest-dev/index.html
+                                                8
+
+McManus S (2003), National Centre for Social Research, Sexual Orientation Research
+Phase 1: A review of Methodological Approaches on behalf of the Scottish Executive,
+available at: www.scotland.gov.uk/Publications/2003/03/16650/19351
+2.5 How was this question developed?
+The question was developed after extensive research. The research checked people’s
+understanding of the concepts involved, the acceptability of the question, suitable methods
+of administration and the quality of the data – including analysis of non-response and the
+bias effect of not asking the question of proxy respondents.
+Specifically, the research included:
+• Information reviews (including a review of the literature, a review of the legal
+    framework and reviews of UK and International Surveys)
+• Quantitative research (including a four-staged Omnibus Survey trial, longitudinal
+    General Lifestyle Survey pilot, analysis of the effect of proxy data, comparative
+    analysis of item non-response)
+• Qualitative research (telephone interviews with those who preferred not to answer,
+    feedback from interviewers and field observations, focus groups with members of the
+    public, cognitive/in-depth interviews with members of the public)
+Where can I find out more?
+At each stage the research was written up and details are available on the ONS sexual
+identity web page at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/index.html
+Betts P (2008), ONS, Developing survey questions on sexual identity: UK experiences of
+administering survey questions on sexual identity/orientation, available at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/quest-
+dev/index.html
+Betts P, Wilmot A and Taylor T (2008), ONS, Developing survey questions on sexual
+identity:    Exploratory      focus    groups,    available    at:   www.ons.gov.uk/about-
+statistics/measuring-equality/sexual-identity-project/quest-dev/index.html
+Hand C and Betts P (2008), ONS, Developing survey questions on sexual identity: The
+legal and policy framework, available at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/index.html
+Joloza T, Traynor J and Haselden L (2009), ONS, Developing survey questions on sexual
+identity: Report on the General Lifestyle (GLF) split -sample pilot, available at:
+ www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/index.html
+Malalgoda M and Traynor J (2008), ONS, Developing survey questions on sexual identity:
+Report on National Statistics Omnibus Survey trial 4, available at: www.ons.gov.uk/about-
+statistics/measuring-equality/sexual-identity-project/quest-test-and-implem/index.html
+                                               9
+
+Taylor T (2008a), ONS, Developing survey questions on sexual identity: Report on
+National Statistics Omnibus Survey trials 1 and 2, available at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/quest-test-and-
+implem/index.html
+Taylor T (2008b), ONS, Developing survey questions on sexual identity: Review of
+international organisations’ experiences of administering survey questions on sexual
+identity/orientation,     available     at:      www.ons.gov.uk/about-statistics/measuring-
+equality/sexual-identity-project/quest-dev/index.html
+Taylor T and Ralph K (2008), ONS, Developing survey questions on sexual identity:
+Report on National Statistics Omnibus Survey trial 3, available at: www.ons.gov.uk/about-
+statistics/measuring-equality/sexual-identity-project/quest-test-and-implem/index.html
+Wilmot A (2007), ONS, ‘In search of a question on sexual identity’ - paper presented at the
+62nd Annual Conference of the American Association of Public Opinion Research, May
+2007, available at: www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-
+project/quest-dev/index.html
+                                              10
+
+3. The questions
+3.1 Face-to-face
+The following question should be asked on face-to face surveys. It should be asked exactly
+as it is shown here with no alterations. Even small alterations, such as slight amendments to
+the wording or order of the answer categories, may substantially affect the comparability of
+the data outputs with those from other sources (especially ONS benchmark data) and may
+affect the acceptability of the question to respondents. The question was extensively tested
+with many different groups and the wording and order of the answer categories has been
+specifically designed to maximise response across all groups and should therefore not be
+altered. The question has been designed to collect data that will be comparable with the
+data collected on telephone surveys. Changes in mode of data collection may always have
+an affect on responses and response rates. The design of the question is suitable for all
+different face-to-face survey scenarios, whether it is only one interview in the household or
+more.
+ASK ALL AGED 16 OR OVER
+INTERVIEWER: Allocate all cards, then ask the question to all
+[INDICATE TO INTERVIEWERS WHICH SHOWCARD SHOULD BE GIVEN TO
+EACH RESPONDENT]
+Which of the options on this card best describes how you think of yourself?
+Please just read out the number next to the description.
+(ONLY IF CONCURRENT INTERVIEW)
+The numbers on each card are different for each person.
+27. Heterosexual / Straight
+21. Gay / Lesbian
+24. Bisexual
+29. Other
+(Spontaneous Don’t know/Refusal)
+Where can I find out more?
+Developing survey questions on sexual identity: Rationale and design of sexual identity
+questioning on the Integrated Household Survey (IHS), available at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/quest-test-and-
+implem/index.html
+Betts P, Wilmot A and Taylor T (2008), ONS, Developing survey questions on sexual
+identity:    Exploratory      focus    groups,    available    at:    www.ons.gov.uk/about-
+statistics/measuring-equality/sexual-identity-project/quest-dev/index.html
+                                               11
+
+3.2 Telephone
+The following question should be asked on telephone surveys. It should be asked exactly as
+it is shown here with no alterations. Even small alterations, such as slight amendments to
+the wording or order of the answer categories, may substantially affect the comparability of
+the data outputs with those from other sources (especially ONS benchmark data) and may
+affect the acceptability of the question to respondents.
+The question has been designed to be comparable with the data collected on face-to-face
+surveys and feedback from trials has shown that it is acceptable to respondents. Changes in
+mode of data collection may always have an affect on responses and response rates.
+ASK ALL AGED 16 OR OVER
+I will now read out a list of terms people sometimes use to describe how they think of
+themselves.
+(INTERVIEWER: read list to end without pausing.
+Note that ‘Heterosexual or Straight’ is one option; ‘Gay or Lesbian’ is one option.)
+1. Heterosexual or Straight,
+2. Gay or Lesbian,
+3. Bisexual,
+4. Other
+(Spontaneous Don’t know/Refusal)
+As I read the list again please say ‘yes’ when you hear the option that best describes
+how you think of yourself.
+(INTERVIEWER: Pause briefly after each option during second reading.)
+Where can I find out more?
+Developing survey questions on sexual identity: Rationale and design of sexual identity
+questioning on the Integrated Household Survey (IHS), available at:
+www.ons.gov.uk/about-statistics/measuring-equality/sexual-identity-project/quest-test-and-
+implem/index.html
+3.3 Self-completion
+ONS has not tested a question for self-completion surveys. However, many other
+organisations use these questionnaires as their primary tool for data collection and it is
+therefore important to have a recommended question which is set out in the box below.
+It should be asked exactly as it is shown here with no alterations. Even small alterations,
+such as slight amendments to the wording of the answer categories or their order, may
+substantially affect the comparability of the data outputs and may affect the acceptability of
+the question to respondents.
+                                               12
+
+The question has not been fully tested for acceptability and comprehension in the same way
+as the face-to-face and telephone questions. The change in mode, may have affected both.
+In particular, the inclusion of a ‘Prefer not to say’ option and the likely increase in missing
+data will affect overall comparability with other benchmark data collected by telephone or
+through face-to-face interviews. However, after careful consideration ONS recommends
+the question for self-completion surveys. It is likely that this question will be comparable
+with other sources. Furthermore, in the absence of further testing and research, its general
+similarity to the recommended face-to-face and telephone questions make it the best option
+in light of the testing that ONS has done on face-to-face and telephone interviewing.
+ALL AGED 16 OR OVER
+Which of the following options best describes how you think of yourself?
+1. Heterosexual or Straight,
+2. Gay or Lesbian,
+3. Bisexual,
+4. Other
+5. Prefer not to say
+Please note:
+1. Self-completion questionnaires differ from face-to-face and telephone surveys in a
+     number of ways. In face-to-face surveys and, to a lesser extent, in telephone surveys,
+     the interviewer has some control over the environment in which the survey is
+     administered and the difference in the level of interviewer control over the environment
+     will affect both the results and also how the question should be asked. In particular,
+     interviewers can control:
+     a. Who is answering the question and check that it is not being answered by proxy
+     b. That showcards are used (or the correct procedure is used in telephone interviews)
+         and that the respondent will not have to reveal their answer to anyone else in the
+         room
+     c. That the respondent is asked the question and does not simply skip it because they
+         did not see it or meant to return to it but forgot
+2. A ‘Prefer not to say’ option is included on self-completion paper or web-based
+     questionnaires when it is not explicitly included on face-to-face or telephone
+     questionnaires. In face-to-face and telephone interviews, testing showed that the
+     inclusion of an explicit ‘Prefer not to say’ category increased item non-response. Such a
+     category was therefore not explicitly included but interviewers knew that they could
+     always code ‘Refused’ if the respondent indicated that they did not want to answer the
+     question. On a self-completion questionnaire, the respondent must be given the option
+     to indicate that they do not want to answer the question as there is no interviewer there
+     to code ‘Refused’. However, the inclusion of this additional category is likely to
+     increase non-response and will have an impact on all categories.
+                                                 13
+
+4. Key points for administration of the question
+4.1 Question acceptability
+•  In testing and in live fieldwork the question has proved acceptable to the vast majority
+   of respondents and has not affected overall response
+•  Early testing and trials showed that some interviewers were nervous asking the
+   question. It is possible that if individual interviewers are concerned about this question,
+   this may be passed on to respondents. It is therefore important that all interviewers are
+   adequately briefed about the acceptability of the question and how to ask it
+4.2 Who to ask
+•  The question should be asked of all aged 16 or over, including older people
+•  In cases where respondents are blind, have sight difficulties or are unable to read, the
+   interviewer can read out the response options from the card but only if they are
+   interviewing one person on their own and privacy is assured
+•  The question should not be asked of proxy respondents, that is, respondents who are
+   answering on behalf of someone else. It is considered too personal and subjective for
+   respondents to answer on behalf of others. In such cases, the question should be
+   skipped altogether and not be coded as ‘Don’t know’ or ‘Refusal’ as these are both
+   valid codes
+•  The question should not be asked if family members or friends are acting as
+   interpreters. It should only be asked if a professional interpreter is being used and there
+   is no one else in the room who can hear the answer categories being read out
+4.3 Introducing the question
+•  Treat the question just as any other survey question. Interviewers should not offer any
+   special explanation about its meaning, purpose or confidentiality unless asked by the
+   respondent
+4.4 Assisting the respondent with the meaning of response
+categories
+•  Some assistance may be given if a respondent asks what any of the response categories
+   mean. For example, ‘Heterosexual or straight might mean, for example, that a person is
+   attracted to people of the opposite sex.’ For gay/lesbian substitute ‘the same sex’ for
+   ‘opposite sex’. For bisexual substitute ‘both sexes’. Note that it is likely that such
+   explanation would only be required for heterosexual respondents.
+•  If a respondent says, ‘I’m normal’ or ‘I’m ordinary’, the interviewer should not assume
+   that means heterosexual/straight, but probe by asking, ‘So which answer category
+   would you choose?’
+4.5 Don’t knows/ Refusals and ‘Other’ answers
+•  Spontaneous ‘Don’t know’ answers and refusals can be recorded by the interviewer but
+   are not presented as options to respondents
+•  ‘Please specify’ is not included with the ‘Other’ category for privacy reasons
+                                               14
+
+•  If there are any legitimate circumstances in which the question cannot be administered
+   interviewers should code ‘Refusal’ rather than ‘Don’t know’ because ‘Don’t know’
+   could be a valid response to this survey question
+4.6 Where in the questionnaire to place the question
+•  The question should be asked alongside other identity questions, such as age, ethnicity,
+   religion and sex. Testing to date suggests that it should be asked before a religion
+   question
+4.7 Maintaining respondent privacy and the use of showcards
+•  Answer categories should be presented to the respondents on showcards. Where more
+   than one person in the household is being interviewed, each individual should be
+   presented with a different showcard, each with a unique, non-sequential set of numbers
+   for the answer categories. This ensures that confidentiality is maintained between
+   respondents
+•  There is an additional sentence for interviewers to read out when one or more people
+   are being interviewed concurrently (that is, ‘The numbers on each card are different for
+   each person.’)
+•  This is important so respondents know why they might read out a different number to
+   other household members. It might also enable respondents with disclosure concerns to
+   answer honestly
+•  In Computer Assisted Personal Interviewing the response options should not be visible
+   on the interviewer’s computer screen. This is again to help maintain privacy should the
+   interviewer’s laptop screen be visible to someone else in the household
+                                             15
+
+   5. Interpreting the data
+   5.1 Which data source should I use to benchmark my dataset
+   against?
+   ONS collects data on sexual identity on the core section of its Integrated Household Survey
+   (IHS). This is a large scale random household survey. Rigorous sampling and other quality
+   criteria are applied to the IHS and the quality of data collected on it is of a very high
+   standard.
+   The IHS comprises a number of component surveys which can be added together. The total
+   predicted number of people to be interviewed in 2009 and 2010 for each of the component
+   surveys was:
+Survey                                     Predicted achieved sample                    Predicted achieved sample
+                                               size per annum for 2009                     size per annum for 2010
+                                                        excluding proxies                                   and beyond
+Labour Force Survey                                                      99,000                                    53,000
+Annual Population Survey                                                105,000                                    31,000
+General Lifestyle Survey                                                 18,000                                     6,000
+English Housing Survey                                                   31,000                                    31,000
+Living Costs and Food Survey                                             10,000                                    10,000
+Omnibus/Opinions Survey                                                  13,000                                    13,000
+Total sample size                                                      276,000                                   144,000
+   1. The predicted achieved sample sizes approximate figures only rounded to nearest thousand.
+   2. The predicted achieved sample sizes exclude proxies. Each survey predicts a certain proportion of proxy interviews.
+   Since proxy interviews do not include the sexual identity question, they are not included in this count.
+   3. The IHS sample design will reduce the effective sample size to below these figures.
+   4. The numbers decline on the LFS, APS and GLF due to differences in routing to the question between the first and
+   subsequent years..
+   The achieved sample sizes on the IHS are sufficiently large to give robust estimates against
+   which to benchmark other surveys against. Furthermore, it is possible to add together years
+   of the IHS in order to look at specific sub-samples of the population, for example,
+   individual regions or demographic groups.
+   Key points about using the IHS dataset
+   Proxy data
+   If an interviewer is unable to contact a sampled individual within a household, they may
+   collect some information by proxy; however, information on sexual identity is not collected
+   in this way. Instead the response to the sexual identity question will just appear as missing
+   in the dataset. The proportion of interviews taken by proxy on the component parts of the
+   IHS varies from year to year but in 2008, the proportion of proxy interviews was:
+                                                               16
+
+  Survey                                  Proportion of proxies
+  Labour Force Survey                                        32%
+  Annual Population Survey                                   22%
+  General Lifestyle Survey                                    7%
+  English Housing Survey                                      1%
+  Living Costs and Food Survey                               11%
+  Omnibus/Opinions Survey                             No proxies
+Since proxy interviews are more likely to be given on behalf of younger people and males,
+and there is some correlation between these groups and having an LGB sexual identity, it is
+possible that the lack of data for proxy interviews will introduce some bias. At the time of
+writing this guidance, ONS has not been able to conclusively establish whether there is any
+bias or not.
+Weighting
+IHS sexual identity data is supplied with weights which account for different sampling
+fractions and which gross the data up to population levels. Details of how to apply these
+weights are available from the data supplier.
+Adding years
+Omnibus and General Lifestyle (GLF) trials suggest that less than 3 per cent self-identify
+as belonging to the Lesbian, Gay and Bisexual population. This means that even though the
+IHS has a very big sample size, it will still be hard to analyse some small sub-populations
+within that, for example at regional or lower geographies or for particular age groups.
+However, it is possible to add together years of data to allow for these more detailed
+analyses.
+5.2 Why might results from other surveys differ from the IHS
+results?
+The IHS provides the best possible count of those who currently self-identify in this way
+within the household context. However, it should be noted that there is no guarantee that
+estimates (levels or proportions) from other sources will be numerically the same as
+estimates from the IHS due to sampling variability. In addition, counts which set out to
+measure other aspects of sexual orientation, for example, by using questions that focus on
+sexual behaviour, may get very different results. Furthermore, even where a survey has
+used the recommended question, there may still be differences in the size of the LGB
+population measured on different surveys. This may result from real differences in the
+proportion of people identifying in this way which have emerged over time, or in the
+population measured by the IHS and the population included in the survey being compared.
+However, some differences may result from differences in methodology and these should
+be taken into account in any analysis.
+Self-completion data and ‘Prefer not to say’
+Many surveys are self-completion and this mode of data collection necessitates a ‘Prefer
+not to say’ category. The difference in mode and, specifically, the inclusion of an additional
+category is likely to impact on the proportion of people giving a substantive answer to the
+question and hence the proportion of people saying that they have an LGB self-identity.
+                                              17
+
+Sample differences
+The IHS is a national continuous survey which uses sampling techniques which are
+designed to maximise precision. That is they use stratified random sampling techniques
+(some clustered and some unclustered). Details of the samples are available here:
+General Lifestyle Survey (Formerly GHS)
+www.statistics.gov.uk/downloads/theme_compendia/GHS07/AppendixB2007.pdf
+General Lifestyle Survey (Formerly GHS): GHS 2007 Appendix B: Sample Design and
+Response, available at:
+www.statistics.gov.uk/STATBASE/Product.asp?vlnk=5756
+English Housing Survey (EHS) user guide: no user guide currently available
+Living Costs and Food (LCF) methodology note:
+https://statistics.defra.gov.uk/esg/publications/efs/method/method_EFS_sampling.pdf
+Living Costs and Food (LCF): Sampling in EFS, available at:
+https://statistics.defra.gov.uk/esg/publications/efs/method/default.asp
+Labour Force Survey (LFS) user guide:
+http://www.statistics.gov.uk/statbase/Product.asp?vlnk=1537
+Labour Force Survey (LFS) user guide: Volume 1 (2007) Background and Methodology,
+available at: www.statistics.gov.uk/statbase/Product.asp?vlnk=1537
+Opinions Survey (formerly Omnibus Survey): Sample and Data Collection:
+http://www.ons.gov.uk/about/who-we-are/our-services/omnibus-survey/sample/index.html
+Where surveys use less robust sampling techniques, especially where the samples are not
+random, or only reflect part of the population, it is possible that the differences in estimates
+could be substantial.
+Context differences
+Different results may occur because of differences in context. The context in which the
+questions are asked may affect the way in which a person thinks about themselves and the
+determinants of their own sexual identity, causing them to give different answers. It may
+also affect the acceptability of the question and the trust respondents have in their answers
+being kept confidential1 or their willingness to answer the question at all. Factors which
+were identified during focus groups and cognitive/in-depth interviews as potentially
+affecting answers given were:
+• Type of data collection exercise – Question testing showed that the question was
+    generally seen as acceptable but levels of acceptability were associated with context in
+    relation to the type of data collection exercise and perceived anonymity as well as
+    question relevance. Participants felt more comfortable with the questioning in a
+    government social survey context where they did not think that the data would be
+    linked to them personally and the statistical purpose was appreciated, as opposed to
+    equality monitoring forms where the relevance of the information was questioned
+• Questionnaire content – the content of the questionnaire may result in respondents
+    thinking about their sexual identity in different ways. For example, a survey which is
+    largely focused on health behaviour may prompt the respondent to think more about
+1
+  Betts P, Wilmot A, Taylor T, Developing questions on sexual identity: Exploratory focus groups (2008)
+                                                   18
+
+    sexual behaviour when formulating their ideas about sexual identity. Likewise, a
+    questionnaire with components about family may make the respondent think more
+    about their sexual identity when interacting with their families or when a questionnaire
+    has a health component, sexual behaviour may be given additional weight by the
+    respondent
+•   Social environment – where a person is at the time of completing a questionnaire can be
+    an influencing factor on how they respond. An individual may think about themselves
+    differently according to whether they are at home with their family, in a work situation,
+    in a social situation with friends, or talking to a health care provider. In each case,
+    different factors will contribute differently to their perception of self. Furthermore, they
+    may have different concerns regarding privacy in each setting.
+•   Organisation carrying out the survey – focus groups and cognitive interviews suggested
+    that some respondents might be sensitive to the organisation carrying out the interview,
+    trusting some more than others. On the whole, the evidence was that respondents
+    trusted surveys conducted on behalf of public sector organisations (even when the
+    survey was carried out by a market research company) to safeguard their data more
+    than wholly private sector surveys, and this could influence the way that they answered
+    the question
+•   Current events – different types of current events can stimulate people to think about
+    self-identity differently but they may also make people think about data collection
+    organisations differently. Events which erode the trust in some or all data collection
+    organisations (or indeed which enhance that trust) may have an impact on a
+    respondent’s willingness to answer. Similarly, events which generally result in more
+    positive or negative images of people with lesbian, gay or bisexual identities may
+    impact the likelihood of individuals responding or giving an answer which includes
+    lesbian, gay or bisexual.
+5.3 What do we know about those who identify as ‘Other’?
+Sometimes including an ‘Other’ response option is used in question design as a ‘catch all’
+and respondents are used to seeing/hearing it offered in surveys. While the three
+substantive categories might cover all sexual identities, some people, such as those who
+describe themselves as asexual, may feel no sense of sexual identity at all. They may be
+unhappy about being forced to choose one of the three that are offered.
+Evidence from quantitative trials showed that the proportion who answered ‘Other’ was
+small and comprised mainly those who were heterosexual but did not understand the
+terminology (particularly before the introduction of the word ‘straight’ in the question
+design).
+Some non-heterosexual qualitative research participants said they would choose the ‘Other’
+category because they were either anti-categorisation or because they rejected the
+‘simplistic’ male/female ‘gender binary’ (this was particularly mentioned by some
+transgender participants). It should be recognised that those who use this category will in
+effect be excluded from analysis.
+                                               19
+
+5.4 How can I interpret this data in relation to other key
+demographics?
+Examining the data in relation to gender or other demographics such as age or ethnicity is
+key for some analyses. In this case, the data can simply be broken down using bivariate
+tables (for example, sexual identity by sex to give men and women who identify as
+lesbian/gay separately) or multivariate analysis. When doing this it is worth noting that:
+• The numbers involved may be small (early experience shows that the proportion of
+    people identifying as gay/lesbian on the IHS is likely to be in the region of 3 per cent)
+    which will limit such analysis
+• More robust analysis can be undertaken by adding together years
+• It is best to use labels as they were used in the question and talk in terms of men who
+    identify as lesbian/gay (or gay men) and women who identify as lesbian/gay
+    (lesbian/gay women) rather than simply gay (for men) and lesbian (for women) as there
+    are many women who prefer the term gay to lesbian and so gender must always be
+    explicit
+• Ethical considerations will also need to be taken into account. Great care should be
+    taken when analysing data at lower geographical levels. Always ensure that
+    respondents’ confidentiality is not compromised at anytime.
+                                             20
+
+Annex 1
+                        SEXUAL IDENTITY QUESTION
+                            Interviewer Briefing Note
+From January 2009 a question on sexual identity is included in the Integrated Household
+Survey core questionnaire. This note provides you with the key points to note about the
+question and its administration, together with further explanation. The document also
+includes important points to note, and helpful tips on what to do in particular circumstances
+informed by feedback from interviewers.
+    Key points to remember
+    • The large majority of respondents find this question acceptable (see section 1)
+    • The purpose of this question is to provide benchmark statistics on the size of the
+       lesbian, gay and bisexual population, which can be used for equality monitoring
+       (see section 2)
+    • Sexual identity is an opinion question so its meaning should not be explained if
+       asked. It should not be administered by proxy or via an interpreter (see section 3)
+    • You can help respondents with response category meanings if asked (see section 4)
+    • Like any other question, administer it to all respondents in a confident and matter of
+       fact manner (see section 5)
+    • To help maintain privacy, this question uses a separate showcard for each
+       respondent. Respondents are asked to answer with a number, which is unique to
+       them (see section 6)
+    • When interviewing people concurrently, read out the additional sentence,
+       explaining that each card has different numbers, just before handing out the
+       showcards (see section 6)
+    • Like other questions, ‘Don’t know’ and ‘Refusal’ are available as spontaneous only
+       (see section 7)
+    • If a respondent provides no answer at all or another household member answers on
+       behalf of a respondent then code as a refusal (see section 8)
+    • If you have any concerns about this topic remember to talk to your field manager or
+       mentor
+                                             21
+
+The Question
+Face to face administration
+SID1
+Interviewer: allocate all cards, then ask the question to all
+[NAME] showcard1, [NAME] showcard2, [NAME] showcard3, etc
+Which of the options on this card best describes how you think of yourself?
+Please just read out the number next to the description.
+2
+  The numbers on each card are different for each person.
+                AxName            SIDTUQn          SIDFtFQn
+QSID[1]         NAME[1]                            [answer]
+QSID[2]         NAME[2]                            [answer]
+etc
+Response category numbers are unique on each card and are not in sequence. The response
+categories – not shown on screen – are: Heterosexual/Straight; Gay/Lesbian; Bisexual;
+Other.
+Telephone administration
+I will now read out a list of terms people sometimes use to describe how they think of
+themselves. Heterosexual or Straight, Gay or Lesbian, Bisexual, Other.
+Note that ‘Heterosexual or Straight’ is one option; ‘Gay or Lesbian’ is one option.
+As I read the list again please say ‘yes’ when you hear the option that best describes
+how you think of yourself.
+Pause briefly after each option.
+Running prompt
+1. Heterosexual or Straight?                           4. Other?
+2. Gay or Lesbian?
+3. Bisexual?
+                        AxName                  SIDTUQn       SIDFtFQn
+QSID[1]                 NAME[1]                 [answer]
+QSID[2]                 NAME[2]                 [answer]
+etc
+2
+  This will appear on-screen if you are interviewing more than one person concurrently.
+                                                      22
+
+1. Introduction
+There has been a programme of development and testing for this question, covering the
+wording, the response categories, and how it should be administered. Different versions
+were tested on the Omnibus Survey in 2006 and 2007. There was also a split sample
+experiment on the GLF for 6 months in 2008 where half of all households were asked the
+question. The final design and administration has been informed by feedback from
+interviewers and field managers, which was predominantly positive. Focus groups and
+cognitive/in-depth interviews have also been conducted with members of the public
+(including participants of different sexual identity groups, ages, ethnic backgrounds and
+faith groups). Again the feedback from these focus groups and interviews was positive.
+You may have the perception that a question on sexual identity might be sensitive for some
+respondents. We know that some interviewers have been reluctant to administer the
+question. Please be reassured that the evidence from work conducted by ONS shows that
+the vast majority of respondents find the question as acceptable as others such as ethnicity,
+nationality and religion. Sexual identity also had a lower refusal rate than the income
+question. No one dropped out immediately after being asked the question and household
+response rates were not affected.
+A confident but matter of fact approach does work. Please remember you should not
+hesitate to ask for further help from your field manager if you have any concerns.
+2. Purpose of question
+Sexual orientation is one of six equality monitoring areas covered by a range of legislation.
+The others are gender, ethnicity, religious belief, age and disability, all of which are already
+asked about on ONS surveys. As the national statistical body it is our responsibility to
+provide statistical information to support such legislation. The purpose of the question is to
+help find out how many people in the population are lesbian, gay or bisexual. Together
+with other data (from the ONS survey, or from other sources) the information will be used
+to monitor equality of opportunity. This will help identify discrimination and disadvantage
+experienced on the basis of sexual orientation in areas such as employment, and the
+provision of services such as housing.
+3. Question Administration
+You must ask the question of everyone aged 16 and over (except by proxy or via an
+interpreter). Everyone can have a sexual identity regardless of, for example, their age or
+whether they are in a relationship. If you cannot legitimately administer the question you
+should code ‘Refusal’ rather than ‘Don’t know’.
+3.1 Opinion question
+The concept of ‘sexual orientation’ includes aspects including sexual identity, attraction
+and behaviour. We are asking about sexual identity, which is most related to certain
+groups’ experiences of disadvantage and discrimination. Sexual identity is a subjective
+view that a person can derive in many ways. A person might answer questions about sexual
+identity, sexual behaviour and attraction consistently, but for some people the answers can
+differ. For example, there are men who sometimes have sex with men but do not identify as
+gay or bisexual. A person can have a sexual identity while not being sexually active.
+                                               23
+
+Since sexual identity is subjective, and for some people can change over time or in
+different contexts, it is an opinion question. If the respondent asks you what the question
+means, please explain that it is whatever it means to them.
+3.2. No administration by proxy or via an interpreter
+As with all opinion questions, this question is skipped for respondents being interviewed by
+proxy. Also you should not administer it to respondents who require an interpreter
+(including signers for the deaf) – please code as ‘Refusal’. However, the question can be
+asked by a professional interpreter who is not known to the respondent, if the interview is
+being conducted with the respondent alone and in private.
+3.3. Respondents with sight difficulties
+In cases where respondents are blind, have sight difficulties or are unable to read, you can
+read out the response options from the card but only if interviewing one person on their
+own and privacy is assured.
+4. Assistance with meaning of response categories
+If a respondent asks what any of the response categories mean, you may assist. But because
+of the subjectivity of sexual identity only speak in general terms. For example, you can
+say:
+  ‘Heterosexual or straight might mean, for example, that a person is attracted to people of
+  the opposite sex’.
+For gay/lesbian, substitute ‘the same sex’ for ‘the opposite sex’. For bisexual, substitute
+‘both men and women’.
+If a respondent says ‘I’m normal’ or ‘I’m ordinary’, do not assume they are
+heterosexual/straight but probe:
+  ‘So which answer category would you choose?’
+If you think for any reason a respondent has given the wrong answer, you must accept it
+unless they ask for any assistance with meanings of categories.
+Respondents who identify as ‘Other’ should be doing so because they feel the previous
+response options do not apply to them. ‘Other’ should not be coded because of
+comprehension or answering difficulties. It is important to understand that people who are
+currently celibate or have no sexual partners can still identify as heterosexual/straight,
+gay/lesbian or bisexual. People identifying as ‘Other’ could be asexual (people who are
+never sexually attracted to anyone) or people who dislike categorising themselves. Some
+transgender people (those who feel they were born in the wrong gender and are now living
+in a new gender of their choice) may choose this option, though others will answer in the
+same way as non-transgender people. A ‘please specify’ question is not asked, for privacy
+reasons.
+                                              24
+
+5. Treat the question the same as any other
+Make no remarks when asking the question, as comments could be construed as flippant or
+insulting even if not intended to be. Even facial expressions and body language that give an
+impression of nervousness or awkwardness on your part could have the same effect.
+The majority of interviewers who worked on the trials had no problems or concerns, but a
+small number did in certain situations. Do not make any assumptions about the
+respondent’s sexual identity (for example, on the basis of being married/widowed or having
+children), or their ability or willingness to answer the question (for example, because of
+their age, or ethnicity, or religion). Everyone has the right to answer this question.
+Testing has shown that the question should not be given any special explanation about its
+purpose or confidentiality (although these can be explained if you are asked). This is
+because interviewers said that doing so simply served to highlight the question to
+respondents. By including the question in the identity sequence, along with national
+identity, ethnicity, etc, purpose was self-evident.
+6. Maintaining privacy within household – unique showcards
+To maintain privacy when interviewing people concurrently, for this question you have a
+separate set of 8 showcards. The aim of the showcard system is to enable people who might
+be embarrassed, or concerned about disclosing their sexual identity, to answer truthfully.
+• Each card has a set of numbers unique to that card
+• The laptop will indicate which card to provide to each respondent
+• Firstly hand all respondents their cards at the same time. Hand them over face down,
+    taking care that other people cannot see the printed side
+• Then ask the question to all the respondents
+• The respondent is asked to say the number associated with the category which applies
+    rather than answer in words. The numbers on the card are not consecutive, so that no
+    inference can be drawn as to the category to which it corresponds. For example, a
+    heterosexual respondent who was given show card 1 might answer ‘fifteen’:
+    Show card examples:
+      Show card 1                                      Show card 2
+      15. Heterosexual/Straight                        36. Heterosexual/Straight
+      10. Gay/Lesbian                                  34. Gay/Lesbian
+      17. Bisexual                                     35. Bisexual
+      16. Other                                        38. Other
+                                               25
+
+•   There is an additional sentence to read out in concurrent situations so that respondents
+    know that the number they read will be different to other people’s. This is because
+    interviewers said some respondents queried the fact that their numbers were different
+    which interrupted the flow of the interview
+    ‘The numbers on each card are different for each person’.
+•   You must use the correct showcard, because you will record the number without the
+    corresponding response category being shown on screen (again, to maintain privacy). If
+    you use the wrong card you will not be able to enter the number that the respondent
+    answers with. In such instances a check will appear stating:
+    The response XX does not coincide with the responses available on the showcard.
+    Check the response again with the respondent, if they give the same response check the
+    correct showcard has been administered (Show Card SIDXX).
+•   In the rare situation of there being more than 8 adults in the household, the laptop will
+    reassign the cards to adults 9 and above. It is highly unlikely that the same card will be
+    assigned to the people being interviewed concurrently
+•   If a respondent states they can’t read showcards and asks you to read out the categories
+    you should only comply if privacy is assured
+7. Don’t know and refusal to answer
+Don’t know responses (CTRL+K) and refusals (CTRL+R) are available for you to code but
+only if the respondent answers in this way spontaneously. They are not shown on the
+showcards.
+8. Specific situations
+Based on interviewers’ experiences of administering the question there were issues
+concerning some respondents from Black and Minority Ethnic and religious groups and the
+elderly. The following provides guidance on procedures to follow in specific situations that
+may arise.
+• In a situation where a respondent does not volunteer an answer to the question but
+    reacts in a way indicating embarrassment or offence, such as total silence, code as a
+    refusal. Even when it appears that the respondent is likely to be heterosexual, this
+    cannot be assumed with complete certainty
+• If a male head of household, or anyone else in the household, answers the question on
+    behalf of other household members these answers should be coded as a refusal
+During our trials and discussions with interviewers we have found that some interviewers
+are reluctant to administer this question to, for example, older women. However it is
+important that everyone is asked the question and to remember that older people do have a
+sexual identity and they have the right to be allowed to answer this question
+                                               26
+

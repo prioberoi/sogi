@@ -1,0 +1,1019 @@
+NOTICE:       The copyright law of the United States
+(Title 17, U.S. Code) governs the making of photocopies or other
+reproductions of copyrighted material. Under certain conditions
+specified in the law, libraries and archives are authorized to furnish a
+photocopy or other reproduction. One of these specified conditions
+is that the photocopy or reproduction is not to be "used for any
+purpose other than private study, scholarship, or research."
+The CDC library absorbs the cost of copyright fees charged by
+publishers when applicable and the cost of articles and books
+obtained from other libraries. Copyright fees average $35.00 and
+fees charged by the lending libraries are between $10 and $15 per
+request
+
+                                                TSQ
+“Counting” Transgender
+ and Gender-Nonconforming
+ Adults in Health Research
+ Recommendations from the
+ Gender Identity in US Surveillance Group
+            SA R I L . R E I S N E R , K E R I T H J . C O N R O N , S C O U T, K E L L A N BA K E R ,
+                    J O DY L . H E R M A N , E M I L I A L O M B A R D I , E M I LY A . G R E Y TA K ,
+        A L IS O N M . G I L L , a n d A L I C I A K . M AT T H E W S , T h e G e n I U S S G r o u p
+ Abstract Gender minority refers to transgender and gender-nonconforming people whose sex assigned
+ at birth is different from their current gender identity. US health surveillance systems do not routinely
+ include questions to identify gender minority respondents, resulting in a lack of representative health
+ data that can be used to evaluate the health of gender minorities. This omission represents a missed
+ opportunity to understand the health and well-being of transgender and gender-nonconforming people
+ as well as to learn more about sex and gender differences that may be relevant for the health of all
+ people—gender minority and majority alike. In 2011, the Williams Institute at the University of
+ California, Los Angeles, School of Law convened the Gender Identity in US Surveillance (GenIUSS)
+ Group, bringing together a multidisciplinary and multi-institutional group of experts to increase
+ population-based data about gender minority people through the inclusion of gender-related measures
+ (e.g., assigned sex at birth, gender identity, transgender status) in surveys, with a particular con-
+ sideration for publicly funded data-collection efforts. Drawing on the expertise and experience of the
+ GenIUSS Group, this article provides an overview of challenges and opportunities and makes eight
+ recommendations for “counting” gender minority adults in health research, with an emphasis on
+ adult population-based surveys.
+ Keywords transgender, gender minority, disparities, health surveillance, measurement
+ G     ender minority is an inclusive umbrella term that refers to transgender and
+       gender-nonconforming people—people whose sex assigned at birth (natal
+ sex) is different from their current gender identity (IOM 2011). US health sur-
+ veillance systems monitoring adult health do not routinely include questions to
+ TSQ: Transgender Studies Quarterly * Volume 2, Number 1 * February 2015                               34
+ DOI 10.1215/23289252-2848877 ª 2015 Duke University Press
+                            Published by Duke University Press
+
+                                           TSQ
+        The GenIUSS Group  * “Counting” Transgender Adults in Health Research    35
+identify gender minority respondents, resulting in a lack of representative health
+data that can be used to evaluate the health of gender minorities (IOM 2011). This
+omission represents a missed opportunity to better understand the health and
+well-being of transgender and gender-nonconforming people who dispropor-
+tionately face social stressors such as transgender stigma, discrimination, and
+violence that negatively impact their health and well-being (Bockting et al. 2013;
+Bradford et al. 2013; Clements-Nolle et al. 2001; Clements-Nolle, Marx, and Katz
+2006; Grant et al. 2011; Herbst et al. 2008; Kenagy 2005; Lombardi et al. 2001;
+Nuttbrock et al. 2010; Reisner et al. 2014a, 2014b, 2014c) as well as to learn more
+about how sex and gender may be relevant for the health of all people (Krieger
+2003), gender minority and gender nonminority alike.
+        In 2011, a landmark report by the Institute of Medicine identified the lack
+of brief, validated tools with which to identify gender minority respondents
+in health research as a current barrier to monitoring the health of the gender
+minority population (IOM 2011). In 2011, the Williams Institute at the University
+of California, Los Angeles, School of Law convened the Gender Identity in US
+Surveillance (GenIUSS) Group, bringing together a national multidisciplinary
+and multi-institutional group of experts to increase population-based data
+about gender minority people through the inclusion of gender-related measures
+(e.g., natal sex, gender identity, transgender status) in surveys, with a particu-
+lar consideration for publicly funded data-collection efforts. To achieve this
+goal, the group mapped the landscape of current practices in gender-related
+population research, assessed methodological and other challenges to data
+collection, and generated a set of recommendations for gathering scientifically
+rigorous data about the needs and experiences of transgender and gender-
+nonconforming individuals (GenIUSS Group 2013). GenUISS also funded two
+mixed-methods cognitive-testing studies of gender-related measures for use in
+population-based research (Lombardi et al., in preparation; Reisner 2013; Reisner
+et al. 2014d).
+        Drawing on the expertise and experience of the GenIUSS Group, this
+article provides an overview of opportunities, challenges, and recommendations
+for “counting” transgender and gender-nonconforming adults in US population
+health research. First, we situate transgender and gender-nonconforming adult
+health research within a framework of sex and gender health disparities. Second,
+we review considerations for measurement of gender identity in adult population-
+based surveys and offer recommendations of measures that identify gender minority
+respondents and will enable inclusive health surveillance efforts. This article
+contains eight recommendations proposed by the GenIUSS Group to guide
+inclusive sex and gender adult population-based research (see appendix). A full
+report and list of recommendations can be found elsewhere (GenIUSS Group
+2014). Additional measures and recommendations pertaining to adolescents
+                           Published by Duke University Press
+
+                                       TSQ
+36      TSQ  * Transgender Studies Quarterly
+and youth specifically can also be found elsewhere (Conron et al. 2014; GenIUSS
+Group 2014).
+Sex and Gender as Social Determinants of Health
+Sex and gender are recognized globally as social determinants of health and well-
+being across a wide variety of geographic settings and contexts (Doyal 2001, 2003;
+Krieger 2003; Nieuwenhoven and Klinge 2010; Nowatzki and Grant 2011; Vlassoff
+2007; WHO 2008). Social determinants of health are root causes of health dis-
+parities (WHO 2008). Health disparity refers to “a particular type of difference
+in health . . . in which disadvantaged social groups—such as poor, racial/ethnic
+minorities, women, or other groups who have persistently experienced social
+disadvantage or discrimination—systematically experience worse health or greater
+health risks than more advantaged social groups” (Braveman 2006). Reducing
+health disparities is a core aim of Healthy People 2020 (US Department of Health
+and Human Services 2010), the science-based roadmap with ten-year national
+measurable objectives and goals for improving the health of all Americans. Bet-
+tering the health of all people includes addressing health inequities in the United
+States—defined as unfair and avoidable differences in health —related to sex and
+gender (Gorman and Read 2006; Read and Gorman 2006). Gender minority
+people are positioned at the intersection of complex sex and gender pathways; that
+is, causal mechanisms that cause poor health are both sex and gender related
+(Reisner et al. 2014e). Thus learning more about the social determinants of gender
+minority people’s health and well-being is an important task to inform health
+equity for everyone.
+        US population-level surveys do not utilize standardized questions to
+collect information about sex and gender (Conron et al. 2014). Most surveys
+measure sex with a self-reported demographic question (male or female). Some
+surveys rely on telephone interviewers to assess perceived sex or gender based on
+the vocal tone of respondents (Conron et al. 2012, 2014). The lack of standardized
+measures of both sex and gender impacts the empirical rigor of research on sex
+and gender differences in US population health by obfuscating differences
+between natal sex (biological) and gender (social) pathways. Underlying non-
+standardization of measures is a lack of conceptual clarity about sex and gender
+that fails to recognize that (1) sex and gender represent distinct constructs; (2) sex
+and gender are multidimensional and dynamic; and (3) gender identity is not
+synonymous with sexual orientation.
+Recommendation 1: That standardized self-report questions about both sex and gender
+be included in all surveys of the US population.
+Despite the imprecise and often interchangeable use of sex (“female” and “male”)
+and gender (“woman” and “man”) in the scientific research literature (Krieger
+                       Published by Duke University Press
+
+                                            TSQ
+        The GenIUSS Group   * “Counting” Transgender Adults in Health Research    37
+2003), sex and gender are not one and the same. Sex refers to biological differences
+among females and males, such as genetics, hormones, secondary sex charac-
+teristics, and anatomy (Haig 2004). The assignment of sex at birth (female or
+male) is made by medical providers and is typically based on the appearance of
+external genitalia. Sex is then labeled and categorized as female or male and is
+usually documented on a birth certificate to become a legal construct. Gender
+typically refers to cultural meanings ascribed to or associated with patterns of
+behavior, experience, and personality that are labeled as feminine or masculine
+(IOM 2011). The lack of recognition that sex and gender are distinct constructs
+can be seen in US population survey practice. Some surveys rely on interviewer
+judgment to assess the sex of respondents (Conron et al. 2012; Conron et al.
+2014). For example, neither sex nor gender are self-reported on the Behavioral
+Risk Factor Surveillance System (BRFSS); rather, these constructs are noted by the
+telephone interviewer (as sex based on interviewer-perceived tone of respon-
+dent voice) and confirmed with the respondent if needed (Conron et al. 2012).
+This would be a source of significant measurement error for gender minor-
+ity respondents. Thus, the consequences of these measurement techniques are
+inappropriate data collection on gender minority populations. They also can
+lead to error in other situations, such as with people who smoke, or who have
+unusually high or low speaking voices. Measuring sex and gender in US popu-
+lation surveys will contribute to understanding and ameliorating sex and gender
+health inequities.
+Recommendation 2: That multiple aspects of gender be measured in US population-based
+research, including gender identity.
+Gender is a multidimensional construct (Egan and Perry 2001) that requires
+additional empirical and theoretical attention. Understanding gender means
+attending to the psychological, social, and behavioral dimensions that influence
+individual health and well-being and contribute to population-level health dis-
+parities. A key dimension of gender that represents an underinvestigated social
+determinant of population health is gender identity (IOM 2011). Gender identity
+refers to a person’s internal sense of being man, woman, transgender, or another
+gender. US population-level surveys do not routinely include survey items to
+identify transgender and/or gender-nonconforming respondents; therefore, there
+is a lack of routine health surveillance data to monitor health disparities by
+gender identity (Conron et al. 2014; IOM 2011). Representative data that allow
+comparisons between gender minority and majority people are essential to
+document health inequities as well as to reduce sex and gender health disparities
+in the United States (Schwartz and Meyer 2010).
+                             Published by Duke University Press
+
+                                         TSQ
+38       TSQ * Transgender Studies Quarterly
+         Despite the dearth of probability-based national-level data on the health of
+gender minority people (Conron et al. 2012), local, regional, and national studies
+suggest that transgender and gender-nonconforming people face stigma, preju-
+dice, violence, and institutionalized discrimination in areas of everyday life such
+as health care, housing, employment, education, and legal recognition of their
+gender. As a result of these social stressors and socioeconomic marginalization,
+gender minority people appear highly burdened by adverse health outcomes
+including psychological distress, suicidality, substance use and abuse, tobacco
+use, HIV, and sexually transmitted infections (STIs) (Bockting et al. 2013; Brad-
+ford et al. 2013; Clements-Nolle et al. 2001; Clements-Nolle, Marx, and Katz 2006;
+Conron et al. 2012; Grant et al. 2011; Hendricks and Testa 2012; Herbst et al.
+2008; Kenagy 2005; Nuttbrock et al. 2010; Reisner, Bailey, and Sevelius 2014;
+Reisner et al. 2014b, 2014c). Negative health outcomes appear to be exacerbated
+for transgender- and gender-nonconforming-identified people who experience
+intersecting oppressions as members of other disadvantaged social groups (Bowleg
+2012), for example, people of color and/or those who are economically marginalized
+and living in poverty (Garofalo et al. 2006; Herbst et al. 2008). In addition to
+adverse health outcomes among people who identify as transgender and gender
+nonconforming, the negative health sequelae of having a nonconforming gender
+expression have also been documented (D’Augelli, Grossman, and Starks 2006;
+Rosario, Schrimshaw, and Hunter 2008; Sandfort, Melendez, and Diaz 2007;
+Skidmore, Linsenmeier, and Bailey 2006; Toomey et al. 2010), including recalled
+childhood nonconforming gender expression measured retrospectively (Calzo
+et al. 2014; Roberts et al. 2012, 2013; Rosario et al. 2014). Together these data suggest
+the need for routine health surveillance that takes gender identity into account.
+         Gender pathways are multilevel and sociohistorically and culturally depen-
+dent, and they dynamically change over time. Understanding gender means not only
+conceptualizing and measuring different dimensions of gender but also considering
+its dynamic nature. Gender is relational and fundamental to the social structuring of
+power and privilege (Courtenay 2000). Dimensions of gender affect people’s health
+and well-being at multiple levels of influence (Ferrant 2014). Thus, gendered path-
+ways can be best conceptualized using a social-ecological model (McLeroy et al.
+1988) whereby individual, interpersonal, organizational, community, and public
+policy levels influence population health (see fig. 1).
+         Gender is also sociohistorically and culturally dependent, meaning gender
+diversity manifests differently in various contexts and settings and over time.
+Dimensions of gender are dynamic and may change across a person’s individual
+development; for example, a person’s gender expression may change from young
+adulthood to middle age. These changes have implications for health across the
+life course (Pearlin et al. 2005). Dimensions of gender may also change over time
+                      Published by Duke University Press
+
+                                                   TSQ
+         The GenIUSS Group    * “Counting” Transgender Adults in Health Research 39
+Figure 1. Understanding gender as a social determinant of health
+and throughout sociopolitical history —for example, intergenerational and age
+cohort shifts in gender-nonconforming expression or even what is acceptable as
+gender-nonconforming behavior (e.g., women wearing pants). These changes
+affect how gender diversity is conceptualized in population research. For example,
+over the past fifteen years there has been a paradigm shift in gender minor-
+ity health research from a disease-based model (transgender and gender non-
+conforming as disorder) to an identity-based model (transgender and gender
+nonconforming as identity) (Bockting 2008, 2009). Conceptualizing transgen-
+der and gender-nonconforming people as having diverse, nonpathological gen-
+der identities and gender expressions rather than as “disordered” reformulates
+how a “case” is defined and measured in population research. Such redefinition of
+a case also affects prevalence estimates as to the number of gender minority people
+in the United States.
+Recommendation 3: That questions specific to gender minorities be asked using
+skip patterns.
+Gender minorities represent an underserved and underresearched population
+with specific medical and mental health needs (Grant et al. 2011; Grossman and
+D’Augelli 2006; Mayer et al. 2008), many of which remain unexplored. Collecting
+                               Published by Duke University Press
+
+                                       TSQ
+40      TSQ * Transgender Studies Quarterly
+more high-quality data on the disparities associated with a transgender or gender-
+nonconforming identity and other social, economic, and health concerns of gender
+minority communities is essential if federal, state, local, and nonprofit agencies are
+to adequately serve transgender and gender-nonconforming people. Improved data
+are also necessary to allow researchers to better understand the backgrounds and
+needs of gender minority people and to help transgender advocates and their allies
+develop effective strategies for improving the circumstances of transgender and
+gender-nonconforming people’s lives, including addressing inequities.
+        Many aspects of the needs and experiences of gender minority people
+remain unexplored (IOM 2011). Adding gender identity to surveys allows for skip
+patterns (a question or series of questions associated with a conditional response
+that can be skipped); thus questions specific to gender minorities can be asked. An
+example of questions that can be asked of gender minority respondents in skip
+patterns are those relating to gender affirmation (Sevelius 2013). Gender affirmation
+can be conceptualized across three domains: social (name, pronoun, disclosure of
+gender to others, passing), medical (hormones, surgery, etc.), and legal (name
+change, gender marker change, document amendments). All three domains may be
+relevant for the health of gender minority people and should be queried. Another
+example of questions for skip patterns are those relating to antitransgender dis-
+crimination (Bradford et al. 2013), resilience processes (Bockting et al. 2013), and
+coping (Budge, Adelson, and Howard 2013) in response to chronic adversity.
+Adding a gender minority–specific module of questions that a relatively small
+subset of respondents will be asked is a cost-effective endeavor. Although some
+cost will be incurred, this additional cost will be offset by the benefit of rendering
+visible the lives, experiences, and health of gender minority people.
+Recommendation 4: A measure of gender identity does not replace sexual
+orientation (identity, attraction, behaviors). Measuring both gender identity
+and sexual orientation is recommended for US population-based surveys.
+Gender identity is often mistakenly conflated with sexual orientation. As an
+example, the National Center for Health Statistics sexual identity question, which
+was added to the National Health Interview Survey (NHIS) in 2014 (CDC 2014), is
+an inadequate and inaccurate measure of gender identity. “Transgender” is one
+response option in a subset of “Something else” on the sexual orientation identity
+measure. The NHIS sexual orientation identity measure queries respondents as
+follows: “Which of the following best represents how you think of yourself?” with
+response options “Gay,” “Straight, that is, not gay,” “Bisexual,” “Something else,”
+“Refused,” “I don’t know the answer.” If respondents answer “Something else,” a
+subsequent question is asked that includes a response option for gender minority
+people: “What do you mean by something else?” with response options: “You are
+                       Published by Duke University Press
+
+                                            TSQ
+        The GenIUSS Group  * “Counting” Transgender Adults in Health Research       41
+not straight, but identify with another label such as queer, trisexual, omnisexual
+or pansexual,” “You are transgender, transsexual or gender variant,” “You have
+not figured out or are in the process of figuring out your sexuality,” “You do not
+think of yourself as having a sexuality,” “You do not use labels to identify your-
+self,” “You mean something else,” “Refused,” “Don’t know.”
+         There are several factors related to this measure that make it a decidedly
+poor measure for gender minority populations. A gender minority person who
+identifies their sexual orientation as any response option other than “Something
+else” will not be “counted” as a gender minority. Yet transgender and gender-
+nonconforming individuals, like anyone else, may identify as gay, straight, bisex-
+ual, or another sexual orientation; they may be attracted to people of any gender;
+and they may engage in sexual behaviors with people of any gender (Grant et al.
+2011). The NHIS measure will likely underestimate the proportion of respondents
+who identify as transgender or gender nonconforming; thus we do not recom-
+mend this measure for population-based research in gender minority health.
+Survey designers should be aware that this question was not tested with
+the intention of capturing population prevalence estimates of gender minorities.
+This question assesses sexual orientation; thus a gender minority question should
+always accompany this measure.
+         Systematic data collection is key to the reduction of known health dis-
+parities (WHO 2008). After more than a decade of sustained effort by activists,
+researchers, and policy experts, there is now consensus around the importance
+of systematically collecting information related to sexual orientation (IOM 2011;
+SMART 2009). Similarly, precise measurement of sex and gender identity is needed
+in population-based research or else misclassification bias in sexual orientation-
+related data will occur. For example, a natal female who identifies her gender
+identity as a woman and who is sexually attracted to men may identify as “straight.”
+However, a natal female who identifies his gender as a man and is sexually attracted
+to men may self-identify as “gay.” Capturing sex only, without measurement of
+current gender identity, would result in misclassification of these sexual orientation
+identity data. In addition, the discriminatory treatment that some transgender and
+gender minority people suffer may be based in others’ perceptions and under-
+standings of gender identity and gender expression or sexual orientation (Gordon
+and Meyer 2007; Lombardi 2009). Therefore, data should be collected on sexual
+orientation and gender identity in order to fully study and understand the health
+disparities people face. Best practices for asking questions related to sexual orien-
+tation, including the three recommended dimensions of identity, attractions, and
+behaviors, have been described elsewhere (SMART 2009).
+                            Published by Duke University Press
+
+                                       TSQ
+42      TSQ  * Transgender Studies Quarterly
+General Considerations for Measurement of Transgender
+and Gender-Nonconforming People on Population-Based Surveys
+Transgender and gender-nonconforming people live in communities across the
+country and complete general population surveys; however, they are invisible
+due to the absence of measures that would allow their responses to be identified
+and compared to those of gender majority respondents. The crucial first step in
+building the knowledge base about gender minority health is adding gender-
+related measures to publicly funded population surveys that can help charac-
+terize the needs of gender minority respondents and enhance the precision of
+the measurement of sex and gender differences in population health. The land-
+scape of major federally supported surveys provides a key opportunity to gather
+demographic information about the US gender minority population as well
+as to gather information about the experiences of transgender and gender-
+nonconforming individuals across fields of inquiry where disparities affecting the
+gender minority population have been documented, including education, employ-
+ment, health, military service, and criminal justice. Some of the largest and most
+important federally supported surveys in these fields include the American
+Community Survey, the Current Population Survey, the Survey of Income and
+Program Participation, the National Crime Victimization Survey, the National
+Health Interview Survey, the Behavioral Risk Factor Surveillance System, the
+National Inmate Survey, and the National Survey of Veterans. These surveys
+represent important sources of information about population-level health dis-
+parities in the United States, including by age, sex, and race/ethnicity. Adding
+gender identity to these and other publicly funded population surveys offers the
+unique opportunity to compare gender minorities and gender majorities.
+Recommendation 5: Build on “best practices” for asking about minority groups
+on US population-based surveys: (1) gear questions asking about transgender
+and gender-nonconforming status toward gender majority respondents;
+(2) offer response options beyond binary “female”/“male” or “woman”/“man”
+categories; (3) aggregate data over multiple years to ensure adequate
+sample sizes.
+Three key issues related to collecting information about minority groups on
+population-based surveys are applicable and warrant consideration in the context
+of measurement of gender minority respondents. First, questions used to identify
+minority group members should be geared toward the majority group. Because a
+fairly small proportion of the US population is believed to be transgender
+(Conron et al. 2012; Gates 2011), it is imperative that questions included on general
+population surveys be easy for nonminority respondents to answer correctly. If
+even a small percentage of gender majority respondents incorrectly select answers
+                      Published by Duke University Press
+
+                                           TSQ
+        The GenIUSS Group  * “Counting” Transgender Adults in Health Research    43
+that lead them to be classified as gender minority (scientifically termed “false
+positives”), the data collected will be of questionable utility.
+        Second, questions needed to identify minority group members must be
+acceptable to, and provide appropriate response options that resonate with, group
+members, even if the questions do not have the breadth and depth desired by
+minority group members. At the most basic level, this means offering more than
+two response options (“female”/“male” or “woman”/“man”) on population-
+based surveys to allow for transgender and gender-nonconforming people to have
+an opportunity to identify themselves as gender minorities. This does not mean
+all gender minority people will select this option, as some do identify with the
+terms “female”/“male” or “woman”/“man.” However, findings from the National
+Transgender Discrimination Survey (NTDS) (Grant et al. 2011), a community-
+based survey that sampled more than 6,400 US transgender adults, illustrate
+the importance of having a nonbinary response option in order to capture the
+diversity of gender identities and expressions that fall within the gender minority
+umbrella. In the NTDS, respondents were asked “What is your primary gen-
+der today?” with the responses “male/man,” “female/woman,” “part time as one
+gender, part time as another,” and “a gender not listed here, please specify.” More
+than one in ten respondents (n = 860) opted to write in a gender identity that was
+“not listed” (Harrison, Grant, and Herman 2011).
+        Third, the heterogeneity of gender minority identity and experience that is
+explored in community-specific surveys (Grant et al. 2011; Harrison, Grant, and
+Herman 2011) cannot be gathered in population-based surveys. Population-based
+surveys are intended to provide policy makers and public health planners with
+basic information about the needs and characteristics of geographically defined
+populations and of large sociodemographic groups within that population.
+Thus, unless they are designed to purposively oversample gender minority groups,
+population-based surveys typically do not have enough gender minority respon-
+dents to produce information about subgroups (e.g., female-to-male Latino
+young adults) within the gender minority population. As with any rare population
+data, aggregation over years is one of the primary methods for getting a sample
+size large enough to constructively analyze the health of transgender and gender-
+nonconforming people. For additional examples, approaches, and best practices
+associated with aggregation of data, please see the full GenIUSS report (GenIUSS
+Group 2014).
+Recommended Measures for Gender Identity for Population-Based Surveys
+Numerous examples exist of how to collect information about the gender
+minority population. Questions that would measure gender identity and enable
+survey respondents to be classified as gender minority or gender nonminority,
+                           Published by Duke University Press
+
+                                       TSQ
+44      TSQ  * Transgender Studies Quarterly
+often used in combination, include natal sex, gender identity, and transgender
+status. There are different strengths and limitations to measures and measure-
+ment approaches to gathering data about the health and sociodemographic
+characteristics of gender minority people. However, which questions to ask in
+order to produce data about the health needs and socioeconomic characteristics
+of transgender or gender-nonconforming respondents depends upon the goal of
+such an endeavor (i.e., purpose of data collection, outcome of interest, population
+that one wishes to generalize and serve), the measures already collected in existing
+surveys, and sample size considerations (GenIUSS Group 2014). Although future
+research is needed, particularly with more diverse, representative samples, there is
+already evidence of appropriate measures to include questions that classify gender
+minority and gender nonminority respondents in population-based surveys now.
+Recommendation 6: When two demographic items can be added to an adult survey
+(or, in most instances, a standing measure of sex replaced and a measure of current
+gender identity added), inclusion of measures of assigned sex at birth and current
+gender identity is recommended.
+Collecting information about assigned sex at birth (male, female) and current
+gender identity (e.g., man, woman, transgender) is often referred to as the two-
+step method to assess gender minority/gender nonminority status. First developed
+in 1997 by the Transgender Health Advocacy Coalition for use on a survey of
+transgender people in Philadelphia (Singer, Cochran, and Adamec 1997), the two-
+step method was subsequently adapted and used in the Washington Transgender
+Needs Assessment Survey (Xavier et al. 2005) and the Virginia Transgender Health
+Information Study (Bradford et al. 2013; Xavier, Honnold, and Bradford 2007). The
+two-step method uses two questions (assigned sex at birth and current gender
+identity) to cross-classify respondents as gender minority (discordant sex/gender
+responses) or gender nonminority (concordant sex/gender responses). The two-
+step method appears the most likely to have high sensitivity as well as high speci-
+ficity with adults. Table 1 shows recommended measures for assigned sex at birth (a)
+and gender identity (b). It is unclear whether assigned sex at birth should precede or
+follow current gender identity; future studies should investigate ordering effects.
+        A 2013 study found that the two-step method was far more successful in
+identifying transgender respondents than a single, stand-alone gender identity
+item that offered a transgender response option (Tate, Ledbetter, and Youssef
+2013). This study also found that some transgender individuals identify their
+gender as male or female and not as transgender and thus will be missed if a
+gender identity measure is used alone. Additional research by GenIUSS Group
+members that conducted cognitive testing of survey items supports the validity of
+a two-step method implemented using different response options (Conron,
+                       Published by Duke University Press
+
+                                                   TSQ
+          The GenIUSS Group      * “Counting” Transgender Adults in Health Research              45
+Table 1. Recommended gender measures from the GenIUSS group
+(a) Assigned sex at birth
+What sex were you assigned at birth, on your original birth certiﬁcate? (check one)
+      , Male
+      , Female
+(b) Current gender identity
+How do you describe yourself? (check one)
+      , Male
+      , Female
+      , Transgender
+      , Do not identify as male, female, or transgender
+(c) Transgender status
+Some people describe themselves as transgender when they experience a different gender identity
+from their sex at birth. For example, a person who was born into a male body but who feels female or
+lives as a woman. Do you consider yourself to be transgender?
+      , Yes, transgender, male to female
+      , Yes, transgender, female to male
+      , Yes, transgender, gender nonconforming
+      , No
+Note—Additional information for telephone interviewer if asked about deﬁnition of transgender:
+Some people describe themselves as transgender when they experience a different gender identity
+from their sex at birth. For example, a person who was born into a male body but who feels female
+or lives as a woman would be transgender. Some transgender people change their physical
+appearance so that it matches their internal gender identity. Some transgender people take
+hormones and some have surgery. A transgender person may be of any sexual orientation—
+straight, gay, lesbian, or bisexual.
+Note—Additional information for interviewer if asked about deﬁnition of gender nonconforming:
+Some people think of themselves as gender nonconforming when they do not identify only
+as a man or only as a woman.
+(d) LGBT identity
+Do you think of yourself as (please check all that apply):
+      , Straight
+      , Gay or lesbian
+      , Bisexual
+      , Transgender, transsexual, or gender nonconforming
+If yes to transgender, then probe:
+      , Transgender, male to female OR
+      , Transgender, female to male OR
+      , Gender variant
+      , Transsexual
+Scout, and Austin 2008; Lombardi et al., in preparation; Reisner et al. 2014d). A
+two-step approach has also been used in online research by GenIUSS Group
+members in Latin America/the Caribbean, Portugal, and Spain (Reisner et al.
+2014e). In 2011, the US Centers for Disease Control and Prevention added sex and
+gender identity data elements to the US HIV/AIDS surveillance system, including
+the Adult Case Report Form, as well as to its electronic case-reporting surveillance
+                                  Published by Duke University Press
+
+                                       TSQ
+46       TSQ * Transgender Studies Quarterly
+system, called the Enhanced HIV/AIDS Reporting System (eHARS) (CDC 2013a).
+A unique strength of the two-step method is that it takes into account both natal
+sex (biological) and gender (social) processes, which are key for health research
+and epidemiological studies of health (Krieger 2003).
+         A visual schematic of measurement using this method is shown in figure 2,
+illustrated using the two survey items and response options from the 2010 wave of
+the Growing Up Today Study (GUTS), a national cohort of more than sixteen
+thousand adolescents and young adults followed prospectively since 1996 (Reisner
+2013). A gender minority person endorsing a male sex assigned at birth may
+identify their current gender identity as female (cross-sex identity), male-to-
+female transgender (transgender identity), or another gender identity (do not
+identify as male, female, or transgender); all individuals who fall into these
+categories can be counted as gender minorities. Further, differences by identity
+can be investigated, assuming adequate sample sizes. Thus cross-sex-identified
+respondents can be compared to transgender-identified respondents or to non-
+binary gender-identified people, or assigned female sex at birth can be compared
+to assigned male sex at birth. This item has been tested with “check one” instruc-
+tions (Reisner et al. 2014d); however, based on the GenIUSS Group’s collective
+experience in the field and work with gender minority communities, additional
+testing of this item using “check all that apply” instructions is suggested.
+         Since 2007, the Center of Excellence for Transgender Health at the Uni-
+versity of California, San Francisco, has advocated the use of a specific two-step
+question protocol in health care settings where data are collected by a second party
+(e.g., a health provider) (Sausa et al. 2009). An applied example of how the two-
+step method can aid in culturally competent care in clinical settings and avoid
+epidemiological misclassification can be found in prostate health. Natal males
+have a prostate and natal females do not. Therefore, natal males need routine
+preventive prostate cancer screening regardless of their current identity (CoE
+2011; Deutsch et al. 2013; Feldman 2007; Feldman and Goldberg 2006) and should
+also be in the denominator of a population prevalence estimate documenting
+utilization of preventive screening for prostate cancer.
+Recommendation 7: When valid self-report measures of assigned sex at birth and
+current gender identity are not on a survey and cannot be added (or replace existing
+measures) and a valid measure of sexual orientation is already on a survey, then the
+Massachusetts Behavioral Risk Factor Surveillance System (BRFSS) stand-alone
+demographic item is recommended.
+In 2007, a single-item measure of gender minority/gender nonminority status was
+added to the MA-BRFSS. The BRFSS is a national collaborative health surveillance
+effort between the CDC and state departments of public health. Each year, a
+                      Published by Duke University Press
+
+                                                       TSQ
+Figure 2. Conceptual overview: natal sex and current gender identity measurement using a two-step
+method in the Growing Up Today Study 1 (Reisner et al. 2014d).
+a
+ Infants born intersex are assigned either a female or male birth sex by a medical provider at birth.
+b
+  The term cisgender is used to refer to non-transgender individuals. The prefix cis- in Latin means “on
+this side of,” opposed to trans or ultra, meaning across or beyond. Gender minority would be
+operationalized by collapsing people with a cross-sex identity, transgender identity, or who identify
+with a gender other than male, female, or transgender.
+                                    Published by Duke University Press
+
+                                       TSQ
+48      TSQ  * Transgender Studies Quarterly
+household probability sample of adults who can be reached by telephone is drawn
+using random digit dial methods. Topics such as health insurance coverage,
+cancer screening, and sexual behavior are assessed with core questions provided
+by the CDC. States may add supplemental questions to their own state surveys. A
+single-item measure that would permit respondents to be classified as gender
+minority and gender nonminority was initially developed by transgender com-
+munity leaders and research allies for inclusion on the 2001 Boston BRFSS survey.
+Analyses of MA-BRFSS data collected between 2007 and 2009 indicate that 0.5
+percent of eighteen- to sixty-four-year-old adults answered yes to this question
+and were classified as gender minority (Conron et al. 2012). The nonresponse rate
+(1.4 percent) for this item was very low; in fact, it was lower than the nonresponse
+rate for sexual orientation and much lower than the nonresponse rate for income
+on the same survey. A slightly modified version of this item is shown in table 1 (c)
+as well as a sexual orientation identity item; together, these questions were
+adopted by the Centers for Disease Control and Prevention in 2013 as an optional
+“sexual orientation and gender identity” module that states can include on their
+Behavioral Risk Factor Surveillance Surveys.
+Recommendation 8: When valid self-report measures of assigned sex at birth and
+current gender identity are not on a survey and cannot be added (or replace existing
+measures), and a valid measure of sexual orientation identity is not already on a survey
+and cannot be added, then a stand-alone demographic item is recommended
+(without a write-in response option) that includes sexual orientation and gender identity.
+In 2008, the National Network for LGBT Tobacco Control (now the Network
+for LGBT Health Equity) developed and tested a single-item measure of gender
+identity and sexual orientation for Blue Cross Blue Shield of Minnesota. This
+question is a measure of LGBT status and queries about sexual orientation and
+transgender identity in a format that allows both aspects of identity to be inde-
+pendently reported through a “check all that apply” mechanism (table 1, d). In
+2008, this measure was cognitively tested in a diverse sample (including over-
+samples of people of color, LGB, and transgender people) in Minnesota and has
+been part of the state’s surveillance system since then. Importantly, this item
+successfully prevented false positives by steering gender nonminority respon-
+dents, including those who did not understand what transgender meant, away
+from the transgender response option.
+Discussion
+A critical first step in building the knowledge base about gender minority health is
+adding gender-related measures to publicly funded population surveys. These
+measures can help characterize the needs of transgender and gender-nonconforming
+                        Published by Duke University Press
+
+                                             TSQ
+        The GenIUSS Group   * “Counting” Transgender Adults in Health Research     49
+respondents and gain precision in sex and gender differences in health more
+broadly. One of the challenges that has been raised related to transgender data
+collection is the relative value of adding measures that are only expected to collect
+data from 0.5 percent of the general population (Conron et al. 2012). This is an
+estimated 1.569 million US citizens. Federally funded national surveys collect and
+report data on subpopulations and health conditions that affect far fewer than
+this number of citizens (CDC 2013b).
+        To reduce the widening inequities in health across a variety of social
+determinants, including gender, the World Health Organization recommends
+that researchers “measure and understand the problem and assess the impact of
+action” (WHO 2008). Incorporating gender-related measures that allow for
+identification of gender minorities in national and federal surveys will allow
+public health data systems to document and understand a range of health dis-
+parities by transgender and gender-nonconforming identity and allow for the
+development of targeted public health efforts that are responsive to the lived
+realities of populations at the highest risk of poorer health. The potential “cost” of
+the few survey items that will need to be added is far outweighed by the public
+health benefits of the resulting knowledge.
+        The GenIUSS Group has identified additional gender-related measure-
+ment research that needs to be undertaken. Cognitive testing of survey measures
+in Spanish represents a key area for future measurement research. Research with
+more diverse samples is also needed, including by race/ethnicity and socioeco-
+nomic status. For example, anecdotal evidence and qualitative data (Hwahng
+and Nuttbrock 2007; Valentine 2007) show that there may be differences in nomen-
+clature for transgender and gender-nonconforming identities based on race/ethnicity.
+Further research is needed to determine whether and how differences in the
+language of self-identity among people of color impacts our ability to accurately
+capture and reflect their experiences in population-based research. Another area
+of needed research is how to accurately identify intersex people on population
+surveys—people with a “difference of sexual development” or other intersex con-
+dition (GenIUSS Group 2014; IOM 2011).
+        We have focused on gender identity in this article. However, gender
+expression represents an important determinant of health (Calzo et al. 2014;
+Corby, Hodges, and Perry 2007; D’Augelli, Grossman, and Starks 2006; Egan and
+Perry 2001; Roberts et al. 2012, 2013; Rosario, Schrimshaw, and Hunter 2008;
+Rosario et al. 2014; Sandfort, Melendez, and Diaz 2007; Skidmore, Linsenmeier,
+and Bailey 2006; Toomey et al. 2010). People with gender-nonconforming gen-
+der expression may or may not self-identify as transgender, and they may or
+may not identify as sexual minority (Wylie et al. 2010). Survey respondents
+can be characterized along a continuum of current and/or recalled childhood
+                             Published by Duke University Press
+
+                                       TSQ
+50      TSQ  * Transgender Studies Quarterly
+gender conformity and nonconformity. Indeed, recalled childhood gender-
+nonconforming expression has been shown to be a critical determinant of health
+(Calzo et al. 2014; Roberts et al. 2012, 2013). It is important to note that accurate
+characterizations of respondents as gender nonconforming also depend upon the
+availability of accurate data about assigned sex at birth. Future research is needed
+to identify recommended gender-expression measures for population-based
+surveys.
+        The GenIUSS Group notes that population-based research is not the
+only source of meaningful data about gender minorities. Diversifying sources of
+information that contribute to the knowledge base in gender minority health is
+important for future research efforts. Community-based surveys represent an
+important and valuable source of information about transgender and gender-
+nonconforming health. Research that uses community-based participatory research
+(CBPR) principles and that works with transgender and gender-nonconforming
+communities to identify and address their specific health-related needs (Leung,
+Yen, and Minkler 2004) is especially vital for gender minority health research, given
+that transgender and gender-nonconforming people largely represent a “hidden”
+population. Large samples of transgender and gender-nonconforming people are
+efficiently reached through social network linkages to other gender minority
+people and their allies. The best example of large-scale application of CBPR
+principles with gender minority communities to gather information about spe-
+cific health-related issues affecting gender minority adults is the US NTDS (Grant
+et al. 2011). Between September 2008 and March 2009, more than 6,400 trans-
+gender adults were recruited using multimodal data collection methods (in
+person and online) to ensure a sociodemographically and geographically diverse
+national sample (Reisner et al. 2014a). NTDS remains the largest sample of US
+gender minorities to date. Data from NTDS led to widespread advocacy and
+policy changes that benefit the health and well-being of transgender and gender-
+nonconforming individuals. Surveys such as NTDS can lead to rigorous com-
+munity-based research that engages communities and contributes to transgen-
+der and gender-nonconforming health, including methodological innovations
+(Reisner et al. 2014a).
+        Survey research is only one means of collecting data to assess the experi-
+ences of the gender minority population. Clinical settings and electronic health
+records (EHR) have been identified as important and underutilized sources of
+information about sexual and gender minority health disparities (Cahill and
+Makadon 2014; Deutsch et al. 2013). Clinical settings and EHR are particularly
+valuable in light of the dearth of comparative data that exist to understand the
+health and well-being of gender minorities relative to gender nonminorities.
+                      Published by Duke University Press
+
+                                                 TSQ
+        The GenIUSS Group     * “Counting” Transgender Adults in Health Research             51
+Other sources include administrative data such as the data collected by govern-
+ment agencies to monitor compliance with civil rights laws, cohort studies that
+offer unique longitudinal and developmental data, and other cohort-related
+surveillance systems such as those maintained by the Department of Veterans
+Affairs. Addition of gender-related measures—along with measures related to
+sexual orientation—to clinical settings, EHR, and other administration data
+collection systems represents an important way forward to reduce health dis-
+parities and improve population health.
+         In coming years, the addition and refinement of questions that measure
+gender identity will allow researchers, policy makers, and transgender and gen-
+der-nonconforming individuals themselves to add to the science about trans-
+gender and gender-nonconforming health and, in time, to monitor and evaluate
+efforts to eliminate health disparities and achieve health equity. Such an endeavor
+also offers the opportunity to learn more about sex and gender differences that
+may be relevant for the health of all people—gender minority and majority alike.
+Sari L. Reisner, ScD, is a postdoctoral research fellow in the Department of Epidemiology at
+Harvard School of Public Health and a research scientist at the Fenway Institute at Fenway
+Health. He is the author of more than sixty peer-reviewed publications in sexual and gender
+minority health.
+Kerith J. Conron, ScD, MPH, is a research scientist at the Fenway Institute at Fenway Health.
+She is adjunct assistant professor in the Department of Health Sciences at Northeastern
+University, and visiting scholar at the Heller School of Social Policy at Brandeis University.
+Scout, PhD, is the director of LGBT HealthLink, the health arm of the national community of
+LGBT centers, and an adjunct assistant professor at Boston University. He leads one of the CDC’s
+eight national tobacco and cancer disparity networks and is a Huffington Post blogger.
+Kellan Baker is a senior fellow with the LGBT Research and Communications Project at the
+Center for American Progress, where he focuses on federal policy initiatives relating to LGBT
+health and data collection.
+Jody L. Herman, PhD, is the Peter J. Cooper Public Policy Fellow and manager of transgender
+research at the Williams Institute at the University of California, Los Angeles, School of Law.
+She holds a PhD in public policy and public administration from the George Washington
+University.
+Emilia Lombardi, PhD, is an assistant professor in Baldwin Wallace University’s Department of
+Public Health, School of Health Sciences. She has a PhD in sociology and has been examining
+                              Published by Duke University Press
+
+                                            TSQ
+52       TSQ  * Transgender Studies Quarterly
+health disparities among transgender populations since the mid-1990s and has authored many
+peer-reviewed papers on transgender health issues.
+Emily A. Greytak, PhD, is the director of research at GLSEN (Gay, Lesbian and Straight Edu-
+cation Network), a national education organization addressing LGBT issues in K–12 schools.
+She regularly presents and publishes research in scholarly and practitioner outlets and has
+particular expertise in transgender youth issues and educator professional development.
+Alison M. Gill, JD, is the senior legislative counsel at the Human Rights Campaign, where she
+focuses on advocacy related to state legislation, LGBT youth issues, transgender issues, and
+data collection.
+Alicia Matthews, PhD, is nationally known for health disparities research with underserved
+populations, primarily focused on the development and evaluation of culturally targeted cancer
+risk reduction interventions. Dr. Matthews is an associate professor and clinical psychologist
+with more than fifteen years of experience in examining determinants of cancer-related health
+disparities with a particular focus on African American and LGBT populations. Recent research
+focuses on the use of community-based and culturally targeted health promotion interventions to
+reduce risk factors associated with cancer disparities, including smoking cessation treatments.
+References
+Bockting, W. O. 2008. “Psychotherapy and the Real-Life Experience: From Gender Dichotomy to
+         Gender Diversity.” Sexologies 17, no. 4: 211–24.
+———. 2009. “Transforming the Paradigm of Transgender Health: A Field in Transition.” Sexual
+         and Relationship Therapy 24, no. 2: 103–7.
+Bockting, W. O., et al. 2013. “Stigma, Mental Health, and Resilience in an Online Sample of the US
+         Transgender Population.” American Journal of Public Health 103, no. 5: 943–51.
+Bowleg, Lisa. 2012. “The Problem with the Phrase Women and Minorities: Intersectionality—An
+         Important Theoretical Framework for Public Health.” American Journal of Public Health
+         102, no. 7: 1267–73.
+Bradford, Judith, et al. 2013. “Experiences of Transgender-Related Discrimination and Implica-
+         tions for Health: Results from the Virginia Transgender Health Initiative Study.”
+         American Journal of Public Health 103, no. 10: 1820–29.
+Braveman, Paula. 2006. “Health Disparities and Health Equity: Concepts and Measurement.”
+         Annual Review of Public Health 27: 167–94.
+Budge, Stephanie L., Jill L. Adelson, and Kimberly A. S. Howard. 2013. “Anxiety and Depression in
+         Transgender Individuals: The Roles of Transition Status, Loss, Social Support, and
+         Coping.” Journal of Consulting and Clinical Psychology 81, no. 3: 545–57.
+Cahill, Sean, and Harvey Makadon. 2014. “Sexual Orientation and Gender Identity Data Col-
+         lection in Clinical Settings and in Electronic Health Records: A Key to Ending LGBT
+         Health Disparities.” LGBT Health 1, no. 1: 34–41.
+Calzo, Jerel P., et al. 2014. “Physical Activity Disparities in Heterosexual and Sexual Minority
+         Youth Ages 12–22 Years Old: Roles of Childhood Gender Nonconformity and Athletic
+         Self-Esteem.” Annals of Behavioral Medicine 47, no. 1: 17–27.
+                          Published by Duke University Press
+
+                                                    TSQ
+        The GenIUSS Group       * “Counting” Transgender Adults in Health Research              53
+CoE (Center of Excellence for Transgender Health). 2011. Primary Care Protocol for Transgender
+         Patient Care. San Francisco: University of California, San Francisco. transhealth.ucsf
+         .edu/trans?page=protocol-00-00.
+CDC (Centers for Disease Control and Prevention). 2013a. “HIV among Transgender People.”
+         www.cdc.gov/hiv/risk/transgender.
+———. 2013b. HIV/AIDS, “Statistics Overview.” www.cdc.gov/hiv/statistics/basics.
+———. 2014. National Health Interview Survey, “Questionnaires, Datasets, and Related Doc-
+         umentation 1997 to the Present.” www.cdc.gov/nchs/nhis/quest_data_related_1997
+         _forward.htm.
+Clements-Nolle, Kristen, et al. 2001. “HIV Prevalence, Risk Behaviors, Health Care Use, and
+         Mental Health Status of Transgender Persons: Implications for Public Health Inter-
+         vention.” American Journal of Public Health 91, no. 6: 915–21.
+Clements-Nolle, Kristen, Rani Marx, and Mitchell Katz. 2006. “Attempted Suicide among
+         Transgender Persons: The Influence of Gender-Based Discrimination and Victimiza-
+         tion.” Journal of Homosexuality 51, no. 3: 53–69.
+Conron, Kerith J., et al. 2012. “Transgender Health in Massachusetts: Results from a Household
+         Probability Sample of Adults.” American Journal of Public Health 102, no. 1: 118–22.
+———. 2014. “Sex and Gender in the US Health Surveillance System: A Call to Action.” American
+         Journal of Public Health 104, no. 6: 970–76.
+Conron, Kerith Jane, Scout, and S. Bryn Austin. 2008. “‘Everyone Has a Right to, Like, Check
+         Their Box’: Findings on a Measure of Gender Identity from a Cognitive Testing Study
+         with Adolescents.” Journal of LGBT Health Research 4, no. 1: 1–9.
+Corby, Brooke C., Ernest V. Hodges, and David G. Perry. 2007. “Gender Identity and Adjustment
+         in Black, Hispanic, and White Preadolescents.” Developmental Psychology 43, no. 1:
+         261–66.
+Courtenay, Will H. 2000. “Constructions of Masculinity and Their Influence on Men’s Well-
+         Being: A Theory of Gender and Health.” Social Science and Medicine 50, no. 10: 1385–401.
+D’Augelli, Anthony R., Arnold H. Grossman, and Michael. T. Starks. 2006. “Childhood Gender
+         Atypicality, Victimization, and PTSD among Lesbian, Gay, and Bisexual Youth.” Journal
+         of Interpersonal Violence 21, no. 11: 1462–82.
+Deutsch, Madeline B., et al. 2013. “Electronic Medical Records and the Transgender Patient:
+         Recommendations from the World Professional Association for Transgender Health
+         EMR Working Group.” Journal of the American Medical Informatics Association 20, no. 4:
+         700–703.
+Doyal, Lesley. 2001. “Sex, Gender, and Health: The Need for a New Approach.” British Medical
+         Journal 323, no. 7320: 1061–63.
+———. 2003. “Sex and Gender: The Challenges for Epidemiologists.” International Journal of
+         Health Services 33, no. 3: 569–79.
+Egan, Susan K., and David G. Perry. 2001. “Gender Identity: A Multidimensional Analysis with
+         Implications for Psychosocial Adjustment.” Developmental Psychology 37, no. 4: 451–63.
+Feldman, Jamie. 2007. “Preventive Care of the Transgendered Patient: An Evidence-Based
+         Approach.” In Principles of Transgender Medicine and Surgery, edited by Randy Ettner,
+         Stan Monstrey, and A. Evan Eyler, 34–38. New York: Haworth.
+Feldman, Jamie L., and Joshua M. Goldberg. 2006. “Transgender Primary Medical Care.” Inter-
+         national Journal of Transgenderism 9, nos. 3–4: 3–34.
+Ferrant, Gaëlle. 2014. “The Multidimensional Gender Inequalities Index (MGII): A Descriptive
+         Analysis of Gender Inequalities Using MCA.” Social Indicators Research 115, no. 2: 653–90.
+                                 Published by Duke University Press
+
+                                            TSQ
+54       TSQ  * Transgender Studies Quarterly
+Field, Alison E., et al. 1999. “Overweight, Weight Concerns, and Bulimic Behaviors among Girls
+         and Boys.” Journal of the American Academy of Child and Adolescent Psychiatry 38, no. 6:
+         754–60.
+Garofalo, Robert, et al. 2006. “Overlooked, Misunderstood, and At-Risk: Exploring the Lives and
+         HIV Risk of Ethnic Minority Male-to-Female Transgender Youth.” Journal of Adolescent
+         Health 38, no. 3: 230–36.
+Gates, Gary J. 2011. “How Many People are Lesbian, Gay, Bisexual, and Transgender?” Williams
+         Institute. williamsinstitute.law.ucla.edu/wp-content/uploads/Gates-How-Many-People
+         -LGBT-Apr-2011.pdf.
+GenIUSS Group (Gender Identity in US Surveillance). 2013. “Gender-Related Measures Over-
+         view.” Los Angeles: Williams Institute, University of California, Los Angeles, School
+         of Law. williamsinstitute.law.ucla.edu/wp-content/uploads/GenIUSS-Gender-related
+         -Question-Overview.pdf
+———. 2014. “Best Practices for Asking Questions to Identify Transgender Respondents on
+         Population-Based Surveys.” Los Angeles: Williams Institute, University of California,
+         Los Angeles, School of Law. williamsinstitute.law.ucla.edu/wp-content/uploads/geniuss
+         -report-sep-2014.pdf.
+Gordon, Allegra R., and Ilan H. Meyer. 2007. “Gender Nonconformity as a Target of Prejudice,
+         Discrimination, and Violence against LGB Individuals.” Journal of LGBT Health Research
+         3, no. 3: 55–71.
+Gorman, Bridget K., and Jen’nan Ghazal Read. 2006. “Gender Disparities in Adult Health: An
+         Examination of Three Measures of Morbidity.” Journal of Health and Social Behavior 47,
+         no. 2: 95–110.
+Grant, Jaime, et al. 2011. “Injustice at Every Turn: A Report of the National Transgender Dis-
+         crimination Survey.” Washington, DC: National Center for Transgender Equality and
+         National Gay and Lesbian Task Force.
+Grossman, Arnold H., and Anthony R. D’Augelli. 2006. “Transgender Youth: Invisible and Vul-
+         nerable.” Journal of Homosexuality 51, no. 1: 111–28.
+Haig, David. 2004. “The Inexorable Rise of Gender and the Decline of Sex: Social Change in
+         Academic Titles, 1945–2001.” Archives of Sexual Behavior 33, no. 2: 87–96.
+Harrison, Jack, Jaime Grant, and Jody L. Herman. 2011. “A Gender Not Listed Here: Gender-
+         queers, Gender Rebels, and Otherwise in the National Transgender Discrimination
+         Survey.” LGBTQ Policy Journal at the Harvard Kennedy School 2: 13–24.
+Hendricks, Michael L., and Rylan J. Testa. 2012. “A Conceptual Framework for Clinical Work with
+         Transgender and Gender Nonconforming Clients: An Adaptation of the Minority Stress
+         Model.” Professional Psychology: Research and Practice 43, no. 5: 460–67.
+Herbst, Jeffrey H., et al. 2008. “Estimating HIV Prevalence and Risk Behaviors of Transgender
+         Persons in the United States: A Systematic Review.” AIDS and Behavior 12, no. 1: 1–17.
+Hwahng, Sel Julian, and Larry Nuttbrock. 2007. “Sex Workers, Fem Queens, and Cross-Dressers:
+         Differential Marginalizations and HIV Vulnerabilities among Three Ethnocultural Male-
+         to-Female Transgender Communities in New York City.” Sexuality Resesearch and Social
+         Policy 4, no. 4: 36–59.
+IOM (Institute of Medicine). 2011. The Health of Lesbian, Gay, Bisexual, and Transgender People:
+         Building a Foundation for Better Understanding. Washington, DC: National Academic
+         Press.
+Kenagy, Gretchen P. 2005. “Transgender Health: Findings from Two Needs Assessment Studies in
+         Philadelphia.” Health and Social Work 30, no. 1: 19–26.
+                           Published by Duke University Press
+
+                                                    TSQ
+         The GenIUSS Group       * “Counting” Transgender Adults in Health Research            55
+Krieger, Nancy. 2003. “Genders, Sexes, and Health: What Are the Connections—and Why Does It
+         Matter?” International Journal of Epidemiology 32, no. 4: 652–57.
+Leung, Margaret W., Irene H. Yen, and Meredith Minkler. 2004. “Community-Based Participatory
+         Research: A Promising Approach for Increasing Epidemiology’s Relevance in the Twenty-
+         First Century.” International Journal of Epidemiology 33, no. 3: 499–506.
+Lombardi, Emilia. 2009. “Varieties of Transgender/Transsexual Lives and Their Relationship with
+         Transphobia.” Journal of Homosexuality 56, no. 8: 977–92.
+Lombardi, Emilia, et al. 2001. “Gender Violence: Transgender Experiences with Violence and
+         Discrimination.” Journal of Homosexuality 42, no. 1: 89–101.
+———. In preparation. “Examination of Gender Identity and Expression Measures within a Mid-
+         west Sample: Results from the Population-Based Gender Identity Measurement Small
+         Research Project.”
+Mayer, Kenneth H., et al. 2008. “Sexual and Gender Minority Health: What We Know and What
+         Needs to Be Done.” American Journal of Public Health 98, no. 6: 989–95.
+McLeroy, Kenneth R., et al. 1988. “An Ecological Perspective on Health Promotion Programs.”
+         Health Education Quarterly 15, no. 4: 351–77.
+Nieuwenhoven, Linda, and Ineke Klinge. 2010. “Scientific Excellence in Applying Sex- and
+         Gender-Sensitive Methods in Biomedical and Health Research.” Journal of Womens
+         Health 19, no. 2: 313–21.
+Nowatzki, Nadine, and Karen R. Grant. 2011. “Sex is Not Enough: The Need for Gender-Based
+         Analysis in Health Research.” Health Care for Women International 32, no. 4: 263–77.
+Nuttbrock, Larry, et al. 2010. “Psychiatric Impact of Gender-Related Abuse across the Life Course
+         of Male-to-Female Transgender Persons.” Journal of Sex Research 47, no. 1: 12–23.
+Pearlin, Leonard I., et al. 2005. “Stress, Health, and the Life Course: Some Conceptual Perspec-
+         tives.” Journal of Health and Social Behavior 46, no. 2: 205–19.
+Read, Jen’nen Ghazal, and Bridget K. Gorman. 2006. “Gender Inequalities in US Adult Health:
+         The Interplay of Race and Ethnicity.” Social Science and Medicine 62, no. 5: 1045–65.
+Reisner, Sari L. 2013. “Gender Identity as a Social Determinant of Health: Methods for Trans-
+         gender Health Research.” ScD diss., Harvard School of Public Health.
+Reisner, Sari L., et al. 2014a. “Comparing In-Person and Online Survey Respondents in the U.S.
+         National Transgender Discrimination Survey: Implications for Transgender Health
+         Research.” LGBT Health 1, no. 2: 98–106.
+———. 2014b. “Dyadic Effects of Gender Minority Stressors in Substance Use Behaviors among
+         Transgender Women and Their Non-Transgender Male Sex Partners.” Psychology of
+         Sexual Orientation and Gender Diversity 1, no. 1: 63–71.
+———. 2014c. “Gender Minority Social Stress in Adolescence: Disparities in Adolescent
+         Bullying and Substance Use by Gender Identity.” Journal of Sex Research. doi:10.1080
+         /00224499.2014.886321.
+———. 2014d. “Monitoring the Health of Transgender and Other Gender Minority Populations:
+         Validity of Natal Sex and Gender Identity Survey Items in a US National Cohort of
+         Young Adults.” BMC Public Health 14: 1224. doi:10.1186/1471-2458-14-1224.
+———. 2014e. “Using a Two-Step Method to Measure Transgender Identity in Latin America/the
+         Caribbean, Portugal, and Spain.” Archives of Sexual Behavior 43, no. 8: 1503–14.
+Reisner, Sari L., Zinzi Bailey, and Jae Sevelius. 2014. “Racial/Ethnic Disparities in History of
+         Incarceration, Experiences of Victimization, and Associated Health Indicators among
+         Transgender Women in the U.S.” Women and Health 54, no. 8: 750–67. doi:10.1080
+         /03630242.2014.932891.
+                                  Published by Duke University Press
+
+                                            TSQ
+56       TSQ  * Transgender Studies Quarterly
+Roberts, Andrea L., et al. 2012. “Childhood Gender Nonconformity: A Risk Indicator for
+         Childhood Abuse and Posttraumatic Stress in Youth.” Pediatrics 129, no. 3: 410–17.
+———. 2013. “Childhood Gender Nonconformity, Bullying Victimization, and Depressive
+         Symptoms across Adolescence and Early Adulthood: An Eleven-Year Longitudinal
+         Study.” Journal of the American Academy of Child and Adolescent Psychiatry 52, no. 2:
+         143–52.
+Rosario, Margaret, Eric W. Schrimshaw, and Joyce Hunter. 2008. “Butch/Femme Differences in
+         Substance Use and Abuse among Young Lesbian and Bisexual Women: Examination and
+         Potential Explanations.” Substance Use and Misuse 43, nos. 8–9: 1002–15.
+Rosario, Margaret, et al. 2014. “Disparities in Depressive Distress by Sexual Orientation in
+         Emerging Adults: The Roles of Attachment and Stress Paradigms.” Archives of Sexual
+         Behavior 43, no. 5: 901–16.
+Sandfort, Theo G., Rita M. Melendez, and Rafael M. Diaz. 2007. “Gender Nonconformity,
+         Homophobia, and Mental Distress in Latino Gay and Bisexual Men.” Journal of Sex
+         Research 44, no. 2: 181–89.
+Sausa, L. A., et al. 2009. “Policy Recommendations for Inclusive Data Collection of Trans People
+         in HIV Prevention, Care, and Services.” San Francisco: Center of Excellence for Trans-
+         gender HIV Prevention, University of California.
+Schwartz, Sharon, and Ilan H. Meyer. 2010. “Mental Health Disparities Research: The Impact of
+         within and between Group Analyses on Tests of Social Stress Hypotheses.” Social Science
+         and Medicine 70, no. 8: 1111–18.
+Sevelius, Jae M. 2013. “Gender Affirmation: A Framework for Conceptualizing Risk Behavior
+         among Transgender Women of Color.” Sex Roles 68, nos. 11–12: 675–89.
+Singer, T. Benjamin, Mary Cochran, and Rachael Adamec. 1997. Final Report by the Transgender
+         Health Action Coalition (THAC) to the Philadelphia Foundation Legacy Fund [for the]
+         Needs Assessment Survey Project. Philadelphia: Transgender Health Action Coalition.
+Skidmore, W. Christopher, Joan A. Linsenmeier, and J. Michael Bailey. 2006. “Gender Non-
+         conformity and Psychological Distress in Lesbians and Gay Men.” Archives of Sexual
+         Behavior 35, no. 6: 685–97.
+SMART (Sexual Minority Assessment Research Team). 2009. “Best Practices for Asking Questions
+         about Sexual Orientation on Surveys.” Los Angeles: Williams Institute, University
+         of California, Los Angeles, School of Law. williamsinstitute.law.ucla.edu/wp-content
+         /uploads/SMART-FINAL-Nov-2009.pdf.
+Tate, Charlotte Chuck, Jay N. Ledbetter, and Cris P. Youssef. 2013. “A Two-Question Method for
+         Assessing Gender Categories in the Social and Medical Sciences.” Journal of Sex Research
+         50, no. 8: 767–76.
+Toomey, Russell B., et al. 2010. “Gender-Nonconforming Lesbian, Gay, Bisexual, and Transgender
+         Youth: School Victimization and Young Adult Psychosocial Adjustment.” Developmental
+         Psychology 46, no. 6: 1580–89.
+US Department of Health and Human Services. 2010. “Health Disparities.” Office of Disease
+         Prevention and Health Promotion. www.healthypeople.gov/2020/about/disparitiesAbout
+         .aspx.
+Valentine, David. 2007. Imagining Transgender: An Ethnography of a Category. Durham, NC: Duke
+         University Press.
+Vlassoff, Carol. 2007. “Gender Differences in Determinants and Consequences of Health and
+         Illness.” Journal of Health, Population, and Nutrition 25, no. 1: 47–61.
+WHO (World Health Organization). 2008. Closing the Gap in a Generation: Health Equity through
+         Action on the Social Determinants of Health. Final Report of the Commission on Social
+                           Published by Duke University Press
+
+                                                    TSQ
+          The GenIUSS Group      * “Counting” Transgender Adults in Health Research              57
+          Determinants of Health. Geneva: World Health Organization. www.who.int/social
+          _determinants/thecommission/finalreport/en.
+Wylie, Sarah A., et al. 2010. “Socially Assigned Gender Nonconformity: A Brief Measure for Use in
+          Surveillance and Investigation of Health Disparities.” Sex Roles 63, nos. 3–4: 264–76.
+Xavier, Jessica M., et al. 2005. “A Needs Assessment of Transgendered People of Color Living in
+          Washington, DC.” International Journal of Transgenderism 8, nos. 2–3: 31–47.
+Xavier, Jessica, Julie A. Honnold, and Judith Bradford. 2007. The Health, Health-Related Needs,
+          and Lifecourse Experiences of Transgender Virginians. Richmond: Virginia Department
+          of Health. www.vdh.virginia.gov/epidemiology/DiseasePrevention/documents/pdf/THIS
+          FINALREPORTVol1.pdf.
+Appendix. Eight recommendations from the GenIUSS Group
+Recommendation 1: That standardized self‐report questions about both sex and gender be included
+in all surveys of the US population.
+Recommendation 2: That multiple aspects of gender be measured in US population‐based research,
+including gender identity.
+Recommendation 3: That questions speciﬁc to gender minorities be asked using skip patterns.
+Recommendation 4: A measure of gender identity does not replace sexual orientation (identity,
+attraction, behaviors). Measuring both gender identity and sexual orientation is recommended for
+US population‐based surveys.
+Recommendation 5: Build on “best practices” for asking about minority groups on US population‐
+based surveys: (1) gear questions asking about transgender and gender nonconforming status
+toward gender majority respondents; (2) offer response options beyond binary “female”/“male” or
+“woman”/“man” categories; (3) aggregate data over multiple years to ensure adequate sample sizes.
+Recommendation 6: When two demographic items can be added to an adult survey (or, in most
+instances, a standing measure of sex replaced and a measure of current gender identity added),
+inclusion of measures of assigned sex at birth and current gender identity is recommended. The
+two‐step approach appears the most likely to have high sensitivity as well as high speciﬁcity with
+adults (table 1, a, b).
+Recommendation 7: When valid self‐report measures of assigned sex at birth and current gender
+identity are not on a survey and cannot be added (or replace existing measures) and a valid measure
+of sexual orientation identity is already on a survey, then the BRFSS stand‐alone demographic item
+is recommended (table 1, c).
+Recommendation 8: When valid self‐report measures of assigned sex at birth and current gender
+identity are not on a survey and cannot be added (or replace existing measures), and a valid measure
+of sexual orientation identity is not already on a survey and cannot be added, then a stand‐alone
+demographic item is recommended (without a write‐in response option) that includes sexual
+orientation and gender identity (table 1, d).
+                                  Published by Duke University Press
+

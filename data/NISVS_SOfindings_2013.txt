@@ -1,0 +1,1767 @@
+The National Intimate Partner
+and Sexual Violence Survey
+2010 Findings on Victimization
+by Sexual Orientation
+National Center for Injury Prevention and Control
+Division of Violence Prevention
+
+     The National Intimate Partner and Sexual Violence Survey: 2010 Findings on 
+
+Victimization by Sexual Orientation is a publication of the National Center for Injury 
+
+     Prevention and Control of the Centers for Disease Control and Prevention
+
+                     Centers for Disease Control and Prevention
+
+                        Thomas R. Frieden, MD, MPH, Director
+
+                  National Center for Injury Prevention and Control
+
+                        Linda C. Degutis, DrPH, MSN, Director
+
+                            Division of Violence Prevention
+
+                            Howard R. Spivak, MD, Director
+
+                                   Suggested Citation:
+
+   Walters, M.L., Chen J., & Breiding, M.J. (2013). The National Intimate Partner and 
+
+Sexual Violence Survey (NISVS): 2010 Findings on Victimization by Sexual Orientation. 
+
+            Atlanta, GA: National Center for Injury Prevention and
+ Control, 
+
+                      Centers for Disease Control and Prevention.
+
+The National Intimate Partner and 
+
+ Sexual Violence Survey (NISVS):
+
+2010 Findings on Victimization by Sexual Orientation
+        Mikel L. Walters, Jieru Chen, and Matthew J. Breiding
+                            January 2013
+         National Center for Injury Prevention and Control
+
+            Centers for Disease Control and Prevention
+
+                            Atlanta, Georgia
+
+
+ii The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   Table OF CONTeNTS
+
+   list of Tables and Figures  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . iii
+
+   acknowledgments  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . iv
+
+   executive Summary  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+
+      Key findings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+   background and Methods  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+
+      What is the National Intimate Partner and Sexual Violence Survey? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+      What does this report include? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+      Methods. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+   Sexual Violence Victimization  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+
+      Lifetime prevalence of sexual violence victimization by any perpetrator by sexual orientation . . . . . .10
+
+      Number of perpetrators in lifetime reports of sexual violence by sexual orientation . . . . . . . . . . . . . . . .12
+
+      Sex of perpetrator in lifetime reports of sexual violence by sexual orientation . . . . . . . . . . . . . . . . . . . . . .13
+
+      Age at time of first completed rape victimization by sexual orientation . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+
+   Stalking Victimization  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+
+      Lifetime prevalence of stalking victimization by any perpetrator by sexual orientation . . . . . . . . . . . . .15
+
+   Violence by an Intimate Partner  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+
+      Lifetime prevalence of rape, physical violence, and/or stalking victimization by an intimate 
+
+      partner by sexual orientation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+
+      Lifetime prevalence of sexual violence by an intimate partner by sexual orientation . . . . . . . . . . . . . . . .20 
+
+      Lifetime prevalence of physical violence victimization by an intimate partner by sexual orientation . . . . .21 
+
+      Lifetime prevalence of psychological aggression by an intimate partner by sexual orientation . . . . . .23
+
+      Lifetime prevalence of control of reproductive or sexual health by an intimate partner 
+
+      by sexual orientation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+
+      Number of perpetrators in lifetime reports of violence by an intimate partner 
+
+      by sexual orientation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 
+
+      Sex of perpetrator in lifetime reports of rape, physical violence, and/or stalking victimization 
+
+      by an intimate partner by sexual orientation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+
+   Impact of Intimate Partner Violence  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+
+      Lifetime prevalence of rape, physical violence, and/or stalking victimization with intimate 
+
+      partner violence-related impact by sexual orientation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30
+
+   Discussion  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 33
+
+      Limitations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+
+   Implications for Prevention  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 37
+
+      Ensure access to protection, services, and resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .37
+
+      Implement strong data systems for monitoring and evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38 
+
+      Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38
+
+   References  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 41
+
+
+         The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation iii
+TableS aND FIGUReS
+Table 1          Lifetime Prevalence of Sexual Violence by Any Perpetrator by Sexual Orientation —
+                 U.S. Women, NISVS 2010
+Table 2          Lifetime Prevalence of Sexual Violence by Any Perpetrator by Sexual Orientation —
+                 U.S. Men, NISVS 2010
+Table 3          Lifetime Prevalence of Rape, Physical Violence, and/or Stalking Victimization by an Intimate
+                 Partner by Sexual Orientation — U.S. Women, NISVS 2010
+Table 4          Lifetime Prevalence of Rape, Physical Violence, and/or Stalking Victimization by an Intimate
+                 Partner by Sexual Orientation — U.S. Men, NISVS 2010
+Table 5          Lifetime Prevalence of Sexual Violence by an Intimate Partner by Sexual Orientation —
+                 U.S. Women, NISVS 2010
+Table 6          Lifetime Prevalence of Physical Violence by an Intimate Partner by Sexual Orientation —
+                 U.S. Women, NISVS 2010
+Table 7          Lifetime Prevalence of Physical Violence by an Intimate Partner by Sexual Orientation —
+                 U.S. Men, NISVS 2010
+Table 8          Lifetime Prevalence of Psychological Aggression by an Intimate Partner by Sexual Orientation
+                 — U.S. Women, NISVS 2010
+Table 9          Lifetime Prevalence of Psychological Aggression by an Intimate Partner by Sexual Orientation
+                 — U.S. Men, NISVS 2010
+Table 10         Lifetime Reports of Psychological Aggression among Female Victims by Type of Behavior
+                 Experienced by Sexual Orientation — U.S. Women, NISVS 2010
+Table 11         Lifetime Prevalence of Rape, Physical Violence, and/or Stalking Victimization by an Intimate
+                 Partner with IPV-Related Impact by Sexual Orientation — U.S. Women, NISVS 2010
+Figure 1         Lifetime Number of Perpetrators of Sexual Violence Other than Rape among Female Victims
+                 of Sexual Violence by Sexual Orientation — NISVS 2010
+Figure 2         Age at Time of First Completed Rape Victimization among Female Victims by Sexual Orientation —
+                 NISVS 2010
+
+iv The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+                                                acknowledgments
+                          We would like to acknowledge the following individuals who contributed in
+
+                          many ways to the development and support of this report: Kathleen Basile, 
+
+                          Michele Lynberg Black, Faye Floyd, Alida Knuth, Melissa Merrick, Erica Mizelle,
+
+                          Nimesh Patel, Sharon Smith, Mark Stevens, Paula Orlosky Williams, and 
+
+                          RTI International. 
+
+
+           The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 1
+eXeCUTIVe SUMMaRY
+
+Little is known about the national        Key Findings                                For women:
+
+prevalence of sexual violence,                                                        - Lesbian – 46.4% 
+
+stalking, and intimate partner            Overall                                     - Bisexual – 74.9%
+
+violence among gay, lesbian,              •	 Bisexual women had significantly         - Heterosexual – 43.3% 
+
+and bisexual women and men in                higher lifetime prevalence of            For men:
+
+the United States. Information at            rape and sexual violence other           - Gay – 40.2%
+
+a national level focusing on these           than rape by any perpetrator             - Bisexual – 47.4%
+
+types of interpersonal violence              when compared to both lesbian            - Heterosexual – 20.8%
+
+based on the sexual orientation of           and heterosexual women.
+U.S. adults has not been previously       •	 Bisexual women had significantly      Sex of Perpetrator among
+available. The National Intimate             higher lifetime prevalence of         Rape Victims
+Partner and Sexual Violence Survey           rape, physical violence, and/or       •	 Most bisexual and heterosexual
+(NISVS) is an ongoing, nationally            stalking by an intimate partner          women (98.3% and 99.1%,
+representative survey that collects          when compared to both lesbian            respectively) who experienced
+information about experiences                and heterosexual women.                  rape in their lifetime reported
+of sexual violence and stalking           •	 Lesbian women and gay men                having only male perpetrators.
+by any perpetrator and intimate              reported levels of intimate              Estimates for sex of perpetrator
+partner violence among English               partner violence and sexual              of rape for other groups (lesbian
+and/or Spanish-speaking women                violence equal to or higher than         women, gay and bisexual men)
+and men aged 18 years or older               those of heterosexuals.                  were based upon numbers too
+in the United States. This report                                                     small to calculate a reliable
+presents information based on             Sexual Violence by                          estimate and, therefore, are
+respondents’ self-reported sexual         any Perpetrator                             not reportable.
+orientation and their lifetime            •	 The lifetime prevalence of rape
+victimization experiences of sexual          by any perpetrator was:
+              Sex of Perpetrator among
+violence, stalking, and violence by                                                Victims of Sexual Violence
+an intimate partner. The findings            For women:
+
+                                             - Lesbian – 13.1% 
+                   Other than Rape
+in this report are for 2010, the first                                             •	 The majority of lesbian, bisexual,
+year of NISVS data collection, and           - Bisexual – 46.1%
+
+                                             - Heterosexual – 17.4%
+                  and heterosexual women
+are based on complete interviews.                                                     (85.2%, 87.5%, and 94.7%,
+Complete interviews were                     For men:
+
+                                             - Gay – numbers too small 
+              respectively) who experienced
+obtained from 16,507 adults                                                           sexual violence other than rape
+(9,086 women and 7,421 men).                   to estimate
+                                             - Bisexual – numbers too small           in their lifetime reported having
+Prevalence estimates for some                                                         only male perpetrators.
+types of violence for particular               to estimate
+                                             - Heterosexual – 0.7%                 •	 78.6% of gay men and 65.8% of
+groups were too small to produce
+                                          •	 The lifetime prevalence of               bisexual men who experienced
+reliable estimates and, therefore,
+                                             sexual violence other than               sexual violence other than rape
+are not reported.
+                                             rape (including being made               in their lifetime reported having
+                                             to penetrate, sexual coercion,           only male perpetrators.
+                                             unwanted sexual contact,              •	 28.6% of heterosexual men who
+                                             and non-contact unwanted                 experienced sexual violence other
+                                             sexual experiences) by any               than rape in their lifetime reported
+                                             perpetrator was:                         having only male perpetrators,
+
+2 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+     while 54.8% reported only female       For men:                                This report highlights the lifetime
+     perpetrators, and 16.6% reported          -	 Gay – 16.4%                       prevalence of intimate partner
+     both male and female perpetrators.        -	 Bisexual – numbers too small      violence, sexual violence, and
+                                                  to report                         stalking victimization for U.S.
+  Stalking Victimization by                    -	 Heterosexual – 13.9%              women and men by self-reported
+  any Perpetrator                                                                   sexual orientation. Individuals
+  •	 1 in 3 bisexual women (36.6%)          Sex of Perpetrator of Intimate          who self-identified as lesbian,
+     and 1 in 6 heterosexual women          Partner Violence                        gay, and bisexual reported rates
+     (15.5%) have experienced               •	 Most bisexual and heterosexual       of violence that were equal to or
+     stalking victimization at some            women (89.5% and 98.7%,              higher than those reported by
+     point during their lifetime.              respectively) reported having        self-identified heterosexuals. The
+                                               only male perpetrators of            goal of public health is to prevent
+  •	 Estimates of stalking for other
+                                               intimate partner violence.           violence from occurring in the first
+     groups (lesbian women, gay and
+                                               Two-thirds of lesbian women          place. A comprehensive violence
+     bisexual men) were based upon
+                                               (67.4%) reported having only         prevention plan that includes LGB
+     numbers too small to calculate
+                                               female perpetrators of intimate      individuals will assist in furthering
+     a reliable estimate and, therefore,
+                                               partner violence.                    a comprehensive understanding of
+     are not reported.
+                                                                                    intimate partner violence, sexual
+  •	 Estimates of sex of perpetrator of     •	 The majority of bisexual men
+                                                                                    violence, and stalking.
+     stalking for lesbian and bisexual         (78.5%) and most heterosexual
+     women and gay and bisexual men            men (99.5%) reported having
+     were based upon numbers too               only female perpetrators of
+     small to calculate a reliable estimate    intimate partner violence. Most
+     and, therefore, are not reported.         gay men (90.7%) reported having
+                                               only male perpetrators
+                                               of intimate partner violence.
+  Violence by an
+  Intimate Partner
+  •	 The lifetime prevalence of rape,       Impact of Intimate
+     physical violence, and/or stalking     Partner Violence
+     by an intimate partner was:            •	 More than half of bisexual
+                                               women (57.4%), a third of lesbian
+     For women:
+
+                                               women (33.5%), and more than
+     - Lesbian – 43.8% 
+
+                                               a fourth of heterosexual women
+     - Bisexual – 61.1% 
+
+                                               (28.2%) who experienced rape,
+     - Heterosexual – 35.0% 
+
+                                               physical violence, and/or stalking
+     For men:
+
+                                               by an intimate partner in their
+     - Gay – 26.0% 
+
+                                               lifetime reported at least one
+     - Bisexual – 37.3% 
+
+                                               negative impact (e.g., missed at
+     - Heterosexual – 29.0% 
+
+                                               least one day of school or work,
+                                               were fearful, were concerned
+  •	 The lifetime prevalence of severe
+                                               for their safety, experienced at
+     physical violence by an intimate
+                                               least one post-traumatic stress
+     partner (e.g., hit with fist or
+                                               disorder symptom).
+     something hard, slammed against
+     something, or beaten) was:             •	 Estimates of negative impact of
+                                               intimate partner violence for gay
+     For women:
+
+                                               and bisexual men were based
+     - Lesbian – 29.4%
+
+                                               upon numbers too small to
+     - Bisexual – 49.3%
+
+                                               calculate a reliable estimate and,
+     - Heterosexual – 23.6% 
+
+                                               therefore, are not reported.
+
+The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 3
+4 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+           The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 5
+background and Methods
+
+Little is known about the national        National-level data on the               •	 Sexual violence by any
+prevalence of intimate partner            prevalence of intimate partner              perpetrator including information
+violence (IPV), sexual violence,          violence, sexual violence, and              related to rape, being made
+and stalking among lesbian, gay,          stalking by sexual orientation are          to penetrate someone else,
+and bisexual women and men in             important for understanding and             sexual coercion, unwanted
+the United States. Smaller-scale          addressing disparities in these             sexual contact, and non-contact
+studies have examined these types         forms of violence. Furthermore, a           unwanted sexual experiences
+of violence among individuals who         better understanding of differences      •	 Stalking, including the use of
+identify as lesbian, gay, or bisexual,    in the characteristics of these             newer technologies such as text
+but the use of non-representative         forms of violence, such as age at           messages, emails, monitoring
+samples has produced inconsistent         first victimization and number of           devices (e.g., cameras and
+findings in terms of victimization rates  perpetrators as well as the impacts         or global positioning system
+among each group (Balsam, 2001;           on victims, can inform targeted             devices), by perpetrators known
+Burke et al., 2002; National Coalition    prevention strategies and raise             and unknown to the victim
+of Anti-Violence Programs, 2002).         awareness about service needs.
+                                                                                   •	 Physical violence by an
+                                                                                      intimate partner
+Information at a national level on        What Is NISVS?
+experiences of intimate partner                                                    •	 Psychological aggression by
+violence, sexual violence, and            The National Intimate Partner and           an intimate partner including
+stalking victimization among U.S.         Sexual Violence Survey (NISVS) is           information on expressive forms
+adults by sexual orientation has not      an ongoing, nationally                      of aggression and coercive control
+been available previously. However,       representative survey that assesses      •	 Control of reproductive or sexual
+data from seven states and six cities     experiences of intimate partner             health by an intimate partner
+participating in Centers for Disease      violence, sexual violence, and           In addition to collecting lifetime
+Control and Prevention's Youth            stalking victimization among             and 12-month prevalence data on
+Risk Behavior Surveillance System         adult women and men in the               intimate partner violence, sexual
+from 2001-2009 was used to assess         United States. It measures lifetime      violence, and stalking, the survey
+violence-related health risk behaviors    victimization for these types of         collects information on the age at
+among youth, and indicated a higher       violence as well as victimization        the time of the first victimization,
+prevalence of dating violence and         in the 12 months prior to taking         demographic characteristics
+unwanted forced sexual intercourse        the survey. The survey is focused        of respondents, demographic
+among lesbian, gay, and bisexual          exclusively on violence and collects     characteristics of perpetrators
+youth than heterosexual youth             information about:                       (e.g., age, sex), and detailed
+(Kann et al., 2011).                                                               information about the patterns
+                                                                                   and impact of the violence by
+                                                                                   specific perpetrators.
+
+6 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+  What Does This                                         Methods
+  Report Include?                                        The National Intimate Partner and
+                                                                                                               How NISVS
+  This report summarizes findings on                     Sexual Violence Survey is a national                  Measured Sexual
+  the lifetime prevalence of sexual                      random digit-dial telephone survey
+                                                         of non-institutionalized English- and/                Orientation1
+  violence and stalking victimization by
+                                                         or Spanish-speaking U.S. population
+  any perpetrator as well as intimate                                                                          Sexual orientation was
+  partner violence victimization                         aged 18 or older. NISVS uses a
+                                                         dual-frame sampling strategy that                     measured using the
+  stratified by sex and self-reported
+  sexual orientation. In addition, this                  includes both landlines and cell                      following question:
+  report highlights some characteristics                 phones. The survey was conducted
+                                                         in 50 states and the District of
+                                                                                                               Do you consider yourself
+  of these victimization experiences
+                                                         Columbia and was administered                         to be heterosexual or
+  including the number and sex of
+  perpetrators and reported impact                       from January 22, 2010 through                         straight, gay or lesbian,
+  of violence by an intimate partner.                    December 31, 2010. In 2010, a total                   or bisexual?
+  Respondents who reported that                          of 18,049 interviews were conducted
+  the perpetrator was a current or                       (9,970 women and 8,079 men) in the
+  former intimate partner at the time                    U.S. general population. This includes           The cooperation rate reflects
+  the perpetrator first committed                        16,507 completed and 1,542 partially             the proportion who agreed to
+  any violence against them are                          completed interviews. A total of                 participate in the interview among
+  considered victims of intimate                         9,086 females and 7,421 males                    those who were contacted and
+  partner violence. Respondents were                     completed the survey. Approximately              determined to be eligible.
+  not asked whether their victimization                  45.2% of interviews were conducted               The cooperation rate obtained for
+  experience was associated with                         by landline telephone and 54.8% of               the 2010 NISVS data collection
+  their sexual orientation or sex of the                 interviews were conducted using                  suggests that, once contact was
+  perpetrator. Although 12-month                         a respondent’s cell phone. The                   made and eligibility determined,
+  prevalence of these types of violence                  sexual orientation of the sample                 the majority of respondents chose
+  was collected in NISVS, the sample                     included 96.5% females identified                to participate in the interview.
+  size was too small to permit reporting                 as heterosexual, 2.2% bisexual, and
+  reliable estimates by self-reported                    1.3% lesbian. For males, 96.8%                   The NISVS questionnaire includes
+  sexual orientation. As a result, data                  identified as heterosexual,                      behaviorally specific questions that
+  are summarized based on lifetime                       1.2% bisexual, and 2.0% gay.                     assess sexual violence, stalking,
+  prevalence of violence victimization                                                                    and intimate partner violence
+  by self-reported sexual orientation.                   The overall weighted response rate               over the lifetime and during the
+  The report first presents data on                      for the 2010 NISVS ranged from                   12 months prior to the interview.
+  victimization by any perpetrator—                      27.5% to 33.6%. This range reflects              Intimate partner violence-related
+  specifically rape, other sexual                        differences in how the proportion                questions assess psychological
+  violence, and stalking — and then                      of the unknowns that are eligible is             aggression, including expressive
+  presents data on victimization by                      estimated. The weighted cooperation              aggression (5 items) and coercive
+  an intimate partner, including rape,                   rate was 81.3%. A primary difference             control (12 items); control of
+  other sexual violence, stalking,                       between response and cooperation                 reproductive or sexual health
+  physical violence, and psychological                   rates is that telephone numbers                  (2 items); physical violence
+  aggression by an intimate partner.                     where contact has not been made                  (11 items); sexual violence (21
+                                                         are still part of the denominator in             items); and stalking (7 items).
+                                                         calculating a response rate.
+  1
+   During the first and second quarters of data collection, respondents were only asked about sexual orientation if they reported engaging in
+  any same-sex sexual activity. This skip pattern was changed in the third and fourth quarters so that, regardless of sexual activity, all respondents
+  were asked about sexual orientation. Analysis of data collected after the change in the skip pattern revealed minimal impact with respect to
+  the misclassification of respondents in the first and second quarters. Among men who reported only having sex with women (n=3,440), 11 self-
+  identified as bisexual, and 1 self-identified as gay. Among women who reported only having sex with men (n=4106), 14 self-identified as bisexual
+  and none self-identified as lesbian. Additional information about response and cooperation rates and other methodological details of NISVS can be
+  found in the technical note in Appendix B in The National Intimate Partner and Sexual Violence Survey (NISVS): 2010 Summary Report (Black et al., 2011).
+
+           The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 7
+Lifetime prevalence estimates were        with “don’t know” or “refused.”          estimate’s reliability. The RSE was
+calculated for the different forms of     Missing data (cases where all            calculated for all estimates in this
+violence presented in this report.        questions for constructing an            report. If the RSE was greater than
+To be included in the prevalence          outcome of interest were not             30%, the estimate was deemed
+estimate for sexual violence,             fully administered) were excluded        unreliable and was not reported.
+physical violence, or psychological       from analyses. All analyses were         Consideration also was given to
+aggression, the respondent must           conducted using SUDAAN™                  the case count. If the estimate
+have experienced at least one             statistical software for analyzing       was based on a numerator < 20,
+behavior within the relevant              data collected through complex           the estimate is also not reported.
+violence domain during the                sample design.                           Tables where specific estimates are
+time frame of reference (i.e.,                                                     missing due to high RSEs or small
+lifetime). Respondents could have         The estimated number of victims          case counts are presented in full
+experienced each type of violence         affected by a particular form of         with missing unreliable estimates
+more than once, so prevalence             violence is based on U.S. population     noted by an asterisk so that the
+estimates should be interpreted as        estimates from the census                reader can clearly see what was
+the percentage of the population          projections by state, sex, age, and      assessed and where data gaps
+who experienced each type of              race/ethnicity (http://www.census.       remain. Statistical significance
+violence at least once. To be             gov/popest/data/index.html).             testing was conducted comparing
+included in the prevalence of                                                      the prevalence of two sexual
+stalking, a respondent must have          Statistical inference for prevalence     orientation groups only when
+experienced more than one of              and population estimates                 both prevalence estimates met
+the seven stalking tactics that           were made based on weighted              the reliability criteria. A two-tailed
+were measured in the survey,              analyses, where complex sample           t-test (alpha = .05) was conducted
+or experienced a single tactic            design features, such as stratified      to assess the difference in
+multiple times by the same                sampling, weighting for unequal          prevalence between two
+perpetrator, and must have been           sample selection probabilities and       groups. A statistically significant
+very fearful or believed that they        non-response adjustments, were           difference in prevalence was
+or someone close to them would            taken into account. The estimates        established between two estimates
+be harmed or killed as a result of        presented in this report are based       when p < .05. Statistically
+the perpetrator’s behavior.               on complete interviews. An               significant differences in
+                                          interview is defined as “complete”       prevalence between two groups
+Within categories of violence             if the respondent completed the          are noted in the tables by the initial
+(e.g., rape, other sexual violence,       screening, demographic, general          letters of the two groups.
+any severe physical violence, any         health questions, and all questions
+reported IPV-related impact),             on all five sets of violence             Additional information about
+respondents who reported more             victimization, as applicable.            the sampling strategy, weighting
+than one subcategory of violence                                                   procedures, and other method­
+are included only once in the             Analyses were conducted by sex.          ological details of NISVS can be
+summary estimate but are included         As prevalence and population             found in The National Intimate
+in each relevant subcategory. For         estimates were based on a sample         Partner and Sexual Violence Survey
+example, victims of completed             population, there is a degree of         (NISVS): 2010 Summary Report
+forced penetration and alcohol or         uncertainty associated with these        (Black et al., 2011).
+drug facilitated penetration are          estimates. The smaller the sample
+included in each of these subtypes        upon which an estimate is based,
+of rape but counted only once in          the less precise the estimate
+the estimate of rape prevalence.          becomes and the more difficult
+                                          it is to distinguish the findings
+The denominators in prevalence            from what could have occurred
+calculations include persons who          by chance. The relative standard
+answered a question or responded          error (RSE) is a measure of an
+
+8 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+             The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                              9
+Sexual Violence Victimization
+
+     How NISVS Measured Sexual Violence
+     Five types of sexual violence were measured in NISVS. These include acts of rape (forced penetration), and types of sexual violence other than rape.
+     •	 Rape is defined as any completed or attempted unwanted vaginal (for women), oral, or anal penetration through the use of physical force
+        (such as being pinned or held down, or by the use of violence) or threats to physically harm, and includes times when the victim was drunk,
+        high, drugged, or passed out and unable to consent. Rape is separated into three types, completed forced penetration, attempted forced
+        penetration, and completed alcohol or drug facilitated penetration.
+        -	 Among women, rape includes vaginal, oral, or anal penetration by a male using his penis. It also includes vaginal or anal penetration by a
+           male or female using their fingers or an object.
+        -	 Among men, rape includes oral or anal penetration by a male using his penis. It also includes anal penetration by a male or female using their
+           fingers or an object.
+     •	 Being made to penetrate someone else includes times when the victim was made to, or there was an attempt to make them, sexually
+        penetrate someone without the victim’s consent because the victim was physically forced (such as being pinned or held down, or by the use
+        of violence) or threatened with physical harm, or when the victim was drunk, high, drugged, or passed out and unable to consent.
+        -	 Among women, this behavior reflects a female being made to orally penetrate another female’s vagina or anus.
+        -	 Among men, being made to penetrate someone else could have occurred in multiple ways: being made to vaginally penetrate a female
+           using one’s own penis; orally penetrating a female’s vagina or anus; anally penetrating a male or female; or being made to receive oral sex
+           from a male or female. It also includes female perpetrators attempting to force male victims to penetrate them, though it did not happen.
+     •	 Sexual coercion is defined as unwanted sexual penetration that occurs after a person is pressured in a nonphysical way. In NISVS, sexual
+        coercion refers to unwanted vaginal, oral, or anal sex after being pressured in ways that included being worn down by someone who
+        repeatedly asked for sex or showed they were unhappy; feeling pressured by being lied to, being told promises that were untrue, having
+        someone threaten to end a relationship or spread rumors; and sexual pressure due to someone using their influence or authority.
+     •	 Unwanted sexual contact is defined as unwanted sexual experiences involving touch but not sexual penetration, such as being kissed in a
+        sexual way, or having sexual body parts fondled or grabbed.
+     •	 Non-contact unwanted sexual experiences are those unwanted experiences that do not involve any touching or penetration, including
+        someone exposing their sexual body parts, flashing, or masturbating in front of the victim, someone making a victim show his or her body
+        parts, someone making a victim look at or participate in sexual photos or movies, or someone harassing the victim in a public place in a way
+        that made the victim feel unsafe.
+    Black et al. (2011). The National Intimate Partner and Sexual Violence Survey (NISVS): 2010 Summary Report. National Center for Injury Prevention
+    and Control, Centers for Disease Control and Prevention.
+This section summarizes lifetime                      attempted forced penetration,                        experiences. This section also
+experiences of sexual violence                        alcohol or drug facilitated                          includes particular characteristics
+victimization of women and                            penetration), being made to                          of victimization such as the
+men in the United States by                           penetrate someone else, sexual                       number and sex of perpetrators
+self-reported sexual orientation,                     coercion, unwanted sexual contact,                   as well as the age at first completed
+including rape (forced penetration,                   and non-contact unwanted sexual                      rape victimization.
+
+10 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   lifetime Prevalence                                     women, 1.5 million bisexual women,
+                                                           and 19 million heterosexual women.
+   of Sexual Violence                                      Approximately 36.5% of bisexual
+                                                                                                                  Nearly half of
+   Victimization by any                                    women and 11.4% of heterosexual                        bisexual women,
+   Perpetrator by Sexual                                   women reported experiencing
+                                                           completed forced penetration.                          1 in 8 lesbian
+   Orientation                                             The differences observed between
+                                                           bisexual and heterosexual women
+                                                                                                                  women, and 1 in 6
+   Prevalence among Women
+   Approximately 1 in 8 lesbian
+                                                           in terms of rape, completed forced                     heterosexual women
+                                                           penetration, and completed alcohol
+   women (13.1%), nearly half of                                                                                  have experienced
+                                                           and drug facilitated rape were
+   bisexual women (46.1%), and 1 in 6
+                                                           statistically significant. Too few
+   heterosexual women (17.4%) in the
+                                                           lesbian women reported completed
+                                                                                                                  rape at some point
+   United States have been raped in
+   their lifetime (Table 1). This translates
+                                                           forced penetration to produce a                        in their lifetime.
+                                                           reliable estimate.
+   to an estimated 214,000 lesbian
+         Table 1
+         lifetime Prevalence of Sexual Violence by any Perpetrator by Sexual Orientation —
+         U .S . Women, NISVS 2010
+                                                           Lesbian                            Bisexual                         Heterosexual
+                                              Weighted %           Estimated       Weighted %          Estimated       Weighted %         Estimated
+                                                                    Number                              Number                             Number
+                                                                   of Victims1                        of Victims1                        of Victims1
+      RapeHB, BL                                  13.1              214,000            46.1            1,528,000          17.4           19,049,000
+         Completed forced penetration   HB
+                                                    *                   *              36.5            1,209,000          11.4           12,490,000
+         Attempted forced penetration               *                   *               *                  *               5.1            5,590,000
+         Completed alcohol/drug                     *                   *              24.4             810,000            7.6            8,263,000
+         facilitated penetrationHB
+      Other Sexual ViolenceHB, BL                 46.4              756,000            74.9            2,482,000          43.3           47,325,000
+         Sexual coercion  2, HB
+                                                    *                   *              29.6             981,000           12.4           13,523,000
+         Unwanted sexual contact    3,HB, BL
+                                                  32.3              526,000            58.0            1,922,000          25.9           28,352,000
+         Non-contact unwanted                     37.8              616,000            62.9            2,085,000          32.4           35,422,000
+         sexual experiences4,HB, BL
+      1
+         Rounded to the nearest thousand.
+      2
+         Pressured in a non-physical way (includes, for example, threatening to end the relationship, using influence or authority).
+      3
+         Includes unwanted kissing in a sexual way, fondling or grabbing sexual body parts.
+      4
+         Includes, for example, exposing sexual body parts, being made to look at or participate in sexual photos or movies, harassed in
+         a public place in a way that felt unsafe.
+      * Estimate is not reported; relative standard error > 30% or cell size ≤ 20.
+      HB
+         Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and bisexual groups.
+      BL
+         Statistically significant differences (p ≤ .05) of the prevalence between bisexual and lesbian groups.
+
+              The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                     11
+Nearly half of lesbian and                              sexual violence other than rape,                 have experienced sexual violence
+heterosexual women (46.4%                               unwanted sexual contact, and                     other than rape at some point in
+and 43.3%, respectively) and                            non-contact unwanted sexual                      their lives (Table 2). This translates
+three-quarters of bisexual women                        experiences between bisexual                     into nearly 1.1 million gay men,
+(74.9%) reported experiencing                           women and heterosexual women                     903,000 bisexual men, and 21.6
+sexual violence other than rape                         and between bisexual women                       million heterosexual men. The
+in their lifetime. Approximately,                       and lesbian women were                           differences in reported lifetime
+one-third of lesbian women                              statistically significant. Differences           prevalence of sexual violence other
+(32.3%), more than half of bisexual                     between heterosexual women                       than rape between gay men and
+women (58.0%), and one-quarter                          and lesbian women were not                       heterosexual men and between
+of heterosexual women (25.9%)                           statistically significant.                       bisexual men and heterosexual
+experienced unwanted sexual                                                                              men were statistically significant.
+contact, while 37.8% of lesbian,                        Prevalence among Men                             Estimates of rape for gay and
+62.9% of bisexual, and 32.4% of                         Approximately 4 out of 10 gay                    bisexual men were based upon
+heterosexual women reported                             men (40.2%), half of bisexual men                numbers too small to calculate a
+non-contact unwanted sexual                             (47.4%), and 1 in 5 heterosexual                 reliable estimate and, therefore, are
+experiences. The differences in                         men (20.8%) in the United States                 not reported.
+reported lifetime prevalence of
+       Table 2
+       lifetime Prevalence of Sexual Violence by any Perpetrator by Sexual Orientation —
+       U .S . Men, NISVS 2010
+                                                           Gay                            Bisexual                           Heterosexual
+                                            Weighted %           Estimated       Weighted %         Estimated       Weighted %         Estimated
+                                                                  Number                             Number                             Number
+                                                                 of Victims1                       of Victims1                        of Victims1
+    Rape                                          *                   *               *                 *               0.7             770,000
+       Completed forced penetration               *                   *               *                 *               0.4             463,000
+       Attempted forced penetration               *                   *               *                 *               0.2             218,000
+       Completed alcohol/drug                     *                   *               *                 *                 *                *
+       facilitated penetration
+    Other Sexual ViolenceHB, HG                 40.2             1,096,000          47.4             903,000            20.8          21,664,000
+       Made to penetrate                          *                   *               *                 *                4.3           4,478,000
+       Sexual coercion  2
+                                                  *                   *               *                 *               5.5            5,787,000
+       Unwanted sexual contact    3,HG
+                                                32.3              879,000           21.1             403,000            10.8          11,289,000
+       Non-contact unwanted                     37.8              829,000           28.9             550,000            11.7          12,153,000
+       sexual experiences4,HB, HG
+    1
+       Rounded to the nearest thousand.
+    2
+       Pressured in a non-physical way (includes, for example, threatening to end the relationship, using influence or authority).
+    3
+       Includes unwanted kissing in a sexual way, fondling or grabbing sexual body parts.
+    4
+       Includes, for example, exposing sexual body parts, being made to look at or participate in sexual photos or movies, harassed in a public
+       place in a way that felt unsafe.
+    * Estimate is not reported; relative standard error > 30% or cell size ≤ 20.
+    HB
+       Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and bisexual groups.
+    HG
+       Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and gay groups.
+
+12 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   Approximately 1 in 3 gay men
+   (32.3%), 1 in 5 bisexual men (21.1%),
+                                                Figure 1
+   and 1 in 10 heterosexual men                 Lifetime Number of Perpetrators of Sexual Violence
+   (10.8%) reported experiencing                Other than Rape among Female Victims of Sexual
+   unwanted sexual contact during               Violence by Sexual Orientation — NISVS 2010
+   their lifetime. The differences in
+   reported lifetime prevalence of                                                                                                  Lesbian
+   unwanted sexual contact between
+   gay men and heterosexual men                                                                                                     Bisexual
+   were statistically significant.                                                                                                  Heterosexual
+   However, the differences between
+   bisexual men and heterosexual men                                           47.0%
+   and bisexual men and gay men                                                                                             38.6% 36.4%
+   were not statistically significant.                             32.3%HB                           31.3%                                30.0%
+                                                                                                               23.1%
+   In addition, 30.5% of gay men,
+   28.9% of bisexual men, and 11.7%
+   of heterosexual men reported                                *                               *
+   non-contact unwanted sexual
+   experiences. Differences in reported
+   lifetime prevalence of non-contact                                                         Number of Perpetrators
+   unwanted sexual experiences
+   between gay men and heterosexual                     *Estimate is not reported; relative standard error > 30% or cell size ≤ 20.
+                                                        HB
+                                                           Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and 
+   men and between bisexual                                bisexual groups. 
+   men and heterosexual men were
+   statistically significant.
+                                           women (30.0%) reported three or                              between the number of perpetrators
+                                           more perpetrators of sexual violence                         for gay men and heterosexual men
+   Number of Perpetrators                  other than rape. The differences                             were not statistically significant.
+   in lifetime Reports                     between bisexual women and                                   For each subgroup of men, the
+                                           heterosexual women in having one                             numbers were too small to produce
+   of Sexual Violence                      perpetrator of sexual violence other                         a reliable estimate for the number
+   Victimization by                        than rape were statistically signifi­                        of perpetrators for rape. In addition,
+   Sexual Orientation                      cant. All other differences were not
+                                           statistically significant.
+   Number of Perpetrators
+   among Female Victims                    Number of Perpetrators                                               Nearly half of
+   Among victims of rape, most bisexual    among Male Victims
+   and heterosexual women reported
+                                                                                                                bisexual men, 4 out
+                                           Approximately 4 out of 10 gay men
+   having only one perpetrator in their    (42.3%) and 1 in 2 heterosexual                                      of 10 gay men, and
+   lifetime (62.3% and 72.3%, respec­      men (49.7%) who reported
+   tively) (data not shown). Among         experiencing sexual violence                                         1 in 5 heterosexual
+   victims of sexual violence other than   other than rape reported having
+   rape, approximately one-third of
+                                                                                                                men in the U.S. have
+                                           one perpetrator (data not shown).
+   bisexual women (32.3%) and one-half     One-third of gay men (33.0%)                                         experienced sexual
+   of heterosexual women (47.0%)           and more than one-quarter of
+   reported having one perpetrator         heterosexual men (27.0%) reported                                    violence other than
+   (Figure 1). Approximately one-third     having three or more perpetrators
+   of lesbian women (38.6%), bisexual
+                                                                                                                rape in their lifetime.
+                                           in their lifetime. The difference
+   women (36.4%), and heterosexual
+
+           The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                       13
+for similar reasons, estimates of the                        85.2% of lesbian women, 87.5%               than rape identified male perpetrators
+number of perpetrators of sexual                             of bisexual women, and 94.7% of             (data not shown). However, of
+violence other than rape for bisexual                        heterosexual women who reported             heterosexual men who reported
+men are not reported.                                        experiencing sexual violence                sexual violence other than rape, 28.6%
+                                                             other than rape in their lifetime           reported only male perpetrators,
+                                                             also reported having only male              more than one-half (54.8%) reported
+Sex of Perpetrator                                           perpetrators (data not shown).              only female perpetrators, and 16.6%
+                                                             Estimates for the sex of perpetrator        reported having both male and
+in lifetime Reports                                          of rape for lesbian women were              female perpetrators. Estimates for the
+of Sexual Violence                                           based on numbers too small                  sex of perpetrators of rape for gay
+                                                             to calculate a reliable estimate            and bisexual men were based upon
+Victimization by                                             and, therefore, are not reported.           numbers too small to calculate a
+Sexual Orientation                                           Statistical tests comparing the sex         reliable estimate and therefore are not
+Sex of Perpetrators                                          of the perpetrator across sexual            reported. Statistical tests comparing
+among Female Victims                                         orientation for female victims of           the sex of the perpetrator across
+                                                             sexual violence was not conducted           sexual orientation for male victims of
+Most bisexual and heterosexual
+                                                             due to small sample sizes.                  sexual violence was not conducted
+women in the United States
+                                                                                                         due to small sample sizes.
+who experienced rape reported
+having only male perpetrators                                Sex of Perpetrators
+— specifically, this includes                                among Male Victims
+98.3% of bisexual women, and                                 More than three-quarters of gay             age at Time of First
+99.1% of heterosexual women                                  men (78.6%) and about two-thirds            Completed Rape
+who reported being a victim of                               of bisexual men (65.8%) who
+rape in their lifetime. Similarly,                           experienced sexual violence other           Victimization by Sexual
+                                                                                                         Orientation
+     Figure 2                                                                                            age at Time of First
+                                                                                                         Completed Rape
+     Age at Time of First Completed Rape Victimization among                                             Victimization among Women
+     Female Victims by Sexual Orientation — NISVS 20101,2
+                                                                                                         More than three-quarters of both
+                                                                                                         bisexual and heterosexual women
+                                                                                                         who were victims of completed rape
+                                                                                          Bisexual
+                                                                                                         (91.0% and 78.5%, respectively) were
+                                    48.2%   HB
+                                                                                          Heterosexual   raped before 25 years of age. Nearly
+                                                            38.3%
+                                                                                                         half of bisexual women (48.2%) and
+                                                     33.1%                                               more than one-quarter of hetero­
+                                                                                                         sexual women (28.3%) experienced
+                                          28.3%
+                                                                                                         their first completed rape between
+                                                                                                         the ages of 11 and 17 years (Figure 2).
+                       11.8%                                              12.0%                          The differences between bisexual
+                                                                                        5.0%             women and heterosexual women in
+                   *                                                  *             *           *   2.0% the 11-17 age range were statistically
+                                                                                                         significant. Estimates for age at time
+                   10 & Under          11-17             18-24           25-34        35-44         45+
+                                                                                                         of first completed rape for lesbian
+                                          Age at First Completed Rape Victimization                      women and for gay and bisexual men
+                                                                                                         were based upon numbers too small
+            1  
+               The reported age is the youngest age reported across all perpetrators.                    to calculate a reliable estimate and,
+            2  
+               All percentages are weighted to U.S. population. 
+            * Estimate is not reported; relative standard error > 30% or cell size ≤ 20. 
+                                                                                                         therefore, are not reported.
+            HB
+                Statistically significant differences (p ≤ .05) of the prevalence between heterosexual 
+               and bisexual groups. 
+
+14 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+            The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                           15
+Stalking Victimization 
+
+     How NISVS Measured Stalking
+     Stalking victimization involves a pattern of harassing or threatening tactics used by a perpetrator that is both unwanted and causes fear or
+     safety concerns in the victim. For the purposes of this report, a person was considered a stalking victim if they experienced multiple stalking
+     tactics or a single stalking tactic multiple times by the same perpetrator and felt very fearful, or believed that they or someone close to them
+     would be harmed or killed as a result of the perpetrator’s behavior.
+     Stalking tactics measured:
+     •	 Unwanted phone calls, voice or text messages, hang-ups
+     •	 Unwanted emails, instant messages, messages through social media
+     •	 Unwanted cards, letters, flowers, or presents
+     •	 Watching or following from a distance, spying with a listening device, camera, or global positioning system (GPS)
+     •	 Approaching or showing up in places, such as the victim’s home, workplace, or school, when it was unwanted
+     •	 Leaving strange or potentially threatening items for the victim to find
+     •	 Sneaking into victims’ home or car and doing things to scare the victim or let the victim know the perpetrator had been there
+     Black et al. (2011). The National Intimate Partner and Sexual Violence Survey (NISVS): 2010 Summary Report. National Center for Injury
+     Prevention and Control, Centers for Disease Control and Prevention.
+lifetime Prevalence of                                be harmed or killed (data not
+                                                      shown). This translates into
+Stalking Victimization                                                                                           Approximately
+                                                      1.2 million bisexual women
+by any Perpetrator by                                 and 16.8 million heterosexual                              1 in 3 bisexual
+Sexual Orientation                                    women. The differences in lifetime
+                                                      prevalence of stalking between                             women and 1 in 6
+Approximately 1 in 3 bisexual                         bisexual and heterosexual women
+women (36.6%) and 1 in 6
+                                                                                                                 heterosexual women
+                                                      were statistically significant.
+heterosexual women (15.5%) in                         Estimates of stalking for lesbian                          experienced stalking
+the United States has experienced                     women and gay and bisexual
+some type of stalking behavior                        men were based upon numbers                                in their lifetime.
+in their lifetime in which they felt                  too small to calculate a reliable
+very fearful or believed that they                    estimate and, therefore, are
+or someone close to them would                        not reported.
+
+16 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+             The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                         17
+Violence by an Intimate Partner 
+
+     How NISVS Measured Intimate Partner Violence
+     Five types of intimate partner violence were measured in NISVS. These include sexual violence, stalking, physical violence, psychological
+     aggression, and control of reproductive/sexual health.
+     •	 Sexual violence includes rape, being made to penetrate someone else, sexual coercion, unwanted sexual contact, and non-contact
+        unwanted sexual experiences.
+     •	 Stalking victimization involves a pattern of harassing or threatening tactics used by a perpetrator that is both unwanted and causes fear or
+        safety concerns in the victim.
+     •	 Physical violence includes a range of behaviors from slapping, pushing, or shoving to severe acts such as being beaten, burned, or choked.
+     •	 Psychological aggression includes expressive aggression (such as name calling, insulting, or humiliating an intimate partner), and
+        coercive control, which includes behaviors that are intended to monitor and control or threaten an intimate partner.
+     •	 Control of reproductive or sexual health focuses on interference with birth control. This includes the refusal by an intimate partner to use
+        a condom. For a woman, it also includes times when a partner tried to get her pregnant when she did not want to become pregnant. For a man,
+        it also includes times when a partner tried to get pregnant when the man did not want her to become pregnant.
+     Black et al. (2011). The National Intimate Partner and Sexual Violence Survey (NISVS): 2010 Summary Report. National Center for Injury
+     Prevention and Control, Centers for Disease Control and Prevention.
+Intimate partner violence (IPV)                        experiences of intimate partner                   more detailed data on sexual
+includes physical violence, sexual                     violence among women and                          violence, stalking, physical
+violence, threats of physical                          men in the United States by                       violence, psychological aggression
+or sexual violence, stalking,                          self-reported sexual orientation.                 (expressive aggression and
+and psychological aggression                           Included in this section are                      coercive control), and control of
+(including coercive tactics) by                        estimates for a composite measure                 reproductive or sexual health
+a current or former intimate                           of intimate partner violence that                 by an intimate partner. This section
+partner. Intimate partner violence                     combines only rape, physical                      also includes information on the
+may occur among cohabitating                           violence, and/or stalking by an                   characteristics of victimization
+or non-cohabitating romantic                           intimate partner as a conservative                experiences including the number
+or sexual partners and among                           measure of the overall prevalence                 and sex of perpetrators as well as
+opposite or same sex couples.                          of intimate partner violence. In                  age at the time of first intimate
+This section summarizes lifetime                       addition, this section includes                   partner violence victimization.
+
+18 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   lifetime Prevalence                                      during their lifetime (Table 3).
+                                                            This translates to an estimated                        Bisexual women
+   of Rape, Physical                                        714,000 lesbian women, 2 million
+   Violence, and/or                                         bisexual women, and 38.3 million                       experienced
+   Stalking Victimization                                   heterosexual women in the United                       significantly higher
+                                                            States. Bisexual women experienced
+   by an Intimate Partner                                   significantly higher prevalence of                     lifetime prevalence of
+   by Sexual Orientation                                    these types of violence compared
+                                                                                                                   rape, physical violence,
+                                                            to lesbian and heterosexual
+   Prevalence among Women                                   women. There were no statistically
+   Four in 10 lesbian women (43.8%),
+                                                                                                                   and/or stalking by
+                                                            significant differences between
+   6 in 10 bisexual women (61.1%),                          the prevalence of rape, physical                       an intimate partner
+   and 1 in 3 heterosexual women                            violence, and/or stalking when
+   (35.0%) reported experiencing rape,                      comparing lesbian women and                            when compared
+   physical violence, and/or stalking                       heterosexual women. IPV-related
+   within the context of an intimate
+                                                                                                                   to lesbian and
+                                                            impact is explored in more detail
+   partner relationship at least once                       later in this document.                                heterosexual women.
+          Table 3
+          lifetime Prevalence of Rape, Physical Violence, and/or Stalking Victimization
+          by an Intimate Partner by Sexual Orientation — U .S . Women, NISVS 2010
+                                                              Lesbian                             Bisexual                           Heterosexual
+                                                 Weighted %           Estimated       Weighted %          Estimated         Weighted %         Estimated
+                                                                       Number                              Number                               Number
+                                                                     of Victims1                          of Victims1                          of Victims1
+       RapeHB                                          *                  *               22.1             731,000               9.1           9,984,000
+       Physical violenceHB, BL                        40.4             659,000            56.9            1,886,000             32.3          35,291,000
+       StalkingHB                                      *                  *               31.1            1,030,000             10.2          11,126,000
+       Rape, physical violence,                       43.8             714,000            61.1            2,024,000             35.0          38,290,000
+       and/or stalkingHB, BL
+       With IPV-related impact2,3,4,HB, BL            33.5             547,000            57.4            1,901,000             28.2          30,828,000
+       1
+         Rounded to the nearest thousand.
+       2
+         Includes experiencing any of the following: being fearful, concerned for safety, any PTSD symptoms, need for health care, injury, contacting a
+         crisis hotline, need for housing services, need for victim’s advocate services, need for legal services, missed at least one day of work or school.
+         For those who reported being raped, it also includes having contracted a sexually transmitted disease or having become pregnant.
+       3
+         IPV-related impact questions were assessed in relation to specific perpetrators, without regard to the time period in which they occurred,
+         and asked in relation to any form of intimate partner violence experienced (sexual violence, physical violence, stalking, expressive
+         aggression, coercive control, and reproductive control) in that relationship; 12-month prevalence of IPV-related impact was not assessed.
+       4
+          By definition, all stalking incidents result in impact because the definition of stalking includes the impacts of fear and concern for safety.
+       *
+         Estimate is not reported; relative standard error > 30% or cell size ≤ 20. 
+
+       HB
+          Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and bisexual groups. 
+
+       BL
+          Statistically significant differences (p ≤ .05) of the prevalence between bisexual and lesbian groups.
+
+
+             The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                           19
+Prevalence among Men                                   (Table 4). This equates to 708,000                 partner among gay, bisexual, and
+Approximately 1 in 4 gay men                           gay men, 711,000 bisexual men,                     heterosexual men in the United
+(26.0%), 4 in 10 bisexual men                          and over 30 million heterosexual                   States are too small to report. In
+(37.3%), and more than 1 in 4                          men in the United States. The                      addition, the number of men who
+heterosexual men (29.0%) reported                      differences between these groups                   reported stalking by an intimate
+experiencing rape, physical violence,                  of men were not statistically                      partner among gay and bisexual
+and/or stalking by an intimate                         significant. The numbers of men                    men were too small to report.
+partner during their lifetime                          who reported rape by an intimate
+      Table 4
+      lifetime Prevalence of Rape, Physical Violence, and/or Stalking Victimization
+      by an Intimate Partner by Sexual Orientation — U .S . Men, NISVS 2010
+                                                          Gay                                Bisexual                            Heterosexual
+                                             Weighted %         Estimated        Weighted %           Estimated         Weighted %          Estimated
+                                                                 Number                                Number                                Number
+                                                                of Victims1                          of Victims1                           of Victims1
+   Rape                                            *                 *                  *                 *                   *                 *
+   Physical violence                             25.2            685,000              37.3             711,000              28.7           29,926,000
+   Stalking                                        *                 *                  *                 *                  2.1            2,222,000
+   Rape, physical violence,                      26.0            708,000              37.3             711,000              29.0           30,250,000
+   and/or stalking
+   With IPV-related impact2,3,4                  10.9            297,000                *                 *                 10.2           10,583,000
+   1
+     Rounded to the nearest thousand.
+   2
+     Includes experiencing any of the following: being fearful, concerned for safety, any PTSD symptoms, need for health care, injury, contacting
+     a crisis hotline, need for housing services, need for victim’s advocate services, need for legal services, missed at least one day of work or
+     school. For those who reported being raped, it also includes having contracted a sexually transmitted disease.
+   3
+     IPV-related impact questions were assessed in relation to specific perpetrators, without regard to the time period in which they occurred,
+     and asked in relation to any form of intimate partner violence experienced (sexual violence, physical violence, stalking, expressive aggression,
+     coercive control, and reproductive control) in that relationship; 12-month prevalence of IPV-related impact was not assessed.
+   4
+     By definition, all stalking incidents result in impact because the definition of stalking includes the impacts of fear and concern for safety.
+   *
+     Estimate is not reported; relative standard error > 30% or cell size ≤ 20.
+
+20 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   lifetime Prevalence                                   women and 6.3% of heterosexual
+                                                         women reported experiencing
+   of Sexual Violence                                    completed forced penetration by                      Bisexual women
+   Victimization by an                                   an intimate partner. The differences                 experienced
+   Intimate Partner by                                   observed between bisexual and
+                                                         heterosexual women in terms of                       significantly higher
+   Sexual Orientation                                    rape, including completed forced
+   Prevalence among Women                                penetration by an intimate partner,                  lifetime prevalence
+   Approximately 1 out of every 5                        were statistically significant.                      of rape and other
+   bisexual women (22.1%) and nearly
+   1 out of every 10 heterosexual                        Approximately 40% of bisexual                        sexual violence by
+   women (9.1%) in the United States                     women and 15% of heterosexual
+   have been raped by an intimate                        women reported experiencing                          an intimate partner
+   partner in their lifetime (Table 5).                  sexual violence other than rape                      when compared to
+   This translates to an estimated                       by an intimate partner in their
+   731,000 bisexual women and                            lifetime. Approximately 1 in 4                       heterosexual women.
+   10 million heterosexual women.                        bisexual women (23.6%) and 1 in
+   Approximately 17.0% of bisexual                       10 heterosexual women (9.5%)
+         Table 5
+         lifetime Prevalence of Sexual Violence by an Intimate Partner by Sexual Orientation —
+         U .S . Women, NISVS 2010
+                                                               Lesbian                         Bisexual                         Heterosexual
+                                                   Weighted %          Estimated     Weighted %        Estimated        Weighted %        Estimated
+                                                                      Number of                        Number of                         Number of
+                                                                        Victims1                        Victims1                           Victims1
+      RapeHB                                             *                  *            22.1           731,000             9.1          9,984,000
+         Completed forced penetration       HB
+                                                         *                  *            17.0           562,000             6.3          6,929,000
+         Attempted forced penetration                    *                  *             *                 *               2.5          2,821,000
+         Completed alcohol/drug                          *                  *             *                 *               3.4          3,711,000
+         facilitated penetration
+      Other Sexual ViolenceHB                            *                  *            40.0          1,320,000            15.3         16,761,000
+         Made to penetrate                               *                  *             *                 *                *                 *
+         Sexual coercion 2, HB
+                                                         *                  *            23.6           781,000             9.5          10,368,000
+         Unwanted sexual contact      3, HB
+                                                         *                  *            19.2           638,000             6.0          6,554,000
+         Non-contact unwanted     4, HB
+                                                         *                  *            24.7           817,000             7.4          8,103,000
+      1
+         Rounded to the nearest thousand.
+      2
+         Pressured in a non-physical way (includes, for example, threatening to end the relationship, using influence or authority).
+      3
+         Includes unwanted kissing in a sexual way, fondling or grabbing sexual body parts.
+      4
+         Includes, for example, exposing sexual body parts, being made to look at or participate in sexual photos or movies, harassed
+         in a public place in a way that felt unsafe.
+      *
+        Estimate is not reported; relative standard error > 30% or cell size ≤ 20.
+      HB
+        Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and bisexual groups.
+
+              The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                      21
+experienced sexual coercion by                           of rape and sexual violence other                bisexual women (55.1%), and more
+an intimate partner, while 24.7%                         than rape by an intimate partner for             than one-quarter of heterosexual
+of bisexual women and 7.4% of                            gay and bisexual men were based                  women (29.8%) in the United
+heterosexual women reported                              on numbers too small to calculate a              States have been slapped, pushed,
+non-contact unwanted sexual                              reliable estimate and, therefore, are            or shoved by an intimate partner
+experiences by an intimate partner.                      not reported.                                    at some point in their lifetime
+The differences in reported lifetime                                                                      (Table 6). This translates into
+prevalence of sexual violence                                                                             591,000 lesbian women, 1.8 million
+victimization, including rape                            lifetime Prevalence                              bisexual women, and 32.5 million
+and sexual violence other than                                                                            heterosexual women who have
+rape, between bisexual women                             of Physical Violence                             been slapped, pushed, or shoved
+and heterosexual women were                              Victimization by an                              by an intimate partner at some
+statistically significant. Estimates                                                                      point during their lifetime. Bisexual
+of rape and sexual violence other
+                                                         Intimate Partner by                              women experienced significantly
+than rape by an intimate partner                         Sexual Orientation                               higher prevalence of these types
+for lesbian women were based on                          Prevalence among Women                           of violence compared to lesbian
+numbers too small to calculate a                                                                          women and heterosexual women.
+                                                         More than one-third of lesbian
+reliable estimate and, therefore, are
+                                                         women (36.3%), over half of
+not reported. Similarly, estimates
+       Table 6
+       lifetime Prevalence of Physical Violence by an Intimate Partner by Sexual Orientation —
+       U .S . Women, NISVS 2010
+                                                            Lesbian                          Bisexual                         Heterosexual
+                                                Weighted %          Estimated      Weighted %         Estimated       Weighted %        Estimated
+                                                                     Number                            Number                            Number
+                                                                    of Victims1                       of Victims1                      of Victims1
+    Slapped, pushed, or shovedHB, BL                36.3             591,000           55.1           1,825,000          29.8          32,527,000
+       Slapped   HB, BL
+                                                    23.2             378,000           41.2           1,365,000          19.7          21,581,000
+       Pushed, or shoved    HB, BL
+                                                    32.5             529,000           46.6           1,545,000          27.1          29,651,000
+    Any severe physical violence      HB, BL
+                                                    29.4             480,000           49.3           1,632,000          23.6          25,770,000
+       Hurt by pulling hair   HB
+                                                     *                   *             26.5            877,000            9.8          10,765,000
+       Hit with something hard     HB
+                                                     *                   *             30.4           1,007,000          13.6          14,888,000
+       Kicked  HB
+                                                     *                   *             19.0            630,000            6.6           7,252,000
+       Slammed against something       HB, BL
+                                                    17.7             288,000           41.9           1,388,000          16.6          18,103,000
+       Tried to hurt by choking                      *                   *             26.2            869,000            9.3          10,219,000
+       or suffocatingHB
+       Beaten                                        *                   *             17.5            580,000           11.0          12,057,000
+       Burned on purpose                             *                   *              *                  *              1.0          1,076,000
+       Used a knife or gun   HB
+                                                     *                   *             15.0            495,000            4.4           4,773,000
+    1
+       Rounded to the nearest thousand.
+    *
+       Estimate is not reported; relative standard error > 30% or cell size ≤ 20.
+    HB
+       Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and bisexual groups.
+    BL
+       Statistically significant differences (p ≤ .05) of the prevalence between bisexual and lesbian groups.
+
+22 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+                                                        million heterosexual women who                   types of violence noted above were
+                                                        have experienced at least one                    statistically significant.
+        Nearly 1 in 3 lesbian                           form of severe physical violence in
+        women, 1 in 2                                   an intimate relationship at some                 Prevalence among Men
+                                                        point in their lifetime. Bisexual                Approximately one-quarter of
+        bisexual women, and                             women experienced significantly                  all men, regardless of sexual
+                                                        higher prevalence of these types                 orientation reported being slapped,
+        1 in 4 heterosexual                             of severe violence compared to                   pushed, or shoved by an intimate
+        women has                                       lesbian and heterosexual women.                  partner at some point during
+                                                        The difference between lesbian                   their lifetime (24.0% gay men,
+        experienced at least                            and heterosexual women was not                   27.0% bisexual men, and 26.3%
+                                                        statistically significant.                       heterosexual men) (Table 7).
+        one form of severe
+                                                                                                         That translates into 655,000 gay
+        physical violence by                            Looking at several individual                    men, 515,000 bisexual men, and
+                                                        forms of severe physical violence,               27.4 million heterosexual men. In
+        an intimate partner                             an estimated 17.7% of lesbian                    addition, 16.4% of gay men and
+                                                        women, 41.9% of bisexual women,                  13.9% of heterosexual men reported
+        in her lifetime.
+                                                        and 16.6% of heterosexual women                  having experienced severe physical
+                                                        reported they had been slammed                   violence by an intimate partner at
+   Nearly 1 in 3 lesbian women                          against something hard by an                     least once in their lives. Estimates of
+   (29.4%), 1 in 2 bisexual women                       intimate partner at least once in                severe physical violence for bisexual
+   (49.3%), and 1 in 4 heterosexual                     their lives. An estimated 26.2%                  men and estimates of individual
+   women (23.6%) has experienced at                     of bisexual women and 9.3% of                    severe physical behaviors for gay
+   least one form of severe physical                    heterosexual women reported an                   and bisexual men were based on
+   violence by an intimate partner                      intimate partner tried to hurt them              numbers too small to calculate
+   in her lifetime. That translates                     by choking or suffocating them                   a reliable estimate and therefore
+   into 480,000 lesbian women, 1.6                      during their lifetime. The differ­               are not reported. The differences
+   million bisexual women, and 25.7                     ences between bisexual women                     between these groups of men were
+                                                        and heterosexual women for the                   not statistically significant.
+          Table 7
+          lifetime Prevalence of Physical Violence by an Intimate Partner by Sexual Orientation —
+          U .S . Men, NISVS 2010
+                                                              Gay                            Bisexual                         Heterosexual
+                                                Weighted %         Estimated        Weighted %       Estimated        Weighted %         Estimated
+                                                                    Number                            Number                              Number
+                                                                   of Victims1                      of Victims1                          of Victims1
+       Slapped, pushed, or shoved                   24.0            655,000            27.0           515,000             26.3          27,409,000
+          Slapped                                   16.8            458,000            14.4           275,000             18.8          19,633,000
+          Pushed, or shoved                         18.3            499,000            21.6           413,000             19.8          20,673,000
+       Any severe physical violence   2
+                                                    16.4            447,000             *                 *               13.9          14,468,000
+       *
+         Estimate is not reported; relative standard error > 30% or cell size ≤ 20.
+       1
+         Rounded to the nearest thousand.
+       2
+         Any severe physical violence consists of respondents who reported experiencing one or more of the following behaviors: hurt by pulling
+         hair, hit with something hard, kicked, slammed against something hard, tried to hurt by choking or suffocating, beaten, burned on purpose,
+         or had a partner use a knife or gun on them.
+
+              The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                      23
+lifetime Prevalence                                      Comparing across groups, the                     However, the differences in the
+                                                         prevalence of each type of                       prevalence between heterosexual
+of Psychological                                         psychological aggression was higher              and lesbian women were not
+aggression                                               for bisexual women. The differences              statistically significant.
+Victimization by an                                      between bisexual and heterosexual
+                                                         women for expressive aggression
+Intimate Partner by                                      were statistically significant with
+Sexual Orientation                                       63.0% of lesbian women, 67.0%                         6 in 10 lesbian
+                                                         of bisexual women, and 39.4% of                       women, 7 in 10
+Prevalence among Women                                   heterosexual women reporting
+More than 6 in 10 lesbian women                          they have experienced expressive                      bisexual women,
+(63.0%), 7 in 10 bisexual women                          aggression by an intimate partner
+(76.2%), and nearly one-half of                          during their lifetime. In addition,                   and one-half of
+heterosexual women (47.5%)                               48.4% of lesbian women, 68.8%
+experienced psychological
+                                                                                                               heterosexual
+                                                         of bisexual women, and 40.5% of
+aggression by an intimate                                heterosexual women reported                           women reported
+partner at some point in their                           experiencing coercive control by
+lives (Table 8). The differences in                      an intimate partner in their lifetime.                having experienced
+prevalence between heterosexual                          The differences in prevalence for
+and both bisexual women and
+                                                                                                               psychological
+                                                         coercive control between bisexual
+lesbian women were statistically                         and heterosexual women and                            aggression at some
+significant. No statistically significant                bisexual and lesbian women were
+differences were found between                           also statistically significant.                       point in their lifetime.
+bisexual and lesbian women.
+       Table 8
+       lifetime Prevalence of Psychological aggression by an Intimate Partner by Sexual
+       Orientation — U .S . Women, NISVS 2010
+                                                              Lesbian                          Bisexual                       Heterosexual
+                                                  Weighted %          Estimated     Weighted %         Estimated       Weighted %       Estimated
+                                                                       Number                           Number                           Number
+                                                                     of Victims1                       of Victims1                     of Victims1
+    Any psychological aggressionHB, HL                63.0           1,027,000          76.2           2,524,000          47.5         51,896,000
+       Any expressive aggressionHB                    50.6             825,000          67.0           2,219,000          39.4         43,114,000
+       Any coercive controlHB, BL                     48.4             789,000          68.8           2,279,000          40.5         44,238,000
+    1
+      Rounded to the nearest thousand. 
+
+    HB
+       Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and bisexual groups. 
+
+    HL
+       Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and lesbian groups. 
+
+    BL
+       Statistically significant differences (p ≤ .05) of the prevalence between bisexual and lesbian groups.
+
+
+24 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   Prevalence among Men                                    of gay men (44.5%), one-quarter of               statistically significant when
+   Approximately 60% of gay men,                           bisexual men (24.4%), and one-third              comparing gay and heterosexual
+   53% of bisexual men, and 49%                            of heterosexual men (32.4%)                      men and gay and bisexual men but
+   of heterosexual men reported                            experienced expressive aggression                not when comparing bisexual and
+   experiencing psychological                              by an intimate partner during                    heterosexual men. The prevalence
+   aggression in the context of an                         their lifetime. The differences in               of coercive control by an intimate
+   intimate relationship at some point                     the prevalence of any expressive                 partner was similar across the three
+   in their lives (Table 9). Nearly half                   aggression across groups was                     groups of men.
+          Table 9
+          lifetime Prevalence of Psychological aggression by an Intimate Partner by Sexual
+          Orientation — U .S . Men, NISVS 2010
+                                                                  Gay                           Bisexual                        Heterosexual
+                                                    Weighted %          Estimated      Weighted %        Estimated       Weighted %       Estimated
+                                                                         Number                           Number                           Number
+                                                                        of Victims1                     of Victims1                      of Victims1
+       Any psychological aggression                     59.6            1,622,000         53.0           1,011,000          49.3         51,458,000
+          Any expressive aggression    HG,BG
+                                                        44.5            1,213,000         24.4            466,000           32.4         33,750,000
+          Any coercive control                          45.2            1,231,000         48.2            919,000           43.0         44,890,000
+       1
+          Rounded to the nearest thousand. 
+
+       HG
+          Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and gay groups.
+
+       BG
+          Statistically significant differences (p ≤ .05) of the prevalence between bisexual and gay groups. 
+
+   Psychologically aggressive                              57.7%); being insulted, humiliated,              behaviors. No statistical differences
+   behaviors experienced by                                or made fun of (lesbian women                    were found between lesbian and
+   Female Victims                                          55.9%, bisexual women 64.2%, and                 heterosexual women with regard
+   Among female victims of psycho­                         heterosexual women 58.1%); and                   to individual psychologically
+   logical aggression, the experience                      being kept track of by demanding                 aggressive behaviors.
+   of individual psychologically                           to know her whereabouts (lesbian
+   aggressive behaviors was common                         women 60.7%, bisexual women                      Psychologically aggressive
+   regardless of sexual orientation.                       66.3%, and heterosexual women                    behaviors experienced by
+   Examples include: being called                          61.4%) (Table 10).                               Male Victims
+   names like ugly, fat, crazy, or stupid                                                                   Among male victims of
+   (lesbian women 59.6%, bisexual                          In comparing bisexual and                        psychological aggression, 61.6%
+   women 75.7%, and heterosexual                           heterosexual women, bisexual                     of gay men, 34.4% of bisexual
+   women 63.8%); witnessing an                             women experienced a significantly                men, and 42.3% of heterosexual
+   intimate partner act angry in a way                     higher prevalence of expressive                  men were told they were a loser, a
+   that seemed dangerous (lesbian                          aggression and coercive control                  failure, or not good enough by an
+   women 63.5%, bisexual women                             behaviors by an intimate partner.                intimate partner (data not shown).
+   69.7%, and heterosexual women                           See Table 10 for the list of these               Other commonly reported forms
+
+              The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                    25
+of psychological aggression against                      to know where they were and                     threatened to hurt herself/himself or
+gay and heterosexual men included                        what they were doing (49.3% and                 commit suicide because she/he was
+having a partner act very angry in a                     63.5%, respectively), being insulted,           upset (23% and 25%, respectively).
+way that seemed dangerous (48%                           humiliated, and made fun of (39%                There were no significant differences
+and 39%, respectively), being called                     and 39.5%, respectively), having                noted for males by sexual
+names like ugly, fat, crazy, or stupid                   a partner who made threats to                   orientation with regard to individual
+(65% and 51.1%, respectively),                           physically harm (28.6% and 19.9%,               psychologically aggressive behaviors
+being kept track of by demanding                         respectively), or having a partner who          (data not shown).
+       Table 10
+       lifetime Reports of Psychological aggression among Female Victims by Type of behavior
+       experienced by Sexual Orientation — U .S . Women, NISVS 2010
+                                                                                                   Victims of Psychological Aggression
+                                                                                            Lesbian              Bisexual           Heterosexual
+                                                                                          Weighted %            Weighted %          Weighted %
+   Expressive Aggression
+       Acted very angry in a way that seemed dangerousHB                                     63.5                  69.7                 57.7
+       Told they were a loser, a failure, or not good enough                                 42.5                  56.4                 48.8
+       Called names like ugly, fat, crazy, or stupid HB
+                                                                                             59.6                  75.7                 63.8
+       Insulted, humiliated, made fun of                                                     55.9                  64.2                 58.1
+       Told no one else would want them                                                        *                   44.2                 39.2
+   Coercive Control
+       Tried to keep from seeing or talking to family or friendsHB                           55.9                  59.2                 42.5
+       Made decisions that should have been yours to make      HB, BL
+                                                                                             30.3                  58.4                 40.4
+       Kept track of by demanding to know where you were and what you were doing             60.7                  66.3                 61.4
+       Made threats to physically harm                                                       45.9                  52.5                 45.5
+       Threatened to hurt herself/himself or commit suicide because she/he was upsetHB
+                                                                                             45.1                  52.6                 36.4
+       Threatened to hurt a pet or take a pet away                                             *                     *                  10.6
+       Threatened to hurt someone you love                                                     *                     *                  14.4
+       Hurt someone you love                                                                   *                     *                  13.5
+       Threatened to take your children away from you                                          *                   15.7                 21.8
+       Kept you from leaving the house when you wanted to go          HB
+                                                                                             47.0                  49.1                 34.8
+       Kept you from having your own money to use                                              *                   20.3                 22.6
+       Destroyed something that was important to you                                           *                   48.2                 39.2
+       Said things like ”If I can’t have you then no one can” HB
+                                                                                               *                   42.1                 26.6
+    HB
+       Statistically significant differences (p ≤ .05) of the prevalence between heterosexual and bisexual groups.
+    BL
+       Statistically significant differences (p ≤ .05) of the prevalence between bisexual and lesbian groups.
+
+26 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   lifetime Prevalence                     Number of Perpetrators                    Number of Perpetrators
+                                                                                     among Male Victims
+   of Control of                           in lifetime Reports of
+                                                                                     A similar pattern was seen among
+   Reproductive or Sexual                  Rape, Physical Violence,                  the male victims. Almost 90% of
+   Health by an Intimate                   and/or Stalking                           gay men (89.1%), more than half of
+                                                                                     bisexual men (53.6%), and almost
+   Partner by Sexual                       Victimization by an                       three-quarters of heterosexual
+   Orientation                             Intimate Partner by                       men (73.3%) who were victims of
+   Approximately 1 in 7 bisexual           Sexual Orientation                        intimate partner violence reported
+   women (14.9%) and 1 in 20                                                         having only one perpetrator (data
+                                           Number of Perpetrators                    not shown). The difference in the
+   heterosexual women (4.5%)               among Female Victims
+   reported ever having had a                                                        number of lifetime perpetrators of
+                                           An estimated 78.9% of lesbian             intimate partner violence between
+   partner who tried to get them
+                                           women, 60.2% of bisexual women,           gay male victims and heterosexual
+   pregnant when they did not want
+                                           and 71.6% of heterosexual women           male victims was significantly
+   to. These differences between
+                                           who were victims of intimate              different. Also, the difference in the
+   bisexual and heterosexual women
+                                           partner violence reported having          number of lifetime perpetrators of
+   were statistically significant. In
+                                           only one perpetrator (data not            intimate partner violence between
+   addition, approximately 1 in 10
+                                           shown). The difference in the             bisexual male victims and gay male
+   bisexual women (9.4%) and 1 in
+                                           number of lifetime perpetrators           victims was significantly different.
+   15 heterosexual women (6.8%)
+                                           of intimate partner violence              Gay male victims reported a
+   reported ever having a partner
+                                           between female bisexual victims           significantly higher percentage
+   who refused to use a condom
+                                           and female heterosexual victims           of having only one perpetrator
+   (data not shown). Estimates of
+                                           were significantly different. The         compared to heterosexual male
+   lifetime prevalence of control of
+                                           difference in the number of               and bisexual male victims. There
+   reproductive or sexual health by an
+                                           lifetime perpetrators of intimate         were no statistical differences
+   intimate partner for lesbian women
+                                           partner violence between female           between bisexual male victims
+   and for gay and bisexual men were
+                                           bisexual victims and lesbian victims      and heterosexual male victims.
+   based upon numbers too small to
+                                           was also significantly different.
+   calculate a reliable estimate and,
+                                           Heterosexual female victims
+   therefore, are not reported.
+                                           reported a significantly higher
+                                           percentage of having only one
+                                           perpetrator compared to female
+       1 in 7 bisexual                     bisexual victims. Lesbian victims
+                                           also reported significantly higher
+       women and 1 in 20                   percentage of having only one
+                                           perpetrator compared to bisexual
+       heterosexual women                  female victims. There were no
+       reported having                     statistical differences between
+                                           female heterosexual victims and
+       had a partner who                   lesbian victims.
+       tried to get them
+       pregnant when they
+       did not want to.
+
+          The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 27
+Sex of Perpetrator in
+lifetime Reports of
+Rape, Physical Violence,
+and/or Stalking
+Victimization by an
+Intimate Partner by
+Sexual Orientation
+Sex of Perpetrator of Violence
+among Female Victims
+Among women who experienced
+rape, physical violence, and/or
+stalking in the context of an intimate
+relationship, the majority of bisexual
+and heterosexual women (89.5%
+and 98.7%, respectively) reported
+only male perpetrators (data not
+shown). More than two-thirds of
+lesbian women (67.4%) identified
+only female perpetrators. Statistical
+testing to compare sex of perpetrator
+across all sexual orientations was
+not conducted.
+Sex of Perpetrator of Violence
+among Male Victims
+Among men who experienced
+rape, physical violence, and/or
+stalking by an intimate partner,
+approximately 90.7% of gay men
+reported only male perpetrators,
+78.5% of bisexual men identified
+only females as their perpetrators,
+and 99.5% of heterosexual men
+reported only female perpetrators
+(data not shown). Statistical testing
+to compare sex of perpetrator
+across all sexual orientations was
+not conducted.
+
+28 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+           The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                            29
+Impact of Intimate Partner Violence
+
+     How NISVS Measured the Impact of Intimate Partner Violence
+     For each perpetrator of intimate partner violence, respondents were asked about whether they had experienced:
+     •	 Being fearful
+     •	 Being concerned for safety
+     •	 Symptoms of post-traumatic stress disorder (PTSD)
+        -	 Having nightmares
+        -	 Trying hard not to think about it or avoiding being reminded of it
+        -	 Feeling constantly on guard, watchful, or easily startled
+        -	 Feeling numb or detached from others, activities, or surroundings
+     •	 Being injured
+     •	 Needing health care as a result of the intimate partner violence experienced
+     •	 Needing housing services
+     •	 Needing victim’s advocate services
+     •	 Needing legal services
+     •	 Contacting a crisis hotline
+     •	 Missing days of work or school because of the intimate partner violence experienced
+     •	 For those reporting rape by an intimate partner — contracting a sexually transmitted infection or becoming pregnant (for women)
+     The questions were assessed in relation to specific perpetrators, without regard to the time period in which they occurred. Because violent acts
+     often do not occur in isolation and are frequently experienced in the context of other violence committed by the same perpetrator, questions
+     regarding the impact of the violence were asked in relation to all forms of violence (sexual violence, physical violence, stalking, expressive
+     aggression, coercive control, and reproductive control) committed by the perpetrator in that relationship. Such information provides a better
+     understanding of how individual and cumulative experiences of violence interact to result in harm to victims and provides a more nuanced
+     understanding of the overall impact of violence.
+     Black et al. (2011). The National Intimate Partner and Sexual Violence Survey (NISVS): 2010 Summary Report. National Center for Injury
+     Prevention and Control, Centers for Disease Control and Prevention.
+Impact was measured using a                          impact was assessed in relation                      (sexual violence, physical violence,
+set of indicators that represent                     to specific perpetrators, without                    stalking, expressive aggression,
+a range of direct impacts that                       regard to the time period in which                   coercive control, and control of
+may be experienced by victims of                     impact occurred, and asked in                        reproductive or sexual health) in
+intimate partner violence. Intimate                  relation to the forms of intimate                    that relationship (Black et al., 2011).
+partner violence (IPV)-related                       partner violence experienced
+
+30 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   lifetime Prevalence                     Nearly 30% of lesbian women
+                                           (29.1%), over half of bisexual
+   of Rape, Physical                       women (52.9%), and one-quarter                More than one-third
+   Violence, and/or                        of heterosexual women (25.2%)                 of lesbian women,
+   Stalking Victimization                  reported being fearful as a result
+                                           of the violence experienced. In               more than half of
+   with Intimate Partner                   addition, approximately one-fifth
+   Violence-Related                        of lesbian women and heterosexual             bisexual women, and
+                                           women (19.5% and 21.9%,
+   Impact by Sexual                        respectively) and one-half of
+                                                                                         almost one-third of
+   Orientation                             bisexual women (47.5%) reported               heterosexual women
+   Prevalence among Women                  they were concerned for their safety
+                                           and/or reported at least one post-            in the United States
+   The lifetime prevalence for bisexual
+                                           traumatic stress disorder (PTSD)              who experienced rape,
+   women who experienced rape,
+                                           symptom (19.5%, 46.2%, and 22.1%,
+   physical violence, and/or stalking by
+   an intimate partner and reported at
+                                           respectively). Of the IPV-related             physical violence,
+                                           impacts reported in Table 11, the
+   least one measured impact related to
+                                           differences between bisexual                  and/or stalking by
+   experiencing these or other forms of
+                                           women and heterosexual women                  an intimate partner
+   violent behaviors in that relationship
+                                           and between bisexual women and
+   was significantly higher compared
+   to lesbian and heterosexual women
+                                           lesbian women were statistically              reported at least one
+                                           significant with the exception of
+   (Table 11). Approximately one-third
+                                           missing at least one day of work or           measured impact
+   of lesbian women (33.5%), over half
+                                           school and needing legal services.            related to these or
+   of bisexual women (57.4%), and
+                                           However, the differences reported
+   one-third of heterosexual women
+   (28.2%) who experienced rape,
+                                           between lesbian women and                     other forms of violence
+                                           heterosexual women were not
+   physical violence, and/or stalking
+                                           statistically significant. Similarly,         in that relationship.
+   by an intimate partner reported at
+                                           estimates of lifetime prevalence
+   least one measured impact related to
+                                           of rape, physical violence, and/or
+   experiencing these or other forms of
+                                           stalking by an intimate partner with
+   violent behaviors in that relationship.
+                                           specific types of IPV-related impact
+                                           for gay and bisexual men were
+                                           based upon numbers too small to
+       Nearly 1 in 3 bisexual              calculate a reliable estimate and,
+                                           therefore, are not reported.
+       women and 1 in 7
+       heterosexual women
+       were injured as a
+       result of rape,
+       physical violence,
+       and/or stalking by
+       an intimate partner.
+
+          The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation                                     31
+   Table 11
+   lifetime Prevalence of Rape, Physical Violence, and/or Stalking Victimization by an Intimate
+   Partner with IPV-Related Impact by Sexual Orientation — U .S . Women, NISVS 2010
+                                                                Lesbian                           Bisexual                            Heterosexual
+                                                      Weighted %      Estimated         Weighted %        Estimated           Weighted %          Estimated
+                                                                        Number                             Number                                  Number
+                                                                      of Victims1                         of Victims1                            of Victims1
+Any reported IPV-related impact2,3,4, HB, BL              33.5          547,000             57.4          1,901,000               28.2           30,828,000
+FearfulHB, BL                                             29.1          474,000             52.9          1,752,000               25.2           27,537,000
+Concerned for safety       HB, BL
+                                                          19.5          317,000             47.5          1,572,000               21.9           23,969,000
+Any PTSD symptoms         5, HB, BL
+                                                          19.5          317,000             46.2          1,530,000               22.1           24,196,000
+InjuryHB                                                   *               *                27.5           909,000                14.6           15,967,000
+Needed medical careHB                                      *               *                15.7           519,000                 8.0            8,761,000
+Needed housing services                                    *               *                  *                *                   2.5            2,760,000
+Needed victim’s advocate services                          *               *                  *                *                   2.6            2,834,000
+Needed legal services                                      *               *                10.7           354,000                 7.8            8,546,000
+Contacted crisis hotline                                   *               *                  *                *                   1.7            1,833,000
+Missed at least one day of work/school                     *               *                17.1           567,000                10.2           11,176,000
+Contracted sexually transmitted disease6                   *               *                  *                *                   1.5           1,647,000
+Became pregnant                                            *               *                  *                *                   1.7           1,877,000
+1
+  Rounded to the nearest thousand.
+2
+  Includes experiencing any of the following: being fearful, concerned for safety, any PTSD symptoms, need for health care, injury, contacting
+  a crisis hotline, need for housing services, need for victim’s advocate services, need for legal services, missed at least one day of work or
+  school. For those who reported being raped, it also includes having contracted a sexually transmitted disease or having become pregnant.
+3
+  IPV-related impact questions were assessed in relation to specific perpetrators, without regard to the time period in which they occurred,
+  and asked in relation to any form of intimate partner violence experienced (sexual violence, physical violence, stalking, expressive aggression,
+  coercive control, and control of reproductive or sexual health) in that relationship; 12-month prevalence of IPV-related impact was not assessed.
+4
+  By definition, all stalking incidents result in impact because the definition of stalking includes the impacts of fear and concern for safety.
+5
+  Includes: nightmares; tried not to think about or avoided being reminded of; felt constantly on guard, watchful, or easily startled; felt numb or detached.
+6
+   Asked only of those who reported rape by an intimate partner.
+HB
+   Statistically significant differences (p≤. 05) of the prevalence between heterosexual and bisexual groups.
+BL
+   Statistically significant differences (p≤ .05) of the prevalence between bisexual and lesbian groups.
+
+32 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+            The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 33
+Discussion
+
+Consistent with previous national          Fewer significant differences were       For most types of violence
+studies (Tjaden & Thoennes, 2000),         found when comparing lesbian             examined in this report, the
+the findings from this report              women and heterosexual women             majority of both male and female
+indicate that women are heavily            in terms of the prevalence of most       victims, regardless of sexual
+impacted by sexual violence,               types of violence measured. Most         orientation, reported having one
+stalking, and intimate partner             differences found between lifetime       perpetrator in their lifetime. Across
+violence. However, differences in          victimization of intimate partner        all forms of violence, the majority of
+victimization based on self-reported       violence, sexual violence, and           bisexual women and heterosexual
+sexual orientation have not been           stalking by males, based on their        female victims reported having only
+previously reported from a national        self-reported sexual orientation,        male perpetrators. The majority of
+survey. The findings of this report        were not statistically significant       heterosexual male victims of sexual
+indicate that bisexual woman had           with the exception of sexual             violence other than rape identified
+significantly higher prevalence of         violence other than rape and one         their perpetrator as exclusively
+virtually all types of sexual violence     form of psychological aggression,        female. Almost all gay male victims
+and intimate partner violence              specifically expressive aggression.      of rape, physical violence, and/
+measured in the National Intimate          In terms of sexual violence other        or stalking by an intimate partner
+Partner and Sexual Violence                than rape, both gay men and              reported their perpetrator as being
+Survey (NISVS) when compared               bisexual men reported significantly      of the same sex. The majority of
+to both heterosexual and lesbian           higher prevalence compared to            lesbian victims of rape, physical
+women. For example, 46.1% of               heterosexual men. Similarly, gay         violence, and/or stalking by an
+bisexual women experienced                 men reported significantly higher        intimate partner reported their
+rape in their lifetime compared            prevalence of expressive aggression      perpetrator as female.
+to 13.1% of lesbian women and              compared to bisexual and
+17.4% of heterosexual women. That          heterosexual men. The estimates          To our knowledge, the National
+translates into 1.5 million bisexual       for some forms of sexual violence,       Intimate Partner and Sexual
+women, 214,000 lesbian women,              intimate partner violence, and           Violence Survey (NISVS) provides
+and 19 million heterosexual women          stalking for both women and men          the first nationally representative
+who have been raped during                 were not calculated due to low           prevalence estimates of sexual
+their lifetime. In terms of intimate       statistical reliability, limiting the    violence, stalking, and intimate
+partner violence, 61.1% of bisexual        number of conclusions that can be        partner violence among those who
+women who reported experiencing            drawn related to victimization by        identify as lesbian, gay, or bisexual.
+rape, physical violence, and/or            sexual orientation. Among women          These nationally representative
+stalking by an intimate partner            who experienced rape, bisexual           findings are consistent with findings
+during their lifetime compared             women were significantly more            from the Centers for Disease
+to 43.8% of lesbian women and              likely to have first been raped          Control and Prevention’s Youth
+35% of heterosexual women. That            between the ages of 11 and 17            Risk Behavior Surveillance System
+translates into 2 million bisexual         years, as compared to heterosexual       (YRBSS), which found a higher
+women, 714,000 lesbian women,              women. Future studies might              prevalence of dating violence and
+and 38 million heterosexual women          examine whether the age at which         unwanted forced sexual intercourse
+who have experienced at least one          bisexual women experience other          among lesbian, gay, and bisexual
+of these forms of violence by an           forms of violence (stalking, intimate    youth compared to heterosexual
+intimate partner in their lifetime.        partner violence) are similarly          youth (Kann et al., 2011). The YRBSS,
+                                           experienced in adolescence.              focuses on a variety of different risk
+
+34 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   behaviors of adolescents in grades      based upon sexual orientation. For
+   9-12 and, unlike NISVS, does not        example, individual forms of severe
+   focus exclusively or as intensively     physical violence by an intimate
+   on intimate partner violence, sexual    partner experienced among
+   violence, and stalking.                 bisexual men and gay men in their
+                                           lifetimes were not reported due
+   Additional research would help          to small numbers. Furthermore,
+   improve the understanding of the        insufficient statistical power due
+   relatively high levels of victimization to small cell size restricted the
+   experienced by bisexual women as        application of statistical tests for
+   compared to heterosexual women.         differences between these groups.
+   Similarly, bisexual men evidenced a     It is possible that other variables,
+   higher prevalence of sexual violence,   such as age, race, and income, might
+   other than rape, in comparison to       partially explain the differences
+   heterosexual men. Due to small cell     found between bisexual and
+   sizes, many of the estimates for men    heterosexual respondents. For
+   were not reported and statistical       example, many of the forms of
+   comparisons were not examined.          violence examined in this report are
+   In the future, the ability of NISVS     more prevalent during adolescence
+   to combine data across years will       and young adulthood (Basile, 2005;
+   allow for an examination of whether     Basile & Black, 2010; Breiding et
+   bisexual men evidence similarly         al., 2008) and it is possible that
+   elevated levels of victimization        there are cohort effects. Also, the
+   across multiple forms of violence,      possible hesitancy of participants
+   as found among bisexual women.          to disclose their sexual orientation
+                                           based on perceived risk or fear of
+                                           discrimination may have resulted
+   limitations                             in the misclassification of sexual
+                                           orientation for some respondents.
+   The findings of this report are         Finally, research suggests that
+   subject to a number of limitations,     there is a degree of fluidity
+   which are explained in detail in        related to self-identified sexual
+   the National Intimate Partner and       orientation across the life span
+   Sexual Violence Survey (NISVS):         (Diamond, 2008; Ott et al., 2011).
+   2010 Summary Report (Black et           Consequently, the basis of the key
+   al., 2011). There are additional        independent variable in this report,
+   limitations related specifically to     current sexual orientation, may not
+   this report. Respondents with a         represent the sexual orientation
+   victimization history who did not       of respondents when the violence
+   report their sexual orientation were    actually occurred.
+   not included in subgroup analyses.
+   These missing data impact the
+   ability to compare estimates across
+   reports. Therefore, comparisons
+   between the findings in this special
+   report and the main summary
+   report cannot be made. Small
+   numbers for particular subgroups
+   limited our ability to report and to
+   detect differences between groups
+
+The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 35
+36 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+           The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 37
+Implications for Prevention 
+
+This report highlights the lifetime       need to ensure that prevention and       or protective factors for rape as
+prevalence of intimate partner            intervention resources be available      an adolescent.
+violence, sexual violence, and            for these groups at commensurate
+stalking victimization for U.S. women     levels to those available for            Another avenue for targeting
+and men by self-reported sexual           heterosexual populations.                prevention efforts is related to
+orientation including those who                                                    the sex of perpetrators. Like
+identify as lesbian, gay, bisexual, and   Another finding that may have            heterosexual women, bisexual
+heterosexual. While The National          implications for prevention is           women and lesbian women
+Intimate Partner and Sexual Violence      that bisexual women and lesbian          predominantly reported male
+Survey (NISVS): 2010 Summary Report       women are less likely than               perpetrators of rape and sexual
+(Black et al., 2011) focused on the       heterosexual women to have only          violence other than rape. Further,
+population as a whole and found           one perpetrator of sexual violence       bisexual women and men reported
+that the experiences of sexual            other than rape. This suggests that      predominantly opposite-sex
+violence, stalking, and intimate          additional efforts might be needed       perpetrators of intimate partner
+partner violence place a substantial      to prevent revictimization among         violence (among those who
+burden on women and men in the            bisexual and lesbian women.              experienced rape, physical violence,
+United States, this report offers a                                                or stalking by an intimate partner).
+more focused examination of these         Other results in this report suggest     Future research focused on better
+forms of violence by self-reported        opportunities for the targeting of       understanding the dynamics
+sexual orientation. The pattern of        prevention efforts. Although this        surrounding experiences of intimate
+results suggests that individuals         report was not able to produce a         partner violence in opposite-sex
+who self-identify as lesbian, gay, and    reliable estimate of lifetime rape       relationships as compared to
+bisexual (LGB) experience an equal        victimization for lesbian women          same-sex relationships for bisexual
+or greater likelihood of experiencing     and bisexual and gay men, it was         men and women is warranted.
+sexual violence, stalking, and intimate   clear that among women who
+partner violence as compared to           experienced rape, bisexual women         ensure access to
+self-identified heterosexuals.            were more likely to experience
+                                          their first rape between the ages        Protection, Services,
+The findings in this report               of 11 and 17 years, as compared          and Resources
+suggest a number of specific              to heterosexual women. Many
+prevention implications that may          people may not identify their            Currently, communities are lacking
+be considered. First, the high            sexual orientation during their          in resources for LGB victims of
+levels of violence experienced            adolescence, making it difficult         intimate partner violence, sexual
+by bisexual women and the high            to target specific subgroups             violence, and stalking. While there
+levels of sexual violence other           of adolescents for prevention,           are approximately 2,000 domestic-
+than rape experienced by bisexual         further strengthening the need for       violence shelters (National Network
+men suggest a particular need             broad-based prevention efforts           to End Domestic Violence, 2011)
+for services and support systems          that include individuals as well         in the United States, only a small
+focused on bisexual women and             as communities. However, more            fraction have programs designed
+men. In addition, lesbian women           research could be undertaken to          specifically for lesbian survivors of
+and gay men evidenced levels of           better understand the adolescent         intimate partner violence (Helfrich
+violence victimization that were          experience of bisexual women             & Simpson, 2005). The number
+equal to or higher than those of          and other LGB individuals, with the      of services available to gay and
+heterosexual persons indicating the       goal of identifying potential risk       bisexual men is even more limited
+                                                                                   (Davies, 2002). A critical need exists
+
+38 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+   for services and resources for LGB      Nonbiased training and expanded           Conclusion
+   victims of intimate partner violence,   education for service providers that
+   sexual violence, and stalking.          focus on LGB issues as they relate        The combined efforts of public
+   In order to address the burden          to intimate partner violence, sexual      health, criminal justice, service
+   of domestic violence among this         violence, and stalking are also           providers, and other stakeholders
+   population, laws that protect           needed (Duke & Davidson, 2009;            can improve our knowledge about
+   victims of domestic violence            Girshick, 2002; Simpson & Helfrich,       intimate partner violence, sexual
+   could explicitly include members        2005). Such education will increase       violence, and stalking in LGB
+   of the LGB community. Currently,        knowledge, which could help facil­        communities and improve the
+   LGB individuals are covered in          itate reporting and work to provide       availability of prevention programs
+   most state domestic violence            survivors with the support they           and services for those affected
+   laws (including civil and criminal      need. Creating a legal and resource       by violence.
+   protections such as protective          environment that is safe and where
+   orders) through the use of gender-      confidentiality is maintained is an       These findings underscore
+   neutral language. However,              important step in the process.            the broad range of violence
+   because of the gender-neutral                                                     experienced by LGB individuals in
+   language, the final decision on                                                   the United States and reiterate the
+   whether LGB persons are protected                                                 important need for immediate, but
+                                           Implement Strong Data                     thoughtful, actions to prevent and
+   or not under the law may be at
+   the discretion of an individual         Systems for Monitoring                    respond to the violence occurring
+   judge. In addition, a few remaining     and evaluation                            within LGB populations. A more
+   states require that an intimate                                                   comprehensive plan for violence
+   relationship exists between two         The NISVS provides the first              prevention that includes LGB
+   people of the opposite sex in order     national-level data on the                individuals is needed to address
+   for an order of protection to be        prevalence of intimate partner            issues that include effective
+   issued. In many cases, in these         violence, sexual violence, and            prevention efforts focused on
+   states, the victims of same-sex         stalking among the LGB population.        intimate partner violence, sexual
+   intimate partner violence are           In order to more fully understand         violence, and stalking. In addition,
+   prohibited from seeking legal           the extent to which intimate              the inclusion of LGB persons
+   protection under the law                partner violence, sexual violence,        in national violence research
+   (American Bar Association, 2008).       and stalking is prevalent among           will assist in furthering a more
+                                           and impacts LGB survivors, more           comprehensive understanding of
+   Given the findings of this report       research as well as ongoing data          intimate partner violence, sexual
+   and the current state of the practice   collection is needed. The use of          violence, and stalking.
+   field, additional efforts could be      consistent measures of sexual
+   made to enhance training for            orientation and gender identity
+   domestic violence and sexual            will help to consistently report
+   assault service providers. Such         these types of violence occurring
+   training may improve access             within LGB communities and to
+   to services for individuals who         LGB individuals. The Department
+   either experience intimate              of Health and Human Services is
+   partner violence, sexual violence,      developing standardized measures
+   or stalking in the context of a         of sexual orientation and gender
+   same-sex relationship. In light         identity to be included in all
+   of these findings, state and local      national surveys in an attempt
+   criminal justice systems may want       to collect more reliable data
+   to consider how the services they       (Department of Health and Human
+   provide serve intimate partner          Services, 2011) and NISVS will
+   violence and sexual violence victims    incorporate these measures once
+   regardless of sexual orientation.       they are completed.
+
+The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 39
+40 The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation
+           The National Intimate Partner and Sexual Violence Survey | 2010 Findings on Victimization by Sexual Orientation 41
+References
+American Bar Association,                 Burke, T. W., Jordan, M. L., & Owen,     Helfich, C. A., & Simpson, E. K. (2005)
+Commission of Domestic Violence.          S. S. (2002). Cross-national comparison  Lesbian survivors of intimate partner
+(2008). Overview of CPO protections       of gay and lesbian domestic violence.    violence: Provider perspectives
+for LGBT victims of domestic              Journal of Contemporary Criminal         on barriers to accessing services.
+violence. Washington, DC.                 Justice.18(3),231-257.                   Journal of Gay and Lesbian Social
+                                                                                   Services.18(2),39-59.
+Balsam, K. F. (2001). Nowhere             Centers for Disease Control and
+to hide: Lesbian battering,               Prevention. (2012). Promoting            Kann, L., Olsen, O. E., McManus,
+
+homophobia, and minority stress.          respectful, nonviolent intimate          T., Kinchen, S., Chyen, D., Harris,
+
+Women and Therapy.23(3),25-38.            partner relationships through            W., & Wechsler, H. (2011). Sexual
+
+                                          individual, community and societal       identity, sex of sexual contacts,
+
+Basile, K. C. (2005). Sexual violence     change: Strategic direction for          and health-risk behaviors among
+
+in the lives of girls and women.          intimate partner violence prevention.    students in grades 9–12 — youth risk
+
+In K. Kendall-Tackett (Ed.),              Atlanta, GA.                             behavior surveillance, selected sites,
+
+Handbook of women, stress, and                                                     United States, 2001–2009. MMWR
+
+trauma (pp.101-122). New York, NY:        Davies, M. (2002). Male sexual           Surveillance Summaries.60(7),1-133.
+
+Brunner-Routledge.                        assault victims: a selective review
+                                          of the literature and implications       National Coalition of Anti-Violence
+
+Basile, K. C., & Black, M. C. (2010).     for support services. Aggression and     Programs. (2002). Lesbian, gay,
+
+Intimate partner violence against         Violent Behavior.7(3),203-214.           bisexual and transgender domestic
+
+women. In C. M. Renzetti, J. L.                                                    violence in 2002. New York, NY.
+
+Edleson & R. K. Bergen (Eds.),            Department of Health and Human
+Sourcebook on violence against            Services. (2011). Improving data         National Network to End Domestic
+women (2nd ed.) (pp. 111-131).            collection for the LGBT community.       Violence. (2012). Domestic violence
+Los Angeles, CA: Sage Publications.       Washington, DC.                          counts 2011: A 24-hour census
+                                                                                   of domestic violence shelters &
+Black, M. C., Basile, K. C., Brieding,    Diamond, L. M. (2008). Female            services. Washington, DC.
+M. J., Smith, S. G., Walters, M. L.,      bisexuality from adolescence to
+Merrick, M. T., Chen, J., & Stevens,      adulthood: Results from a 10-year        Ott, M. Q., Corliss, H. L., Wypij, D.,
+M. R. (2011). The National Intimate       longitudinal study. Developmental        Rosario, M., & Austin, S. B. (2011).
+Partner and Sexual Violence Survey        Psychology.44(1),5-14.                   Stability and change in self-reported
+(NISVS): 2010 Summary Report.                                                      sexual orientation identity in
+Atlanta, GA: National Center              Duke, A., & Davidson, M. M. (2009).      young people: Application of
+for Injury Prevention and Control,        Same-sex intimate partner violence:      mobility metrics. Archives of Sexual
+Centers for Disease Control               Lesbian, gay, and bisexual               Behavior.40(3):519-532.
+and Prevention.                           affirmative outreach and advocacy.
+                                          Journal of Aggression, Maltreatment      Tjaden, P., & Thoennes, N. (2000).
+Breiding, M. J., Black, M. C., & Ryan,    & Trauma.18(8),795-816.                  Full report of the prevalence,
+G. W. (2008). Prevalence and risk                                                  incidence, and consequences of
+factors of intimate partner violence      Girshick, L. B. (2002). No sugar,        violence against women: Findings
+in eighteen U.S. states/territories,      no spice: Reflections on research        from the National Violence Against
+2005. American Journal of Preventive      on woman-to-woman sexual                 Women Survey. (NIJ Publication
+Medicine.34(2),112-118.                   violence. Violence Against               No. 183781). Washington, DC: U.S.
+                                          Women.8(12),1500-1520.                   Department of Justice, National
+                                                                                   Institute of Justice.
+
+Centers for Disease Control and Prevention
+National Center for Injury Prevention and Control
+Division of Violence Prevention
+4770 Buford Highway NE, MS-F64
+Atlanta, Georgia 30341-3742
+www.cdc.gov/violenceprevention
+National Center for Injury Prevention and Control
+Division of Violence Prevention
+

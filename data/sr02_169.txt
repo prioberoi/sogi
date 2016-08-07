@@ -1,0 +1,1685 @@
+                       Sexual Orientation in the
+December 2014
+
+                       2013 National Health
+                       Interview Survey: A Quality
+                       Assessment
+Series 2, Number 169
+
+Copyright information
+All material appearing in this report is in the public domain and may be
+reproduced or copied without permission; citation as to source, however, is
+appreciated.
+Suggested citation
+Dahlhamer JM, Galinsky AM, Joestl SS, Ward BW. Sexual orientation in the
+2013 National Health Interview Survey: A quality assessment. Vital Health Stat
+2(169). 2014.
+Library of Congress Cataloging-in-Publication Data
+Sexual orientation in the 2013 National Health Interview Survey : A quality
+assessment.
+p. ; cm.— (Vital and health statistics. Series 2, Data evaluation and methods
+
+research ; number 169) (DHHS publication ; no. (PHS) 2015–1369)
+
+Includes bibliographical references.
+
+ISBN 978–0-8406–0670-9—ISBN 0–8406-0670–2
+
+I. National Center for Health Statistics (U.S.), issuing body. II. Series: Vital and
+
+health statistics. Series 2, Data evaluation and methods research ; no. 169. III.
+
+Series: DHHS publication ; no. (PHS) 2015–1369. 0276–4733
+
+[DNLM: 1. National Health Interview Survey (U.S.) 2. Health Surveys—United
+
+States. 3. Sexual Behavior—United States. 4. Statistics as Topic—United
+
+States. W2 A N148vb no.169 2015]
+
+RA407.3
+
+614.4’273—dc23                                                           2014036999
+
+For sale by the U.S. Government Printing Office
+Superintendent of Documents
+Mail Stop: SSOP
+Washington, DC 20402–9328
+Printed on acid-free paper.
+
+Series 2, Number 169
+Sexual Orientation in
+the 2013 National Health
+Interview Survey: A Quality
+Assessment
+Data Evaluation and Methods Research
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Centers for Disease Control and Prevention
+National Center for Health Statistics
+Hyattsville, Maryland
+December 2014
+DHHS Publication No. 2015–1369
+
+National Center for Health Statistics
+Charles J. Rothwell, M.S., M.B.A., Director
+Jennifer H. Madans, Ph.D., Associate Director for Science
+Division of Health Interview Statistics
+Marcie L. Cynamon, Acting Director
+
+Contents
+
+Abstract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1
+
+Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2
+
+   Primary Data Source . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             2
+
+   Secondary Data Sources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                2
+
+   Sexual Orientation Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  2
+
+   Demographic Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               4
+
+   Health Variables. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         4
+
+   Statistical Analyses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          4
+
+Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+
+   NHIS Estimates of Sexual Orientation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                         5
+
+   Analysis of Follow-up Responses to the NHIS Initial Sexual Orientation Question. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                      5
+
+   Estimates of Sexual Orientation Based on Data From NHIS, NHANES, and NSFG . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                             6
+
+   Prevalence of Selected Health Indicators by Sexual Orientation Based on Data From NHIS and NSFG . . . . . . . . . . . . . . . . . . .                                                                       7
+
+   Sexual Orientation Nonresponse Rates Based on Data From NHIS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                               8
+
+   Sexual Orientation Question Response Time Based on Data From NHIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                   9
+
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      10 
+
+    Follow-up Questions on Sexual Orientation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                             10 
+
+    Cross-survey Comparisons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  11 
+
+    Item Nonresponse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            12 
+
+    Item Response Times . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               12 
+
+Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       12 
+
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      13 
+
+Appendix. Technical Notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 23 
+
+Detailed Tables
+1.	      Sexual orientation among adults aged 18 and over, by sex: United States, 2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                      14 
+
+2.	      Follow-up responses among adults aged 18 and over who answered ‘‘something else’’ to the initial question on sexual
+
+         orientation, by sex: National Health Interview Survey, 2013. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                         15 
+
+3.	      Follow-up responses among adults aged 18 and over who answered ‘‘I don’t know the answer’’ to the initial question
+
+         on sexual orientation, by sex: National Health Interview Survey, 2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                16 
+
+4.	      Sexual orientation among adults aged 18 and over before and after backcoding using responses to the follow-up
+
+         questions on sexual orientation, by sex: United States, 2013. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                        17 
+
+5.	      Sexual orientation among adults, by national health survey, sex, and age group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                     18 
+
+6.	      Selected health indicators among men aged 18–44, by national health survey and sexual orientation . . . . . . . . . . . . . . .                                                                      19 
+
+7.	      Selected health indicators among women aged 18–44, by national health survey and sexual orientation . . . . . . . . . . . . .                                                                        20 
+
+8.	      Item nonresponse rates for the initial sexual orientation question, by selected characteristics: United States, 2013 . . . . .                                                                       21 
+
+9.	      Distribution of item response times to the initial sexual orientation question, by selected characteristics: United States,
+
+         2013. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      22 
+
+                                                                                                                                                                                                               iii
+
+Acknowledgments
+
+     We would like to thank Jaime
+Gahche for providing prevalence rates
+for sexual orientation using data from
+the 2009–2012 National Health and
+Nutrition Examination Survey, and
+Casey Copen and Jo Jones for their
+consultation and help with using the
+2006–2010 National Survey of Family
+Growth data. We would also like to
+thank Anjel Vahratian, Marcie Cynamon,
+Stephen Blumberg, Jennifer Madans,
+and Anjani Chandra for their valuable
+assistance with and feedback on this
+report.
+iv
+
+Objective
+    This report presents a set of quality   Sexual Orientation in the 2013
+analyses of sexual orientation data
+collected in the 2013 National Health
+Interview Survey (NHIS). NHIS sexual
+                                            National Health Interview
+orientation estimates are compared with
+those from the National Survey of           Survey: A Quality Assessment
+Family Growth (NSFG) and the National
+Health and Nutrition Examination            by James M. Dahlhamer, Ph.D., Adena M. Galinsky, Ph.D., Sarah S.
+Survey (NHANES). Selected health
+outcomes by sexual orientation are
+                                            Joestl, Dr.P.H., and Brian W. Ward, Ph.D., Division of Health
+compared between NHIS and NSFG.             Interview Statistics
+Assessments of item nonresponse, item
+response times, and responses to
+follow-up questions to the sexual
+orientation question are also presented.
+                                            Introduction                                 that researchers may use to make
+                                                                                         informed decisions about the appropriate
+                                                                                         use of the data. First, response
+Methods                                          A 2011 Institute of Medicine (IOM)      distributions of sexual orientation are
+                                            report on the health of lesbian, gay,        presented. This is followed by an
+    NHIS is a multipurpose health
+survey conducted continuously               bisexual, and transgender (LGBT)             analysis of responses to a set of
+throughout the year by the Centers for      persons called for ongoing collection of     follow-up questions to the initial NHIS
+Disease Control and Prevention’s            sexual orientation data in federally         sexual orientation question. These
+National Center for Health Statistics.      funded surveys and more research on          questions were added for two reasons:
+Analyses in this report were based on       inequities in sexual minority health care    (a) to gauge the extent to which adults
+NHIS data collected in 2013 from            (1). The U.S. Department of Health and       identify with terms other than
+34,557 adults aged 18 and over.             Human Services’ Healthy People 2020          gay/lesbian, bisexual, and straight, and
+Sampling weights were used to produce       initiative includes the goal of improving    provide meaningful response
+national estimates that are                 the health, safety, and wellbeing of
+representative of the civilian                                                           alternatives, and (b) to determine if any
+                                            LGBT persons, and like the IOM report,       misclassification of responses occurred
+noninstitutionalized U.S. adult
+                                            calls for an increase in the number of       at the initial sexual orientation question
+population. Data from the 2006–2010
+NSFG and 2009–2012 NHANES were              population-based data systems using a        because the response options provided
+used for the comparisons.                   standard set of sexual orientation           with the initial question were unfamiliar
+                                            questions to monitor Healthy People          or confusing. NHIS estimates of sexual
+Results                                     objectives (2). However, there are           orientation are then compared with
+                                            challenges in the collection of sexual       similar estimates from other NCHS
+    Based on the 2013 NHIS data,
+96.6% of adults identified as straight,     orientation data, including how to define    health surveys administering sexual
+1.6% identified as gay/lesbian, and         and operationalize the different             orientation questions. Next, health
+0.7% identified as bisexual. The            dimensions of sexual orientation             outcomes by sexual orientation are
+remaining 1.1% of adults identified as      (behavior, attraction, and identity), and    compared between NHIS and the
+‘‘something else,’’ stated ‘‘I don’t know   how to collect information on a              National Survey of Family Growth
+the answer,’’ or refused to answer.         sufficiently large sample of these           (NSFG). Consistency between the NHIS
+Responses to follow-up questions            relatively small populations to permit       and NSFG estimates and patterns of
+suggest that the sexual orientation         meaningful analyses (1). Seeking to          association are not necessarily an
+question is producing little classification address these objectives and challenges,
+error. In addition, largely similar                                                      indicator of validity, but inconsistency is
+                                            the Centers for Disease Control and          informative. Following this, attention is
+patterns of association between sexual
+                                            Prevention’s (CDC) National Center for       given to two item quality measures:
+orientation and health were observed
+for NHIS and NSFG. Analyses of item         Health Statistics (NCHS) developed,          item nonresponse and item response
+nonresponse rates revealed few data         tested, and added questions on the           times. Both quality measures are used to
+quality issues, although item response      identity component of sexual orientation     gauge the extent to which respondents
+times suggest possible shortcutting of      (3) to the 2013 National Health              or interviewers may have found the
+the question and comprehension              Interview Survey (NHIS).                     sexual orientation questions to be
+problems for select respondents.                 Since monitoring lesbian, gay, and      sensitive, and the extent to which
+                                            bisexual health requires accurate and        respondents may have encountered
+Keywords: sexual identity • item            reliable data, the goal of this report is to comprehension problems when
+nonresponse • measurement error •           present a set of data quality analyses of    answering the questions. Item
+data quality                                the 2013 NHIS sexual orientation data        nonresponse analyses are also used to
+                                                                                                                              Page 1
+
+Page 2 [ Series 2, No. 169
+explore possible nonresponse bias in the    or she is mentally or physically unable    respondent can read the questions on the
+NHIS sexual orientation data.               to do so; in that case, a knowledgeable    screen as well as listen to them through
+                                            family member serves as a proxy            headphones. Comparisons with NHIS
+                                            respondent.                                were made for adults aged 18–44.
+Methods                                          Analyses in this report were based         NHANES is a cross-sectional,
+                                            on data collected from 34,557 sample       multistage continuous national survey of
+                                            adults aged 18 and over. The conditional   individuals of all ages in the United
+Primary Data Source                         sample adult response rate (i.e., the      States. It consists of a survey, a physical
+                                            number of completed Sample Adult           examination, and collection of
+     Data from the 2013 NHIS were           interviews divided by the total number     biospecimens for more than 700
+used to generate the majority of the        of eligible sample adults) was 81.7%.      laboratory tests. Questions on health
+estimates presented in this report. NHIS    The final sample adult response rate,      conditions, diseases, and diet behavior
+is a multipurpose health survey             calculated by multiplying the conditional  and nutrition are asked of NHANES
+conducted continuously throughout the       response rate by the final family          participants, both in the home and in a
+year and serves as a primary source of      response rate, was 61.2% (5).              mobile examination center (MEC). The
+health data on the civilian                                                            physical examination and biospecimen
+noninstitutionalized population of the                                                 collection are performed in the MEC.
+United States (4). Trained interviewers     Secondary Data Sources
+                                                                                       Like NSFG, the survey is administered
+with the U.S. Census Bureau collect              Two other sources of data were        primarily by CAPI, with more sensitive
+data using computer-assisted personal       used in this report: the 2006–2010         questions, including questions on
+interviewing (CAPI), a data collection      NSFG and the 2009–2012 National            same-sex behavior and sexual identity,
+method in which an interviewer meets        Health and Nutrition Examination           asked via ACASI. Comparisons with
+with respondents face-to-face to ask        Survey (NHANES). While these surveys       NHIS were made for adults aged 18–59.
+questions and enters the answers into a     use similar sample designs and include          Readers interested in learning more
+laptop computer. When necessary,            many of the same demographic and           about these two surveys can find
+interviewers may complete missing           health measures as NHIS, the three         additional detail and information on
+portions of the interview over the          surveys have different objectives. NHIS    NSFG (6) and NHANES (7) elsewhere.
+telephone.                                  is a multipurpose health survey,
+     The survey has four main               NHANES includes a physical
+components: the Household                                                              Sexual Orientation
+                                            examination component, and NSFG
+Composition Section, Family Core,           focuses on family formation issues. The    Questions
+Sample Adult Core, and Sample Child         data years for NSFG and NHANES
+Core. The Household Composition             were chosen because they were the most     National Health Interview
+Section of the questionnaire collects       recent years available, with multiple      Survey
+basic demographic and relationship          years of data used so that reliable
+information about all persons in the        estimates could be generated for the            The NHIS sexual orientation
+household. The Family Core                  categorical measure of sexual              questions are in the Adult Selected
+questionnaire, which is administered        orientation.                               Items section in the Sample Adult Core.
+separately for each family in the                NSFG is a cross-sectional,            This section also contains questions
+household, collects information on all      multistage continuous national survey of   about computer use, satisfaction with
+persons in the family. Topics in the        women and men aged 15–44 living in         health care, neighborhood tenure,
+Family Core include sociodemographic        households in the United States. One       neighborhood attachment, financial
+characteristics, basic indicators of health person in the given age range at each      worries, sleep, HIV testing, and
+status, health insurance coverage, and      selected address is chosen randomly for    psychological distress.
+access to and use of health care            the in-person interview. NSFG collects          The sexual orientation question
+services. From each participating family,   data on family life, sexual activity and   battery in the 2013 NHIS consisted of
+one sample child (if there are any          contraception use, pregnancy,              four cascading questions. The initial
+children aged 17 and under) and one         childbearing, men’s and women’s            question, asked of all sample adults
+sample adult aged 18 and over are           health, and parenting. While mostly        aged 18 and over, reads, ‘‘Which of the
+randomly selected, and information on       administered through CAPI, more            following best represents how you think
+each is collected with the Sample Child     sensitive questions, including those on    of yourself?’’ For men, the response
+and Sample Adult questionnaires. The        same-sex sexual behavior, sexual           options were:
+Sample Adult Core interview collects        attraction, and sexual identity, are asked +   Gay
+additional data on health status and        via audio computer-assisted self           +   Straight, that is, not gay
+conditions, health behaviors, functioning   interviewing (ACASI). For the ACASI        +   Bisexual
+and disability, and access to and use of    portion, the respondent answers alone by   +   Something else
+health care services. The sample adult      entering his or her responses directly     +   I don’t know the answer
+answers for himself or herself, unless he   into the laptop computer. The
+
+                                                                                                         Series 2, No. 169 [ Page 3
+For women, the response options were:      ‘‘heterosexual’’ and ‘‘homosexual’’ led          In the third and final test, a
+                                           to classification error (3,8–10). And      split-ballot experiment in which 60% of
++	   Lesbian or gay
+                                           second, the ‘‘gay/lesbian’’ response       sample adults were randomly assigned
++	   Straight, that is, not lesbian or gay
+                                           option came first, before ‘‘straight.’’ As to receive the initial sexual orientation
++	   Bisexual
+                                           cognitive interviewing revealed, the       question by ACASI and 40% by CAPI
++	   Something else
+                                           concept of sexual identity holds a         was conducted. Using a nationally
++	   I don’t know the answer
+                                           particularly distinct and salient meaning  representative sample, the primary goal
+      The initial sexual orientation       for those identifying as lesbian, gay,     of this test was to determine the mode
+question for NHIS was developed,           bisexual, or transgender. This is not the  by which the sexual orientation question
+tested, and iteratively refined to capture case for many heterosexuals. They do       would be administered in the 2013
+the sexual identity component of           not so much identify with being            NHIS. A total of 5,377 sample adults
+self-reported sexual orientation (3,8–10). heterosexual as they disidentify with      were asked the initial sexual orientation
+Over an 11-year period, the NCHS           being gay. To this end, adding ‘‘that is,  question. No significant differences were
+Questionnaire Design Research              not gay’’ to the ‘‘straight’’ category     identified by mode for the percentage of
+Laboratory (QDRL) conducted 377            helped these respondents select the        adults identifying as gay/lesbian or
+in-depth cognitive interviews to better    optimal response category. Because of      bisexual (ACASI = 2.2%, CAPI =
+understand the interpretive and response   the ‘‘not gay’’ wording, this response     2.4%). In addition, item nonresponse
+process patterns people use to answer      category had to come after the             (responses of ‘‘something else,’’ ‘‘I
+questions on sexual identity. One-         ‘‘gay/lesbian’’ category (3,8–10).         don’t know the answer,’’ or refusing to
+hundred thirty-nine of those interviews          After the cognitive testing, the     answer) to the sexual orientation
+were conducted specifically in the         sexual orientation question was further    question did not differ significantly by
+development of a sexual orientation        evaluated in the field. From November      mode (ACASI = 2.7%, CAPI = 2.3%).
+question for NHIS. The QDRL                2011 through October 2012, three field           While the cognitive and field testing
+encountered several challenges,            tests in which the sexual orientation      produced a well-performing question,
+including fluid and changing sexual        question was embedded in the NHIS          there was concern that when the question
+identities, differential saliency of the   questionnaire were conducted. In the       was fielded as part of the production 2013
+topic for LGBT and non-LGBT                first two field tests, the question was    NHIS, some respondents might not
+respondents, and lack of consistent        administered only using ACASI. The         understand the key terms, while others
+interpretation of the terms                first was a 50-interview test designed to  might not identify with the initial
+‘‘heterosexual,’’ ‘‘homosexual,’’ and      assess the integration of an ACASI         categories included with the question.
+‘‘bisexual.’’                              module with the NHIS CAPI interview.       Therefore, follow-up questions were asked
+      Two important design strategies      The second test included a Spanish         of respondents who answered ‘‘something
+were implemented to address these          translation of the sexual orientation      else’’ or ‘‘I don’t know the answer.’’ The
+challenges and minimize response error     question in the ACASI module. This         goal was to measure the extent to which
+in the NHIS sexual orientation question.   second test was conducted in geographic    adults use terms other than gay, lesbian,
+First, terms that respondents use in their areas with relatively high concentrations  bisexual, and straight, and to determine if
+everyday lives to describe themselves      of Spanish-speaking persons. A total of    any misclassification of responses
+were adopted. As opposed to the more       531 ACASI interviews were completed        occurred with the initial sexual orientation
+abstract, scientific labels of             in the second test: 415 in English and     question.
+‘‘homosexual’’ and ‘‘heterosexual,’’       116 in Spanish. An interviewer                   Respondents who answered
+which respondents do not always            debriefing question that asked if Spanish  ‘‘something else’’ to the initial question
+understand and use, cognitive testing      language respondents had any               were asked the follow-up question,
+revealed that the terms ‘‘straight,’’      difficulties with the Spanish translation  ‘‘What do you mean by something
+‘‘lesbian,’’ and ‘‘gay’’ improved question was included. Of the 116 Spanish           else?’’ Response options included:
+performance. This was especially true      interviews, a problem was reported for
+                                                                                      +	 You are not straight, but identify
+for non-LGBT or nonminority                only eight (6.9%). A review of the
+                                                                                           with another label such as queer,
+respondents. Cognitive interviewing        descriptions of these eight cases showed
+                                                                                           trisexual, omnisexual, or pansexual
+found that some nonminority                that four respondents had some
+                                                                                      +	 You are transgender, transsexual, or
+respondents confused the words             difficulty with the term ‘‘heterosexual,’’
+                                                                                           gender variant
+‘‘homosexual’’ and ‘‘heterosexual,’’       although it appears that the interviewer
+                                                                                      +	 You have not figured out or are in
+believing that ‘‘heterosexual’’ was gay    provided sufficient clarification in each
+                                                                                           the process of figuring out your
+and ‘‘homosexual’’ was straight.           case. (The Spanish translation used the
+                                                                                           sexuality
+Furthermore, some respondents, not         term ‘‘heterosexual’’ because there is no
+                                                                                      +	 You do not think of yourself as
+knowing the terminology, inferred that     conceptual translation for the word
+                                                                                           having sexuality
+the term ‘‘bisexual’’ meant                ‘‘straight.’’ ‘‘Heterosexual’’ is a word
+                                                                                      +	 You do not use labels to identify
+‘‘heterosexual,’’ concluding that ‘‘bi’’   more commonly used by Spanish
+                                                                                           yourself
+means two: one man and one woman.          speakers.)
+                                                                                      +	 You mean something else
+Hence, the inclusion of the terms
+
+Page 4 [ Series 2, No. 169
+      Respondents who answered ‘‘I don’t  and HIV, nonvoluntary sexual              include Hispanic, non-Hispanic white,
+know the answer’’ to the initial question intercourse, sexual attraction, and       non-Hispanic black or African
+were asked the follow-up question,        same-sex sexual behavior. Questions on    American, and non-Hispanic identifying
+‘‘What do you mean by don’t know?’’       experiences with STDs, income, and        as some other race (includes persons
+Response options included:                income sources follow the sexual          identifying as multiple races).
+                                          orientation question.                     Educational attainment is categorized
++	 You don’t understand the words
+                                                                                    into less than a high school diploma or
++	 You understand the words, but you
+     have not figured out or are in the   National Health and Nutrition             General Educational Development
+                                          Examination Survey                        (GED) high school equivalency
+     process of figuring out your
+                                                                                    diploma, high school diploma or GED,
+     sexuality                                 The NHANES question on sexual        some college (but no bachelor’s degree),
++	 You mean something else                orientation was asked of all respondents  bachelor’s degree, and master’s degree
+      Respondents who selected the        aged 18–59 and reads, ‘‘Do you think of   or higher. Urbanicity of residence is
+response option ‘‘You mean something      yourself as...,’’ with the following      either urban or rural. Finally, interview
+else’’ to either of the follow-up         response options for men:                 language is classified as primarily
+questions could provide a verbatim        +	 Heterosexual or straight (that is,     conducted in English, Spanish, or some
+response.                                     sexually attracted only to women)     other language (including bilingual
+      For the initial sexual orientation  +	 Homosexual or gay (that is, sexually   interviews conducted in both English
+question and the ‘‘something else’’ and       attracted only to men)                and Spanish). All demographic variables
+‘‘don’t know’’ follow-ups, flashcards     +	 Bisexual (that is, sexually attracted  were used to examine differences in
+listing the response options were handed      to men and women)                     item nonresponse rates and the length of
+to respondents in the face-to-face        +	 Something else                         time spent answering the initial sexual
+setting. Respondents were asked to        +	 You’re not sure                        orientation question.
+report the number corresponding to their
+answer. When the questions were           The response options for women were:
+                                                                                    Health Variables
+administered over the telephone, the      +	 Heterosexual or straight (that is,
+interviewer read the response options.        sexually attracted only to men)            As part of the cross-survey
+Respondents could refuse to answer any    +	 Homosexual or lesbian (that is,        comparisons between NHIS and NSFG,
+of these questions.                           sexually attracted only to women)     a number of health outcomes captured
+                                          +	 Bisexual (that is, sexually attracted  on both surveys were examined by
+National Survey of Family                     to men and women)                     sexual orientation. These variables
+Growth                                    +	 Something else                         include having a health status described
+                                          +	 You’re not sure                        as excellent or very good, being obese
+      The 2006–2010 NSFG sexual                                                     (defined as a body mass index of 30
+orientation question was asked of all          The NHANES sexual orientation        kg/m2 or more), having a usual place to
+respondents aged 15–44 and reads, ‘‘Do    question was asked in the MEC and         go for medical care, the type of usual
+you think of yourself as...,’’ with the   appears toward the end of the ACASI       place to go for medical care, and ever
+following response options for men:       section, after questions on substance     having been tested for HIV. For NHIS,
+                                          use, food security, sexual behavior, and  these health variables were included in
++	   Heterosexual or straight
+                                          experiences with STDs.                    either the Sample Adult Core or the
++	   Homosexual or gay
++	   Bisexual                                                                       Family Core component. For NSFG, all
++	   Something else                       Demographic Variables                     variables were taken from the
+                                                                                    2006–2010 public-use data files. Similar
+The response options for women were:           The demographic variables included   comparisons between NHIS and
+                                          in this report were taken from either the NHANES were not performed due to
++	   Heterosexual or straight
+                                          Household Composition Section or          the limited sexual minority sample size
++	   Homosexual, gay, or lesbian
+                                          Family Core component of the 2013         in NHANES.
++	   Bisexual
+                                          NHIS. They include the sample adult’s          Further details regarding the
++	   Something else
+                                          sex, age group, race and ethnicity,       demographic and health variables can be
+      Note that the ‘‘something else’’    educational attainment, urbanicity of     found in the Appendix.
+option was included in the 2006–2007      residence, and language in which the
+NSFG, but was deleted as a response       sample adult interview was conducted.
+option in the 2008–2010 NSFG (11).        The categories for the sex variable are
+                                                                                    Statistical Analyses
+The sexual orientation question is near   male and female. Age is categorized into       First, population distributions of
+the end of the ACASI portion of the       the following groups: 18–24, 25–34,       sexual orientation based on NHIS data
+interview after questions on pregnancy,   35–44, 45–54, 55–64, and 65 and over.     were calculated overall and by sex.
+substance use, risk behaviors for         For race and ethnicity, the categories
+sexually transmitted diseases (STDs)
+
+                                                                                                       Series 2, No. 169 [ Page 5
+Two-tailed significance tests were         tests were used to test for differences    1.1% of adults identified as something
+performed to test for significant          across groups.                             else (0.2%), stated ‘‘I don’t know the
+differences by sex. Second, response            To account for the multistage,        answer’’ (0.4%), or refused to answer
+distributions of the ‘‘something else’’    complex sampling design of NHIS,           (0.6%). The percent distributions were
+and ‘‘I don’t know’’ follow-up questions   NSFG, and NHANES, most estimates           quite similar for men and women;
+to the initial sexual orientation question and standard errors included in this       however, a higher percentage of men
+were assessed, followed by an              report are based on weighted data and      identified as gay (1.8%) compared with
+examination of the distribution of sexual  were generated using SAS version 9.3       women who identified as gay/lesbian
+orientation based on responses to the      and SAS-callable SUDAAN version            (1.4%), and a higher percentage of
+initial question compared with responses   11.0. These weighted estimates are         women identified as bisexual (0.9%)
+to the initial question along with         generalizable to the adult civilian        compared with men (0.4%). No other
+backcoding of responses to the             noninstitutionalized U.S. population.      significant differences in the percent
+follow-up questions. (Backcoding is a      Note that the analysis of the sexual       distribution of sexual orientation
+process whereby responses to the           orientation follow-up questions is         between men and women were found.
+follow-up questions are assigned to one    unweighted. Differences discussed in
+of the five response options for the       this report are significantly different at Analysis of Follow-up
+initial sexual orientation question.)      the p less than 0.05 level unless
+Third, population distributions of sexual  otherwise noted, with no adjustments       Responses to the NHIS
+orientation based on NSFG and              made for multiple comparisons. Given       Initial Sexual Orientation
+NHANES data were calculated and            the limited statistical power resulting    Question
+compared separately with NHIS              from small sample sizes, some large
+estimates. For the comparison with         observed differences do not reach
+NHANES, NHIS estimates were                statistical significance.                  Among respondents who
+constrained to match the age range of           Unless otherwise noted, care was      answered ‘‘something else’’
+the NHANES sexual orientation              taken to report and discuss only                Of the 33,784 sample adults who
+question (18–59). To enable                estimates that met NCHS standards of       responded to the initial sexual
+comparisons between NHIS and NSFG,         reliability or precision, determined by    orientation question, only 56 (29 men
+estimates were based on the age range      the calculation of a relative standard     and 27 women) answered ‘‘something
+of 18–44. Two-tailed significance tests    error (RSE) for each estimate, as          else.’’ Table 2 presents unweighted
+were performed to test for significant     described in the Appendix. Only            percentages and frequency counts of
+differences in distributions of sexual     estimates with an RSE equal to or less     responses provided by adults who
+orientation between NHIS and               than 30% are considered reliable.          answered ‘‘something else’’ to the initial
+NHANES and between NHIS and                Estimates with an RSE greater than 30%     sexual orientation question. The table
+NSFG. Fourth, prevalence rates of          and less than or equal to 50%, although    includes backcoded responses provided
+selected health outcomes by sexual         reported, are considered unreliable and    by 20 respondents who answered
+orientation were compared between          are denoted in the tables with an          ‘‘something else’’ to both the initial
+NHIS and NSFG among adults aged            asterisk. Estimates with an RSE greater    question and the ‘‘something else’’
+18–44. Two-tailed significance tests       than 50%, denoted with a dagger in the     follow-up question, and were then asked
+were performed to test for significant     tables, are not reported due to            the open-ended question, ‘‘What do you
+differences in health outcomes by sexual   insufficient reliability and precision of  mean by something else?’’ (see
+orientation within each survey (no tests   the point estimate.                        Appendix).
+of statistical significance were                                                           The two most frequent answers
+performed across surveys). The goal of                                                provided were: ‘‘You do not use labels
+this analysis was to see if associations   Results                                    to identify yourself’’ and ‘‘You do not
+between sexual orientation and health                                                 think of yourself as having sexuality.’’
+were similar across the two surveys. The                                              Combined, these two answers accounted
+analysis of obesity was restricted to men  NHIS Estimates of Sexual                   for 57.2% of the adults who answered
+and nonpregnant women aged 20–44.
+     The final section of the analysis
+                                           Orientation                                ‘‘something else’’ to the initial sexual
+                                                                                      orientation question (55.2% of men and
+focused on item nonresponse rates and           Using data from the 2013 NHIS,        59.2% of women). A small number of
+item response times. Item nonresponse      Table 1 presents the percent distribution  respondents refused to answer or said ‘‘I
+rates to the initial sexual orientation    of sexual orientation among all U.S.       don’t know’’ (14.3% of all respondents,
+question were compared by                  adults aged 18 and over, as well as        18.5% of women, and 10.4% of men),
+demographic group. Item response times     separately for men and women. Overall,     three respondents (all men) indicated
+were split into quintiles, and             96.6% of adults identified as straight,    that they had not figured out or were in
+comparisons were made for the shortest     1.6% identified as gay/lesbian, and 0.7%   the process of figuring out their
+and longest time groups by respondent      identified as bisexual. The remaining      sexuality, and only one respondent said
+demographics. Two-tailed significance                                                 that she did not understand the words.
+
+Page 6 [ Series 2, No. 169
+     A small number of respondents                Additional responses included ‘‘no     of adults who received the follow-up
+identified as a sexual minority via the      sexuality’’ (one woman), ‘‘don’t use        questions and the small number of
+‘‘something else’’ follow-up questions.      labels’’ (three men and one woman), and     responses that could be backcoded to
+Two respondents identified with another      ‘‘something else’’ (seven men and one       one of the main response options
+label such as queer, trisexual,              woman). While none of the adults            (straight, gay/lesbian, bisexual), the
+omnisexual, or pansexual; and three          among the initial ‘‘I don’t know the        follow-up questions will no longer be
+respondents identified as transgender,       answer’’ respondents later identified as a  asked starting with the 2015 NHIS.
+transsexual, or gender variant. Finally,     sexual minority, four (2.6%) identified          The remaining analyses presented in
+an additional three respondents              as heterosexual or straight. Again, this    this report are based on data collected
+identified themselves as heterosexual or     indicated some misclassification of         with the initial sexual orientation
+straight in response to the open-ended       responses at the initial sexual orientation question.
+question (‘‘What do you mean by              question.
+something else?’’), indicating some                                                      Estimates of Sexual
+classification error with the initial sexual Comparison of sexual
+orientation question.                        orientation estimates before and
+                                                                                         Orientation Based on Data
+                                             after backcoding using the                  From NHIS, NHANES,
+Among respondents who                                                                    and NSFG
+                                             follow-up questions
+answered ‘‘I don’t know the
+                                                  Next, how the estimates of sexual           In the top panel of Table 5, NHIS
+answer’’
+                                             orientation could be impacted by the        estimates are compared with estimates
+     One-hundred fifty-five respondents      incorporation of the responses to the       from the 2009–2012 NHANES. To
+(79 women and 76 men) answered ‘‘I           three follow-up questions was examined.     ensure appropriate comparisons, NHIS
+don’t know the answer’’ to the initial       Specifically, does assigning one of the     estimates were restricted to adults aged
+sexual orientation question. One man         original response options based on          18–59, the same age range of adults that
+quit the survey before answering the         information collected with the follow-up    received the survey question on sexual
+follow-up questions. Table 3 presents        questions (backcoding) make a               orientation in NHANES. For both sexes
+unweighted percentages and frequency         substantial difference in the percentage    combined and separately among men
+counts of responses provided by adults       of adults identifying as a sexual           and women, a higher percentage of
+who answered ‘‘I don’t know the              minority?                                   adults identified as heterosexual or
+answer’’ to the initial question. Table 3         Table 4 presents estimates of sexual   straight based on data from NHIS
+includes backcoded responses from the        orientation before and after the            (96.2% of all adults, 96.3% of men, and
+44 respondents who answered ‘‘I don’t        backcoding of responses to the              96.1% of women) compared with
+know the answer’’ to the initial question,   follow-up questions. Estimates based on     NHANES (93.6% of all adults, 94.9%
+‘‘something else’’ to the ‘‘I don’t know     these two measures are listed for all       of men, and 92.2% of women).
+the answer’’ follow-up question, and         U.S. adults, and separately for men and     Discrepancies in the heterosexual/
+then answered the open-ended question        women. When comparing the two               straight estimates are largely due to the
+‘‘What do you mean by something              measures, there is no substantive change    lower percentage of adults in NHIS who
+else?’’ (see Appendix).                      in the distribution after incorporating the identified as bisexual (0.8%) or
+     Of the 154 respondents who              data collected from the follow-up           answered ‘‘I don’t know’’ (0.4%)
+answered the follow-up questions, nearly     questions on sexual orientation. Among      compared with NHANES (2.6% and
+90% gave one of four responses.              U.S. adults, and separately for men and     1.3%, respectively). Among men and
+Roughly 30% of adults (30.7% of men          women, no change was observed in the        women separately, the same pattern is
+and 29.1% of women) who said ‘‘I             percentages of persons who identified as    found where the percentages of adults
+don’t know the answer’’ at the initial       gay/lesbian or bisexual. The percentage     identifying as bisexual or who said ‘‘I
+sexual orientation question later reported   who identified as straight changed only     don’t know’’ were lower based on NHIS
+that they had not figured out or were in     0.1 percentage points (from 96.6% to        data relative to NHANES, with this
+the process of figuring out their            96.7%). Due to rounding, this               difference more apparent among women
+sexuality, while a slightly lower            percentage did not change when looking      than men. The percentage of adults
+percentage of adults (28.6%) reported        at men and women separately. Finally,       identifying as homosexual or
+that they did not understand the words       the percentage of adults who identify as    gay/lesbian, however, was similar
+used in the initial question (38.0% of       a sexual minority (2.3%) did not change     between NHIS and NHANES, with a
+women and 18.7% of men). Finally, just       if the adults who identified as queer,      slightly higher (but not statistically
+over 16% of respondents answered ‘‘I         trisexual, omnisexual, pansexual,           significant) percentage of women who
+don’t know the answer’’ (17.3% of men        transgender, transsexual, or gender         identified as homosexual or gay/lesbian
+and 15.2% of women), and an additional       variant in the follow-up questions were     in NHIS (1.7%) compared with
+14% of respondents refused to answer         included in the measure (results not        NHANES (1.3%), and a similar
+(18.7% of men and 10.1% of women).           shown). Given the very low percentage       percentage of men who identified as gay
+
+                                                                                                      Series 2, No. 169 [ Page 7
+based on data from NHIS (2.1%)             Prevalence of Selected                    were no differences by sexual
+compared with NHANES (2.3%). It is                                                   orientation in having a usual place to go
+important to note that unlike the NHIS
+                                           Health Indicators by                      for medical care among men, and in
+sexual orientation question, the           Sexual Orientation Based                  both surveys there was no difference
+NHANES question conflates attraction       on Data from NHIS and                     between bisexual and straight women.
+and identity and is asked after a set of                                             However, in both NHIS and NSFG, a
+sexual behavior questions. This may
+                                           NSFG                                      higher percentage of women who
+partially explain the differences in            Given the differences in sexual      identified as straight had a usual place
+estimates.                                 orientation estimates across NHIS,        to go for medical care than women who
+     Next, estimates of sexual orientation NHANES, and NSFG, particularly the        identified as gay/lesbian (80.9%
+were compared between NHIS and             lower prevalence of adults identifying as compared with 65.5% in NHIS; 83.7%
+NSFG. To create comparable samples,        bisexual based on data from NHIS,         compared with 61.0% in NSFG).
+the analysis was restricted to adults aged analyses were performed to see if              For type of usual place of care, the
+18–44. In these comparisons, differences   differences in the association between    patterns were similar across surveys for
+existed in the percentage of adults who    sexual orientation and health also exist  both sexes, although the differences
+identified as heterosexual or straight.    across surveys. The patterns of the       were only significant for women in both
+Among women, 95.7% identified as           relationships between sexual orientation  surveys. Based on data from NHIS, a
+heterosexual or straight based on NHIS     and health are compared using a small     higher percentage of men aged 18–44
+data, compared with 93.6% based on         subset of outcomes that are available     who identified as straight (26.2%) went
+NSFG data. This difference existed         and comparable in both NHIS and           to a clinic or health center compared
+among men, but was smaller in              NSFG (Tables 6 and 7). Like the           with those who identified as gay
+magnitude and not statistically            NHIS–NSFG comparisons in Table 5,         (16.2%), while a lower percentage of
+significant (96.4% in NHIS, compared       these comparisons were restricted to      men aged 18–44 who identified as
+with 95.6% in NSFG). Consistent with       adults aged 18–44 (with the exception     straight (68.1%) went to a doctor’s
+the comparisons between NHIS and           of obesity, which was restricted to men   office or health maintenance
+NHANES, much of this discrepancy           and nonpregnant women aged 20–44).        organization (HMO) compared with
+appears to result from a larger            Of the five health indicators examined,   those who identified as gay (78.1%).
+percentage of adults who identified as     two had matching patterns of association  Also, a higher percentage of men aged
+bisexual based on data from NSFG. One      with sexual orientation across the two    18–44 who identified as bisexual
+and one-half percent of women              surveys, two had cross-survey matching    (51.4%) went to a clinic or health center
+identified as bisexual based on NHIS       patterns of association with sexual       compared with those who identified as
+data, whereas 3.9% identified as such      orientation among one sex but not the     straight (26.2%), while a lower
+based on NSFG data. A similar pattern,     other, and one had different patterns of  percentage of bisexual men aged 18–44
+although less pronounced, was found        association across the surveys.           (44.7%) went to a doctor’s office or
+among men (0.6% in NHIS, compared                                                    HMO compared with those who
+with 1.2% in NSFG). The percentage of      Obesity and usual place of care           identified as straight (68.1%). Again,
+adults who identified as gay/lesbian was                                             this pattern among men was also found
+more uniform across the two surveys,            The two health indicators with       in NSFG, but the differences were not
+with slightly higher percentages of men    similar patterns of association with      significant.
+(2.1%) and women (1.7%) who                sexual orientation across the surveys          Among women, however, the same
+identified as gay/lesbian based on NHIS    were obesity and having a usual place to  patterns and significance of association
+data compared with men (1.8%) and          go for medical care. In both NHIS and     between sexual orientation and type of
+women (1.2%) based on NSFG data            NSFG, among respondents aged 20–44        usual place of care were found in both
+(however, the difference for men was       there were no differences by sexual       surveys. In both NHIS and NSFG, a
+not statistically significant). The        orientation among men in prevalence of    higher percentage of women aged 18–44
+percentages of adults who refused to       obesity, and no difference between        who identified as straight went to a
+answer, answered ‘‘I don’t know,’’ or      gay/lesbian and straight nonpregnant      doctor’s office or HMO compared with
+identified as something else were similar  women in prevalence of obesity.           those who identified as bisexual (69.7%
+based on data from both NHIS and           However, in both NHIS and NSFG, a         compared with 54.9% in NHIS; 77.1%
+NSFG. As noted with the NHANES             higher percentage of nonpregnant          compared with 67.4% in NSFG).
+sexual orientation question, the NSFG      women who identified as bisexual were     Likewise, in both NHIS and NSFG, a
+question comes after questions on sexual   obese compared with nonpregnant           higher percentage of women aged 18–44
+behavior, including same-sex behavior      women who identified as straight          who identified as bisexual went to a
+and attraction. Again, this is very        (39.0% compared with 26.2% in NHIS;       clinic or health center compared with
+different from the context of the NHIS     42.7% compared with 32.6% in NSFG).       those who identified as straight (43.1%
+sexual orientation question and may             Similarly, in both NHIS and NSFG,    compared with 27.3% in NHIS; 24.7%
+partially explain the differences.         among respondents aged 18–44 there        compared with 16.2% in NSFG).
+
+Page 8 [ Series 2, No. 169
+Tested for HIV                            71.1%, NSFG: 66.8%) with women of              An even smaller percentage of
+                                          the same age who identified as bisexual   adults overall indicated that they did not
+     For the indicator ever having been   (NHIS: 61.4%, NSFG: 51.8%), the           know the answer to the sexual
+tested for HIV, a different pattern of    pattern was again similar by survey, but  orientation question (0.38%). Little
+association was found between the         significant only for NSFG.                variation was observed by age, although
+surveys among women, while the                 Also, while a higher percentage of   adults aged 25–34 had the highest rate
+pattern was the same across surveys       men aged 18–44 who identified as          of ‘‘I don’t know the answer’’
+among men. Among women aged               straight (69.9%) reported excellent or    nonresponse at 0.61%. This rate was
+18–44, no differences by sexual           very good health compared with those      significantly different only from that
+orientation were found using data from    who identified as bisexual (53.4%)        among adults aged 35–44, in which only
+NHIS, but a difference by sexual          based on data from NSFG, no such          0.21% indicated not knowing how to
+orientation was found using data from     difference was found based on data        respond. Non-Hispanic white adults had
+NSFG. In NSFG, a higher percentage of     from NHIS (straight: 72.5%, bisexual:     the lowest rate of ‘‘I don’t know the
+women who identified as bisexual          71.7%). However, in both surveys, there   answer’’ responses, but only the
+(73.2%) had been tested for HIV           was no significant difference in the      difference between the rate among
+compared with those who identified as     percentage who described their health     non-Hispanic white (0.29%) and
+straight (63.5%). In both surveys, there  status as excellent or very good between  Hispanic (0.69%) adults reached
+was no significant difference in the      men aged 18–44 who identified as gay      statistical significance. Looking at
+percentage of respondents tested for      and those who identified as straight.     education, the rate of ‘‘I don’t know the
+HIV between women aged 18–44 who                                                    answer’’ responses among adults with
+identified as gay/lesbian and those who                                             less than a high school diploma or GED
+identified as straight, nor between men   Sexual Orientation
+                                                                                    (0.80%) was significantly higher than
+aged 18–44 who identified as bisexual     Nonresponse Rates Based                   the rates among adults with all other
+and those who identified as straight.     on Data From NHIS                         levels of education (which ranged from
+Also, in both surveys a higher                                                      0.22% to 0.41%). Finally, the rate of ‘‘I
+percentage of men aged 18–44 who               The next set of analyses focuses on  don’t know the answer’’ responses was
+identified as gay had been tested for     two data quality indicators: item         significantly lower for adults who
+HIV compared with those who               nonresponse and item response times.      completed the interview in English
+identified as straight (78.9% compared    These two measures may provide            (0.32%) or Spanish (0.67%) compared
+with 36.8% in NHIS; 82.5% compared        indirect evidence that respondents        with respondents who completed the
+with 45.6% in NSFG). [For a more          struggled with answering the initial      interview in both English and Spanish
+thorough discussion of the associations   NHIS sexual orientation question or       or some other language (1.89%).
+between sexual orientation and HIV        found the question to be overly sensitive      Adults who answered ‘‘something
+testing in NSFG, see Chandra et al.       (13–15).                                  else’’ to the initial sexual orientation
+(12)].                                         Table 8 shows the nonresponse rates  question gave a variety of responses to
+                                          for the sexual orientation question,      the follow-up questions, including ‘‘You
+Health status                             broken out by sex, age, education, race   do not use labels to identify yourself,’’
+                                          and ethnicity, language in which the      ‘‘You do not think of yourself as having
+     The last health outcome examined     sample adult interview was conducted,
+was having a health status described as                                             sexuality,’’ ‘‘You have not figured out or
+                                          and urbanicity of the sample residence.   are in the process of figuring out your
+excellent or very good, and for this           First, sociodemographic differences
+indicator the pattern of association with                                           sexuality,’’ and ‘‘transgender,
+                                          in the individual categories of           transsexual, or gender variant’’
+sexual orientation differed across        nonresponse were examined. Starting
+surveys. Based on data from NHIS, a                                                 (Table 2). Since the category is
+                                          with refusals, only 0.55% of respondents  relatively small (see below) and captures
+higher percentage of women aged 18–44     refused to answer. Adults aged 18–24
+who identified as straight (71.1%) had a                                            a range of labels and identities,
+                                          had a significantly lower refusal rate    researchers may treat ‘‘something else’’
+health status described as excellent or   (0.21%) compared with their older
+very good compared with those who                                                   as missing for select analyses.
+                                          counterparts (refusal rates ranged from        The overall percentage of adults
+identified as gay/lesbian (56.1%).        0.49% to 0.73%). Although slight
+Although the difference is not                                                      answering ‘‘something else’’ was only
+                                          variation in refusal rates was observed   0.17%. Given this extremely low
+significant, the pattern is similar for   among racial and ethnic groups (e.g.,
+NSFG. Almost 67% of women aged                                                      percentage, significant differences were
+                                          respondents who identified as             observed for only two sociodemographic
+18–44 who identified as straight had a    non-Hispanic white had the lowest
+health status described as excellent or                                             characteristics: (a) race and ethnicity
+                                          refusal rate of all racial and ethnic     and (b) education. The percentage of
+very good compared with 59.8% of          groups), only the difference between
+those who identified as gay/lesbian.                                                Hispanic adults who answered
+                                          non-Hispanic white (0.48%) and            ‘‘something else’’ (0.05%) was less than
+When comparing women aged 18–44           non-Hispanic black (0.86%) adults
+who identified as straight (NHIS:                                                   one-third that of non-Hispanic white
+                                          reached statistical significance.         adults (0.19%) and non-Hispanic black
+
+                                                                                                       Series 2, No. 169 [ Page 9
+adults (0.17%). Adults with some                Looking at differences by            the question of older adults. Or, if
+college education had a significantly      education, the only statistically         respondents had difficulty with question
+higher ‘‘something else’’ rate (0.32%)     significant difference in nonresponse     terminology, this may result in longer
+compared with adults with a bachelor’s     rates (total nonresponse 1) was between   response times. Lack of comprehension
+degree (0.10%) or a master’s degree or     those without a high school diploma or    along with shortcutting of the question
+higher (0.07%).                            GED (1.22%) and those who had             could lower estimates of sexual
+      Next, sociodemographic differences   completed some college (0.75%).           minorities, reducing the usability of the
+in two summary or total nonresponse        Finally, the difference between adults    NHIS sexual orientation data.
+indicators were examined. The first        residing in urban compared with rural           The percentages of adults, by
+measure, ‘‘total nonresponse 1,’’          areas reached statistical significance,   subgroup, that fall into one of five time
+includes participants who responded ‘‘I    whereby 0.62% of rural compared with      groups are presented in Table 9. These
+don’t know the answer’’ and those who      1.01% of urban respondents answered       groups are based on quintile cut points
+refused to answer. The second measure      ‘‘I don’t know the answer’’ or refused to of the weighted item time distribution,
+of total nonresponse, ‘‘total nonresponse  answer.                                   with group 1 including adults who spent
+2,’’ includes participants who responded        The examination of total             the least amount of time (1–4 seconds)
+‘‘I don’t know the answer’’ or             nonresponse 2 yielded fewer significant   on the sexual orientation question and
+‘‘something else’’ and those who refused   differences by subgroup. For education,   group 5 including adults who spent the
+to answer.                                 only the difference between nonresponse   most time (22 or more seconds) on the
+      Regardless of the indicator, total   rates among those with less than a high   question. These two groups are the
+nonresponse to the initial sexual          school diploma or GED (1.36%) and         focus of this analysis and will be
+orientation question was low. Total        adults with a master’s degree or higher   referred to as the shortest-time group
+nonresponse 1 indicator shows that         (0.81%) was statistically significant.    and longest-time group, respectively.
+0.93% of adults refused to answer or       Despite lacking statistical significance        Of greatest concern is the
+indicated that they did not know how to    for other pairwise comparisons of         shortest-time group. At a very fast pace,
+answer the question. Total nonresponse     education levels, adults with higher      the initial sexual orientation question
+2 indicator shows that only 1.10% of       educational attainment had lower          could be read in about 2 seconds.
+adults selected ‘‘I don’t know the         nonresponse rates than their less-        However, if administered properly in the
+answer,’’ refused to answer, or answered   educated counterparts. The second         face-to-face setting, time would be
+‘‘something else.’’ While the total        significant difference in total           needed to hand the flashcard to the
+nonresponse rates are low, they are still  nonresponse 2 rates emerged when          respondent, have the respondent find the
+large relative to the percentage of adults examining the language of interview.      appropriate response, and answer. This
+identifying as a sexual minority. In       Here, only the difference between adults  would then prompt the interviewer to
+addition, some significant differences     who completed the interview in English    make an entry. It is unlikely that this
+emerged when examining the two             (1.05%) and those who completed it in     process, administered appropriately,
+indicators by sociodemographic             English and Spanish or some other         could be completed in less than 5
+characteristics.                           language (2.63%) was statistically        seconds. In addition, if the interviewer
+      Looking at the total nonresponse 1   significant. Finally, a higher total      did not use the flashcard in the
+indicator, adults aged 18–24 had           nonresponse 2 rate was observed for       face-to-face setting or administered the
+significantly lower rates of nonresponse   adults residing in urban areas (1.18%)    survey over the telephone, the response
+(0.58%) compared with those aged           compared with adults residing in rural    options would need to be read. Reading
+25–34 (1.09%) and 45–54 (1.08%).           areas (0.78%).                            all response options at a very fast pace
+Likewise, non-Hispanic white adults                                                  takes about 4 seconds. While some
+(0.77%) had a significantly lower          Sexual Orientation                        respondents will likely interrupt this
+percentage of nonresponse than Hispanic                                              process after the appropriate response
+(1.27%) and non-Hispanic black             Question Response Time                    option is read, this question, regardless
+(1.21%) adults. More strikingly, adults    Based on Data From NHIS                   of mode of administration, cannot be
+who completed the interview in a                                                     completed in less than 5 seconds and
+combination of English and Spanish or           The amount of time spent on the      still collect accurate data for all
+in a language other than English or        initial sexual orientation question (not  respondents.
+Spanish had more than twice the rate of    including the follow-up questions) is           Respondents spent an average of
+nonresponse (2.56%) compared with          presented in Table 9. A concern with      14.4 seconds (standard error = 0.13) on
+those who completed the interview in       face-to-face and telephone                the sexual orientation question, with a
+only English (0.87%) or only Spanish       administration of the sexual orientation  median of 11.0 seconds (standard error
+(1.17%). It is important to note,          question was that certain interviewers    = 0.10). Individual times ranged from 1
+however, that in 2013, less than 1% of     might find this question sensitive,       second to 382 seconds. A small number
+NHIS interviews were conducted in a        particularly when asking it of certain    of outlying times above 382 seconds
+combination of English and Spanish or      kinds of respondents (16). For example,   were removed from the analysis.
+some other language.                       interviewers may be less likely to ask          The data suggest that both
+                                                                                     shortcutting of the question-and-answer
+
+Page 10 [ Series 2, No. 169
+process and respondent comprehension
+problems may have occurred, at least
+                                            the question-and-answer process among
+                                            Spanish-speaking respondents.
+                                                                                       Discussion
+
+among select subgroups. For example,             While the time distributions look
+about one-quarter (25.2%) of adults         similar for men and women, and for              For NHIS, 2013 marked the first
+aged 65 and over were in the                urban and rural residents, some            year that questions on sexual orientation
+shortest-time group, a figure that is       interesting results for sexual orientation were included, thereby enabling
+significantly higher than those for all     were observed. Generally speaking,         researchers and data users to examine
+other age groups. At the other end of the   adults who identified as a sexual          how the prevalence of a wide variety of
+time distribution, a higher percentage of   minority took longer to answer the         health conditions, health behaviors, and
+older adults also spent the most time on    question. This was especially true for     indicators of health care access and
+the question (24.1%) compared with          adults who identified as bisexual, with    service use varies across categories of
+other age groups, with the exception of     28.8% of these adults falling into the     the sexual identity component of sexual
+adults aged 55–64 (22.1%). This             longest-time group. This figure was        orientation in a representative sample of
+suggests possible comprehension             significantly higher than the figure for   the civilian noninstitutionalized U.S.
+problems among older adults.                adults who identified as straight          adult population. This report presents a
+     A similar pattern is observed for      (19.3%). Also noteworthy are the time      set of data quality analyses of the sexual
+less-educated adults. Almost 24% of         distributions for responses of             orientation data that will enhance the
+adults with less than a high school         ‘‘something else’’ and ‘‘I don’t know the  ability of data users and researchers to
+diploma or GED were in the shortest-        answer.’’ While the number of adults       draw conclusions about their findings.
+time group, representing a significantly    choosing these responses was rather
+higher percentage of adults compared        small (Table 1), the time data suggest     Follow-up Questions on
+with all other education groups. The        that these adults struggled with the
+next highest figure was 20.0% of adults     question, possibly asking for
+                                                                                       Sexual Orientation
+with a high school diploma or GED. At       clarification. For example, 59.6% of            The number and type of responses
+the other end of the time distribution, a   adults who answered ‘‘something else’’     to the follow-up questions to the initial
+significantly higher percentage of adults   and a similar percentage of adults         sexual orientation question suggested
+with less than a high school diploma or     answering ‘‘I don’t know the answer’’      minimal classification error. Only 211
+GED were in the longest-time group          (53.5%) fell into the longest-time group.  of 33,784 sample adults (less than 1%)
+(23.4%) compared with adults with                What is difficult to know from        answered ‘‘something else’’ or ‘‘I don’t
+other education levels. Here, the next      these data is the extent to which the      know the answer’’ to the initial sexual
+highest percentage was 19.6% of adults      short response times were respondent-      orientation question, with only seven
+with some college, but no bachelor’s        driven, interviewer-driven, or both. If    respondents providing a follow-up
+degree.                                     interviewers did not ask the question as   response that should have been captured
+     Significant differences by race and    intended or not at all, it seems plausible with the initial sexual orientation
+ethnicity were found, although the          that, in the absence of previous           question (all seven answering
+magnitude of those differences is not       responses or environmental cues to the     heterosexual or straight to the
+large. A higher percentage of Hispanic      contrary, they would enter the modal       open-ended question ‘‘What do you
+adults (22.3%), for example, were in the    category of straight. Sexual orientation   mean by something else?’’). As
+longest-time group (group 5) compared       estimates broken out by the five           demonstrated, incorporating the
+with other racial and ethnic groups. A      response time groups (data not shown)      responses to the follow-up questions did
+significantly lower percentage of           show that the percentage of straight       not change the estimates of the primary
+non-Hispanic white adults (16.9%)           adults is highest in the shortest-time     sexual orientation categories. Therefore,
+compared with other racial and ethnic       group (group 1). In fact, the percentage   the sexual orientation variable included
+groups were in the shortest-time group.     of straight adults in the shortest-time    on the public-use Sample Adult data file
+Sizeable differences were observed by       group (98.4%) is significantly higher      is based solely on data collected with
+language of interview. The percentage of    than the percentage of straight adults in  the initial question, and the follow-up
+adults answering in Spanish who were        the four other time groups (group 2 =      questions will no longer be asked
+in the shortest-time group (31.0%) was      97.4%, group 3 = 96.8%, group 4 =          starting with the 2015 NHIS.
+significantly higher than the percentage    95.9%, longest-time group = 95.0%).             Consistent with the intent of the
+of adults answering in English (17.5%),     These results may indicate that the short  follow-up questions, a small number of
+or English and Spanish, or some other       response times are related to interviewer  sexual minorities (n = 5) who identify
+language (22.5%). Considering that          sensitivity to the question. However,      as something other than gay/lesbian or
+there is little difference in the length of other explanations, such as the question   bisexual were identified, and a number
+the English and Spanish text for the        being easier for some groups to answer     of responses reflected a sexual identity
+question (English = 11 words, 54            than for others, are also possible.        in flux (e.g., ‘‘not figured out or in the
+characters; Spanish = 14 words, 57                                                     process of figuring out your sexuality’’).
+characters), this suggests shortcutting of                                             More concerning are the 45 respondents
+
+                                                                                                    Series 2, No. 169 [ Page 11
+who indicated that they did not           (e.g., mode of administration, survey     on sexual behaviors because it is
+understand the words used with the        content, and placement of the sexual      assumed that the survey researchers
+initial sexual orientation question; if   orientation survey question), as well as  value consistency in responses. With
+these respondents ultimately identify as  differences in survey time periods, are   these mechanisms in mind, and
+a sexual minority, the estimates for      all possible contributing factors. In all depending on the extent of bisexual
+gay/lesbian and bisexual could be         three surveys, different wording is used  relations that the NSFG and NHANES
+impacted.                                 for the initial survey question that asks behavior questions uncovered (especially
+                                          about sexual orientation. For example,    when these questions are administered
+Cross-survey Comparisons                  NHANES provides additional text with      in each survey using ACASI), this may
+                                          each of the main response categories      partially explain the higher percentage
+                                          that intertwines sexual identity with     of adults who identify as bisexual in
+Response distribution of sexual           sexual attraction (e.g., ‘‘homosexual or  NSFG and NHANES (11). Contrast this
+orientation                               lesbian, that is, sexually attracted only with the context of the NHIS sexual
+     Among U.S. adults aged 18 and        to women’’). In addition, the terms       orientation question, which follows
+over, 96.6% identified as straight, 1.6%  ‘‘heterosexual’’ and ‘‘homosexual’’ are   questions on satisfaction with healthcare,
+as gay/lesbian, 0.7% as bisexual, and     used in the response options for the      neighborhood tenure, and neighborhood
+0.2% as something else. In addition,      sexual orientation survey questions in    attachment.
+0.6% of adults refused to answer the      both NSFG and NHANES. NHIS did                 Finally, in addition to wording and
+question on sexual orientation, while     not define sexual orientation by sexual   context differences, the survey
+0.4% did not know how to answer the       attraction, and did not use the terms     question(s) on sexual orientation are
+question. When examining these rates      heterosexual and homosexual based on      also administered using ACASI in both
+separately for men and women, there       results from the extensive cognitive      NHANES and NSFG, in contrast to
+were only two differences: A higher       interviewing (3).                         face-to-face interviewing (with some
+percentage of men identified as gay,           As for context within the survey,    follow-up interviewing by telephone) in
+while a higher percentage of women        NSFG asks numerous questions on           NHIS. However, extensive field testing
+identified as bisexual.                   sexual behavior and attraction            of the NHIS sexual orientation question
+     The distribution of adult sexual     immediately before asking the             failed to identify significant differences
+orientation differs between NHIS and      respondent about sexual orientation.      in sexual orientation estimates between
+other national surveys. A higher          NHANES also asks questions about          ACASI and CAPI (21).
+percentage of adults identified as gay or sexual behavior before asking the
+lesbian in NHIS compared with             respondent about sexual orientation.      Sexual orientation and health
+NHANES, and a higher percentage of        This context may induce consistency in
+                                          which responses to the later survey            The extent to which associations
+women identified as gay or lesbian in                                               between sexual orientation and health
+NHIS compared with NSFG. Overall          question on the sexual identity aspect of
+                                          sexual orientation are brought into line  were consistent across surveys was also
+and regardless of sex, however, the                                                 examined. Analyses were conducted to
+percentage of adults who identified as    with responses given to earlier questions
+                                          on behavior and attraction, known as      compare patterns of relationships
+bisexual in NHIS was considerably                                                   between sexual orientation and a small
+lower than in NHANES and NSFG.            correlational context effects (18–20).
+                                          This could happen in at least two ways.   set of comparable health outcomes in
+Extending the reach of these                                                        the 2013 NHIS and the 2006–2010
+comparisons to other national and         First, the sexual orientation measure
+                                          may be capturing a more fluid,            NSFG. Most associations between
+subnational surveys, the percentage of                                              sexual orientation and health were
+adults who identified as gay or lesbian   subjective conception that is influenced
+                                          by the context of the question,           similar across the two surveys, and
+was 1.7% in the 2008 General Social                                                 where a significant association was
+Survey (GSS) and 1.8% in the 2009         particularly if the context includes
+                                          questions about sexual behavior. For      identified in one survey, but not the
+California Health Interview Survey                                                  other, the pattern or direction of the
+(CHIS) (17). These figures are very       example, an NSFG or NHANES
+                                          respondent who usually thinks of          association was sometimes consistent. In
+similar to those reported here for NHIS.                                            many ways, differences in findings
+The NHIS bisexual estimate (0.7%),        himself or herself as straight, but whose
+                                          past experiences include both same-sex    across the surveys should not be
+while lower, is more consistent with the                                            surprising, especially given the design
+GSS (1.1%) and CHIS (1.4%) compared       and opposite-sex sexual behaviors (a
+                                          topic addressed just before the sexual    differences noted previously (i.e.,
+with either NSFG or NHANES.                                                         wording variations, question context,
+     A complete examination of the        orientation question), may question or
+                                          change his or her self-conception to      and mode of administration), as well as
+reasons for these differences in                                                    the differences in time periods. For
+estimates, especially for adults          match the just-reported behaviors.
+                                          Second, some respondents may answer       example, although a consistent pattern
+identifying as bisexual, is beyond the                                              of significant association between sexual
+scope of this report. However, variations the sexual orientation question in a way
+                                          that maintains consistency between this   orientation and obesity was found in the
+in question wording and survey design                                               two surveys, this pattern differs from the
+                                          answer and earlier answers to questions
+
+Page 12 [ Series 2, No. 169
+one found in research using an earlier   however, that only one subgroup,           distribution, including less-educated and
+wave of NSFG which used a different      respondents answering in English and       older adults. Here, the findings for age
+question (22). Similarly, although no    Spanish or some other language, had a      and education are consistent with other
+significant difference was found in the  total nonresponse 2 rate greater than      studies (14,25) that have found older
+percentage between men aged 18–44        2%. Examination of the individual          and less-educated respondents to take,
+who identified as bisexual and those     categories of nonresponse and the total    on average, longer to respond to survey
+who identified as straight who had ever  nonresponse indicators showed little       questions than younger and more-
+been tested for HIV in either NHIS or    evidence that many respondents found       educated respondents. This is often
+NSFG, research using an earlier wave of  the questions to be particularly sensitive attributed to less working memory
+NSFG with a different question did find  or hard to answer.                         capacity among these respondents
+a difference in this variable between         As for potential nonresponse bias     (26,27). Focusing on the relationship
+these two groups of men (23).            with the sexual orientation data,          between item response times and sexual
+     The consistency of the associations nonresponse to the sexual orientation      orientation reporting among adults aged
+across the two surveys examined in this  question was consistently low across       65 and over (data not shown), the
+report, despite the differences between  subgroups, suggesting that the             slowest respondents provided answers
+the surveys, is notable. For example,    differential rates of nonresponse are of   such as ‘‘something else,’’ ‘‘I don’t
+although overall estimates of obesity    insufficient magnitude to seriously bias   know the answer,’’ or refused to answer.
+and ever being tested for HIV,           survey findings. However, given the        The same is observed for less-educated
+regardless of sexual orientation, appear very low percentage of adults              adults. Consistent with work by Draisma
+to be different between NHIS and         identifying as gay/lesbian and bisexual,   and Dijkstra (28), this is suggestive of
+NSFG, the sexual orientation association if nonresponse to the question is related  cognitive difficulty and uncertainty over
+patterns were the same across surveys    to respondents’ sexual orientation (a      how to answer the sexual orientation
+for both men and women for obesity,      case of nonignorable nonresponse) (24),    question.
+and for men for HIV testing.             the potential for bias in estimates of          Finally, the longer response times
+                                         sexual minorities remains. And while       observed for non-English-speaking
+Item Nonresponse                         overall nonresponse to the sexual          respondents may be due to translation
+                                         orientation question is low, it is still   issues. The NHIS CAPI instrument is
+     Item nonresponse to the initial     large relative to the percentage of adults only programmed in English and
+sexual orientation question was low.     identifying as a sexual minority.          Spanish. For sample adult interviews
+Only 0.55% of respondents refused to                                                conducted in other languages, a
+answer, and even fewer respondents       Item Response Times                        bilingual interviewer translates the
+(0.38%) answered ‘‘I don’t know the                                                 questions on the spot, a practice that
+answer.’’ Combined, these two                 Time analyses revealed some           likely adds time to the question-and­
+nonresponse categories accounted for     evidence of shortcutting of the            answer process. In NHIS, the most
+only 0.93% of respondents to the initial question-and-answer process for the        common languages of interview other
+sexual orientation question. Treating    sexual orientation question. This was      than English and Spanish are Chinese
+responses of ‘‘something else’’ as       especially the case for older adults,      (Cantonese and Mandarin), Korean, and
+missing increased the nonresponse rate   less-educated adults, and adults           Vietnamese. Future consideration may
+to just 1.10%.                           answering in Spanish. As noted earlier,    be given to translating the survey
+     Although the nonresponse rates      some of this may be due to                 instrument into these languages.
+were low and differentials by            interviewers’ sensitivity toward asking
+demographic category were reduced        this question. If so, interviewers may
+compared with other sexual orientation   lead respondents to the modal category     Conclusions
+questions (10), analyses revealed some   of straight or simply make assumptions
+differences by subgroup. For example,    about the respondent’s sexual orientation       While it appears that the NHIS
+when looking at the combination of       based on responses to other survey         sexual orientation data are sufficiently
+‘‘something else,’’ ‘‘I don’t know the   questions. The extent to which this may    robust to support a wide array of
+answer,’’ and refused responses (total   be depressing the estimate of sexual       analyses, including explorations of
+nonresponse 2), adults with less than a  minorities is unknown. To address any      health outcomes by sexual orientation,
+high school education or GED had a       shortcutting that might be occurring,      there are still limitations of the data.
+significantly higher nonresponse rate    NHIS interviewer training will             Because the percentage of the U.S. adult
+(1.36%) compared with adults with at     emphasize the importance of asking the     civilian noninstitutionalized population
+least a master’s degree (0.81%).         sexual orientation question of all adults  that identifies as a sexual minority is
+Significant differences were also        and reading the question as worded.        small, there is a heightened risk of
+observed for the measure of urbanicity,  Continued monitoring and training will     generating unreliable estimates when
+with urban residents having more item    be performed.                              exploring the health of the sexual
+nonresponse (1.18%) than rural residents      Many of the same subgroups            minority population. Researchers and
+(0.78%). It is important to note,        emerged at the other end of the time
+
+                                                                                                             Series 2, No. 169 [ Page 13
+NHIS data users should be careful not             conducted May–July 2005. Hyattsville,      20. Feldman JM. Constructive processes as
+to draw conclusions from statistically            MD: National Center for Health                 a source of context effects in survey
+unreliable estimates based on small               Statistics. 2011. Available from:              research: Explorations in self-generated
+sample sizes. Multiple years of NHIS              http://wwwn.cdc.gov/qbank/report/              validity. In: Schwarz N, Sudman S
+                                                  Ridolfo_NCHS_2011_NCHS                         (eds.). Context effects in social and
+data may need to be collected and
+                                                  SexualityMeasures.pdf.                         psychological research. New York, NY:
+aggregated to yield more reliable
+                                              10. Ridolfo H, Miller K, Maitland A.               Springer-Verlag New York, Inc. 49–62.
+estimates for select analyses.                    Measuring sexual identity using survey         1992.
+                                                  questionnaires: How valid are our          21. Dahlhamer J. Asking about sexual
+                                                  measures? Sex Res Soc Policy                   identity in the National Health
+References                                        9(2):113–24. 2012.                             Interview Survey: Does mode matter?
+                                              11. Chandra A, Mosher WD, Copen C,                 Presentation to the National Center for
+1.	  Institute of Medicine. The health of         Sionean C. Sexual behavior, sexual             Health Statistics Board of Scientific
+     lesbian, gay, bisexual, and transgender      attraction, and sexual identity in the         Counselors. February 7, 2013.
+     people: Building a foundation for better     United States: Data from the               22. Boehmer U, Bowen DJ, Bauer GR.
+     understanding. Washington, DC:               2006–2008 National Survey of Family            Overweight and obesity in sexual-
+     National Academies Press. 2011.              Growth. National health statistics             minority women: Evidence from
+2.	  U.S. Department of Health and Human          reports; no 36. Hyattsville, MD:               population-based data. Am J Public
+     Services, Office of Disease Prevention       National Center for Health Statistics.         Health 97(6):1134–40. 2007.
+     and Health Promotion. Healthy People         2011.                                      23. Jeffries WL 4th. HIV testing among
+     2020. Washington, DC. Available from:    12. Chandra A, Billioux VG, Copen CE, et           bisexual men in the United States.
+     http://www.healthypeople.gov/2020/           al. HIV testing in the U.S. household          AIDS Educ Prev 22(4):356–70. 2010.
+     default.aspx.                                population aged 15–44: Data from the       24. Little RJA, Rubin DB. Statistical
+3.	  Miller K, Ryan JM. Design,                   National Survey of Family Growth,              analysis with missing data. New York,
+     development and testing of the NHIS          2006–2010. National health statistics          NY: John Wiley & Sons, Inc. 1987.
+     sexual identity question. Hyattsville,       reports; no 58. Hyattsville, MD:           25. Fricker S, Galesic M, Tourangeau R,
+     MD: National Center for Health               National Center for Health Statistics.         Yan T. An experimental comparison of
+     Statistics. 2011. Available from:            2012.                                          Web and telephone surveys. Public
+     http://wwwn.cdc.gov/qbank/report/        13. Tourangeau R, Yan T. Sensitive                 Opin Q 69(3):370–92. 2005.
+     Miller_NCHS_2011_NHIS%20Sexual               questions in surveys. Psychol Bull         26. Just MA, Carpenter PA. A capacity
+     %20Identity.pdf.                             133(5):859–83. 2007.                           theory of comprehension: Individual
+4.	  Blackwell DL, Lucas JW, Clarke TC.       14. Yan T, Olson K. Analyzing paradata to          differences in working memory.
+     Summary health statistics for U.S.           investigate measurement error. In:             Psychol Rev 99(1):122–49. 1992.
+     adults: National Health Interview            Kreuter F (ed.). Improving surveys with    27. Salthouse TA. Theoretical perspectives
+     Survey, 2012. National Center for            paradata: Analytic uses of process             on cognitive aging. Hillsdale, NJ:
+     Health Statistics. Vital Health Stat         information. Hoboken, NJ: John Wiley           Lawrence Erlbaum Associates. 1991.
+     10(260). 2014.                               & Sons, Inc. 73–95. 2013.                  28. Draisma S, Dijkstra W. Response
+5.	  National Center for Health Statistics.   15. Yan T, Tourangeau R. Fast times and            latency and (para)linguistic expressions
+     2013 National Health Interview Survey        easy questions: The effects of age,            as indicators of response error. In:
+     (NHIS) public use data release survey        experience and question complexity on          Presser S, Rothgeb JM, Couper MP,
+     description. 2014. Available from:           web survey response times. Appl Cogn           Lessler JT, Martin E, Martin J, Singer
+     http://www.cdc.gov/nchs/nhis/quest_          Psychol 22(1):51–68. 2008.                     E (eds.). Methods for testing and
+     data_related_1997_forward.htm.           16. Pickery J, Loosveldt G. An exploration         evaluating survey questionnaires.
+6.	  National Center for Health Statistics.       of question characteristics that mediate       Hoboken, NJ: John Wiley & Sons, Inc.
+     2006–2010 National Survey of Family          interviewer effects on item                    131–47. 2004.
+     Growth public use data file                  nonresponse. J Off Stat 17(3):337–50.
+     documentation: User’s guide. 2011.           2001.
+7.	  Johnson CL, Dohrmann SM, Burt VL,        17. Gates GJ. How many people are
+     Mohadjer LK. National Health and             lesbian, gay, bisexual, and transgender?
+     Nutrition Examination Survey: Sample         Los Angeles, CA: The Williams
+     design, 2011–2014. National Center for       Institute of the University of California,
+     Health Statistics. Vital Health Stat         Los Angeles School of Law. 2011.
+     2(162). 2014.                            18. Schuman H, Presser S. Questions and
+8.	  Miller K. Cognitive testing of the           answers in attitude surveys:
+     NHANES sexual orientation questions.         Experiments on question form,
+     Hyattsville, MD: National Center for         wording, and context (quantitative
+     Health Statistics. 2011. Available from:     studies in social relation). Thousand
+     http://wwwn.cdc.gov/qbank/report/            Oaks, CA: Sage Publications. 1996.
+     Miller_NCHS_2001NHANESSexuality          19. Tourangeau R, Rips LJ, Rasinski K.
+     Report.pdf.                                  The psychology of survey response.
+9.	  Ridolfo H, Perez K, Miller K. Testing        New York, NY: Cambridge University
+     of sexual identity and health related        Press. 2000.
+     questions: Results of interviews
+
+Page 14 [ Series 2, No. 169
+
+Table 1. Sexual orientation among adults aged 18 and over, by sex: United States, 2013
+
+                                                                                  Both sexes                                             Men                                      Women
+                                                                                                         1                                                   1
+                                                                                               Percent                                             Percent                                Percent1
+                                                                     Number (in               (standard                Number (in                 (standard            Number (in        (standard
+                    Sexual orientation                               thousands)                  error)                thousands)                    error)            thousands)          error)
+Gay/lesbian2 . . . . . . .      . . . . . . . . . . . . . . . .           3,729                1.6  (0.09)                  2,000                 1.8   (0.14)             1,729         1.4  (0.12) 
+
+Straight3 . . . . . . . . . .   . . . . . . . . . . . . . . . .        224,168               96.6   (0.13)               108,093                 96.7   (0.18)           116,075        96.6  (0.18)
+
+Bisexual . . . . . . . . . .    . . . . . . . . . . . . . . . .           1,514                0.7  (0.06)                     481                0.4   (0.06)             1,033         0.9  (0.10) 
+
+Something else. . . . . .       . . . . . . . . . . . . . . . .             400                0.2  (0.03)                     196                0.2   (0.05)               204        *0.2  (0.05) 
+
+Refused . . . . . . . . . .     . . . . . . . . . . . . . . . .           1,277                0.6  (0.05)                     600                0.5   (0.07)               677         0.6  (0.06) 
+
+I don’t know the answer         . . . . . . . . . . . . . . . .             879                0.4  (0.04)                     411                0.4   (0.06)               468         0.4  (0.06) 
+
+* Estimates have a relative standard error greater than 30% and less than or equal to 50% and should be used with caution as they do not meet standards of reliability or precision.
+
+1
+ Percent distributions in this table may not equal exactly 100% due to rounding.
+
+2
+ Response option provided on the National Health Interview Survey was ‘‘gay’’ for men, and ‘‘lesbian or gay’’ for women.
+
+3
+ Response option provided on the National Health Interview Survey was ‘‘straight, that is, not gay’’ for men, and ‘‘straight, that is not lesbian or gay’’ for women.
+
+SOURCE: CDC/NCHS, National Health Interview Survey, 2013.
+
+                                                                                                                                        Series 2, No. 169 [ Page 15
+Table 2. Follow-up responses among adults aged 18 and over who answered ‘‘something else’’ to the initial question on sexual orientation,
+by sex: National Health Interview Survey, 2013
+                                                                                                 Both sexes                Men                       Women
+                                       Response                                             Number1       Percent2 Number1     Percent2      Number1       Percent2
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   56           100.0     29         100.0           27          100.0
+Gay/lesbian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     . . . .    0             0.0      0           0.0             0           0.0
+Straight, that is, not lesbian or gay . . . . . . . . . . . . . . . . . . . .       . . . .    3             5.4      3          10.3             0           0.0
+Bisexual . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    . . . .    0             0.0      0           0.0             0           0.0
+Identify with another label such as queer, trisexual, omnisexual, or
+  pansexual. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    . . . .    2             3.6      0           0.0             2           7.4
+Transgender, transsexual, or gender variant . . . . . . . . . . . . . .             . . . .    3             5.4      1           3.4             2           7.4
+Not figured out or are in the process of figuring out sexuality . . . .             . . . .    3             5.4      3          10.3             0           0.0
+Do not think of yourself as having sexuality . . . . . . . . . . . . . . .          . . . .   10            17.9      4          13.8             6          22.2
+Do not use labels to identify yourself . . . . . . . . . . . . . . . . . . .        . . . .   22            39.3     12          41.4           10           37.0
+Something else . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      . . . .    4             7.1      3          10.3             1           3.7
+Don’t understand the words . . . . . . . . . . . . . . . . . . . . . . . .          . . . .    1             1.8      0           0.0             1           3.7
+Refused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     . . . .    6            10.7      2           6.9             4          14.8
+Don’t know . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    . . . .    2             3.6      1           3.5             1           3.7
+1
+ Unweighted frequency count.
+2
+ Percent distribution is unweighted and rounded.
+SOURCE: CDC/NCHS, National Health Interview Survey, 2013.
+
+Page 16 [ Series 2, No. 169
+Table 3. Follow-up responses among adults aged 18 and over who answered ‘‘I don’t know the answer’’ to the initial question on sexual
+orientation, by sex: National Health Interview Survey, 2013
+                                                                                                  Both sexes                Men                 Women
+                                       Response                                             Number1        Percent2 Number1     Percent2 Number1      Percent2
+Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   154           100.0     75         100.0     79          100.0
+Gay/lesbian . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     . . . .     0             0.0      0           0.0      0            0.0
+Straight, that is, not lesbian or gay . . . . . . . . . . . . . . . . . . . .       . . . .     4             2.6      1           1.3      3            3.8
+Bisexual . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    . . . .     0             0.0      0           0.0      0            0.0
+Identify with another label such as queer, trisexual, omnisexual, or
+  pansexual. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    . . . .     0             0.0      0           0.0      0            0.0
+Transgender, transsexual, or gender variant . . . . . . . . . . . . . .             . . . .     0             0.0      0           0.0      0            0.0
+Not figured out or are in the process of figuring out sexuality . . . .             . . . .    46            29.9     23          30.7     23           29.1
+Do not think of yourself as having sexuality . . . . . . . . . . . . . . .          . . . .     1             0.6      0           0.0      1            1.3
+Do not use labels to identify yourself . . . . . . . . . . . . . . . . . . .        . . . .     4             2.6      3           4.0      1            1.3
+Something else . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      . . . .     8             5.2      7           9.3      1            1.3
+Don’t understand the words . . . . . . . . . . . . . . . . . . . . . . . .          . . . .    44            28.6     14          18.7     30           38.0
+Refused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     . . . .    22            14.3     14          18.7      8           10.1
+Don’t know . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    . . . .    25            16.2     13          17.3     12           15.2
+1
+ Unweighted frequency count.
+2
+ Percent distribution is unweighted and rounded.
+SOURCE: CDC/NCHS, National Health Interview Survey, 2013.
+
+                                                                                                                                                                      Series 2, No. 169 [ Page 17
+
+Table 4. Sexual orientation among adults aged 18 and over before and after backcoding using responses to the follow-up questions on
+
+sexual orientation, by sex: United States, 2013
+
+                                                                                                     Both sexes                                    Men                              Women
+                                                                                                              Percent2                                   Percent2                         Percent2
+                                 Sexual orientation                                        Number1        (standard error)          Number1          (standard error)     Number1     (standard error)
+                                 Before backcoding
+
+Gay/lesbian3 . . . . . . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     571            1.6  (0.09)                320             1.8   (0.14)         251         1.4 (0.12) 
+
+Straight4 . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32,546          96.6   (0.13)             14,495           96.7    (0.18)      18,051       96.6  (0.18) 
+
+Bisexual . . . . . . . . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     233            0.7  (0.06)                   78           0.4   (0.06)         155         0.9 (0.10) 
+
+Something else . . . . . .     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      56            0.2  (0.03)                   29           0.2   (0.05)          27        *0.2 (0.05) 
+
+Refused. . . . . . . . . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     223            0.6  (0.05)                   97           0.5   (0.07)         126         0.6 (0.06) 
+
+I don’t know the answer .      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     155            0.4  (0.04)                   76           0.4   (0.06)          79         0.4 (0.06) 
+
+                                  After backcoding
+
+Gay/lesbian3 . . . . . . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     571            1.6  (0.09)                320             1.8   (0.14)         251         1.4 (0.12) 
+
+Straight4 . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32,553          96.7   (0.13)             14,499           96.7    (0.18)      18,054       96.6  (0.18) 
+
+Bisexual . . . . . . . . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     233            0.7  (0.06)                   78           0.4   (0.06)         155         0.9 (0.10) 
+
+Something else . . . . . .     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      54            0.2  (0.03)                   30           0.2   (0.05)          24        *0.1 (0.05) 
+
+Refused. . . . . . . . . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     251            0.6  (0.05)                 113            0.6   (0.07)         138         0.6 (0.07) 
+
+I don’t know the answer .      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     121            0.3  (0.04)                   54           0.3   (0.05)          67         0.4 (0.06) 
+
+* Estimates have a relative standard error greater than 30% and less than or equal to 50% and should be used with caution as they do not meet standards of reliability or precision.
+
+1
+ Unweighted frequency count.
+
+2
+ Percent distribution is weighted and rounded.
+
+3
+ Response option provided on the National Health Interview Survey was ‘‘gay’’ for men, and ‘‘lesbian or gay’’ for women.
+
+4
+ Response option provided on the National Health Interview Survey was ‘‘straight, that is, not gay’’ for men, and ‘‘straight, that is, not lesbian or gay’’ for women.
+
+SOURCE: CDC/NCHS, National Health Interview Survey, 2013.
+
+Page 18 [ Series 2, No. 169
+Table 5. Sexual orientation among adults, by national health survey, sex, and age group
+                                                                                    Homosexual,                Heterosexual                               Something
+                               Characteristic                                     gay, or lesbian1               or straight2           Bisexual3             else           Refused            Don’t know4
+                            Adults aged 18–59                                                                                         Percent5 (standard error)
+NHIS (2013), both sexes . . . . . . . . . . . . . . . . . . . . . . .                 1.9 (0.12)                 96.2 (0.16)            0.8 (0.08)         0.2 (0.04)        0.5 (0.06)          0.4 (0.05)
+NHANES (2009–2012), both sexes. . . . . . . . . . . . . . . . .                       1.8 (0.37)                 93.6 (0.52)            2.6 (0.20)         0.4 (0.09)        0.2 (0.05)          1.3 (0.16)
+NHIS (2013), men . . . . . . . . . . . . . . . . . . . . . . . . . . .                2.1 (0.18)                 96.3 (0.23)            0.5 (0.08)        *0.1 (0.05)        0.6 (0.09)          0.4 (0.06)
+NHANES (2009–2012), men . . . . . . . . . . . . . . . . . . . . .                     2.3 (0.61)                 94.9 (0.71)            1.4 (0.19)        *0.3 (0.10)       *0.2 (0.08)          0.9 (0.15)
+NHIS (2013), women . . . . . . . . . . . . . . . . . . . . . . . . .                  1.7 (0.15)                 96.1 (0.23)            1.1 (0.13)        *0.2 (0.07)        0.5 (0.07)          0.4 (0.08)
+NHANES (2009–2012), women . . . . . . . . . . . . . . . . . . .                       1.3 (0.35)                 92.2 (0.59)            3.9 (0.31)         0.5 (0.14)        0.2 (0.05)          1.8 (0.23)
+                            Adults aged 18–44
+NHIS (2013), both sexes . . . . . . . . . . . . . . . . . . . . . . .                 1.9 (0.14)                 96.0 (0.21)            1.1 (0.11)        *0.2 (0.07)        0.4 (0.06)          0.4 (0.07)
+NSFG (2006–2010), both sexes. . . . . . . . . . . . . . . . . . .                     1.5 (0.14)                 94.6 (0.27)            2.6 (0.16)         0.3 (0.06)        0.6 (0.10)          0.4 (0.06)
+NHIS (2013), men . . . . . . . . . . . . . . . . . . . . . . . . . . .                2.1 (0.22)                 96.4 (0.29)            0.6 (0.11)        *0.2 (0.08)        0.5 (0.10)          0.3 (0.08)
+NSFG (2006–2010), men . . . . . . . . . . . . . . . . . . . . . . .                   1.8 (0.22)                 95.6 (0.36)            1.2 (0.15)        *0.2 (0.08)        0.8 (0.16)          0.4 (0.10)
+NHIS (2013), women . . . . . . . . . . . . . . . . . . . . . . . . .                  1.7 (0.19)                 95.7 (0.31)            1.5 (0.20)        *0.3 (0.11)        0.4 (0.07)          0.5 (0.11)
+NSFG (2006–2010), women . . . . . . . . . . . . . . . . . . . . .                     1.2 (0.17)                 93.6 (0.39)            3.9 (0.28)         0.4 (0.09)        0.5 (0.10)          0.4 (0.07)
+* Estimates have a relative standard error greater than 30% and less than or equal to 50% and should be used with caution as they do not meet standards of reliability or precision.
+
+1
+  In NHIS, the response option provided was ‘‘gay’’ for men, and ‘‘lesbian or gay’’ for women. In NHANES, the response option provided was ‘‘homosexual or gay (that is, sexually attracted only to
+
+men)’’ for men, and ‘‘homosexual or lesbian (that is, sexually attracted only to women)’’ for women. In NSFG, the response option provided was ‘‘homosexual or gay’’ for men, and ‘‘homosexual, gay, or
+lesbian’’ for women.
+2
+  In NHIS, the response option provided was ‘‘straight, that is, not gay’’ for men, and ‘‘straight, that is, not lesbian or gay’’ for women. In NHANES, the response option provided was ‘‘heterosexual or
+straight (that is, sexually attracted only to women)’’ for men, and ‘‘heterosexual or straight (that is, sexually attracted only to men)’’ for women. In NSFG, the response option provided was
+
+‘‘heterosexual or straight.’’
+
+3
+  In NHIS and NSFG, the response option provided was ‘‘bisexual.’’ In NHANES, the response option provided was ‘‘bisexual (that is, sexually attracted to men and women).’’
+
+4
+  In NHIS, the response option provided was ‘‘I don’t know the answer.’’ In NHANES, this category includes both ‘‘You’re not sure’’ and ‘‘don’t know.’’
+
+5
+  Percent distributions in this table may not equal exactly 100% due to rounding.
+
+NOTES: NHIS is National Health Interview Survey; NHANES is National Health and Nutrition Examination Survey; NSFG is National Survey of Family Growth.
+SOURCES: CDC/NCHS, National Health Interview Survey, 2013; CDC/NCHS, National Health and Nutrition Examination Survey, 2009–2012; CDC/NCHS, National Survey of Family Growth, 2006–
+2010.
+
+                                                                                                                                                                      Series 2, No. 169 [ Page 19
+Table 6. Selected health indicators among men aged 18–44, by national health survey and sexual orientation
+                                                                                                                   NHIS, 2013                                             NSFG, 2006–2010
+                                                            1                                            2                  3                                      2
+                             Selected health indicator                                               Gay           Straight              Bisexual             Gay               Straight3              Bisexual
+                                     Health status                                                                                       Percent4 (standard error)
+Described as excellent or very good . . . . . . . . . . . . . . . . . . . . . . .                 69.2 (4.95)     72.5 (0.72)         71.7 ( 8.57)        62.4 (5.27)        69.9 (0.93)             53.4 (6.46)
+                                  Body mass index
+Obese5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          20.4 (4.12)     27.4 (0.81)       *20.6 ( 6.73)         32.5 (5.78)        32.0 (1.09)             22.8 (6.43)
+                                 Health care access
+Has a usual place to go for medical care . . . . . . . . . . . . . . . . . . . .                  73.9 (5.10)     69.0 (0.80)         75.0 ( 7.39)        85.2 (3.06)        67.3 (1.04)            64.8 (6.59)
+                            Type of usual place of care
+Clinic or health center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           16.2 (3.75)     26.2 (0.88)          51.4 (11.79)       12.0 (2.67)        16.9 (1.41)           *29.4 (9.04)
+Doctor’s office or HMO6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             78.1 (4.50)     68.1 (0.93)          44.7 (11.66)       79.6 (4.17)        70.2 (1.54)             60.1 (8.71)
+Other7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  †      5.7 (0.46)                      †      *8.4 (2.93)        12.9 (0.76)           *10.5 (3.61)
+                              Health care service use
+Ever been tested for HIV8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               78.9 (4.59)     36.8 (0.80)         41.5 ( 9.36)        82.5 (3.87)        45.6 (0.98)             58.6 (7.29)
+* Estimates have a relative standard error greater than 30% and less than or equal to 50% and should be used with caution as they do not meet standards of reliability or precision.
+
+† Estimates with a relative standard error greater than 50% are not shown.
+
+1
+ Selected health indicators were chosen based on survey questions that were comparable across both NHIS and NSFG. Definitions of selected health measures can be found in the Appendix.
+
+2
+ In NHIS, the response option provided is ‘‘gay.’’ In NSFG, the response option provided is ‘‘homosexual or gay.’’
+
+3
+ In NHIS, the response option provided is ‘‘straight, that is, not gay.’’ In NSFG, the response option provided is ‘‘heterosexual or straight.’’
+
+4
+ Percentages in this table are rounded.
+
+5
+ Only calculated for men aged 20–44.
+
+6
+ HMO is health maintenance organization.
+
+7
+ In NHIS, this category includes ‘‘hospital outpatient department,’’ ‘‘some other place,’’ and ‘‘doesn’t go to one place most often.’’ In NSFG, this category includes ‘‘hospital outpatient clinic,’’ ‘‘hospital
+
+regular room,’’ ‘‘urgent care center, urgi-care, or walk-in facility,’’ or ‘‘some other place.’’
+
+8
+ Estimates from NSFG were generated using the imputed version of the variable for ‘‘ever been tested for HIV.’’
+
+NOTES: NHIS is National Health Interview Survey; NSFG is National Survey of Family Growth.
+
+SOURCES: CDC/NCHS, National Health Interview Survey, 2013; CDC/NCHS, National Survey of Family Growth, 2006–2010.
+
+
+Page 20 [ Series 2, No. 169
+Table 7. Selected health indicators among women aged 18–44, by national health survey and sexual orientation
+                                                                                                      NHIS, 2013                                               NSFG, 2006–2010
+                                                     1                                             2             3                                           2
+                      Selected health indicator                                      Gay/lesbian         Straight          Bisexual          Gay/lesbian             Straight3            Bisexual
+                              Health status                                                                                Percent4 (standard error)
+Described as excellent or very good . . . . . . . . . . . . . . . .                   56.1 (5.65)     71.1 (0.70)         61.4 (5.97)          59.8 (5.68)         66.8 (0.84)          51.8 (3.71)
+                           Body mass index
+Obese5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            36.5 (5.71)     26.2 (0.69)         39.0 (6.43)          32.6 (4.99)         32.6 (0.91)          42.7 (3.65)
+                          Health care access
+Has a usual place to go for medical care . . . . . . . . . . . . .                    65.5 (5.42)     80.9 (0.60)         69.7 (5.95)          61.0 (8.33)         83.7 (0.73)          76.8 (3.68)
+                     Type of usual place of care
+Clinic or health center . . . . . . . . . . . . . . . . . . . . . . . . .             32.6 (6.10)     27.3 (0.82)         43.1 (7.41)         *11.6 (4.40)         16.2 (1.37)          24.7 (4.07)
+Doctor’s office or HMO6 . . . . . . . . . . . . . . . . . . . . . . . .               63.6 (6.38)     69.7 (0.83)         54.9 (7.41)          77.2 (5.31)         77.1 (1.72)          67.4 (4.32)
+Other7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        †      3.1 (0.27)                    †      *11.3 (4.25)          6.6 (0.70)          *8.0 (2.63)
+                       Health care service use
+Ever been tested for HIV8 . . . . . . . . . . . . . . . . . . . . . .                 60.0 (5.58)     54.5 (0.79)         54.9 (6.51)          67.0 (5.63)         63.5 (1.11)          73.2 (3.05)
+* Estimates have a relative standard error greater than 30% and less than or equal to 50% and should be used with caution as they do not meet standards of reliability or precision.
+
+† Estimates with a relative standard error greater than 50% are not shown.
+
+1
+ Selected health indicators were chosen based on survey questions that were comparable across both NHIS and NSFG. Definitions of selected health measures can be found in the Appendix.
+
+2
+ In NHIS, the response option provided is ‘‘lesbian or gay.’’ In NSFG, the response option provided is ‘‘homosexual, gay, or lesbian.’’
+
+3
+ In NHIS, the response option provided is ‘‘straight, that is, not lesbian or gay.’’ In NSFG, the response option provided is ‘‘heterosexual or straight.’’
+
+4
+ Percentages in this table are rounded.
+
+5
+ Only calculated for nonpregnant women aged 20–44.
+
+6
+ HMO is health maintenance organization.
+
+7
+ In NHIS, this category includes ‘‘hospital outpatient department,’’ ‘‘some other place,’’ and ‘‘doesn’t go to one place most often.’’ In NSFG, this category includes ‘‘hospital outpatient clinic,’’ ‘‘hospital
+
+regular room,’’ ‘‘urgent care center, urgi-care, or walk-in facility,’’ or ‘‘some other place.’’
+
+8
+ Estimates from NSFG were generated using the imputed version of the variable for ‘‘ever been tested for HIV.’’
+
+NOTES: NHIS is National Health Interview Survey; NSFG is National Survey of Family Growth.
+
+SOURCES: CDC/NCHS, National Health Interview Survey, 2013; CDC/NCHS, National Survey of Family Growth, 2006–2010.
+
+
+                                                                                                                                                                Series 2, No. 169 [ Page 21
+Table 8. Item nonresponse rates for the initial sexual orientation question, by selected characteristics: United States, 2013
+                                                                                                                                                       Refused or I                 Refused, I don’t
+                                                                                                                                                        don’t know                 know the answer,
+                                                                                                                                                        the answer                or something else
+                                                                                                      I don’t know             Something                    (total                       (total
+                       Selected characteristic                                     Refused             the answer                  else               nonresponse 1)                nonresponse 2)
+                                                                                                                           Percent1 (standard error)
+Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     0.55 (0.05)           0.38 (0.04)             0.17 (0.03)              0.93 (0.06)                   1.10 (0.07)
+                                   Sex
+Female . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       0.56 (0.06)           0.39 (0.06)             0.17 (0.05)              0.95 (0.09)                   1.12 (0.10)
+Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       0.54 (0.07)           0.37 (0.06)             0.18 (0.05)              0.90 (0.09)                   1.08 (0.10)
+                                   Age
+18–24. . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     0.21   (0.07)        *0.37   (0.15)                        †           0.58   (0.17)                 0.90  (0.26)
+25–34. . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      0.49  (0.11)         0.61   (0.14)           0.13  (0.05)             1.09   (0.17)                 1.22  (0.18)
+35–44. . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     0.55   (0.12)         0.21   (0.05)           0.23  (0.09)             0.75   (0.13)                 0.99  (0.15)
+45–54. . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     0.73   (0.13)         0.34   (0.08)           0.08  (0.04)             1.08   (0.16)                 1.16  (0.16)
+55–64. . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     0.62   (0.13)         0.39   (0.09)           0.17  (0.06)             1.01   (0.16)                 1.19  (0.17)
+65 and over    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      0.60  (0.11)         0.35   (0.09)           0.14  (0.05)             0.95   (0.14)                 1.09  (0.15)
+                          Race and ethnicity
+Hispanic . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     0.58   (0.12)         0.69   (0.13)           0.05  (0.03)             1.27   (0.17)                 1.32  (0.18)
+Non-Hispanic     white . . . . . . . . . . . . .   . . . . . . . . . . . . .     0.48   (0.06)         0.29   (0.05)           0.19  (0.05)             0.77   (0.07)                 0.96  (0.09)
+Non-Hispanic     black or African American.        . . . . . . . . . . . . .     0.86   (0.16)         0.35   (0.13)           0.17  (0.05)             1.21   (0.20)                 1.38  (0.21)
+Non-Hispanic     other2 . . . . . . . . . . . . .  . . . . . . . . . . . . .     0.63   (0.16)         0.59   (0.17)           0.22  (0.11)             1.23   (0.23)                 1.45  (0.26)
+                               Education
+Less than high school diploma          . . . . . . . . . . . . . . . . . . .     0.42   (0.10)         0.80   (0.16)           0.14  (0.06)             1.22   (0.19)                 1.36  (0.19)
+High school diploma or GED3 .          . . . . . . . . . . . . . . . . . . .     0.60   (0.10)         0.41   (0.09)           0.11  (0.04)             1.01   (0.13)                 1.12  (0.14)
+Some college . . . . . . . . . . .     . . . . . . . . . . . . . . . . . . .     0.53   (0.08)         0.22   (0.06)           0.32  (0.10)             0.75   (0.10)                 1.07  (0.14)
+Bachelor’s degree . . . . . . . .      . . . . . . . . . . . . . . . . . . .      0.57  (0.11)         0.28   (0.07)           0.10  (0.04)             0.85   (0.13)                 0.95  (0.14)
+Master’s degree or higher . . .        . . . . . . . . . . . . . . . . . . .     0.48   (0.15)         0.26   (0.12)           0.07  (0.04)             0.74   (0.19)                 0.81  (0.19)
+                        Language of interview
+English . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      0.55 (0.05)           0.32 (0.04)             0.18 (0.04)              0.87 (0.06)                   1.05 (0.07)
+Spanish . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       *0.50 (0.18)          *0.67 (0.24)                          †           1.17 (0.30)                   1.28 (0.32)
+Other4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      *0.67 (0.31)           1.89 (0.54)                          †           2.56 (0.62)                   2.63 (0.63)
+                               Urbanicity
+Urban . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      0.59 (0.06)           0.41 (0.05)             0.18 (0.04)              1.01 (0.07)                   1.18 (0.09)
+Rural . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      0.38 (0.09)           0.24 (0.08)             0.15 (0.07)              0.62 (0.13)                   0.78 (0.14)
+* Estimates have a relative standard error greater than 30% and less than or equal to 50% and should be used with caution as they do not meet standards of reliability or precision.
+
+† Estimates with a relative standard error greater than 50% are not shown.
+
+1
+ Percentages in this table are weighted and rounded.
+
+2
+ Non-Hispanic other includes those who identified as American Indian or Alaska Native, Asian, Native Hawaiian or Other Pacific Islander, or more than one race.
+
+3
+ GED is General Educational Development high school equivalency diploma.
+
+4
+ Other language of interview includes bilingual interviews conducted in both English and Spanish.
+
+SOURCE: CDC/NCHS, National Health Interview Survey, 2013.
+
+Page 22 [ Series 2, No. 169
+Table 9. Distribution of item response times to the initial sexual orientation question, by selected characteristics: United States, 2013
+                                                                                                                                      Item response time distribution1
+                                                                          Number (in              Group 1                Group 2                Group 3               Group 4            Group 5
+                     Selected characteristic2                             thousands)          (1–4 seconds)           (5–9 seconds)         (10–13 seconds)      (14–21 seconds)      (22+ seconds)
+                                                                                                                                 Percent3 (standard error)
+Overall . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     231,584             18.1 (0.48)             21.0 (0.37)            20.6 (0.39)           20.8 (0.37)       19.6 ( 0.40)
+                          Sexual orientation
+
+Gay/lesbian4 . .     . . . . .  . . . . . . . . . . . . . . . . . . . . .      3,716             8.5 (1.76)             23.3 (2.25)            22.3 (2.29)           25.6 (2.40)       20.3 ( 2.31) 
+
+Straight5 . . . . .  . . . . .  . . . . . . . . . . . . . . . . . . . . .   223,740             18.4 (0.49)             21.2 (0.38)            20.6 (0.40)           20.6 (0.37)       19.3 ( 0.40)
+
+Bisexual . . . . .   . . . . .  . . . . . . . . . . . . . . . . . . . . .      1,491            *2.7 (1.14)              7.8 (1.96)            25.6 (3.65)           35.2 (4.41)       28.8 ( 4.09) 
+
+Something else       . . . . .  . . . . . . . . . . . . . . . . . . . . .        400                       ---                       †                   †          *20.5 (6.49)       59.6 (10.24)
+
+Refused . . . . .    . . . . .  . . . . . . . . . . . . . . . . . . . . .      1,252            23.9 (3.91)             20.8 (3.47)            10.3 (2.31)           16.7 (3.12)       28.3 ( 4.04) 
+
+I don’t know the     answer     . . . . . . . . . . . . . . . . . . . . .        875                         †          *4.6 (1.80)            12.8 (3.35)           28.7 (4.97)       53.5 ( 5.31) 
+
+                                  Sex
+Male . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      111,558             18.1 (0.55)             22.4 (0.51)            21.0 (0.51)           19.9 (0.48)       18.7 ( 0.49)
+Female . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        120,027             18.2 (0.55)             19.7 (0.43)            20.1 (0.48)           21.5 (0.45)       20.4 ( 0.49)
+                                  Age
+
+18–24 . . . .    . . .  . . . . . . . . . . . . . . . . . . . . . . . . .    29,692             13.5    (0.85)          24.8   (1.06)          25.9 (1.18)           20.8 (1.01)       14.9 ( 0.91)  
+
+25–34 . . . .    . . .  . . . . . . . . . . . . . . . . . . . . . . . . .    40,723             14.8    (0.70)          24.3   (0.75)          23.8 (0.86)           20.6 (0.71)       16.6 ( 0.70)  
+
+35–44 . . . .    . . .  . . . . . . . . . . . . . . . . . . . . . . . . .    38,786             16.8    (0.74)          22.4   (0.77)          21.4 (0.71)           21.5 (0.72)       17.9 ( 0.68)  
+
+45–54 . . . .    . . .  . . . . . . . . . . . . . . . . . . . . . . . . .    42,205             17.8    (0.78)          20.2   (0.75)          19.9 (0.74)           21.6 (0.75)       20.4 ( 0.80)  
+
+55–64 . . . .    . . .  . . . . . . . . . . . . . . . . . . . . . . . . .    37,911             18.9    (0.79)          18.4   (0.72)          19.2 (0.71)           21.4 (0.75)       22.1 ( 0.78)  
+
+65 and over.     . . .  . . . . . . . . . . . . . . . . . . . . . . . . .    42,268             25.2    (0.84)          17.0   (0.62)          14.8 (0.57)           18.9 (0.62)       24.1 ( 0.73)  
+
+                          Race or ethnicity
+
+Hispanic . . . . . . . . . . . . . . . . . . . .    . . . . . . . . . . .    34,872             21.5    (0.81)          20.6    (0.74)         17.1 (0.70)           18.6 (0.66)       22.3 ( 0.79) 
+
+Non-Hispanic white . . . . . . . . . . . . .        . . . . . . . . . . .   153,115             16.9    (0.56)          20.9    (0.48)         21.6 (0.47)           21.4 (0.48)       19.1 ( 0.50)
+
+Non-Hispanic black or African American              . . . . . . . . . . .    26,553             19.5    (1.07)          21.2    (0.83)         19.8 (0.88)           20.6 (0.75)       19.0 ( 0.89) 
+
+Non-Hispanic other6 . . . . . . . . . . . .         . . . . . . . . . . .    17,044             20.1    (1.12)          22.1   (1.24)          19.0 (1.03)           19.5 (1.13)       19.3 ( 1.11) 
+
+                               Education
+
+Less than high school diploma           . . . . . . . . . . . . . . . . .    31,685             23.7    (0.90)          18.9   (0.78)          15.7 (0.82)           18.3 (0.75)       23.4 ( 0.83)  
+
+High school diploma or GED7.            . . . . . . . . . . . . . . . . .    60,015             20.0    (0.75)          21.1   (0.65)          19.5 (0.65)           20.2 (0.62)       19.1 ( 0.65)  
+
+Some college. . . . . . . . . . .       . . . . . . . . . . . . . . . . .    71,208             16.1    (0.61)          20.8   (0.60)          22.0 (0.65)           21.5 (0.61)       19.6 ( 0.62)  
+
+Bachelor’s degree . . . . . . . .       . . . . . . . . . . . . . . . . .    44,284             16.3    (0.68)          22.6   (0.72)          22.6 (0.73)           20.6 (0.69)       17.9 ( 0.69)  
+
+Master’s degree or higher . . .         . . . . . . . . . . . . . . . . .    23,379             14.6    (0.86)          21.2   (0.92)          21.7 (0.95)           23.4 (0.97)       19.0 ( 0.94)  
+
+                       Language of interview
+English. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      217,047             17.5 (0.50)             21.1 (0.39)            21.3 (0.41)           21.2 (0.39)       19.0 ( 0.41)
+Spanish . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          7,991            31.0 (1.69)             19.8 (1.30)             9.6 (1.07)           12.8 (1.00)       26.8 ( 1.58)
+Other8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         6,538            22.5 (1.82)             20.4 (1.78)             9.9 (1.27)           16.4 (1.52)       30.9 ( 2.07)
+                               Urbanicity
+Urban . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       185,071             17.9 (0.48)             21.4 (0.39)            20.7 (0.41)           20.8 (0.39)       19.3 ( 0.40)
+Rural . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      46,513             19.1 (1.21)             19.4 (0.78)            20.0 (0.88)           20.7 (0.82)       20.8 ( 0.99)
+* Estimates have a relative standard error greater than 30% and less than or equal to 50% and should be used with caution as they do not meet standards of reliability or precision.
+
+- - - Data not available; too few cases to calculate the percentage and standard error.
+
+† Estimates with a relative standard error greater than 50% are not shown.
+
+1
+ The item time groups are based on quintiles of the weighted item response time distribution.
+
+2
+ Definitions of certain selected characteristics can be found in the Appendix.
+
+3
+ Percentages in this table are rounded.
+
+4
+ Response option provided in NHIS was ‘‘gay’’ for men, and ‘‘lesbian or gay’’ for women.
+
+5
+ Response option provided in NHIS was ‘‘straight, that is, not gay’’ for men, and ‘‘straight, that is, not lesbian or gay’’ for women.
+
+6
+ Non-Hispanic other includes those who identified as American Indian or Alaska Native, Asian, Native Hawaiian or other Pacific Islander, or more than one race.
+
+7
+ GED is General Educational Development high school equivalency diploma.
+
+8
+ Other language of interview includes bilingual interviews conducted in both English and Spanish.
+
+NOTE: NHIS is National Health Interview Survey.
+
+SOURCE: CDC/NCHS, National Health Interview Survey, 2013.
+
+
+                                                                                                     Series 2, No. 169 [ Page 23
+Appendix. Technical Notes
+Sexual Orientation Survey                 For women                                       Obesity—Obesity is defined as a body
+                                                                                     mass index of 30 kg/m2 or more. This
+Questions                                      The following are the sexual          measure is based on self-reported height
+                                          orientation questions asked of sample      and weight. In NHIS, the questions ask for
+For men                                   adult women in the 2013 NHIS.              weight and height without shoes, while in
+     The following are the sexual              Which of the following best           the National Survey of Family Growth
+orientation questions asked of sample     represents how you think of yourself?      (NSFG) there is no such qualifier. In this
+adult men in the 2013 National Health     (ASISIF)                                   report, analyses of obesity were restricted
+Interview Survey (NHIS). Variable                                                    to men and nonpregnant women aged
+                                          +	  Lesbian or gay                         20–44.
+names are shown in (BOLD) after each
+                                          +	  Straight, that is, not lesbian or gay       Ever been tested for HIV—For this
+question. An [R] indicates that data from
+                                          +	  Bisexual                               indicator, individuals who received HIV
+that question are not included in the
+                                          +	  Something else                         testing solely as a result of blood
+2013 NHIS public-use file, but are
+                                          +	  I don’t know the answer                donation were considered not to have
+available through the National Center
+for Health Statistics (NCHS) Research          What do you mean by something         been tested for HIV. Because no
+Data Center (http://www.cdc.gov/rdc/).    else? (ASISFELS) [R]                       questions were asked about blood
+                                                                                     donations before the HIV testing
+     Which of the following best          +	 You are not straight, but identify      question, the wording of the question
+represents how you think of yourself?         with another label such as queer,      was the same for all respondents. They
+(ASISIM)                                      trisexual, omnisexual, or pansexual    were instructed to exclude tests they
++	  Gay                                   +	 You are transgender, transsexual, or    may have had as part of blood donations
++	  Straight, that is, not gay                gender variant                         before they were asked if they had ever
++	  Bisexual                              +	 You have not figured out or are in      been tested for HIV.
++	  Something else                            the process of figuring out your            Having a usual place to go for
++	  I don’t know the answer                   sexuality                              medical care—In NHIS, having a usual
+                                          +	 You do not think of yourself as         place to go for medical care entails
+     What do you mean by something            having sexuality                       having one or more places that the
+else? (ASISMELS) [R]                      +	 You do not use labels to identify       respondent usually goes to when he or
++	 You are not straight, but identify         yourself                               she is sick or needs advice about his or
+    with another label such as queer,     +	 You mean something else                 her health. In the 2006–2010 NSFG, it
+    trisexual, omnisexual, or pansexual        What do you mean by don’t know?       entails having a place that the
++	 You are transgender, transsexual, or   (ASISIFDK) [R]                             respondent usually goes to when they
+    gender variant                                                                   are sick or need advice about health.
++	 You have not figured out or are in     +	 You don’t understand the words          NHIS offers the following response
+    the process of figuring out your      +	 You understand the words, but you       options: yes; there is no place; and there
+    sexuality                                 have not figured out or are in the     is more than one place; while the
++	 You do not think of yourself as            process of figuring out your           2006–2010 NSFG only offers the
+    having sexuality                          sexuality                              response options yes and no. For both
++	 You do not use labels to identify      +	 You mean something else                 NHIS and NSFG estimates in this
+    yourself                                   What do you mean by something         report, adults who stated that their usual
++	 You mean something else                else? (ASIFSESP) [R]                       place to go for medical care was a
+                                                                                     hospital emergency room were not
+     What do you mean by don’t know?      +	 (Sample adult provides verbatim         recognized as having a usual place to go
+(ASISIMDK) [R]                                response)                              for medical care.
++	 You don’t understand the words                                                         Type of usual place to go for
++	 You understand the words, but you      Terms Related to Selected                  medical care—In NHIS, the response
+    have not figured out or are in the                                               options for usual place of care include:
+    process of figuring out your
+                                          Health Indicators
+                                                                                     (a) clinic or health center; (b) doctor’s
+    sexuality                                  Health status—Health status data      office or health maintenance
++	 You mean something else                were obtained by asking respondents to     organization (HMO); (c) hospital
+                                          describe their health as excellent, very   emergency room; (d) hospital outpatient
+     What do you mean by something
+                                          good, good, fair, or poor. In this report, department; (e) some other place; and
+else? (ASIMSESP) [R]
+                                          the measure was coded as excellent or      (f) doesn’t go to one place most often.
++	 (Sample adult provides verbatim        very good versus good, fair, or poor.      In this report, the last three categories
+    response)
+
+Page 24 [ Series 2, No. 169
+were combined to create the ‘‘other’’            The relative standard error (RSE)
+category shown in Tables 3 and 4, while     for each estimate was calculated as:
+the response option hospital emergency
+                                                                  SE
+room (c) was omitted.                                     RSE =       * (100)
+                                                                   X
+     In the 2006–2010 NSFG, the             where X is the estimate and SE is the
+response options are: (a) private doctor’s  standard error of that estimate.
+office; (b) HMO facility; (c) community
+health clinic, community clinic, or
+public health clinic; (d) family planning
+or Planned Parenthood clinic; (e)
+employer or company clinic; (f) school
+or school-based clinic; (g) hospital
+outpatient clinic; (h) hospital emergency
+room; (i) hospital regular room; (j)
+urgent care center, urgi-care, or walk-in
+facility; and (k) some other place. In
+this report, the first two categories were
+combined to create the ‘‘doctor’s office
+or HMO’’ category found in Tables 6
+and 7, categories c–f were used to create
+the ‘‘clinic or health center’’ category,
+and categories g and i–k were combined
+to create the ‘‘other’’ category. The
+response option hospital emergency
+room (h) was omitted.
+Terms Related to Place of
+Residence
+     Urban place of residence—A
+classification used for the U.S. Census
+2000 that includes all territory,
+population, and housing units located
+within an urbanized area or an urban
+cluster.
+     Rural place of residence—A
+classification used for the U.S. Census
+2000 that includes all territory,
+population, and housing units located
+outside of an urbanized area or an urban
+cluster.
+Two-tailed Significance
+Tests and Relative
+Standard Error
+     The statistic for all two-tailed tests
+of significance was calculated as:
+                    |Xa – Xb|
+              Z=               ,
+                 √SEa2 + SEb2
+where Xaand Xb are the two estimates
+being compared and SEa and SEb are the
+standard errors of those estimates.
+
+Vital and Health Statistics
+Series Descriptions
+ACTIVE SERIES                                                                 DISCONTINUED SERIES
+Series 1.	  Programs and Collection Procedures—This type of report            Series 4.	     Documents and Committee Reports—These are final
+            describes the data collection programs of the National Center                    reports of major committees concerned with vital and health
+            for Health Statistics. Series 1 includes descriptions of the                     statistics and documents. The last Series 4 report was
+            methods used to collect and process the data, definitions, and                   published in 2002. As of 2009, this type of report is included
+            other material necessary for understanding the data.                             in Series 2 or another appropriate series, depending on the
+                                                                                             report topic.
+Series 2.	  Data Evaluation and Methods Research—This type of
+            report concerns statistical methods and includes analytical       Series 5.	     International Vital and Health Statistics Reports—This
+            techniques, objective evaluations of reliability of collected                    type of report compares U.S. vital and health statistics with
+            data, and contributions to statistical theory. Also included are                 those of other countries or presents other international data of
+            experimental tests of new survey methods, comparisons of                         relevance to the health statistics system of the United States.
+            U.S. methodologies with those of other countries, and as of                      The last Series 5 report was published in 2003. As of 2009,
+            2009, studies of cognition and survey measurement, and final                     this type of report is included in Series 3 or another series,
+            reports of major committees concerning vital and health                          depending on the report topic.
+            statistics measurement and methods.
+                                                                              Series 6.	     Cognition and Survey Measurement—This type of report
+Series 3.	  Analytical and Epidemiological Studies—This type of                              uses methods of cognitive science to design, evaluate, and
+            report presents analytical or interpretive studies based on vital                test survey instruments. The last Series 6 report was
+            and health statistics. As of 2009, Series 3 also includes                        published in 1999. As of 2009, this type of report is included
+            studies based on surveys that are not part of continuing data                    in Series 2.
+            systems of the National Center for Health Statistics and
+                                                                              Series 12.	    Data From the Institutionalized Population Surveys—
+            international vital and health statistics reports.
+                                                                                             The last Series 12 report was published in 1974. Reports
+Series 10.	 Data From the National Health Interview Survey—This                              from these surveys are included in Series 13.
+            type of report contains statistics on illness; unintentional
+                                                                              Series 14.	    Data on Health Resources: Manpower and Facilities—
+            injuries; disability; use of hospital, medical, and other health
+                                                                                             The last Series 14 report was published in 1989. Reports on
+            services; and a wide range of special current health topics
+                                                                                             health resources are included in Series 13.
+            covering many aspects of health behaviors, health status, and
+            health care utilization. Series 10 is based on data collected in  Series 15.	    Data From Special Surveys—This type of report contains
+            this continuing national household interview survey.                             statistics on health and health-related topics collected in
+                                                                                             special surveys that are not part of the continuing data
+Series 11.	 Data From the National Health Examination Survey, the
+                                                                                             systems of the National Center for Health Statistics. The last
+            National Health and Nutrition Examination Surveys, and
+                                                                                             Series 15 report was published in 2002. As of 2009, reports
+            the Hispanic Health and Nutrition Examination Survey—
+                                                                                             based on these surveys are included in Series 3.
+            In this type of report, data from direct examination, testing,
+            and measurement on representative samples of the civilian         Series 16.	    Compilations of Advance Data From Vital and Health
+            noninstitutionalized population provide the basis for (1)                        Statistics—The last Series 16 report was published in 1996.
+            medically defined total prevalence of specific diseases or                       All reports are available online, and so compilations of
+            conditions in the United States and the distributions of the                     Advance Data reports are no longer needed.
+            population with respect to physical, physiological, and           Series 22.	    Data From the National Mortality and Natality Surveys—
+            psychological characteristics, and (2) analyses of trends and                    The last Series 22 report was published in 1973. Reports
+            relationships among various measurements and between                             from these sample surveys, based on vital records, are
+            survey periods.                                                                  published in Series 20 or 21.
+Series 13.	 Data From the National Health Care Survey—This type of            Series 24.	    Compilations of Data on Natality, Mortality, Marriage, and
+            report contains statistics on health resources and the public’s                  Divorce—The last Series 24 report was published in 1996.
+            use of health care resources including ambulatory, hospital,                     All reports are available online, and so compilations of reports
+            and long-term care services based on data collected directly                     are no longer needed.
+            from health care providers and provider records.
+Series 20.	 Data on Mortality—This type of report contains statistics on      For answers to questions about this report or for a list of reports published
+            mortality that are not included in regular, annual, or monthly    in these series, contact:
+            reports. Special analyses by cause of death, age, other                          Information Dissemination Staff
+            demographic variables, and geographic and trend analyses                         National Center for Health Statistics
+            are included.                                                                    Centers for Disease Control and Prevention
+Series 21.	 Data on Natality, Marriage, and Divorce—This type of                             3311 Toledo Road, Room 5419
+            report contains statistics on natality, marriage, and divorce                    Hyattsville, MD 20782
+            that are not included in regular, annual, or monthly reports.                    Tel: 1–800–CDC–INFO (1–800–232–4636)
+            Special analyses by health and demographic variables and                         TTY: 1–888–232–6348
+            geographic and trend analyses are included.                                      Internet: http://www.cdc.gov/nchs
+Series 23.	 Data From the National Survey of Family Growth—These                             Online request form: http://www.cdc.gov/info
+            reports contain statistics on factors that affect birth rates,                   For e-mail updates on NCHS publication releases, subscribe
+            including contraception and infertility; factors affecting the                      online at: http://www.cdc.gov/nchs/govdelivery.htm.
+            formation and dissolution of families, including cohabitation,
+            marriage, divorce, and remarriage; and behavior related to
+            the risk of HIV and other sexually transmitted diseases.
+            These statistics are based on national surveys of women and
+            men of childbearing age.
+
+U.S. DEPARTMENT OF
+                                                    FIRST CLASS MAIL
+
+HEALTH & HUMAN SERVICES                           POSTAGE & FEES PAID
+
+Centers for Disease Control and Prevention             CDC/NCHS
+
+National Center for Health Statistics               PERMIT NO. G-284
+
+3311 Toledo Road, Room 5419
+Hyattsville, MD 20782
+OFFICIAL BUSINESS
+PENALTY FOR PRIVATE USE, $300
+For more NCHS Series reports, visit:
+http://www.cdc.gov/nchs/products/series.htm.
+DHHS Publication No. 2015–1369, Series 2, No. 169
+CS251301
+

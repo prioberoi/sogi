@@ -1,0 +1,186 @@
+  Assessing Sexual Identity & Behavior in
+       California’s Diverse Population
+                            David Grant, PhD
+              Director, California Health Interview Survey
+                              Matt Jans, PhD
+       Survey Methodologist, California Health Interview Survey
+                UCLA Center for Health Policy Research
+1
+
+ What is CHIS?
+   A large, omnibus public health telephone survey of California
+   Uses a geographically stratified, random digit dial (RDD)
+    sample of landline and cell telephone numbers
+   Includes 42,000 to 56,000 households per cycle
+   Conducted every other year since 2001 and continuously
+    beginning in 2011
+   Interviews conducted in 6 languages: English, Spanish,
+    Chinese (Cantonese and Mandarin), Korean, and Vietnamese
+   Included sexual identity questions since 2001 and gender of
+    sexual partner/s since 2003
+2
+
+ CHIS quex development—general
+   Participatory process involving multiple stakeholders
+     Advisory Board & Technical Advisory Committees (5)
+     Work Groups (ad hoc, topic specific) & consultation with experts
+   Use well-tested questions from established surveys
+   Adapt items as needed for telephone administration and
+    California population
+     English simplification & cultural adaptation
+     Linguistic translation (multiple forward with group reconciliation)
+   Pre-testing and interviewer training
+   Ongoing, monthly monitoring of live interviews
+3
+
+ Sexual identity & behavior content
+   In the first CHIS cycle (CHIS 2001), we asked 2 sexual identity
+    questions of adults < age 65
+        1. This next question is about your sexual orientation and I
+           want to remind you again that your answers are
+           completely confidential.
+           Are you gay, {lesbian,} or bisexual?
+        IF YES
+        2. Is that gay {,lesbian} or bisexual?
+4
+
+ Evolution of sexual identity & behavior
+   During CHIS 2001 administration
+     Monitored interviews
+     Examined interview break-offs
+   Following CHIS 2001, expert consultation with Dr. Susan
+    Cochran, UCLA School of Public Health
+     Analysis of 2001 data (and later CHIS 2003 data)
+     Emphasized need for sexual behavior questions
+   LGBT Work Group in preparation of CHIS 2007 & 2009
+     Review existing content and recommend changes
+     Added new questions on gender of spouses and registered domestic
+       partners in 2009
+5
+
+ Sexual identity & behavior content
+   In 2003, we added 2-3 questions on sexual behavior and one
+    on sexual identity
+    1. We are asking a few questions about people’s sexual
+       experiences. All answers will be kept private.
+    In the past 12 months, how many sexual partners have you had?
+    IF “DON’T KNOW” ASK:
+    2. Can you give me your best guess?
+    3. {Is that partner male or female?} In the past 12 months, have
+        your partners been male, female, or both male and female?
+6
+
+ Sexual identity & behavior content
+   Modified the sexual identity question (CHIS 2003 on)
+    Do you think of yourself as straight or heterosexual, as gay
+    {, lesbian} or homosexual, or bisexual?
+   Asked initially (2003) of all adults
+   High misclassification of adults over age 70 (bisexual)
+   Limited universe to age < 70 in cycles after CHIS 2003
+7
+
+ Sexual behavior estimates
+  Gender of Sex Partners in California among Men and Women (ages 18 to 70)
+                                   Men      Women             All
+  Gender of partner/s           Percent     Percent   Percent            N
+  Male                              3.0        98.0     49.5 10,216,000
+  Female                           96.6         1.6     50.2 10,355,000
+  Both Male & Female                0.3         0.4       0.4      77,000
+  Total                            99.9       100.0    100.1 20,648,000
+                            10,549,000 10,098,000
+  Source: CHIS 2009
+8
+
+ Sexual identity estimates
+  Sexual Identity of Men and Women in California (ages 18 to 70)
+                                          Men       Women                All
+  Sexual identity                     Percent       Percent      Percent      N
+  Straight or heterosexual               96.0           96.5       96.2 23,955,000
+  Gay, lesbian, or homosexual              2.5           1.1         1.8     448,000
+  Bisexual                                 1.0           1.7         1.4     340,000
+  Not sexual/celibate/none/other           0.5           0.8         0.6     154,000
+  Total                                 100.0         100.1       100.0 24,897,000
+                                  12,374,000 12,522,000
+  Source: CHIS 2009
+9
+
+ CHIS sexual identity item non-response
+  Item non-response in CHIS is generally low
+          Averages about 2 to 3%
+          Some items are much higher (Household income is about 23%)
+  To assess item non-response, combine “don’t know”
+   responses and refusals
+10
+
+ CHIS SI item non-response by language
+11
+
+ CHIS SI item non-response by language & gender
+12
+
+ CHIS sexual identity item non-response
+  Sexual identity item non-response in CHIS is low,
+   about 2% overall
+  Differs by language (Spanish and Cantonese) and language by
+   gender among Asians (much higher among females)
+  Why?
+     Evidence about Spanish (Miller et al.)
+     Not clear why the gender difference for Asian language respondents
+  Is non-response random?
+     Probably (based on patterns of association, cognitive work and “Other”
+       specify responses, but more work is needed)
+     If not random and non-responders are predominantly sexual minorities,
+       it could significantly increase estimates of the LGBT population
+13
+
+   Summary Remarks
+14
+
+ CHIS sexual identity & behavior
+    Important to collect information on sexual identity and
+     behavior in EHRs; paucity of data, especially on
+     transgender populations
+    Feasible to collect accurate info about sexual identity &
+     behavior from a diverse, multi-lingual population
+    Question wording is important and knowledge base has
+     improved a lot in the past decade (NCHS and others)
+    More work needed
+       On gender identity and expression questions
+       Certain language and gender groups and randomness of INR
+       Testing of new wording to improve item non-response
+15
+
+ CHIS sexual identity & behavior
+    Mode of interview (or collection in EHRs) is also very
+     important and question wording has to be adapted for
+     different modes
+    Issues related to mode (ACASI, personal interview, self-
+     administration)
+        Privacy, discreteness, environment
+        Low-literacy populations
+        Collection of sensitive information
+        Consistent content and administration of questions
+        Help for those who need it
+16
+
+   Thank you
+17
+
+ CHIS Sexual Identity by Gender of Sexual Partner
+                                        Sexual Identity
+ Gender of Partner                  LGB      Straight   Bisexual
+ Same                              95.3           0.2       24.1
+ Opposite                           4.1          99.7       56.4
+ Both same & opposite               0.6           0.1       19.5
+ Total                            100.0         100.0     100.0
+   Responses off the diagonal N = 85,000
+18
+
+ CHIS questionnaire development
+  California SB 416 (2011)
+     Would have required CHIS and California BRFSS to collect “information
+      pertaining to sexual orientation, gender identity, and gender
+      expression.”
+     Vetoed by Governor Brown
+19
+

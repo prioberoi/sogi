@@ -1,0 +1,667 @@
+Arch Sex Behav (2014) 43:1503–1514
+DOI 10.1007/s10508-014-0314-2
+  ORIGINAL PAPER
+Using a Two-Step Method to Measure Transgender Identity in Latin
+America/the Caribbean, Portugal, and Spain
+Sari L. Reisner • Katie Biello • Joshua G. Rosenberger •
+S. Bryn Austin • Sebastien Haneuse • Amaya Perez-Brumer                  •
+David S. Novak • Matthew J. Mimiaga
+Received: 25 June 2013 / Revised: 13 December 2013 / Accepted: 7 April 2014 / Published online: 17 July 2014
+ Springer Science+Business Media New York 2014
+Abstract Few comparative data are available internation-                 general self-rated health, gender related stressors), and sexual
+ally to examine health differences by transgender identity. A            health (HIV-infection, past-year STIs, past-3 month unpro-
+barrier to monitoring the health and well-being of transgender           tected anal or vaginal sex). The two-step method identified 190
+people is the lack of inclusion of measures to assess natal sex/         transgender participants (0.54 %; 158 MTF, 32 FTM). Of the
+gender identity status in surveys. Data were from a cross-               12 health-related variables, six showed significant differences
+sectional anonymous online survey of members (n[36,000)                  between the three groups: SES, masculine gender conformity,
+of a sexual networking website targeting men who have sex                lifetime suicidality, depressive distress, positive self-worth,
+with men in Spanish- and Portuguese-speaking countries/                  and past-year genital herpes. A two-step approach is recom-
+territories in Latin America/the Caribbean, Portugal, and                mended for health surveillance efforts to assess natal sex/
+Spain. Natal sex/gender identity status was assessed using a             gender identity status. Cognitive testing to formally validate
+two-step method (Step 1: assigned birth sex, Step 2: current             assigned birth sex and current gender identity survey items in
+gender identity). Male-to-female (MTF) and female-to-male                Spanish and Portuguese is encouraged.
+(FTM) participants were compared to non-transgender males
+in age-adjusted regression models on socioeconomic status                Keywords Transgender  Gender identity  HIV 
+(SES) (education, income, sex work), masculine gender con-               Health  Surveillance
+formity, psychological health and well-being (lifetime suici-
+dality, past-week depressive distress, positive self-worth,
+S. L. Reisner (&)  S. B. Austin  A. Perez-Brumer                       S. B. Austin
+Department of Social and Behavioral Sciences, Harvard School of          Department of Pediatrics, Harvard Medical School, Boston, MA,
+Public Health, 677 Huntington Ave., Kresge 7th floor, Boston,            USA
+MA02115, USA
+e-mail: sreisner@hsph.harvard.edu                                        S. Haneuse
+                                                                         Department of Biostatistics, Harvard School of Public Health,
+S. L. Reisner  K. Biello  A. Perez-Brumer  M. J. Mimiaga              Boston, MA, USA
+The Fenway Institute Fenway Health, Boston, MA, USA
+                                                                         D. S. Novak
+K. Biello  M. J. Mimiaga                                                OLB Research Institute, Online Buddies, Inc., Cambridge, MA,
+Department of Epidemiology, Harvard School of Public Health,             USA
+Boston, MA, USA
+                                                                         M. J. Mimiaga
+J. G. Rosenberger                                                        Department of Psychiatry, Harvard Medical School/Massachusetts
+Department of Global and Community Health, George Mason                  General Hospital, Boston, MA, USA
+University, Fairfax, VA, USA
+S. B. Austin
+Division of Adolescent and Young Adult Medicine, Children’s
+Hospital, Boston, MA, USA
+                                                                                                                                   123
+
+1504                                                                                            Arch Sex Behav (2014) 43:1503–1514
+Introduction                                                     transgender women (assigned a male sex at birth who identify
+                                                                 as female) are often included as a subgroup of men who have
+Sex and gender are recognized globally as core social deter-     sex with men (MSM). However, gender identity is not syn-
+minants of health and well-being across a wide variety of        onymous with sexual orientation. Transgender people may be
+geographic settings and contexts (World Health Organiza-         sexually oriented in attractions, behaviors, and identities
+tion, 2008). Sex refers to biological differences among males    toward men, women, other transgender people, or any com-
+and females, such as genetics, hormones, secondary sex           bination (Grant et al., 2011; Iantaffi & Bockting, 2011;
+characteristics, and anatomy (Haig, 2004). The assignment of     Nuttbrock et al., 2011). Without precise measurement of both
+sex at birth (male or female) is done by medical providers and   natal sex and current gender identity, misclassification bias in
+is typically based on the appearance of external genitalia. Sex  sexual orientation-related data will occur. For example, a
+is then labeled and documented on the birth certificate and      natal female who identifies her gender identity as a woman
+categorized as male or female. Gender is a multi-dimensional     and who is sexually oriented to men should be categorized as
+sociocultural construct that includes identity (internal sense   heterosexual. However, a natal female who identifies his
+of being male, female, transgender, or another identity),        gender as a man and is sexually attracted to men should be
+behaviors (gender expression and behaviors, how a person         classified as gay. Capturing sex only without measurement of
+expresses their identity through appearance and manner-          current gender identity would result in misclassification of
+isms), and beliefs (cognitive beliefs about gender and gender    these types of sexual orientation identity data.
+role conformity) (Institute of Medicine, 2011). Sex and gender       Methodological issues aside, the conceptual lack of dis-
+are often used interchangeably in the scientific literature;     tinction between sex, gender identity, and sexual orientation
+however, they are distinct and not exchangeable terms (see       in many studies limits our current understanding of the com-
+Krieger, 2003). Moreover, although sex and gender represent      plex interrelationships between these connected but not
+key demographic characteristics of populations, measures of      identical phenomena. In HIV research, for example, cisgender
+these constructs used in health surveillance vary widely and     MSM and transgender women may share sex-linked biolog-
+have unknown psychometric properties (Conron, Landers,           ical risk factors (e.g., engaging in unprotected anal sex);
+Reisner, & Sell, 2014; The Gender Identity in U.S. Surveil-      however, unique factors related to gender identity may
+lance Group [GenIUSS], 2013).                                    influence HIV acquisition and transmission behaviors for
+    Transgender is a term used to refer to people whose sex      transgender women (e.g., differential power dynamics in
+assigned at birth is incongruent or different from their current primary sex partnerships compared to transactional sex
+gender identity. Cisgender refers to people whose birth is       encounters, receptive anal sex with primary partners and in-
+concordant with their gender identity (e.g., non-transgender).   sertive anal sex with transactional sex partners, validation/
+Transgender people are not routinely included in health sur-     affirmation of gender identity in sexual encounters, injection
+veillance efforts—more precisely, they are not distinctly        silicone use) (Clements-Nolle, Marx, Guzman, & Katz, 2001;
+counted. Transgender people are often classified by sex          De Santis, 2009; Nemoto, Bodeker, Iwamoto, & Sakata, 2013;
+(conflation of sex and gender). Conflating sex and gender is     Nuttbrock et al., 2009, 2013; Silva-Santisteban et al., 2012).
+problematic in health research and epidemiologic surveil-            The lack of validated tools available to measure the con-
+lance for many reasons. Clinically, male-to-female (MTF)         struct we term natal sex/gender identity status is a barrier to
+and female-to-male (FTM) transgender patients require            getting survey items into health surveillance systems to
+physical exams and preventive screening consistent with the      monitor the health of transgender populations. Natal sex/
+organ system and anatomy present rather than on the per-         gender identity status refers to the biological and social cross-
+ceived gender identity of the patient (Feldman & Bockting,       classification of participants based on assigned sex at birth and
+2003). Epidemiologically, prostate cancer cannot occur           current gender identity; it is neither sex nor gender, but a third
+among people assigned a female sex at birth given the ana-       construct obtained from cross-classifying the two (sex and
+tomical absence of a prostate; however, MTF transgender          gender) (Reisner, Conron, Tardiff, Jarvi, Gordon, & Austin,
+woman can and should be in the denominator of a prostate         2013). It is termed a status because statuses can change over
+cancer prevalence estimate given their assigned male birth       time and people’s identities can shift over the lifecourse. A
+sex. Furthermore, FTM transgender people remain vastly           two-step method for identifying transgender participants has
+understudied and nearly invisible in health research, partic-    been used and recommended in the U.S. (Sausa, Sevelius,
+ularly in HIV (Kenagy & Hsieh, 2005).                            Keatley, Iñiguez, & Reyes, 2009; Tate, Ledbetter, & Youssef,
+    Gender identity and sexual orientation also often get con-   2013; for a history of this method, see GenIUSS, 2013). The
+flated in health research. For example, in many HIV surveil-     specific survey questions used to implement the two-step
+lance efforts (e.g., Dubois-Arber et al., 2010; Likatavicius,    method differ across recommendations, including the item
+Klavs, Devaux, Alix, & Nardone, 2008; Sánchez et al., 2007;     stem and response options, as does the order in which the sex
+Suárez-Lozano et al., 2002; Tabet et al., 2002), MTF            and gender identity questions are sometimes asked (Reisner
+ 123
+
+Arch Sex Behav (2014) 43:1503–1514                                                                                                   1505
+et al., 2013; Sausa et al., 2009; Tate et al., 2013). However, the Table 1 Natal sex/gender status measurement using a two-step method
+procedure always uses two steps: assigned sex at birth and                     Assigned sex at birth
+current gender identity. Table 1 provides our conceptual
+overview of natal sex/gender identity status measurement                       Male (infant designed a male Female (infant designated a
+                                                                                   sex on original birth        female sex on original
+using a two-step method. A strength of this approach is that it
+                                                                                   certificate)                 birth certificate)
+takes into account both sex (biological) and gender (social)
+processes, which are both key for health research (Krieger,
+2003). It is also consistent with the shift in transgender health
+research from a disease-based model (transgender as disor-
+der, where transgender ‘‘cases’’ are identified using clinical
+                                                                   Gender identity
+diagnoses of psychopathology) to an identity-based model in
+                                                                    Male       Cisgender/non-transgender Cross-sex identified
+health (transgender as identity, transgender ‘‘cases’’ are                         male (male birth sex, male   transgender male (female
+counted based on self-identification) (Bockting, 2008, 2009).                      gender identity)             birth sex, male gender
+    Little social and behavioral research has been conducted                                                    identity)
+using the two-step method (e.g., Tate et al., 2013). Few studies
+that we are aware of the published English-language scientific
+literature have examined this approach to natal sex/gender
+identity status measurement in languages other than English or
+outside of North America. Few comparative data are available        Female     Cross-sex identified           Cisgender/non-transgender
+in global contexts to compare the health of transgender and                        transgender female (male     female (female birth sex,
+                                                                                   birth sex, female gender     female gender identity)
+cisgender people. For example, depression appears to be a
+                                                                                   identity)
+prevalent mental health problem in transgender communities
+(Bockting, Miner, Swinburne Romaine, Hamilton, & Cole-
+man, 2013; Clements-Nolle et al., 2001; Iantaffi & Bockting,
+2011; Nuttbrock et al., 2010), but very few studies offer a
+cisgender comparison group to assess whether transgender
+                                                                    MTF        MTF (male birth sex, MTF       Potential measurement
+adults experience higher levels of mental health distress rela-                    gender identity)             error (female birth sex,
+tive to other natal sex/gender identity groups. HIV has been                                                    MTF gender identity)
+shown to disproportionately affect transgender communities
+globally relative to cisgender people, particularly transgender
+women (Baral et al., 2013; Herbst et al., 2008; Operario, Soma,
+& Underhill, 2008); yet, no data are available documenting
+                                                                    FTM        Potential measurement error FTM (female birth sex,
+HIV prevalence among transgender men in international                              (male birth sex, FTM         FTM gender identity)
+settings.                                                                          gender identity)
+    The current study aimed to begin to fill some of these
+methodological and scientific gaps. Secondary data analysis
+was conducted with a large online sample enrolled through
+an Internet website targeting MSM in Latin America/the
+                                                                    Other      Other transgender identity     Other transgender identity
+Caribbean, Spain, and Portugal. Although not a representa-           gender        (male birth sex, other       (male birth sex, other
+tive population sample, this dataset offers a ‘‘case study’’ of      (specify)     gender identity)             gender identity)
+how a two-step method can be implemented and used to
+monitor the health of transgender people, in this case, a par-
+ticular subset of transgender women, transgender men, and
+cisgender males frequenting an online sex-seeking website.
+Given the dearth of global health surveillance data about
+transgender people, even this non-generalizable sample
+provides valuable information, particularly about sexual           We expected transgender women would score significantly
+health-related outcomes.                                           lower on masculine gender conformity, but that no significant
+    We first identified transgender and cisgender participants     difference between transgender men and cisgender males would
+using a two-step method. We then examined differences in so-       be found on this measure. With respect to social stressors, we
+ciodemographics, gender expression, psychological health and       hypothesized that transgender women and men sampled would
+well-being, and sexual health indicators, comparing MTF            be of lower socioeconomic status (SES) and disproportionately
+transgender, FTM transgender, and cisgender male participants.     report experiences of violence throughout the life-course
+                                                                                                                               123
+
+1506                                                                                             Arch Sex Behav (2014) 43:1503–1514
+relative to cisgender males, given data showing transgender        who selected ‘‘Prefer Not to Answer’’ (n = 101) were exclu-
+adults disproportionately experience high rates of socioeco-       ded from analysis.
+nomic disenfranchisement (Conron, Scott, Stowell, & Landers,           The response option‘‘Other (Specify)’’offered participants
+2012) and lifetime violence (e.g., Nuttbrock et al., 2010), likely an open-ended write-into describe their current gender iden-
+due to the discrimination and social stigma transgender people     tity. A total of 432 participants selected ‘‘Other (Specify)’’ of
+face in the world at large (Bockting et al., 2013; Grant et al.,   whom 4.6 % (n = 20) left the write-in option blank. These 20
+2011). With respect to health, we expected transgender women       participants were excluded from analysis. Two independent
+and men in our sample would have significantly poorer psy-         coders sorted qualitative responses (n = 412) and grouped
+chological functioning and well-being than cisgender males         them by thematic category to examine potential problems with
+sampled, but that sexual health indicators (e.g., HIV) would not   item interpretation. The majority of write-in participants
+significantly differ between the three natal sex/gender groups.    interpreted gender identity to mean sexual orientation iden-
+                                                                   tity, most commonly gay (59.5 %) or bisexual (28.2 %). After
+                                                                   confirming their assigned sex at birth was male and their write-
+                                                                   in response was not a transgender or other gender identity,
+Method
+                                                                   these participants were re-coded as cisgender male. Overall,
+                                                                   2.2 % (n = 9) listed an ‘‘Other’’ write-in that was correctly
+Participants and Procedure
+                                                                   classified as a gender identity (not sexual identity or a sexual
+                                                                   role), most commonly travesti (66.7 %; n = 6). These were
+A cross-sectional anonymous online survey was conducted
+                                                                   categorized as other gender category.
+of adult members (age 18 years and older) of a sexual net-
+                                                                       Natal sex/gender identity status was operationalized by
+working website targeting MSM in Spanish- and Portuguese-
+                                                                   cross-classifying participants according to assigned sex at
+speaking countries/territories in Latin America/the Carib-
+                                                                   birth and current gender identity as follows: (1) ‘‘Male’’:
+bean, Spain, and Portugal. The one-time survey was available
+                                                                   participants who checked ‘‘Male’’ assigned birth sex and
+in Spanish and Portuguese and was automatically adminis-
+                                                                   checked‘‘Male’’for gender identity; (2)‘‘MTF spectrum’’:
+tered in the language participants had selected in their online
+                                                                   participants who checked ‘‘Male’’ assigned sex and who
+profile. Data were collected on sexual health and diverse risk
+                                                                   endorsed a ‘‘Female,’’ ‘‘MTF,’’ or ‘‘Other’’ (re-coded as
+factors. No incentives were offered for survey participation.
+                                                                   described above) gender identity; (3) ‘‘FTM spectrum’’:
+To minimize potential duplication of responses, the survey
+                                                                   participants who checked‘‘Female’’assigned birth sex and
+could not be completed more than one time from the same IP
+                                                                   who endorsed a ‘‘Male,’’‘‘FTM,’’ or ‘‘Other’’ (re-coded as
+address. The final sample was 36,063. For participants who
+                                                                   described above) gender identity. Table 2 (Column A) shows
+did not complete the full survey, data were analyzed for all
+                                                                   the initial coding using the two-step method. Thirty-five cases
+questions that were answered. The study was approved by the
+                                                                   appeared misclassified after initial coding (30 cases assigned
+Institutional Review Board at the Fenway Institute, Fenway
+                                                                   male birth sex who self-identified FTM, four cases of female
+Health, in Boston, MA. Additional detail about the study
+                                                                   birth sex who identified as female, and one case of female
+methods can be found elsewhere (Biello et al., 2014).
+                                                                   birth sex who identified as MTF). These were excluded from
+                                                                   analysis. Cleaned and coded two-step categorized gender is
+                                                                   shown in Table 2 (Column B). Overall, 190 (0.54 %) trans-
+Measures                                                           gender participants were identified.
+Natal Sex/Gender Identity Status                                   Demographics
+Participants were first asked a question about their natal sex     Age (continuous in years) was queried. Participants were
+(Step 1): ‘‘What sex were you assigned at birth, on your ori-      asked where they currently lived. Geographic region was
+ginal birth certificate? (check one)’’ with three response         dichotomized as Latin America/the Caribbean versus all
+options: ‘‘Male,’’‘‘Female,’’ or ‘‘Prefer Not to Answer.’’ The     other geographic regions.
+overall proportion of participants who endorsed ‘‘Prefer Not
+to Answer’’ was low (n = 44). These participants were              Masculine Gender Conformity
+excluded from analysis. Next, participants were asked about
+their current gender identity (Step 2): ‘‘What is your current     Socially assigned masculine gender conformity (herein,
+gender identity? (check one)’’ with six response options:          referred to as masculine gender conformity) refers to a per-
+‘‘Male,’’ ‘‘Female,’’ ‘‘Male-to-Female,’’ ‘‘Female-to-Male,’’      ceived conforming masculine gender expression by others,
+‘‘Other (Specify),’’and‘‘Prefer Not to Answer.’’Participants       rather than one’s own self-concept. A two-item measure
+ 123
+
+Arch Sex Behav (2014) 43:1503–1514                                                                                                      1507
+Table 2 Two-step method of measuring natal sex/gender status: Assigned sex at birth and gender identity
+                        Column A: initial two-step coding                  Column B: cleaned two-step coding
+                        Assigned sex at birth                              Assigned sex at birth
+                        Male                        Female                 Male                         Female               Total
+                        n (%)                       n (%)                  n (%)                        n (%)                n (%)
+Current gender identity
+ Male                   35,293 (99.47)              32 (86.49)             35,293 (99.55)               32 (100.00)          35,325 (99.55)
+ Female                     84 (.24)                 4 (10.81)                  84 (.24)                 0 (.00)                 84 (.24)
+ MTF                        65 (.18)                 1 (2.70)                   65 (.18)                 0 (.00)                 65 (.18)
+ FTM                        30 (.08)                 0 (.00)                     0 (.00)                 0 (.00)                   0 (.00)
+ Other gender                 9 (.03)                0 (.00)                     9 (.03)                 0 (.00)                   9 (.03)
+Any transgender = cross-sex identified, MTF, FTM, or other gender. Overall, .54 % (n = 190/35,483) were transgender
+(Wylie, Corliss, Boulanger, Prokop, & Austin, 2010) asked                indicated more depressive distress (Cronbach’s a = 0.85). A
+about ‘‘appearance, style, or dress’’ and ‘‘mannerisms’’ each            clinical cut point of CESD-10 score [10 was used to cate-
+on a 7-point Likert-scale ranging from 1 = very feminine to              gorize a positive screen-in for clinically significant depres-
+7 = very masculine (higher scores indicated higher mas-                  sive distress. (3) Positive self-worth: A single item taken from
+culinity). The items were moderately correlated (r = 0.66,               the Rosenberg Self Esteem Scale (Rosenberg, Schooler, &
+df = 35,449; p\.0001). Response scores were added so that                Schoenbach, 1989) assessed positive self-worth (‘‘I take a
+higher scores (range, 2–14) indicated greater masculine                  positive attitude toward myself’’ 1 = Strongly Disagree to
+gender conformity (Cronbach’s a = 0.79). A dichotomous                   4 = Strongly Agree). (4) General self-rated health: Self-rated
+indicator of high masculine conformity (at or above the                  health was assessed with a single-item validated measure
+median) was coded (score[12).                                            shown to be associated with morbidity and healthcare utili-
+                                                                         zation (DeSalvo, Fan, McDonnell, & Fihn, 2005):‘‘Would
+Socioeconomics                                                           you say in general that your health is…’’ 1 = Poor to
+                                                                         5 = Excellent. (5) Gender-related stressors: Participants
+Three socioeconomic indictors were assessed: (1) education               asked whether they were ‘‘made fun of or called names for
+(‘‘What is the highest level of education you have com-                  being homosexual or effeminate’’ (1 = Many times to
+pleted?’’, ranging from 1 = no formal education to 5 = post-             4 = Never) in childhood (‘‘As you were growing up’’) and
+graduate education); (2) reported perceived income (‘‘How                adulthood (‘‘As an adult’’) separately. Questions were from
+would you describe your income?’’ ranging from 1 = no                    prior research on stressors experienced by gay men and les-
+income to 4 = high income/upper class); and (3) engaging in              bians (Lewis, Derlega, Berndt, Morris, & Rose, 2001).
+transactional sex in the past 12 months (‘‘Did anyone pay you            Responses were dichotomized and participants were classi-
+in exchange for engaging in any type of sexual activity?’’               fied on indicators as having self-reported experiences of
+1 = yes, 2 = no).                                                        harassment in: childhood (yes/no) or adulthood (yes/no).
+Psychological Health and Well-Being                                      Sexual Health
+Five indicators were assessed: (1) Lifetime suicide attempt:             Five sexual health indicators were assessed: (1) HIV-infec-
+‘‘Have you ever in your lifetime attempted suicide?’’(1 = No,            tion: ‘‘Have you been told by a healthcare provider that you
+2 = Yes, 3 = Prefer Not to Say). (2) Past-week depressive                have HIV-infection?’’ 1 = Yes, 0 = No, excluded were
+distress: Depressive distress was assessed using the validated          ‘‘Don’t Know’’ and ‘‘Prefer Not to Answer.’’ (2) Past-year
+and reliable 10-item Center for Epidemiologic Studies                    STIs: ‘‘In the past year, have you been told by a healthcare
+Depression (CES-D 10) Scale (Andresen, Malmgren, Carter,                 provider that you have [STI name]?’’ 1 = No, 0 = Yes,
+& Patrick, 1994). Participants were asked to indicate how                excluded were ‘‘Don’t Know,’’ ‘‘Prefer Not to Answer.’’
+often in the past week they felt or behaved certain ways on a            Queried separately were syphilis, gonorrhea, Chlamydia,
+response scale from 0 = Rarely/Never to 3 = All the time                 HPV/genital warts, and genital herpes. (3) Any unprotected
+(e.g., ‘‘During the past week, I was bothered by things that             sex, past 3 months: Participants were asked a series of sexual
+usually don’t bother me’’). After reverse coding two items,              risk questions adapted from Project EXPLORE (Chesney
+items were summed (range, 0–30) such that higher scores                  et al., 2003; Koblin et al., 2003). Individuals who reported any
+                                                                                                                                123
+
+1508                                                                                                               Arch Sex Behav (2014) 43:1503–1514
+Table 3 Age, geographic survey location, masculine gender conformity, socioeconomic position, and psychological functioning and well-being by
+natal sex/gender identity status
+                  n         Natal sex/gender identity status                     Age-adjusted natal sex/gender status comparisons (referent = male)
+                            MTF               FTM              Male              MTF                        FTM                      Multi-parameter tests
+                            M (SD)                                               b (95% CL)                 b (95% CL)               p
+Age (in years)    35,451
+                            29.13 (10.24)     28.66 (9.82)     30.80 (9.39)      -1.67 (-3.14, -0.20)       -2.14 (-5.40, 1.12)      .037
+                            [range 18–60]     [range 19–50]    [range 18–61]
+                                             n (%)                                                           OR (95 % CI)         OR (95 % CI)
+Geographic survey location          35,451
+ Latin America                               119/158 (75.32)    24/32 (75.00)    25,063/35,261 (71.08)       1.24 (0.86, 1.78)    1.21 (0.55, 2.70)   ns
+ Not Latin America                            39/158 (24.68)     8/32 (25.00)    10,198/35,261 (28.92)
+Masculine gender conformity         35,451
+ High conformity ([median)                         57 (36.08)       12 (37.50)            18,553 (52.62)     0.53 (0.38, 0.74)    0.58 (0.28, 1.20)   .0004
+                                           M (SD)                                            b (95 % CL)                  b (95 % CL)
+Socioeconomic position
+ Education (range, 1–5)        33,222      3.82 (0.76)     3.79 (0.77)      3.96 (0.65)      -0.11 (-0.21, 0.01)          -0.13 (-0.36, 0.09)           .076
+ Income (range, 1–4)           33,290      2.60 (0.79)     2.41 (0.89)      2.79 (0.72)      -0.14 (-0.25, -0.03)         -0.33 (-0.60, -0.07)          .003
+                                                n (%)                                                       OR (95% CI)          OR (95% CI)
+Education                              33,222
+ No formal education                             3/134 (2.24)     1/29 (3.45)          42/33,059 (0.13)     –                    –                  \.0001
+ Primary or secondary                           35/134 (26.12)    6/29 (20.69)     7,047/33,059 (21.32) –                        –                  –
+ University or post-graduate                    96/134 (71.64) 22/29 (75.86) 25,970/33,059 (78.55) –                             –                  –
+Income                                 33,290
+ Low income                                     47/145 (32.41) 11/27 (40.74)       6,416/33,118 (19.37) 1.71 (1.19, 2.46) 2.49 (1.10, 5.63) .001
+Transactional sex, past 12 months 29,246 13/114 (11.40)           2/24 (8.33)      2,049/29,108 (7.04)      1.50 (0.84, 2.70) 1.08 (0.25, 4.65) ns
+Psychological health and well-being
+ Suicide attempt, ever                 26,951 18/102 (17.65)      7/21 (33.33)     4,229/26,828 (15.76) 1.09 (0.65, 1.81) 2.63 (1.05, 6.56) ns
+ Depressive distress, past-week        26,480 33/101 (32.67) 10/23 (43.48)         7,605/26,356 (28.85) 1.14 (0.75, 1.74) 1.84 (0.80, 4.22) ns
+                                                        M (SD)                                     b (95% CL)               b (95% CL)
+CESD-10 score (range, 0–30)                   26,480    7.87 (5.43)   9.91 (6.35)    7.50 (5.43)     0.23 (-0.83, 1.28)        2.30 (0.10, 4.51)        ns
+Positive attitude toward self (range, 1–4)    26,209    3.62 (0.66)   3.21 (1.03)    3.55 (0.66)     0.07 (-0.06, 0.20)     -0.34 (-0.64, -0.04)        .045
+General self-rated health (range, 1–5)        33,040    3.72 (0.93)   3.88 (0.86)    3.79 (0.88)   -0.08 (-0.23, 0.07)         0.08 (-0.26, 0.42)       ns
+                                 n (%)                                                                 OR (95% CI)              OR (95% CI)
+Gender-related harassment
+ Childhood         25,544        69/99 (66.67)      16/19 (84.21)        18,737/25,426 (73.69)         0.68 (0.44, 1.03)        1.90 (0.55, 6.56)       ns
+ Adulthood         25,536        66/99 (66.67)      14/19 (73.68)        14,527/25,418 (57.15)         1.44 (0.95, 2.20)        2.11 (0.75, 5.88)       .085
+p-values are from multi-parameter tests that test the null hypothesis that the two coefficients of interest (MTF and FTM) and simultaneously equal to
+zero. The exception was the 3-category specification of education which presents the p value from an unadjusted bivariate comparison (Fisher’s exact)
+MTF male-to-female spectrum (assigned male sex at birth, identify as female, MTF, or other gender), FTM female-to-male spectrum (assigned female
+sex at birth, identify as male, FTM, or other gender)
+intercourse in the past 3 months (i.e., sexually active) were                   with ‘‘a partner of different or unknown HIV serostatus.’’
+asked about the number of times they had sexual intercourse                     Composite variables categorized participants as having
+(receptive anal, insertive anal, and vaginal) by partner gender                 engaged in any unprotected anal or vaginal sex in the past
+(male, female, and transgender) without a condom, including                     3 months (any unprotected sex yes/no) and having reported
+ 123
+
+Arch Sex Behav (2014) 43:1503–1514                                                                                            1509
+any serodiscordant anal or vaginal sex in the past 3 months       males, but no statistically significant differences emerged for
+(any unprotected sex with a partner of different or unknown       FTMs compared to the referent group. There was a gender effect
+HIV serostatus yes/no). (4) Gender of sexual partners, past       in socioeconomics. MTF and FTM transgender participants
+12 months: Participants were asked about the gender of their      each had significantly lower levels of income than cisgender
+sexual partners in the past 12 months (non-transgender males,     males. For example, 32.4 % of MTF and 40.7 % of FTM par-
+non-transgender females, MTF, FTM, other gender, prefer           ticipants reported low income compared to 19.4 % of cisgender
+not to answer). (5) Sexual role: Preferred sexual role during     males. Natal sex/gender identity status differences in engaging
+intercourse was asked (top, bottom, versatile, other role,        in transactional sex in the past 12 months were in the predicted
+prefer not to answer). This survey item was a global assess-      direction with a slightly higher proportion of transgender par-
+ment of preferred sexual role and was not tied to a specific      ticipants reporting sex work compared to cisgender males
+timeframe or sexual behaviors.                                    (11.4 % MTF, 8.3 % FTM, 7.0 % cisgender males); however,
+                                                                  these differences did not reach statistical significance.
+Data Analysis                                                     Psychological Health and Well-Being
+SAS v9.3.1 was used for all statistical analyses. The univariate  The psychological health and well-being of transgender
+distribution of all variables (frequency, proportion, mean, SD)   women and men were compared to cisgender males (Table 3).
+was examined by natal sex/gender identity status. There was a     Few differences were noted in these variables for MTF versus
+statistically significant difference in age across the three gen- cisgender male participants. However, FTM participants
+der groups: MTFs were significantly younger compared to           evidenced statistically significant differences compared to
+cisgender males (Mage 29.1 vs. 30.8 years; Table 3). All sub-     cisgender males: elevated depressive distress, lower ratings
+sequent models were adjusted by age. There were no statisti-      of positive attitude toward self, and the proportion with life-
+cally significant differences in geographic region by gender      time attempted suicide was higher. No significant differences
+natal sex/gender identity status. Age-adjusted regression         in self-rated health or gender-related harassment in childhood
+models were fit to test for differences in health by natal sex/   or adulthood were found across gender groups.
+gender identity status. Gender was dummy coded to compare
+MTF and FTM participants, each to the cisgender male refer-       Sexual Health
+ent. Linear regression models were used for continuous out-
+comes [b and 95 % confidence limit (CL)]. Logistic regression     Sexual health indicators are shown by natal sex/gender status
+models were used for binary outcomes [odds ratio (OR) and         in Table 4. The prevalence of HIV did not differ significantly
+95 % confidence interval (CI)]. p-values presented are from       across groups (6.9 % MTF, 8.0 % FTM, 9.1 % cisgender
+multiparameter joint tests of the global effect of natal sex/     males). Overall, 9.4 % of MTF, 19.2 % of FTM, and 14.3 % of
+gender identity status in each of these models. Specific com-     cisgender males had a past-year STI. FTMs were significantly
+parisons to cisgender males for MTF and FTM participants are      more likely to have herpes than cisgender males. No other
+presented without p-values in order to minimize Type 1 error      significant differences in specific past-year STIs by natal sex/
+that can result from repeated multiple comparisons. Age-          gender identity status were found. Unprotected anal or vaginal
+adjusted models were not fit for several variables, such as the   sex was high among FTMs (78.9 %) and compared to cisgen-
+3-category specification of education or HIV-infected sero-       der males (53.1 %). However, FTMs reported the lowest pro-
+status, due to small sample sizes. For example, v2 tests were     portion of unprotected serodiscordant anal or vaginal sex
+performed on sexual risk variables due to small cell sizes        (26.7 %) compared to MTFs (33.3 %) and cisgender males
+(Fisher’s exact tests for cell sizes\5). Given the small number   (34.2 %). Gender of sexual partners in the past 12 months and
+of transgender participants in some categories, emphasis was      preferred sexual role are also shown in Table 4. Note the sub-
+placed on the direction and magnitude of associations rather      stantial heterogeneity in sex partner gender, particularly for
+than on statistical significance.                                 MTFs, as well as diversity of preferred sexual role during sex.
+                                                                  The versatile sexual role was the most endorsed across all natal
+                                                                  sex/gender identity status groups (53.0 % MTF, 64.0 % FTM,
+Results                                                           and 58.8 % non-transgender male).
+Masculine Gender Conformity and Socioeconomics
+                                                                  Discussion
+As shown in Table 3, there were statistically significant differ-
+ences in masculine gender conformity, with MTFs reporting         We used a two-step method to measure natal sex/gender iden-
+statistically significantly lower scores compared to cisgender    tity status that incorporated assigned birth sex (Step 1) and
+                                                                                                                         123
+
+1510                                                                                                       Arch Sex Behav (2014) 43:1503–1514
+Table 4 Sexual health and sexual behavior indicators by natal/sex gender identity status
+                                                       Natal sex/gender identity status                                  v2 test (df)      p
+                                                       MTF                 FTM                Male
+Sexually transmitted infections (STIs) [n (%)]
+ HIV-infection (self-report)                           9/131 (6.87)        2/25 (8.00)        2,940/32,117 (9.15)        \1 (2)            ns
+ Any STI, past 12 months                               12/128 (9.38)       5/26 (19.23)       4,540/31,826 (14.27)       3.02 (2)          ns
+  Syphilis                                             4/126 (3.17)        0/26 (0.00)        1,383/31,645 (4.37)        1.62 (2)          ns
+ Gonorrhea                                             5/128 (3.91)        1/26 (3.85)        1,058/31,587 (3.35)        \1 (2)            ns
+  Chlamydia                                            2/128 (1.56)        0/26 (0.00)        482/31,465 (1.53)          \1 (2)            ns
+  Human papillomavirus (HPV)/genital warts             5/123 (4.07)        2/26 (7.69)        1,834/31,315 (5.86)        \1 (2)            ns
+  Genital herpes                                       2/126 (1.59)        3/26 (11.54)       895/31,478 (2.84)          7.83 (2)          .020
+Sexual risk, past 3 months
+ Any unprotected sexual intercourse?                   50/98 (51.02)       15/19 (78.95)      13,044/24,549 (53.13)      5.26 (2)          ns
+ Any serodiscordant unprotected sexual intercourse     15/45 (33.33)       4/15 (26.67)       3,836/11,221 (34.19)       \1 (2)            ns
+Gender of sexual partners, past 12 months              n = 122             n = 22             n = 30,771
+ Non-transgender male                                  96 (78.69)          15 (68.18)         27,019 (87.81)             67.12 (10)       \.0001
+ Non-transgender female                                11 (9.02)           5 (22.73)          2,581 (8.39)
+ MTF                                                   8 (6.56)            2 (9.09)           321 (1.04)
+ FTM                                                   2 (1.64)            0 (0.00)           75 (0.24)
+ Other gender                                          3 (2.46)            0 (0.00)           367 (1.19)
+ Prefer not to answer                                  2 (1.64)            0 (0.00)           408 (1.33)
+Preferred sexual role during intercourse               n = 134             n = 25             n = 32,331
+ Top                                                   6 (4.48)            5 (20.00)          6,201 (19.18)              43.32 (8)        \.0001
+ Bottom                                                50 (37.31)          3 (12.00)          6,305 (19.50)
+ Versatile                                             71 (52.99)          16 (64.00)         19,009 (58.79)
+ Other role                                            6 (4.48)            1 (4.00)           637 (1.97)
+ Prefer not to answer                                  1 (0.75)            0 (0.00)           179 (0.55)
+Any unprotected sexual intercourse: any unprotected anal or vaginal sexual intercourse with a male, female, or transgender sex partner in the past
+3 months
+current gender identity (Step 2).In an online sample of users of a         Latin American context (e.g., Clark et al., 2013; Parker, 2009).
+sexual networking website targeting MSM in Spanish- and                    Of those who wrote in a response (n = 412), the majority
+Portuguese-speaking countries/territories in Latin America/the             described their sexual orientation instead of gender identity.
+Caribbean, Portugal, and Spain, we found that 0.54 % of par-               We recommend a modified version of the measure for future
+ticipants were transgender. This prevalence estimate was                   research that adds a prompt to define gender identity and dif-
+consistent with another reported in the U.S. from a probability            ferentiate it from sexual orientation to address this issue. This
+sample study in Massachusetts (Conron et al., 2012). Of note,              will cognitively cue participants that the question is asking
+however, participants who endorsed‘‘Prefer Not to Answer’’on               about gender identity and not about sexual orientation. Addi-
+assigned birth sex and current gender identity were excluded               tional studies are needed using mixed methods to formally
+from the current analysis. It is possible that some of these               validate the survey items to measure natal sex/gender identity
+excluded participants were transgender but did not want to                 status using a two-step method. Cognitive testing of the
+identify themselves due to fears of confidentiality, social                modified survey items (Reisner et al., 2013; Sudman et al.,
+stigma, current questioning of their gender identity, or other             1996) is recommended in different languages, and geographic
+reasons. Their exclusion from analysis may have therefore                  contexts, using diverse samples. This would ideally include
+resulted in the prevalence of transgender being underestimated.            confirming accurate classification of transgender cases (i.e.,
+   There appeared to be a lack of clarity in the gender item               that people checking cross-sex, transgender, or other gender
+among participants who wrote in a qualitative response to                  are being classified correctly as transgender).
+‘‘Other (Specify).’’This could be due, in part, to gender being               Differences between transgender and cisgender male
+more tied to sexual orientation and sexual positioning in the              participants were found on socioeconomic indicators. The
+ 123
+
+Arch Sex Behav (2014) 43:1503–1514                                                                                            1511
+socioeconomic disenfranchisement of transgender people            between online versus in-person participants, including
+compared to cisgender people has been previously docu-            within transgender communities, with self-reported HIV-
+mented (Conron et al., 2012). Future research would benefit       infection being much lower among online compared to in-
+from considering the socioeconomic realities of transgender       person participants (Reisner et al., 2014a). Thus, it is likely
+people living in resource poor settings, including how this       the HIV and past-year STI prevalence estimates were lower
+may influence access to and utilization of gender affirmative     than would be obtained from other data collection and sam-
+medical technologies such as hormones. Surprisingly, the          pling methods, such as those in-person methods used in
+prevalence of past 12-month transactional sex did not sig-        studies included in meta-analysis findings.
+nificantly differ by gender group. Our dichotomous measures          Prior research in the U.S. and Canada documents self-
+of sex work may not capture differences in the frequency of       reported HIV/STI sexual risk behaviors in FTMs who have
+transactional sex by gender groups, which may be higher           sex with cisgender males (Bauer, Travers, Scanlon, & Cole-
+among transgender people compared to cisgender males              man, 2012; Chen, McFarland, Thompson, & Raymond, 2011;
+given socioeconomic marginalization. Also interesting and         Reisner, Perkovich, & Mimiaga, 2010; Reisner, White,
+contrary to our hypothesis was that reported experiences of       Mayer, & Mimiaga, 2014b; Rowniak, Chesla, & Rose, 2011;
+gender-related harassment either in childhood or adulthood        Sevelius, 2009). The current study also documented HIV
+did not differ by natal sex/gender identity. Again, the binary    prevalence among FTMs (8.0 %) outside of North America.
+specification of gender-related harassment may not capture        We found differences in past-year genital herpes with FTM
+differences in the frequency with which transgender people        participants (11.5 %) reporting a significantly higher preva-
+are harassed, which may differ from cisgender males.              lence than cisgender male participants (2.8 %). A higher
+    No significant differences in psychological health and        proportion of FTMs (78.9 %) also reported unprotected anal
+well-being were seen for MTF versus cisgender male partic-        or vaginal sex than cisgender male participants (53.1 %).
+ipants; however, we did find significant differences between      Additional research with larger samples is needed, including
+FTM and cisgender males in suicide, depression, and self-         epidemiologic and HIV/STI prevention intervention studies
+worth. Results should be interpreted cautiously given the very    that address the social, behavioral, and biological risk factors
+small number of FTMs in our sample. Nevertheless, the             facing FTM transgender men, including changing sexual
+finding that depressive symptoms were heightened for FTMs         attractions, behaviors, and identities before, during, and after
+compared to cisgender males may be supported. Examining           gender transition and affirmation (Bockting, Benner, &
+depression among transgender people requires consideration        Coleman, 2009; Meier, Pardo, Labuski, & Babcock, 2013).
+of natal birth sex as well as current gender identity. Depression    Several limitations of this research are important to con-
+disproportionately affects females across the globe (Seedat       sider. First, cognitive testing of the survey items was not
+et al., 2009). Thus, if we were to classify FTMs as male or       conducted prior to survey implementation and we did not
+transgender based on current gender identity without con-         confirm transgender cases. The assigned sex at birth measure
+sideration of natal sex, we would be ignoring the sex-linked      was developed using input from transgender community
+mechanisms (e.g., regulation of the hypothalamic pituitary        members and has been used with transgender populations in
+adrenal axis and the sympathoadreno-medullary system)             the U.S. (Grant et al., 2011). Future research is needed to
+(Altemus, 2006), given biological determinants of depression      conduct measurement validation with diverse international
+(Nolen-Hoeksema, 2012). Similarly, without attention to           samples that include cisgender female participants and using
+current gender identity, we would be ignoring socialization       cognitive testing in different languages and geographic
+processes that influence potentially modifiable intervention      contexts. Consistent with U.S. recommendations (GenIUSS,
+targets for depressive distress (e.g., emotional coping styles)   2013; Sausa et al., 2009; Tate et al., 2013), a two-step method
+(Hankin & Abramson, 2001; Nolen-Hoeksema, 2012).                  for identifying transgender people was implemented to
+    In terms of sexual health, we found HIV-infection rates to    identify transgender women and men in the current study.
+be lower among both MTFs and cisgender males than in other        However, additional empirical work is needed to validate
+studies in Latin America/the Caribbean (Baral et al., 2013;       survey questions used to implement the two-step method,
+Caceres, Konda, Segura, & Lyerla, 2008; Silva-Santisteban         including information about the item stem and response
+et al., 2012). We also found similar prevalence of HIV and any    options, and the order in which the sex and gender identity
+past-year STIs by gender identity comparing MTFs and              questions are asked.
+FTMs each to cisgender males. This was inconsistent with             Second, this was not a representative sample or a proba-
+prior research, including a recent meta-analysis of HIV-          bility sample. An online convenience sample of users of a
+infection globally among transgender women (Baral et al.,         popular Internet MSM sexual networking website is not
+2013). These findings can likely be attributed to differences in  generalizable beyond the parameters of that specific virtual
+data collection and sampling methods. For example, research       environment and the universe that the sampling frame cap-
+in the U.S. has shown demographic and health differences          tures. Importantly, this sample was limited to a subset of
+                                                                                                                        123
+
+1512                                                                                                Arch Sex Behav (2014) 43:1503–1514
+cisgender males, transgender women, and transgender men          Acknowledgments S. B. Austin is supported by the Maternal and
+who seek sex with men online; thus, data should be cautiously    Child Health Bureau, Health Resources and Services Administration,
+                                                                 training grants MC00001 and Leadership Education in Adolescent
+interpreted and are not generalizable to the general male adult  Health Project 6T71-MC00009. The authors wish to thank Sarah Mac-
+population or the gender adult transgender population. We        Carthy, Sc.D., for her assistance with Portuguese translation.
+did not stratify cisgender MSM by sexual orientation identity
+and behaviors (e.g., gay MSM, bisexual MSM, etc.), which
+may obfuscate within- and between- group differences. We         References
+also did not ask transgender participants about their gender
+affirmation timeline so could not assess temporality of, for     Altemus, M. (2006). Sex differences in depression and anxiety disorders:
+example, attempted suicide and gender identification.                 Potential biological determinants. Hormones and Behavior, 50,
+                                                                      534–538. doi:10.1016/j.yhbeh.2006.06.031.
+   Another limitation is that HIV and past-year STI data were    Andresen, E. M., Malmgren, J. A., Carter, W. B., & Patrick, D. L. (1994).
+self-reported. In addition, herpes was assessed as a past-year        Screening for depression in well older adults: Evaluation of a short
+question as opposed to a lifetime diagnosis which may mean            form of the CES-D (Center for Epidemiologic Studies Depression
+underreporting given its chronic nature. The current study’s          Scale). American Journal of Preventive Medicine, 10, 77–84.
+                                                                 Baral, S. D., Poteat, T., Strömdahl, S., Wirtz, A. L., Guadamuz, T. E., &
+cross-sectional approach could be strengthened to enroll a            Beyrer, C. (2013). Worldwide burden of HIV in transgender
+longitudinal, repeated measures design to collect HIV/STI             women: A systematic review and meta-analysis. Lancet Infectious
+biomarker data, alongside test re-test reliability of assigned        Diseases, 13, 214–222. doi:10.1016/S1473-3099(12)70315-8.
+birth sex and gender identity for measurement validation.        Bauer, G. R., Travers, R., Scanlon, K., & Coleman, T. A. (2012). High
+                                                                      heterogeneity of HIV-related sexual risk among transgender
+Limitations notwithstanding, the inclusion of assigned sex at         people in Ontario, Canada: A province-wide respondent-driven
+birth and current gender identity survey items in our study           sampling survey. BMC Public Health, 12, 292. doi:10.1186/1471-
+offered a unique opportunity to use a two-step method to              2458-12-292.
+measure natal sex/gender identity status in an online modal-     Biello, K. B., Rosenberger, J. G., Novak, D. S., Robertson, A. M., Mayer,
+                                                                      K. H., & Mimiaga, M. J. (2014). Epidemiology ofsexual health in
+ity, in two languages, and with a unique community-based              the virtual environment: A multinational online survey of Spanish-
+sample of cisgender male and transgender website users who            and Portuguese-speaking men who use an internet sexual network-
+actively use the Internet to facilitate social and sexual             ing site. AIDS and Behavior. doi:10.1007/s10461-014-0844-6.
+encounters.                                                      Bockting, W. O. (2008). Psychotherapy and the real-life experience:
+                                                                      From gender dichotomy to gender diversity. Sexologies, 17,
+   The complexity of sex and gender measurement matters               211–224. doi:10.1016/j.sexol.2008.08.001.
+for health. It has been suggested that a two-step approach       Bockting, W. O. (2009). Transforming the paradigm of transgender
+offers a method of measuring transgender identity in the U.S.         health: A field in transition. Sexual and Relationship Therapy, 24,
+(Sausa et al., 2009; Tate et al., 2013). We view the two-step         103–107. doi:10.1080/14681990903037660.
+                                                                 Bockting, W. O., Benner, A., & Coleman, E. (2009). Gay and bisexual
+cross-classification procedure as a method to categorize the          identity development among female-to-male transsexuals in North
+construct of natal sex/gender identity status in health research      America: Emergence of a transgender sexuality. Archives of Sexual
+(Reisner et al., 2013). The current study extended previous           Behavior, 38, 688–701. doi:10.1007/s10508-009-9489-3.
+work by offering conceptual precision of the construct being     Bockting, W. O., Miner, M. H., Swinburne Romine, R. E., Hamilton, A.,
+                                                                      & Coleman, E. (2013). Stigma, mental health, and resilience in an
+measured, bringing the two-step method into a global con-             online sample of the US transgender population. American Journal
+text, and offering Spanish and Portuguese translations of two         of Public Health, 103, 943–951. doi:10.2105/AJPH.2013.301241.
+survey items for health research. We fill an important meth-     Caceres, C. F., Konda, K., Segura, E. R., & Lyerla, R. (2008).
+odological gap that will allow monitoring the health of               Epidemiology of male same-sex behaviour and associated sexual
+                                                                      health indicators in low- and middle-income countries: 2003–2007
+transgender people globally, as well as potentially more              estimates. Sexually Transmitted Infections, 84, i49–i56. doi:10.
+accurate measurement of sex and gender among cisgender                1136/sti.2008.030569.
+people. In the U.S., recent advocacy and research efforts have   Chen, S., McFarland, W., Thompson, H. M., & Raymond, H. F. (2011).
+focused on adding questions to population-level surveys,              Transmen in San Francisco: What do we know from HIV test site data?
+                                                                      AIDS and Behavior, 15, 659–662. doi:10.1007/s10461-010-9859-9.
+with some success. For example, in the U.S., the Behavioral      Chesney, M. A., Koblin, B. A., Barresi, P. J., Husnik, M. J., Celum, C. L.,
+Risk Factor Surveillance System (BRFSS) in Massachusetts,             Colfax, G., … EXPLORE Study Team. (2003). An individually
+which conducts surveillance on adult health using probability         tailored intervention for HIV prevention: Baseline data from the
+sampling methods, included an interviewer-administer item             EXPLORE Study. American Journal of Public Health, 93,
+                                                                      933–938. doi:10.2105/AJPH.93.6.933.
+to identify transgender participants (Conron et al., 2012).      Clark, J., Salvatierra, J., Segura, E., Salazar, X., Konda, K., Perez-
+Additional efforts are needed to add survey items to epide-           Brumer, A., … Coates, T. (2013). Moderno love: Sexual role-based
+miologic and health surveillance data in different countries in       identities and HIV/STI prevention among men who have sex with
+order to characterize transgender respondent populations              men in Lima, Peru. AIDS and Behavior, 17, 1313–1328. doi:10.
+                                                                      1007/s10461-012-0210-5.
+across diverse global contexts and settings and understand       Clements-Nolle, K., Marx, R., Guzman, R., & Katz, M. (2001). HIV
+their health and healthcare needs.                                    prevalence, risk behaviors health care use, and mental health status
+ 123
+
+Arch Sex Behav (2014) 43:1503–1514                                                                                                                1513
+      of transgender persons: Implications for public health intervention.        public health strategy. Sexually Transmitted Infections, 84,
+      American Journal of Public Health, 91, 915–921.                             499–505. doi:10.1136/sti.2008.031419.
+Conron, K. J., Landers, S. J., Reisner, S. L., & Sell, R. (2014). Sex and    Meier, S. C., Pardo, S. T., Labuski, C., & Babcock, J. (2013). Measures of
+      gender in the U.S health surveillance system: A call to action.             clinical health among female-to-male transgender persons as a
+      American Journal of Public Health, 104, 970–976. doi:10.2105/               function of sexual orientation. Archives of Sexual Behavior, 42,
+      AJPH.2013.301831.                                                           463–474. doi:10.1007/s10508-012-0052-2.
+Conron, K. J., Scott, G., Stowell, G. S., & Landers, S. J. (2012).           Nemoto, T., Bodeker, B., Iwamoto, M., & Sakata, M. (2013). Practices of
+      Transgender health in Massachusetts: Results from a household               receptive and insertive anal sex among transgender women in
+      probability sample of adults. American Journal of Public Health,            relation to partner types, sociocultural factors, and background
+      102, 118–122. doi:10.2105/AJPH.2011.300315.                                 variables. AIDS Care, 26, 434–440. doi:10.1080/09540121.2013.
+De Santis, J. P. (2009). HIV infection risk factors among male-to-female          841832.
+      transgender persons: A review of the literature. Journal of the        Nolen-Hoeksema, S. (2012). Emotion regulation and psychopathology:
+      Association of Nurses in AIDS Care, 20, 362–372. doi:10.1016/j.             The role of gender. Annual Review of Clinical Psychology, 8,
+      jana.2009.06.005.                                                           161–187. doi:10.1146/annurev-clinpsy-032511-143109.
+DeSalvo, K. B., Fan, V. S., McDonell, M. B., & Fihn, S. D. (2005).           Nuttbrock, L., Bockting, W., Mason, M., Hwahng, S., Rosenblum, A.,
+      Predicting mortality and healthcare utilization with a single               Macri, M., et al. (2011). A further assessment of Blanchard’s
+      question. Health Services Research, 40, 1234–1246. doi:10.1111/j.           typology of homosexual versus non-homosexual or autogynephilic
+      1475-6773.2005.00404.x.                                                     gender dysphoria. Archives of Sexual Behavior, 40, 247–257.
+Dubois-Arber, F., Jeannin, A., Spencer, B., Gervasoni, J.-P., Graz, B.,           doi:10.1007/s10508-009-9579-2.
+      Elford, J., … Van de Laar, M. (2010). Mapping HIV/STI behavioural      Nuttbrock, L., Bockting, W., Rosenblum, A., Hwahng, S., Mason, M.,
+      surveillance in Europe. BMC Infectious Diseases, 10, 290. doi:10.           Macri, M., et al. (2013). Gender abuse, depressive symptoms, and
+      1186/1471-2334-10-290.                                                      HIV and other sexually transmitted infections among male-to-
+Feldman, J., & Bockting, W. (2003). Transgender health. Minnesota                 female transgender persons. American Journal of Public Health,
+      Medicine, 86, 25–32.                                                        103, 300–307. doi:10.2105/AJPH.2011.300568.
+Grant, J. M., Mottet, L. A., Tanis, J. D., Harrison, J., Herman, J. L., &    Nuttbrock, L., Hwahng, S., Bockting, W., Rosenblum, A., Mason, M.,
+      Keisling, M. (2011). Injustice at every turn: A report of the National      Macri, M., et al. (2009). Lifetime risk factors for HIV/sexually
+      Transgender Discrimination Survey. Washington, DC: The National             transmitted infections among male-to-female transgender persons.
+      Center for Transgender Equality and National Gay and Lesbian Task           Journal of Acquired Immune Deficiency Syndromes, 52, 417–421.
+      Force. Retrieved from http://www.thetaskforce.org/reports_and_              doi:10.1097/QAI.0b013e3181ab6ed8.
+      research/ntds.                                                         Nuttbrock, L., Hwahng, S., Bockting, W., Rosenblum, A., Mason, M.,
+Haig, D. (2004). The inexorable rise of gender and the decline of sex:            Macri, M., et al. (2010). Psychiatric impact of gender-related abuse
+      Social change in academic titles, 1945–2001. Archives of Sexual             across the life course of male-to-female transgender persons. Journal
+      Behavior, 33, 87–96. doi:10.1023/B:ASEB.0000014323.56281.0d.                of Sex Research, 47, 12–23. doi:10.1080/00224490903062258.
+Hankin, B. L., & Abramson, L. Y. (2001). Development of gender               Operario, D., Soma, T., & Underhill, K. (2008). Sex work and HIV status
+      differences in depression: An elaborated cognitive vulnerability-           among transgender women: Systematic review and meta-analysis.
+      transactional stress theory. Psychological Bulletin, 127, 773–796.          Journal of Acquired Immune Deficiency Syndromes, 48, 97–103.
+      doi:10.1037/0033-2909.127.6.773.                                            doi:10.1097/QAI.0b013e31816e3971.
+Herbst, J. H., Jacobs, E. D., Finlayson, T. J., McKleroy, V. S., Neumann,    Parker, R. G. (2009). Bodies, pleasures, and passions: Sexual culture in
+      M. S., Crepaz, N., & HIV/AIDS Prevention Research Synthesis                 contemporary Brazil. Nashville, TN: Vanderbilt University Press.
+      Team. (2008). Estimating HIV prevalence and risk behaviors of          Reisner, S. L., Conron, K. J., Scout, Nfn, Mimiaga, M. J., Rosenberger, J.
+      transgender persons in the United States: A systematic review.              G., Novak, D. S., … Austin, S. B. (2014a). Comparing in-person and
+      AIDS and Behavior, 12, 1–17. doi:10.1007/s10461-007-9299-3.                 online survey respondents in the National Transgender Discrimi-
+Iantaffi, A., & Bockting, W. O. (2011). Views from both sides of the              nation Survey: Implications for transgender health research in the
+      bridge? Gender, sexual legitimacy and transgender people’s                  U.S. LGBT Health, 1, 98–106. doi:10.1089/lgbt.2013.0018.
+      experiences of relationships. Culture, Health & Sexuality, 13,         Reisner, S. L., Conron, K. J., Tardiff, K. J., Jarvi, S., Gordon, A. R., &
+      355–370. doi:10.1080/13691058.2010.537770.                                  Austin, S. B. (2013). Monitoring the health of gender minority
+Institute of Medicine. (2011). The health of lesbian, gay, bisexual, and          populations: Cognitive of natal sex and gender identity items in a
+      transgender people: Building a foundation for better understand-            U.S. national cohort of young adults (submitted).
+      ing. Washington, DC: The National Academic Press.                      Reisner, S. L., Perkovich, B., & Mimiaga, M. J. (2010). A mixed
+Kenagy, G. P., & Hsieh, C.-M. (2005). The risk less known: Female-to-             methods study of the sexual health needs of New England transmen
+      male transgender persons’ vulnerability to HIV infection. AIDS              who have sex with non-transgender men. AIDS Patient Care and
+      Care, 17, 195–207. doi:10.1080/19540120512331325680.                        STDs, 24, 501–513. doi:10.1089/apc.2010.0059.
+Koblin, B. A., Chesney, M. A., Husnik, M. J., Bozeman, S., Celum, C. L.,     Reisner, S. L., White, J. M., Mayer, K. H., & Mimiaga, M. J. (2014b).
+      Buchbinder, S., … EXPLORE Study Team. (2003). High-risk                     Sexual risk and psychosocial health concerns of female-to-male
+      behaviors among men who have sex with men in 6 US cities:                   transgender men screening for STDs at an urban community health
+      Baseline data from the EXPLORE study. American Journal of                   center. AIDS Care, 26, 857–864. doi:10.1080/09540121.2013.
+      Public Health, 93, 926–932.                                                 855701.
+Krieger, N. (2003). Genders, sexes, and health: What are the connec-         Rosenberg, M., Schooler, C., & Schoenbach, C. (1989). Self-esteem and
+      tions—and why does it matter? International Journal of Epidemi-             adolescent problems: Modeling reciprocal effects. American
+      ology, 32, 652–657. doi:10.1093/ije/dyg156.                                 Sociological Review, 54, 1004–1018. doi:10.2307/2095720.
+Lewis, R. J., Derlega, V. J., Berndt, A., Morris, L. M., & Rose, S. (2001).  Rowniak, S., Chesla, C., & Rose, C. D. (2011). Transmen: The HIV risk
+      An empirical analysis of stressors for gay men and lesbians. Journal        of gay identity. AIDS Education and Prevention, 23, 508–520.
+      of Homosexuality, 42, 63–88. doi:10.1300/J082v42n01_04.                     doi:10.1521/aeap.2011.23.6.508.
+Likatavicius, G., Klavs, I., Devaux, I., Alix, J., & Nardone, A. (2008). An  Sánchez, J., Lama, J. R., Kusunoki, L., Manrique, H., Goicochea, P.,
+      increase in newly diagnosed HIV cases reported among men who                Lucchetti, A., … Celum, C. (2007). HIV-1, sexually transmitted
+      have sex with men in Europe, 2000–6: Implications for a European            infections, and sexual behavior trends among men who have sex
+                                                                                                                                            123
+
+1514                                                                                                              Arch Sex Behav (2014) 43:1503–1514
+     with men in Lima, Peru. Journal of Acquired Immune Deficiency                 oriented to new target populations (Spanish VACH Cohort). AIDS,
+     Syndromes, 44, 578–585.                                                       16, 2496–2499.
+Sausa, L. A., Sevelius, J., Keatley, J., Iñiguez, J. R., & Reyes, M. (2009). Sudman, S., Bradburn, N. M., & Schwarz, N. (1996). Thinking about
+     Policy recommendations for inclusive data collection of trans                 answers: The application of cognitive processes to survey meth-
+     people in HIV prevention, care & services. San Francisco, CA:                 odology (1st ed.). San Francisco: Jossey-Bass Publishers.
+     Center of Excellence for Transgender HIV Prevention, University          Tabet, S., Sánchez, J., Lama, J., Goicochea, P., Campos, P., Rouillon, M.,
+     of California, San Francisco. Retrieved from http://transhealth.              … Holmes, K. K. (2002). HIV, syphilis and heterosexual bridging
+     ucsf.edu/trans?page=lib-data-collection.                                      among Peruvian men who have sex with men. AIDS, 16, 1271–1277.
+Seedat, S., Scott, K. M., Angermeyer, M. C., Berglund, P., Bromet, E. J.,     Tate, C. C., Ledbetter, J. N., & Youssef, C. P. (2013). A two-question
+     Brugha, T.S., … Kessler, R. C. (2009). Cross-national associations            method for assessing gender categories in the social and medical
+     between gender and mental disorders in the World Health                       sciences. Journal of Sex Research, 50, 767–776. doi:10.1080/
+     Organization World Mental Health Surveys. Archives of General                 00224499.2012.690110.
+     Psychiatry, 66, 785–795. doi:10.1001/archgenpsychiatry.2009.36.          The Gender Identity in U.S. Surveillance Group (GenIUSS). (2013).
+Sevelius, J. (2009). ‘‘There’s no pamphlet for the kind of sex I have’’:           Gender-related measures overview. Los Angeles, CA: The Williams
+     HIV-related risk factors and protective behaviors among trans-                Institute at the University of California Los Angeles School of Law.
+     gender men who have sex with nontransgender men. Journal of the               Retrieved from http://williamsinstitute.law.ucla.edu/research/census-
+     Association of Nurses in AIDS Care, 20, 398–410. doi:10.1016/j.               lgbt-demographics-studies/geniuss-group-overview-feb-2013/.
+     jana.2009.06.001.                                                        World Health Organization. (2008). Closing the gap in a generation: Health
+Silva-Santisteban, A., Raymond, H. F., Salazar, X., Villayzan, J., Leon,           equity through action on the social determinants of health (No. ISBN
+     S., McFarland, W., et al. (2012). Understanding the HIV/AIDS                  9789241563703). Geneva: Author. Retrieved from http://www.who.
+     epidemic in transgender women of Lima, Peru: Results from a sero-             int/social_determinants/thecommission/finalreport/en/index.html.
+     epidemiologic study using respondent driven sampling. AIDS and           Wylie, S. A., Corliss, H. L., Boulanger, V., Prokop, L. A., & Austin, S. B.
+     Behavior, 16, 872–881. doi:10.1007/s10461-011-0053-5.                         (2010). Socially assigned gender nonconformity: A brief measure
+Suárez-Lozano, I., Fajardo, J. M., Garrido, M., Roca, B., Garvia-                 for use in surveillance and investigation of health disparities. Sex
+     Alcalde, M. L., Geijo, P., … Lacalle, J. R. (2002). Epidemiological           Roles, 63, 264–276. doi:10.1007/s11199-010-9798-y.
+     trends of HIV infection in Spain: Preventative plans have to be
+123
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without
+permission.
+

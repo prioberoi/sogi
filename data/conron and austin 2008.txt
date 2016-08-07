@@ -1,0 +1,514 @@
+NOTICE:       The copyright law of the United States
+(Title 17, U.S. Code) governs the making of photocopies or other
+reproductions of copyrighted material. Under certain conditions
+specified in the law, libraries and archives are authorized to furnish a
+photocopy or other reproduction. One of these specified conditions
+is that the photocopy or reproduction is not to be "used for any
+purpose other than private study, scholarship, or research."
+The CDC library absorbs the cost of copyright fees charged by
+publishers when applicable and the cost of articles and books
+obtained from other libraries. Copyright fees average $35.00 and
+fees charged by the lending libraries are between $10 and $15 per
+request
+
+                       Journal of LGBT Health Research
+                       ISSN: 1557-4091 (Print) 1557-4105 (Online) Journal homepage: http://www.tandfonline.com/loi/wlhr20
+               “Everyone Has a Right to, Like, Check Their Box:”
+               Findings on a Measure of Gender Identity from a
+               Cognitive Testing Study with Adolescents
+               Kerith Jane Conron , Scout & S. Bryn Austin
+               To cite this article: Kerith Jane Conron , Scout & S. Bryn Austin (2008) “Everyone Has a Right
+               to, Like, Check Their Box:” Findings on a Measure of Gender Identity from a Cognitive Testing
+               Study with Adolescents, Journal of LGBT Health Research, 4:1, 1-9
+               To link to this article: http://dx.doi.org/10.1080/15574090802412572
+                         Published online: 02 Jan 2009.
+                         Submit your article to this journal
+                         Article views: 12
+                         View related articles
+                         Citing articles: 1 View citing articles
+                                           Full Terms & Conditions of access and use can be found at
+                                http://www.tandfonline.com/action/journalInformation?journalCode=wlhr20
+Download by: [University of California, Los Angeles (UCLA)]                                                  Date: 08 April 2016, At: 15:24
+
+                                                                                         “Everyone Has a Right to, Like, Check Their Box:”
+                                                                                      Findings on a Measure of Gender Identity from a Cognitive
+                                                                                                   Testing Study with Adolescents
+                                                                                                                                Kerith Jane Conron
+                                                                                                                                       Scout
+                                                                                                                                 S. Bryn Austin
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                           ABSTRACT. Efforts to monitor the health of transgender youth, a small but high-risk population, are
+                                                                                           hindered by a lack of knowledge about how to accurately measure gender identity. Adolescents (n = 30)
+                                                                                           participated in semistructured qualitative interviews after completing a close-ended transgender-
+                                                                                           inclusive measure of gender. Interviews explored item comprehension and respondent burden.
+                                                                                              Participants, who were diverse in age (range = 15–21), gender identity, sexual orientation, and race–
+                                                                                           ethnicity, were accurately classified as male, female, or transgender. All youth understood transgender
+                                                                                           as a difference between the physical body and a person’s internal sense of self. Nontransgender
+                                                                                           youth frequently used an example (a woman in a man’s body) in their explanations and were largely
+                                                                                           supportive of the transgender options. Most transgender youth found a response option that they felt
+                                                                                           was appropriate.
+                                                                                              Transgender response options were added to a gender measure without impacting the accuracy
+                                                                                           of nontransgender responses or burdening the nontransgender adolescents in our sample. A modified
+                                                                                           measure (Gender: male; female; transgender, male-to-female; transgender, female-to-male; transgender,
+                                                                                           do not identify as exclusively male or female) is recommended for testing in samples that vary by age,
+                                                                                           race–ethnicity, socioeconomic status, language, and geography. Additional suggestions for research in
+                                                                                           this area are provided.
+                                                                                           KEYWORDS. Gender identity, transgender, adolescence, cognitive testing, measurement
+                                                                                         Kerith Jane Conron, ScD, is affiliated with the Department of Society, Human Development, and Health,
+                                                                                      Harvard School of Public Health, Boston; Scout, PhD, is at Fenway Institute, Fenway Community Health
+                                                                                      Center, Boston; S. Bryn Austin, ScD, is affiliated with the Division of Adolescent and Young Adult Medicine,
+                                                                                      Children’s Hospital, Boston and the Department of Society, Human Development, and Health, Harvard School
+                                                                                      of Public Health, Boston.
+                                                                                         Address correspondence to: Kerith Jane Conron, ScD, Research Fellow, Harvard School of Public Health,
+                                                                                      Department of Society, Human Development, and Health, 677 Huntington Avenue, Boston, MA 02115
+                                                                                      (E-mail: kconron@post.harvard.edu).
+                                                                                         The authors thank the study participants for their thoughtful contributions and the many organizations
+                                                                                      that assisted with recruitment. The authors also extend thanks to Gunner Scott, for his sound feedback on an
+                                                                                      earlier version of this article, and to Aarti Patel and Naomi Freedner, members of the research team. K. J.
+                                                                                      Conron thanks Drs. Steve Gortmaker, Stephen Buka, and Karestan Koenen at the Harvard School of Public
+                                                                                      Health for comments on an earlier draft of this article.
+                                                                                         This study was funded by the Children’s Hospital Boston Faculty Research Council and Harvard University
+                                                                                      Open Gate Fund. K. J. Conron was supported by a grant from the Ford Foundation via The Williams Project,
+                                                                                      UCLA and the Leopold Schepp Foundation during the research phase of this study and by NIMH grant
+                                                                                      5T32-MH15161-26 while revising the manuscript. S. B. Austin was supported by the Leadership Education
+                                                                                      in Adolescent Health project, Maternal and Child Health Bureau, HRSA grant 6T71-MC00009-16-01.
+                                                                                                                  Journal of LGBT Health Research, Vol. 4(1) 2008
+                                                                                                                  
+                                                                                                                  C 2008 by The Haworth Press. All rights reserved.
+                                                                                                                          doi: 10.1080/15574090802412572                                         1
+
+                                                                                      2                              JOURNAL OF LGBT HEALTH RESEARCH
+                                                                                         Research suggests that the needs of trans-       2001), data obtained with the same measure can
+                                                                                      gender people, a small but high-risk group, are     be combined over successive samples. Strati-
+                                                                                      largely invisible to health institutions (Gay and   fied sampling, combined with the use of a brief
+                                                                                      Lesbian Medical Association [GLMA], 2001).          screener (Meyer & Colten, 1999), may provide
+                                                                                      In this article, we use the term transgender to     another way to increase the number of transgen-
+                                                                                      refer to incongruence between birth sex (e.g.,      der participants in a general population survey
+                                                                                      male, female) and gender identity (e.g., man,       sample.
+                                                                                      woman; Center for Substance Abuse Treatment            A major barrier to monitoring the health of
+                                                                                      [CSAT], 2001; GLMA, 2001). Included in our          transgender people is a lack of a valid tool with
+                                                                                      usage of transgender are individuals who do not     which to identify transgender respondents. One
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                      identify exclusively as a man or as a woman         approach to capture transgender identity entails
+                                                                                      (e.g. two-spirited, gender queer; American Pub-     collecting data on birth sex and, with a separate
+                                                                                      lic Health Association [APHA], 1999). Trans-        item, collecting data on gender identity—one’s
+                                                                                      gender individuals appear to be at elevated risk    personal or internal sense of gender (GLMA,
+                                                                                      of violence victimization, HIV infection, mental    2001). A second approach, utilized on phone
+                                                                                      health problems, and to face multiple barriers      surveys administered to household samples of
+                                                                                      to access health care (Clements-Nolle, Guzman,      adults, involves asking participants if they are
+                                                                                      & Katz, 2001; Fallis, Landers, Lawrence, &          transgender (Massachusetts Department of Pub-
+                                                                                      Sperber, 2000; Garofalo, Deleon, Osmer, Doll,       lic Health, Health Survey Program, Behavioral
+                                                                                      & Harper, 2006; Grossman & D’Augelli, 2006;         Risk Factor Surveillance System, 2007). These
+                                                                                      Kammerer, Mason, Connors, & Durkee, 2001;           measures may contain lengthy definitions of
+                                                                                      Kenagy, 2005; Kosciw & Diaz, 2006; Lombardi,        the term transgender. A third approach, the
+                                                                                      Wilchins, Priesing, & Malouf, 2001; Los             one that we chose, involves adding transgender
+                                                                                      Angeles County Department of Health Services,       response options to an existing measure of gen-
+                                                                                      2000; McGowan, 1999; Smith & Langenbahn,            der. We tested a measure that would not re-
+                                                                                      1997; Xavier, 2000). Transgender adolescents        quire adding new items to a survey and would
+                                                                                      are especially vulnerable due to their economic     be consistent with the brief structure of ques-
+                                                                                      dependence on adults and legal obligation to at-    tions included on adolescent health surveys (e.g.,
+                                                                                      tend school, a site for harassment and assault      Youth Risk Behavior Survey, Monitoring the
+                                                                                      (Kosciw & Diaz, 2006). The aim of this study is     Future).
+                                                                                      to facilitate the health monitoring of an under-       We added three transgender categories to a
+                                                                                      served population by evaluating the performance     gender measure, rather than one response op-
+                                                                                      of a transgender-inclusive gender identity mea-     tion, for a couple of reasons. First, transgender
+                                                                                      sure in an adolescent sample.                       adolescents who identify as the opposite gender
+                                                                                         To our knowledge, all published, U.S.-           of their birth sex might be misclassified as non-
+                                                                                      based research on transgender health has re-        transgender if presented with choices that do not
+                                                                                      lied upon urban convenience samples, most of        acknowledge their transgender status and gen-
+                                                                                      which were assembled to assess HIV risk. Few        der identity. For instance, a person who is born
+                                                                                      of these studies included adolescents. Conse-       male, but identifies as a woman might select fe-
+                                                                                      quently, the extent to which findings are gen-      male as her gender, rather than transgender. Sec-
+                                                                                      eralizable to the entire transgender population,    ond, research suggests that male-to-female and
+                                                                                      particularly adolescents, is unclear. Due to the    female-to-male individuals have different health
+                                                                                      limitations of available information, both the      profiles (Clements-Nolle et al., 2001; Kenagy,
+                                                                                      APHA (1998) and the American Medical Asso-          2005); therefore, a measure that can differenti-
+                                                                                      ciation (2007) have advocated the collection of     ate between transgender subgroups is preferable
+                                                                                      representative data on the health of transgender    (APHA, 1999).
+                                                                                      people. Although analyses of population-based          Additional barriers to the collection of trans-
+                                                                                      data from a single sample may be limited in         gender data may include concerns about item
+                                                                                      power because of the estimated small size of the    nonresponse and interview termination among
+                                                                                      transgender population (CSAT, 2001; GLMA,           survey administrators who view it as a sensitive
+
+                                                                                                                             Conron, Scout, and Austin                                       3
+                                                                                      subject. Item nonresponse may also occur when        Adolescents provided written assent. Details
+                                                                                      suitable options are not available for all re-       about the primary study have been published
+                                                                                      spondents. Consequently, providing response          previously (Austin, Conron, Patel, & Freedner,
+                                                                                      options that correspond to the experience (in        2006).
+                                                                                      this case, identities) of respondents, some             The study design was based on the retro-
+                                                                                      of whom will not identify as male or fe-             spective talk-aloud method (Groves, Fultz, &
+                                                                                      male, should increase data completeness and          Martin, 1992; Sudman et al., 1996). Partici-
+                                                                                      accuracy.                                            pants first completed a brief, self-report, close-
+                                                                                         A valuable technique to assess measurement        ended health and demographic questionnaire.
+                                                                                      performance is cognitive testing. Cognitive test-    Next, two members of the research team (KJC
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                      ing focuses on four cognitive tasks required         and SBA) conducted individual, semistructured
+                                                                                      to answer a survey question: interpretation,         qualitative interviews to probe cognitive pro-
+                                                                                      retrieval of information, judgment formation         cesses involved in answering the survey item.
+                                                                                      (sorting through information to formulate and        Interview questions were designed to assess in-
+                                                                                      identify an appropriate response), and response      terpretation and other issues that might lead to
+                                                                                      editing (deciding which response to report; War-     respondent burden, such as difficulty retrieving
+                                                                                      necke et al., 1997). Respondent burden ensues        information and formulating, selecting, or re-
+                                                                                      when a cognitive task produces strain or discom-     porting a response. Questions included: “What
+                                                                                      fort, resulting in incomplete (i.e., nonresponse,    went through your mind as you read the item?”
+                                                                                      interview termination) or inaccurate responses       and “What does the term transgender mean?”
+                                                                                      (Sudman, Bradburn, & Schwarz, 1996). Inac-           Follow-up probes were asked as needed. In-
+                                                                                      curacies at any stage of the question–answer         terviews were conducted in English, averaged
+                                                                                      process may affect data reliability and valid-       75 min, and were audio-taped. After the in-
+                                                                                      ity and bias findings (Collins, 2003; Rothman        terview, participants received a list of health
+                                                                                      & Greenland, 1998). This article reports on a        resources and a $15 gift certificate to a retail
+                                                                                      gender identity measure cognitively tested in a      store.
+                                                                                      small, but diverse sample of adolescents.               Our analytic approach was guided by the
+                                                                                                                                           aims of cognitive testing—to identify problems
+                                                                                                                                           that would negatively impact the accuracy and
+                                                                                                       METHODS                             completeness of data obtained by our measure.
+                                                                                                                                           Transcripts were sorted and summarized in four
+                                                                                         Between June 2003 and 2004, 30 adolescents        areas: (a) interpretation of the item, (b) interpre-
+                                                                                      who resided in or near a New England metropoli-      tation of the term transgender, (c) appropriate-
+                                                                                      tan area participated in cognitive testing in-       ness of response options and the accuracy of
+                                                                                      terviews at health and social service agencies.      response selection, and (d) emotional expe-
+                                                                                      Youth, ages 15 to 21, were recruited purpo-          rience of answering the item. The research
+                                                                                      sively from community-based organizations and        team reviewed transcripts to assess consisten-
+                                                                                      events, an Internet-based transgender listserv, a    cies and inconsistencies of item, term, and re-
+                                                                                      public high school, and a health department-         sponse option interpretations, as well as the
+                                                                                      sponsored summer program to ensure diversity         emotional experience of answering the ques-
+                                                                                      by sexual orientation, gender identity, and race–    tion. Accuracy was determined by the extent to
+                                                                                      ethnicity. One-third of nontransgender youth         which the language the participant used to talk
+                                                                                      were recruited from sites that had no explicit       about his or her gender identity (e.g., boy, guy,
+                                                                                      focus on lesbian, gay, bisexual, or transgender      male, girl, female, or words reflecting neither
+                                                                                      issues. Although the primary study aim was to        or more than one gender) matched the selected
+                                                                                      test multiple measures of sexual orientation, a      response option. (The last word in the options
+                                                                                      measure of gender identity was also evaluated.       “transgender, male-to-female” and “transgender,
+                                                                                      The Children’s Hospital Boston institutional re-     female-to-male” refers to gender identity.) Par-
+                                                                                      view board approved the study, waiving parental      ticipant responses were coded (categorized in
+                                                                                      consent to protect participant confidentiality.      terms of naturally occurring groupings in the
+
+                                                                                      4                                    JOURNAL OF LGBT HEALTH RESEARCH
+                                                                                      data) and counted to provide a sense of the com-      about the item, and many indicated that they an-
+                                                                                      monality of responses in our sample.                  swered it without engaging in an interpretative
+                                                                                                                                            process. One said: “Well, it said sex and gender,
+                                                                                                                                            and I, the first thing that came to my mind—‘I’m
+                                                                                                           RESULTS                          female.”’ Another youth reflected: “Which sex
+                                                                                                                                            or gender I am? I think that one [survey item]—
+                                                                                          Thirty adolescents participated in the study,     that is a good one. I don’t think that will confuse
+                                                                                      six of whom were transgender (Table 1). The           anyone.” When asked for an explanation of the
+                                                                                      median sample age was 17 years (range 15–21).         item, one responded: “Am I male or am I female?
+                                                                                      Fifteen youth described themselves as White;          It boils down to that. I don’t see how that question
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                      while most of the remaining participants iden-        could be interpreted, you know, unless I’m trans-
+                                                                                      tified as Latino or Black. Half of the sample         gender.” Only three nontransgender participants
+                                                                                      reported a gay, lesbian, or bisexual sexual orien-    expressed awareness of the distinction between
+                                                                                      tation identity.                                      sex and gender. One described the item as ask-
+                                                                                                                                            ing: “I guess what I identify myself as. I would
+                                                                                      Item Interpretation                                   identify myself as female, biologically, and, um,
+                                                                                                                                            I guess the word is mentally.”
+                                                                                         Transgender participants. All transgender
+                                                                                      participants answered the question in terms of        Interpretation of the Term Transgender
+                                                                                      their personal gender identity. Two transgender
+                                                                                      youth noted that the item stem, sex/gender, asked        All participants who were asked what the term
+                                                                                      about two constructs, biological sex and gender       transgender means referenced a difference be-
+                                                                                      identity, simultaneously. One found this confla-      tween one’s outward appearance and internal
+                                                                                      tion confusing:                                       sense of self.
+                                                                                                                                               Transgender participants. One participant
+                                                                                            So, I saw the sex, gender, so it was clearly    provided a comprehensive definition: “A person
+                                                                                            asking me—I mean, it wasn’t clear whether       who was born one sex, and, you know, labeled
+                                                                                            it was asking me about biological sex or        one sex, but who feels that that label, um, isn’t
+                                                                                            gender or about, like, my personal feeling      quite right, um, that it is either inaccurate or
+                                                                                            of sex or gender. But, since it offered both,   incomplete.” Another defined transgender this
+                                                                                            I just assumed that it was my personal gen-     way:
+                                                                                            der. Like, I would expect with this many
+                                                                                            options, something to say gender.                    Transgender, male or female. It’s kind of
+                                                                                                                                                 like a transsexual, because you’re trans-
+                                                                                        Nontransgender participants. Few nontrans-               forming. But transgender. . . can mean, too,
+                                                                                      gender youth differentiated between sex and                like, if you’re dressed like a girl but you feel
+                                                                                      gender while recalling their initial thoughts              like a boy, or you’re dressed like a boy, but
+                                                                                                                                                 you feel like a girl.
+                                                                                      TABLE 1. Cognitively Tested Gender Iden-                 One participant provided a definition while
+                                                                                      tity and Responses of Adolescent Participants         highlighting her perspective on the differences
+                                                                                      (N = 30)                                              between being transgender and being transsex-
+                                                                                                                                            ual:
+                                                                                      Sex/Gender                                       n
+                                                                                      Female                                           12
+                                                                                                                                                 Well, transgender is, once again, it gets to
+                                                                                      Male                                             12        this. How I would define transsexual is do-
+                                                                                      Transgender, male-to-female                       1        ing things to your body. . . . Right now, I’m
+                                                                                      Transgender, female-to-male                       0        more focused on changing my body than
+                                                                                      Transgender, not exclusively male or female       5
+                                                                                      Not sure                                          0
+                                                                                                                                                 having a specific gender and dressing up a
+                                                                                                                                                 certain way, putting my hair a certain way.
+
+                                                                                                                              Conron, Scout, and Austin                                        5
+                                                                                           . . . Transgender is more nebulous. I mean,         Another participant, who was born male and
+                                                                                           you could theorize anything as transgender.      presents herself as female, picked the “trans-
+                                                                                                                                            gender, not exclusively male or female” option.
+                                                                                                                                            When asked why she chose this response, she
+                                                                                          Another was unable to articulate a definition,
+                                                                                                                                            replied: “I’m ‘not exclusively male or female’
+                                                                                      but, rather, focused on defining himself as a
+                                                                                                                                            because I don’t take hormones or anything.”
+                                                                                      member of one community versus another. He
+                                                                                                                                            Later, when asked how she identifies, she stated:
+                                                                                      said: “I think it [calling himself transgender]
+                                                                                                                                            “I identify as female and transgender.”
+                                                                                      connects me more with queer women or, like,
+                                                                                                                                               A biologically male participant, who spoke at
+                                                                                      women in general, like trans-people, instead of
+                                                                                                                                            length about violence as an expression of mas-
+                                                                                      calling me, like, a gay male. Like, I am here and
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                                                                            culinity, explained how his perspective on male
+                                                                                      everyone else is over there.”
+                                                                                                                                            culture within his ethnic community informed
+                                                                                          Nontransgender participants. Most nontrans-
+                                                                                                                                            his response to the item:
+                                                                                      gender youth provided an example of a person
+                                                                                      born one sex (or gender) who transitions to the
+                                                                                      “opposite” sex in their explanations. One said:             I don’t like the word male. . . . I don’t enjoy
+                                                                                      “That’s when you’re born biologically male, but             being called male because it brings up way
+                                                                                      you feel that you are a female, so you feel that            too many things. . . . So, I put transgender
+                                                                                      you are a female trapped in a male’s body.” An-             down, because I really don’t know if I’m,
+                                                                                      other offered this: “You change your character-             identify as male at this moment or whatnot.
+                                                                                      istics from a male to a female, from female to              I really like the fact that it was “transgender
+                                                                                      male. Like, you changed your look or your per-              not exclusively male or female” because
+                                                                                      sonality.” One explained transgender as: “If you            that is where I feel that I am at right now.
+                                                                                      switch. Like, if you’re a boy and you want to be
+                                                                                      a girl, so then you switch, have surgery. I don’t        The first thoughts of a self-described trans-
+                                                                                      know what they do, switch organs or something.        sexual female who chose “transgender, male-to-
+                                                                                      And then, you’re a girl.”                             female” were: “Transgender isn’t such a good
+                                                                                                                                            word for me. . . . I prefer the term transsexual
+                                                                                                                                            because it points to that, sort of, massive reality
+                                                                                      Appropriateness of Response Options and               of who I am.” Two transgender respondents said
+                                                                                      Accuracy of Response Selection                        they looked for a non-binary response option and
+                                                                                         Transgender participants. Five out of six          found it in “transgender, not exclusively male or
+                                                                                      transgender youth stated that there was no bet-       female.”
+                                                                                      ter way to report their gender on a survey. All          Nontransgender participants. All nontrans-
+                                                                                      but one selected an accurate response option.         gender youth selected an accurate response op-
+                                                                                      Recounting their first thoughts, participants de-     tion, and no youth expressed difficulty locating
+                                                                                      scribed how they selected a response. One youth       an appropriate response option. When queried
+                                                                                      who selected “not exclusively male or female”         about how they selected a response, many refer-
+                                                                                      explained his choice:                                 enced their physical anatomy or birth sex. One
+                                                                                                                                            explained: “I have hair, I have breasts . . . so, I’m
+                                                                                                                                            female.” Several participants noted that the ques-
+                                                                                           My gender does kind of flow back and forth       tion required little thought because, for them,
+                                                                                           a little. And some days I would just im-         sex and gender are congruent and have been so
+                                                                                           mediately check off “female-to-male,” and        since birth. One stated: “That’s an easy question.
+                                                                                           other days it would be, well. . . . Today I      You’re either transgender or what you were born
+                                                                                           picked “not exclusively male or female”          as.” Another commented: “I assumed I’m a girl
+                                                                                           because I’ve been thinking about it, and,        because I was born a girl and haven’t had any
+                                                                                           you know, was kind of factoring in, you          operations.”
+                                                                                           know, the fact that I kind of consider myself       When asked if they read through the options
+                                                                                           a feminine guy. Some days I don’t mind           before selecting a response, several participants
+                                                                                           being a girl and some days I can’t stand it.     made statements like this: “I didn’t look at any of
+
+                                                                                      6                                JOURNAL OF LGBT HEALTH RESEARCH
+                                                                                      the trans [response options]—I just went straight           I’m like, “How awful would that be?” I
+                                                                                      to the male. So, it was just like answering my              don’t know. Transgender, I don’t really get
+                                                                                      age. There wasn’t any hesitation. I didn’t think            it. I do get it, but it’s kind of weird, I think.
+                                                                                      to answer.” Another stated: “I didn’t really think          Like, I have nothing against transgender
+                                                                                      about these [transgender options]. . . because I            people. I don’t think I’ve ever met one. It
+                                                                                      knew that I was going to answer female.”                    is, like, I couldn’t see myself doing it.
+                                                                                      Emotional Experience of Answering                         One boy remarked: “I don’t see, you know,
+                                                                                      the Item                                               why you have to do that, ask people if they’re
+                                                                                                                                             transgender.” He went on to say: “I think it’s
+                                                                                         Transgender participants. Transgender re-
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                                                                             crazy, I think that people shouldn’t do that. They
+                                                                                      spondents expressed a range of feelings when
+                                                                                                                                             should be proud of what they are.” A participant
+                                                                                      asked: “What went through your mind when you           recounted a visceral reaction to the transgender
+                                                                                      read the question?” One, as reported earlier, was
+                                                                                                                                             response options:
+                                                                                      somewhat confused by the sex/gender question
+                                                                                      stem. Another was displeased by it:
+                                                                                                                                                  It was like, it was like a smack in the face.
+                                                                                                                                                  Because it’s kind of hard to accept that peo-
+                                                                                           The sex/gender was not a happy thing.                  ple actually do that. Like, you can actually
+                                                                                           . . . By adding the three trans stuff, it              switch your sex. . . . I thought it was nasty.
+                                                                                           was supposed to kind of give people lee-               I was like, “Why is that there? Why can’t
+                                                                                           way around that sex, gender, don’t always              they just say male or female? Why do they
+                                                                                           match up. It’s asking for sex, and, like, at-          have to know that you decided to switch
+                                                                                           tempting to tackle gender with the trans               your gender?”
+                                                                                           stuff, but, um . . . it just seemed problem-
+                                                                                           atic.                                                Some participants reported neutral feelings
+                                                                                                                                             about the transgender options. One said: “I
+                                                                                          Two other transgender participants reported        thought it pretty well described things, like fe-
+                                                                                      neutral first thoughts, one commented: “I              male, male, trans, and not sure. I thought it
+                                                                                      thought it was straight up” and the other re-          put all the things that I could possibly think
+                                                                                      flected on the ebb and flow of his gender. For         of, all the situations I could think of.” Another
+                                                                                      another participant, the topic of gender evoked        participant offered this: “Some people think
+                                                                                      strong feelings about masculinity, culture, and        they’re a man in a woman’s body or the other
+                                                                                      community. He was relieved to find a neutral           way around and I’m comfortable with who I
+                                                                                      transgender response that would enable him to          am.”
+                                                                                      avoid identifying as male. One transsexual par-           The majority made positive remarks, includ-
+                                                                                      ticipant expressed discontent with the response        ing this: “I think it should be like this, ‘cause
+                                                                                      choices and spoke extensively about being trans-       then, like, um, on questions where it would just
+                                                                                      sexual.                                                say female and male, they cut people out. That’s
+                                                                                          Nontransgender participants. As presented          not fair.” One youth explained: “Not everyone
+                                                                                      earlier, the selection of a response required little   can be like me, you know? They can be a male,
+                                                                                      effort for nontransgender youth. Most youth ex-        or like a transgender, or a not sure person of
+                                                                                      pressed neutral emotions when describing their         what they are. Everyone has a right to, like,
+                                                                                      first thoughts about the item or commented fa-         check their box.”
+                                                                                      vorably on the inclusion of transgender options.
+                                                                                      In fact, all but three had neutral or positive re-
+                                                                                      sponses. A girl recalled her experience answer-                        DISCUSSION
+                                                                                      ing the item:
+                                                                                                                                                This study used cognitive testing methods
+                                                                                           I was like, “Well, what am I?” Actually,          to evaluate a self-report measure of gender
+                                                                                           I was thinking about transgender people.          identity in an adolescent sample (n = 30).
+
+                                                                                                                               Conron, Scout, and Austin                                              7
+                                                                                      Comprehension problems were infrequent and             respondents indicated any discomfort with the
+                                                                                      resulted in only one instance of within-group          transgender response options; however, discom-
+                                                                                      misclassification. Few nontransgender youth,           fort did not inhibit their selection of an appropri-
+                                                                                      those for whom biological sex and gender iden-         ate response option, nor did it result in interview
+                                                                                      tity were congruent, differentiated between sex        termination.
+                                                                                      and gender. For this reason, we believe that the          Our study may be the first to evaluate a self-
+                                                                                      conflated item stem, sex/gender, did not con-          report measure of gender identity with adoles-
+                                                                                      fuse nontransgender respondents. In contrast, the      cents. We selected methods that would allow
+                                                                                      pairing of sex and gender in the item stem was         us to identify the universe of possible problems
+                                                                                      somewhat confusing to two out of six transgen-         related to the measure, not to produce infor-
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                      der youth. Although most nontransgender youth          mation about the distribution of specific prob-
+                                                                                      reported selecting a response without reading          lems in a specific source population. The pur-
+                                                                                      all of the response options, all aspects of a sur-     posive sampling of a diverse group of adoles-
+                                                                                      vey item should be clear to all respondents in         cents enabled us to identify many issues re-
+                                                                                      order to prevent misclassification. All youth un-      lated to answering a question about gender
+                                                                                      derstood a transgender status to involve discor-       identity.
+                                                                                      dance between sex at birth and one’s internal             Based upon issues raised by our sample, we
+                                                                                      sense of gender. Nearly all nontransgender youth       suggest minor modifications to the tested gen-
+                                                                                      explained their understanding of the term trans-       der item (Table 2). We recommend changing the
+                                                                                      gender through an example (e.g., “Some people          item stem from sex/gender to gender to clarify
+                                                                                      think they’re a man in a woman’s body or the           that the measure is soliciting information about
+                                                                                      other way around.”).                                   gender identity. Additionally, the words “do not
+                                                                                          Five out of six transgender participants se-       identify as” should be added to the third trans-
+                                                                                      lected a response that accurately represented          gender response option to prompt respondents
+                                                                                      their gender identity. Although one participant        to provide information about identity rather than
+                                                                                      would have preferred a transsexual response            physical anatomy.
+                                                                                      option, her selection of “transgender, male-to-           Several limitations of our study merit dis-
+                                                                                      female” is consistent with terminology used by         cussion. Our sample was small and did not in-
+                                                                                      health organizations that locates transsexuals as      clude younger adolescents (13–14 year olds),
+                                                                                      a subgroup within the larger transgender popu-         non-English speakers, or those living in rural
+                                                                                      lation (CSAT, 2001; GLMA, 2001). One trans-            areas and outside of New England. In addi-
+                                                                                      gender participant who was born biologically           tion, many adolescents in our sample were re-
+                                                                                      male and thinks of herself as a girl was mis-          cruited from LGBT-affiliated sites. It is possi-
+                                                                                      classified as “transgender, not exclusively male       ble that both transgender and nontransgender
+                                                                                      or female” rather than as “transgender, male-to-       youth who were not represented in our sam-
+                                                                                      female.” She selected her response on the basis        ple would have raised additional issues. For in-
+                                                                                      of her anatomy, which was unaltered by hor-            stance, a transgender adolescent who thinks of
+                                                                                      mones or surgery, rather than her identity. Nev-       himself as male might validly select male as his
+                                                                                      ertheless, this participant was correctly classified   gender identity, rather than transgender female-
+                                                                                      as transgender.
+                                                                                          Adding transgender response options to a
+                                                                                                                                                 TABLE 2. Modified Gender Identity Item
+                                                                                      measure of gender permitted the identification
+                                                                                      of transgender adolescents without confusing
+                                                                                      nontransgender participants. Given that the vast       Gender
+                                                                                      majority of respondents on general population          Female
+                                                                                      health surveys are not transgender, it is par-         Male
+                                                                                      ticularly important to prevent confusion (and          Transgender, male-to-female
+                                                                                      misclassification) of nontransgender youth. No         Transgender, female-to-male
+                                                                                                                                             Transgender, do not identify as exclusively male or female
+                                                                                      participant selected “not sure,” nor did any-          Not sure
+                                                                                      one skip the item. Only three nontransgender
+
+                                                                                      8                                JOURNAL OF LGBT HEALTH RESEARCH
+                                                                                      to-male. In doing so, this adolescent would be                             REFERENCES
+                                                                                      misclassified as nontransgender. We urge re-
+                                                                                      searchers to draw representative samples of            American Medical Association. (2007). Report 11-A-
+                                                                                      transgender youth, perhaps using respondent-              07: Recommendations to modify AMA policy to en-
+                                                                                      driven sampling methods (Heckathorn, 1997),               sure inclusion for transgender physicians, medical
+                                                                                                                                                students, and patients (Policy H-440.885, National
+                                                                                      to find out how often transgender adolescents
+                                                                                                                                                Health Survey. Adopted June 2007). In Proceedings
+                                                                                      do not select a transgender response option on a          of the 2007 annual meeting of the House of Dele-
+                                                                                      measure like ours.                                        gates, Reports 1–17 of the Board of Trustees. Re-
+                                                                                         Our measure was designed for use on a self-            trieved June 30, 2008, from http://www.ama-assn.
+                                                                                      administered, anonymous health survey in a                org/ama1/pub/upload/mm/38/a07bot1.pdf
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                      population-based adolescent sample—the ma-             American Public Health Association. (1998). The need
+                                                                                      jority of which is nontransgender. It is worth not-       for public health research on gender identity and
+                                                                                                                                                sexual orientation (Policy number: 9819. Policy
+                                                                                      ing that different measures may be better suited
+                                                                                                                                                date: 1/1/1998). Retrieved March 17, 2007, from
+                                                                                      for use with different populations, modes of data         http://www.apha.org/advocacy/policy/policysearch
+                                                                                      collection, and settings (e.g., clinical, research).   American Public Health Association. (1999). The need
+                                                                                      For instance, researchers conducting a study of           for acknowledging transgendered individuals within re-
+                                                                                      transgender adolescents might want to collect             search and clinical practice (Policy number: 9933. Pol-
+                                                                                      data about both birth sex and gender identity             icy date: 1/1/1999). Retrieved March 17, 2007, from
+                                                                                      and be able to do so with relative ease. However,         http://www.apha.org/advocacy/policy/policysearch
+                                                                                                                                             Austin, S. B., Conron, K. J., Patel, A., & Freedner, N.
+                                                                                      nontransgender youth who do not differentiate
+                                                                                                                                                (2007). Making sense of sexual orientation measures:
+                                                                                      between sex and gender may view two sepa-                 Findings from a cognitive processing study with ado-
+                                                                                      rate measures of sex and gender as redundant,             lescents on health survey questions. Journal of LGBT
+                                                                                      and might skip one of them. A survey that uses            Health Research, 3(1), 55–65.
+                                                                                      computer-assisted self-interviewing technology         Center for Substance Abuse Treatment. (2001). A
+                                                                                      could provide a comprehensive definition of the           provider’s introduction to substance abuse treatment
+                                                                                      term transgender and ask “Are you transgender?            for lesbian, gay, bisexual, and transgender individu-
+                                                                                      And if so, are you male to female. . . ?” Such            als. (DHHS Publication No. SMA 01–3498). Rockville,
+                                                                                                                                                MD: Author. Retrieved July 16, 2008, from http://
+                                                                                      an approach might work well for both trans-
+                                                                                                                                                www.kap.samhsa.gov/products/manuals/pdfs/lgbt.pdf
+                                                                                      gender and nontransgender youth. Our measure           Clements-Nolle, K., Guzman, R., & Katz, M. (2001). HIV
+                                                                                      may also be appropriate for clinical or social            prevalence, risk behaviors, health care use, and mental
+                                                                                      service intake forms. A range of measurement              health status of transgender persons: Implications for
+                                                                                      approaches, and assumptions about their poten-            public health intervention. American Journal of Public
+                                                                                      tial strengths and limitations when used with dif-        Health, 91, 915–921.
+                                                                                      ferent populations in different settings, can and      Collins, D. (2003). Pretesting survey instruments: An
+                                                                                                                                                overview of cognitive methods. Quality of Life Re-
+                                                                                      should be tested.
+                                                                                                                                                search, 12, 229–238.
+                                                                                         Our results provide preliminary evidence that       Fallis, G., Landers, L., Lawrence, S., & Sperber, J. (2000).
+                                                                                      transgender response options can be added to              Access to health care for transgendered persons in
+                                                                                      measures of gender without confusing or bur-              Greater Boston. Boston: John Snow Research and
+                                                                                      dening adolescents and without adding items to            Training Institute and Justice Resource Institute, GLBT
+                                                                                      lengthy health surveys. Our modified item and             Health Access Project.
+                                                                                      other measures should be tested in populations         Garofalo, R., Deleon, J., Osmer, E., Doll, M., & Harper,
+                                                                                      differing by age, race–ethnicity, language, so-           G. W. (2006). Overlooked, misunderstood and at-risk:
+                                                                                                                                                Exploring the lives and HIV risk of ethnic minority
+                                                                                      cioeconomic status, and geography. Future re-             male-to-female transgender youth. Journal of Adoles-
+                                                                                      search should also explore issues related to mode         cent Health, 38, 230–236.
+                                                                                      and context of data collection. Testing and re-        Gay and Lesbian Medical Association and LGBT health
+                                                                                      finement of gender identity and related measures          experts. (2001). Healthy People 2010 companion docu-
+                                                                                      are necessary next steps toward addressing the            ment for lesbian, gay, bisexual, and transgender (LGBT)
+                                                                                      needs of the overlooked and underserved trans-            health. San Francisco: Author. Retrieved May 21, 2007,
+                                                                                      gender community.                                         from http://www.glma.org
+
+                                                                                                                                      Conron, Scout, and Austin                                               9
+                                                                                      Grossman, A. H., & D’Augelli, A. R. (2006). Transgender           Program). Retrieved September 30, 2002, from http://
+                                                                                         youth: Invisible and vulnerable. Journal of Homosexu-          lapublichealth.org/hiv/reports/epipro/2000/epipro00.
+                                                                                         ality, 51(1), 111–128.                                         pdf
+                                                                                      Groves, R. M., Fultz, N. H., & Martin, E. (1992). Direct       Massachusetts Department of Public Health, Health Sur-
+                                                                                         questioning about comprehension in a survey setting. In        vey Program, Behavioral Risk Factor Surveillance Sys-
+                                                                                         J. M. Tanur (Ed.), Questions about questions: Inquiries        tem. (2007). Behavioral Risk Factor Survey 2007 Ques-
+                                                                                         into the cognitive bases of surveys (pp. 49–61). New           tionnaire. Retrieved January 4, 2008, from http://www.
+                                                                                         York: Russell Sage.                                            mass.gov/Eeohhs2/docs/dph/behavioral risk/survey 07.
+                                                                                      Heckathorn, D. D. (1997). Respondent-driven sampling:             pdf
+                                                                                         A new approach to the study of hidden populations.          McGowan, C. K. (1999). Transgender needs assessment.
+                                                                                         Social Problems, 44(2), 174–199. Retrieved July 16,            New York: HIV Prevention Planning Unit, New York
+                                                                                         2008, from http://www.respondentdrivensampling.org             City Department of Health.
+Downloaded by [University of California, Los Angeles (UCLA)] at 15:24 08 April 2016
+                                                                                      Kammerer, N., Mason, T., Connors, M., & Durkee, R.             Meyer, I. H., & Colten, M. E. (1999). Sampling gay
+                                                                                         (2001). Transgenders, HIV/AIDS, and substance abuse:           men: Random digit dialing versus sources in the
+                                                                                         From risk-group to group prevention. In W. Bockting &          gay community. Journal of Homosexuality, 37(4), 99–
+                                                                                         S. Kirk. (Eds.), Transgender and HIV: Risks, preven-           110.
+                                                                                         tion, and care (pp.13–57). Binghamton, NY: Haworth          Rothman, K. J., & Greenland, S. (1998). Modern epidemi-
+                                                                                         Press.                                                         ology (2nd ed.). Philadelphia: Lippincott, Williams, and
+                                                                                      Kenagy, G. P. (2005). Transgender health: Findings from           Wilkins.
+                                                                                         two needs assessment studies in Philadelphia. Health        Smith, C., & Langenbahn, S. (1997). Young men who
+                                                                                         and Social Work, 30, 19–26.                                    have sex with men: A study of their HIV risk behav-
+                                                                                      Kosciw, J. G., & Diaz, E. M. (2006). The 2005 National            ior. Cambridge, MA: Abt Associates.
+                                                                                         School Climate Survey: The experiences of lesbian,          Sudman, S., Bradburn, N. M., & Schwarz, N. (1996). Think-
+                                                                                         gay, bisexual and transgender youth in our nation’s            ing about answers: The application of cognitive pro-
+                                                                                         schools. New York: Gay, Lesbian and Straight Educa-            cesses to survey methodology. San Francisco: Jossey-
+                                                                                         tion Network (GLSEN). Retrieved March 2, 2007, from            Bass Publishers.
+                                                                                         http://www.glsen.org                                        Warnecke, R. B., Johnson, T. P., Chavez, N., Sudman, S.,
+                                                                                      Lombardi, E. L., Wilchins, R. A., Priesing, D., & Malouf, D.      O’Rourke, D. P., Lacey, L., et al. (1997). Improving
+                                                                                         (2001). Gender violence: Transgender experiences with          question wording in surveys of culturally diverse popu-
+                                                                                         violence and discrimination. Journal of Homosexuality,         lations. Annals of Epidemiology, 7, 334–342.
+                                                                                         42(1), 89–101.                                              Xavier, J. M. (2000). The Washington Transgender Needs
+                                                                                      Los Angeles County Department of Health Services.                 Assessment Survey: Final report for phase two. Wash-
+                                                                                         (2000). An epidemiologic profile of HIV and AIDS in            ington, DC: Administration for HIV/AIDS of the Dis-
+                                                                                         Los Angeles County. July 2000 (HIV Epidemiology                trict of Columbia.
+

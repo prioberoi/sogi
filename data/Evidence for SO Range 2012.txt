@@ -1,0 +1,939 @@
+Arch Sex Behav (2012) 41:85–101
+DOI 10.1007/s10508-012-9921-y
+  ORIGINAL PAPER
+Mostly Heterosexual and Mostly Gay/Lesbian: Evidence
+for New Sexual Orientation Identities
+Zhana Vrangalova • Ritch C. Savin-Williams
+Published online: 11 February 2012
+ Springer Science+Business Media, LLC 2012
+Abstract A sample of 1,784 individuals responded to an online      Introduction
+survey advertised on the Facebook social networking website. We
+explored the sexual orientation continuum by focusing on three     Consistent with the prevailing literature, we define sexual ori-
+components: self-reported sexual orientation identity, sexual      entation as the sexual attraction, identity, arousals, fantasies, and
+attraction, and sexual partners. Results supported a 5-category    behaviors individuals have for one sex, the other sex, or both
+classification of identity (heterosexual, mostly heterosexual,     sexes (LeVay & Baldwin, 2012). Although these components
+bisexual, mostly gay/lesbian, gay/lesbian) in that two added       are theoretically understood as existing on a continuum (Sell,
+identity labels (mostly heterosexual and mostly gay/lesbian)       1997), in practice researchers often place participants into one
+were frequently chosen by participants and/or showed unique        of three discrete sexual categories (heterosexual, bisexual, or
+patterns of attraction and partners, distinct from their adjacent  gay/lesbian), and this is particularly true of sexual identity. These
+identities (heterosexual and bisexual, and bisexual and gay/       three categories have become so culturally and politically
+lesbian, respectively). Those who reported an exclusive label      entrenched in contemporary societies that they have achieved
+(heterosexual, gay/lesbian) were not necessarily exclusive in      the status of‘‘natural kinds,’’that is, naturally occurring rather
+other components; a significant minority of heterosexuals and      than socially constructed distinctions. Consequently, individu-
+the majority of gays/lesbians reported some attraction and/or      als are expected to summarize their sexual orientation compo-
+partners toward their nonpreferred sex. The five identity groups   nents as belonging to and consistent with one of these three
+differed in attraction and partners in a manner consistent with a  categories. For example, a man who selects‘‘gay’’as his sexual
+continuous, rather than a categorical, distribution of sexual ori- orientation label is presumed to identify as gay, feel attraction
+entation. Findings also supported a sexual orientation continuum   to and fantasies about men (but not women), and have (or desire)
+as consisting of two, rather than one, distinct dimensions (same-  sexual and romantic relationships with men (but not women). In
+and other-sex sexuality). Having more same-sex sexuality did       recent years, however, it has become increasingly evident that
+not necessarily imply having less other-sex sexuality, and vice    the traditional 3-category method of sexual orientation identity
+versa. More men than women were at the exclusive ends of the       classification does not adequately describe individuals who, if
+continuum; however, men were not bimodally distributed in          given the option, choose a more nuanced identity status (Morgan,
+that a significant minority reported nonexclusivity in their sex-  Steiner, & Thompson, 2010; Morgan & Thompson, 2011). Fur-
+uality.                                                            thermore, these ‘‘in-between’’ individuals possess unique sexual
+                                                                   and psychological profiles, distinct from those who fit traditional
+Keywords Sexual orientation  Heterosexual                        categories (Thompson & Morgan, 2008; Vrangalova & Savin-
+Gay/lesbian  Sexual identity  Sexual behavior                    Williams, 2010). If sexual orientation exists on a continuum from
+                                                                   exclusive other-sex to exclusive same-sex, then more options
+                                                                   should be available to research participants (Kinsey, Pomeroy,
+                                                                   & Martin, 1948; Savin-Williams, 2005; Sell, 1997).
+Z. Vrangalova (&)  R. C. Savin-Williams
+                                                                       Giventhesefindings,ourprimarygoalinthisstudywastoassess
+Department of Human Development, Cornell University,
+Ithaca, NY 14853-4401, USA                                         the adequacy ofthetraditional, 3-category system ofsexual orien-
+e-mail: sv99@cornell.edu                                           tation identity. In this, we sought to contribute to the ongoing
+                                                                                                                             123
+
+86                                                                                                      Arch Sex Behav (2012) 41:85–101
+question regarding the conceptualization of sexual orientation        with identity labels (Bailey, 2009), significant discrepancies are
+as either a true continuum or as naturally occurring in three dis-    found in many individuals across all three sexual categories
+crete categories (Sell, 1997). We did this in two steps. First, we    (Savin-Williams, 2009). Decades of research on nonhetero-
+expanded the 3-category to a 5-category system by examining           sexual populations have revealed that many lesbian- and gay-
+the viability of two‘‘intermediate’’sexual orientation identities     identified individuals are not exclusively same-sex oriented in
+that exist along a sexual orientation continuum: ‘‘mostly het-        that they report at least some other-sex attraction and/or partners
+erosexual,’’presumably situated between heterosexual and bisex-       (Diamond, 2008; Rosario, Schrimshaw, Hunter, & Braun, 2006;
+ual,and‘‘mostlygay/lesbian,’’presumablysituatedbetweenbisexual        Savin-Williams, 2005). Bisexually identified women and men
+and gay/lesbian. We did this by comparing the number of partici-      vary widely in the balance of their same- and other-sex attraction
+pants who chose one of these intermediate categories as their         and behavior, ranging from almost exclusively heterosexual to
+identity label with those who chose the adjacent traditional labels,  almost exclusively homosexual (Diamond, 2008; Weinberg,
+and by assessing the distinctiveness of these two intermediate        Williams, & Prior, 1994; Weinrich & Klein, 2002). Similar
+categories from adjacent traditional sexual orientation identity      inconsistencies exist among heterosexually identified individu-
+groups in terms of self-reported sexual attraction and sexual         als (Dunne, Bailey, Kirk, & Martin, 2000; Ellis, Robb, & Burke,
+partners.                                                             2005; Hoburg, Konik, Williams, & Crawford, 2004; Vrangalova
+    Second, we examined in the expanded 5-category system             & Savin-Williams, 2010). For example, although 95% of par-
+whether the two exclusive sexual orientation identity groups          ticipants in a large Australian twin registry identified as heter-
+(heterosexual, gay/lesbian) were consistently exclusive and whe-      osexual, only 80% were exclusively heterosexual in that they
+ther the three nonexclusive groups (mostly heterosexual, bisexual,    reported no same-sex attraction or behavior (Dunne et al., 2000).
+mostly gay/lesbian) were consistently nonexclusive in regard          In a convenience sample of heterosexually identified U.S. col-
+to sexual attraction and partners across individuals comprising       lege students, 84% of women and 51% of men reported at least
+each group. If the two intermediate identities emerge as per-         some same-sex attraction, fantasies, or partners (Vrangalova &
+sonally meaningful and distinct categories, then the scientific       Savin-Williams, 2010).
+understanding of sexual orientation would benefit from a 5-               One possible explanation for discrepancies among sexual
+category system in which mostly heterosexual and mostly gay/          orientation components is the limited range of identity options
+lesbian individuals are studied separately from heterosexuals,        offered by the traditional 3-category system, which is only mod-
+bisexuals, and gays/lesbians. More importantly, if the 3-cate-        erately successful at capturing the range of sexual attraction and
+gory system can be more accurately replaced with a finer, 5-          behavior along the sexual orientation continuum. For example,
+category one, and if the latter system also fails to produce entirely recent investigations across various countries have shown that
+consistent categories (exclusive or nonexclusive), this would         up to 25% of women and 10% of men report‘‘a small degree’’of
+imply that sexual orientation is a continuously distributed trait.    same-sex attraction, fantasies, or behavior (Austin et al., 2004;
+That is, attempts to categorize sexual orientation regardless of      Bailey, Dunne, & Martin, 2000; Bogaert, 2010; Busseri, Wil-
+the exact number of proposed categories is ultimately an arbi-        loughby, Chalmers, & Bogaert, 2008; Fergusson, Horwood,
+trary imposition, even if a useful or necessary one.                  Ridder, & Beautrais, 2005; Skegg, Nada-Raja, Dickson, Paul,
+    The continuous nature of sexual orientation has been chal-        & Williams, 2003; Wichstrøm & Hegna, 2003). This promp-
+lenged primarily among men. Studies assessing genital arousal         ted several investigators to suggest that these individuals form
+suggest that male sexuality is best characterized as exclusive        a distinct‘‘mostly heterosexual’’group (Austin, Conron, Patel,
+and bimodal, that is, men show eitherheterosexual or homosexual       & Freedner, 2007; Savin-Williams, 2005; Thompson & Morgan,
+arousal patterns (Rieger, Chivers, & Bailey, 2005). This research     2008; Vrangalova & Savin-Williams, 2010). Although we are
+is consistent with the view that categories which include levels of   unaware of any initiatives to treat those with a small degree of
+both same-sex and other-sex sexuality are rare or nonexistent         other-sex sexuality as a distinct‘‘mostly gay/lesbian’’identity,
+among men. In fact, bisexual-identified men are often believed        such a category can be hypothesized.
+to be either heterosexual or homosexual in their sexual orien-            In the few investigations that used the extended 5-category
+tation, but not bisexual in their sexual attraction, arousal, and     sexual orientation identification system, mostly heterosexual
+behavior (Bailey, 2009). Although recent research has identified      emerged as the single largest nonheterosexual identity group,
+men with bisexual arousal patterns (Cerny & Janssen, 2011;            larger than all other nonheterosexual groups combined. For
+Rosenthal, Sylva, Safron, & Bailey, 2011a), the view that such        example, in the just released Wave 4 data from the U.S. National
+men are extremely rare persists (Rosenthal, Sylva, Safron, &          Longitudinal Survey of Adolescent Health, a nationally repre-
+Bailey, 2011b).                                                       sentative study of U.S. young adults, 16% of women and 3% of
+    Research using the 3-category system demonstrates that sex-       men selected mostly heterosexual; in contrast, 4% of women
+ual orientation identities are frequently inconsistent with other     and 3% of men identified as bisexual, mostly gay/lesbian, or
+sexual orientation components. Although sexual attraction and         gay/lesbian combined. There were nearly as many mostly les-
+behavior are generally positively correlated with each other and      bian (0.8%) as lesbian (0.9%); among men, 0.6% identified as
+ 123
+
+Arch Sex Behav (2012) 41:85–101                                                                                                        87
+mostly gay and 2% as gay (Savin-Williams, Joyner, & Rieger,          individuals in terms of reported sexual attraction and partners
+2012). Beyond basic prevalence, little is known about the inter-     or whether they only appear nonexclusive due to a mix of exclu-
+mediate identity categories. Mostly heterosexual and mostly gay/     sive same-sex and exclusive other-sex oriented individuals.
+lesbian sexual orientation labels are rarely offered to survey          An additional goal was to clarify whether sexual orientation
+participants and, when they are, individuals choosing these options  is best conceptualized as one-dimensional that exists along a
+are seldom separated for analysis and are either combined with one   single (bipolar) dimension ranging from exclusively hetero-
+of the adjacent groups or dropped from analyses (Bogaert, 2005;      sexual to exclusively homosexual (Kinsey et al., 1948; Klein,
+Morgan, Steiner, & Thompson, 2010; Morrison & Bearden, 2007;         Sepekoff, & Wolf, 1985) or as two-dimensional that exists along
+Pedersen & Kristiansen, 2008; Poon & Saewyc, 2009).                  two independently varying (unipolar) dimensions of same-sex
+    A few recent studiesexamined the distinctiveness of themostly    and other-sex, each ranging from‘‘nonexistent’’to‘‘strongly
+heterosexual and/or the mostly gay/lesbian identity in one or more   present’’(Shively & DeCecco, 1977; Storms, 1980). The one-
+aspects of sexual orientation. In Wave 3 of Add Health, mostly       dimensional approach, which implies that having more same-
+heterosexual youth did not differ from heterosexuals, and mostly     sex sexuality by necessity means having less other-sex sexu-
+gay/lesbians did not differ from gay/lesbians in regard to percent   ality (or vice versa), has been criticized by researchers who
+of same-sex relationship partners; both groups, however, dif-        noted that, although it may accurately describe some people, it
+fered from bisexuals (Loosier & Dittus, 2010). Among British         fails to describe those who are simultaneously high (or low) on
+Columbia high school students, mostly heterosexual girls and         both same-sex and other-sex sexuality (Bullough, 1990; Storms,
+boys were in between heterosexual and bisexual girls and boys        1980). Despite the criticism, the one-dimensional approach has
+in their likelihood of having had at least one other-sex as well     largely dominated sexual orientation assessment (Sell, 1997). In
+as a same-sex partner; the only non-significant difference was       the current study, we addressed this issue by using independent
+between mostly heterosexual and heterosexual boys in terms           assessments of same-sex and other-sex attraction and behavior
+of other-sex partners (Saewyc et al., 2009). Mostly heterosexual     when comparing sexual orientation identity groups.
+Black and Latina women aged 18–24 had more sexual partners
+than their heterosexual peers (Austin, Roberts, Corliss, & Molnar,   Hypotheses
+2008). Finally, mostly heterosexual college women were more
+same-sex oriented than heterosexual women, but less so than          Based on the conceptualization of sexual orientation as a con-
+bisexual women in terms of attraction and fantasies; mostly          tinuum, our first hypothesis was that intermediate labels (mostly
+heterosexuals were also less same-sex oriented than bisexuals,       heterosexual, mostly gay/lesbian) will be chosen by at least as
+but did not differ from heterosexuals in terms of sexual rela-       many participants as the least frequently chosen traditional
+tionships (Thompson & Morgan, 2008).                                 labels in the sample, with mostly heterosexual emerging as
+    Although these studies provide some answers as to the via-       the most frequently chosen nonheterosexual label.
+bility and distinctiveness of mostly heterosexuals and mostly           Our second hypothesis was that, at the group level, mostly
+gays/lesbians, they have a number of limitations. They include       heterosexuals would be more same-sex and less other-sex ori-
+only a mostly heterosexual, but not a mostly gay/lesbian group;      ented in attraction and partners than heterosexuals, but less same-
+focus only on women or combine men and women in analyses;            sex and more other-sex than bisexuals. Correspondingly, mostly
+examine behavioral but not attraction components of sexual           gays/lesbians would be more same-sex and less other-sex ori-
+orientation; and/or focus specificallyon adolescents. In the present ented than bisexuals, but less same-sex and more other-sex ori-
+research, we build and extend this previous work by including        ented than gays/lesbians. Given the paucity of two-dimensional
+both mostly heterosexual and mostly gay/lesbian groups; ana-         sexual orientation assessments, we did not make specific pre-
+lyzing men and women separately; examining both sexual attrac-       dictions whether differences would emerge in both same-sex
+tion and behavior; and investigating a somewhat older, yet large     and other-sex attraction and partners, but considered a differ-
+and diverse sample of U.S. adults. We also address two addi-         ence in either dimension as supportive of this hypothesis. If the
+tional issues relevant to determining the continuous versus dis-     groups differ in both same-sex and other-sex sexuality in par-
+crete nature of sexual orientation. First, we explored whether those allel patterns, it would support a one-dimensional conceptual-
+identifying with an exclusive label (heterosexual, gay/lesbian)      ization of sexual orientation; a difference in only one, but not the
+in an expanded 5-category system report complete exclusivity         other dimension, would support a two-dimensional conceptual-
+in their attraction and behavior once those with a small degree      ization.
+of same- or other-sex sexuality were offered a nonexclusive label       Our third hypothesis was that heterosexual and gay/lesbian
+(mostly heterosexual, mostly gay/lesbian). These are presumably      identified groups will not be entirely exclusive. That is, some
+more appropriate than the only nonexclusive label offered in the     heterosexuals will report same-sex attraction and/or partners
+3-category system (bisexual). Second, we examined whether the        and some gays/lesbians will report other-sex sexuality. Our fourth
+three nonexclusive identity groups (mostly heterosexual, bisex-      hypothesis was that the vast majority of individuals in the nonex-
+ual, mostly gay/lesbian) are composed of truly nonexclusive          clusive groups will be nonexclusive in their attraction and partners.
+                                                                                                                               123
+
+88                                                                                                               Arch Sex Behav (2012) 41:85–101
+    We expected these findings to emerge in both women and                   Measures
+men. However, given the bimodal perspective of male sexual
+orientation, we expected that this continuous distribution of                Sexual Orientation Identity
+sexual orientation will be less pronounced among men across
+all four hypotheses. Specifically, compared to women, fewer men              Participants chose one of six labels to identify their sexual ori-
+will identify as mostly heterosexual and mostly gay/lesbian; the             entation: heterosexual, mostly heterosexual, bisexual, mostly
+differences between the intermediate and their adjacent catego-              gay/lesbian, gay/lesbian, questioning/uncertain. An ‘‘other’’ cat-
+ries will be less pronounced among men; there will be fewer                  egory was also presented.
+nonexclusive heterosexual and gay men; and there will be more
+exclusive men among the three nonexclusive identity groups.                  Sexual Attraction
+                                                                             Same-sex and other-sex attraction were assessed using two
+Method                                                                       separate questions:‘‘How sexually attracted are you to women?’’
+                                                                             and‘‘How sexually attracted are you to men?’’Participants were
+Participants                                                                 asked to rate their attraction on a scale of 1 (not at all) to 5 (very
+                                                                             much).
+A total of 1,784 individuals responded to an online survey
+advertised using the Facebook social networking website. At the              Sexual Partners
+timeofdatacollection, Facebookwas thelargest social networking
+website in the world, with over 40 million users in the U.S. (Cor-           Participants provided in two separate questions the total number
+bett, 2009). We excluded 108 surveys for the following reasons:              of male and female partners with whom they have had a genital
+empty surveys (eight cases), duplicatecases (three cases), younger           sexual experience, defined as including penile-vaginal pene-
+than 18 (four cases), joke or dishonest responding (seven cases),            tration, oral sex, anal sex, and mutual masturbation.
+and not currently residing in the U.S. (86 cases). Of the remaining
+1,676 participants, 836 (50%) were women, and 819 (49%) were                 Procedure
+students. The sample ranged in age from 18 to 74 years (M = 28.8;
+SD = 10.8); however, 75% of participants were between the ages               Participants were recruited for a study on sexual morality. An
+of 18 and 35 (Mdn = 25).                                                     advertisement banner was placed on the Facebook social net-
+    The U.S. geographical distribution of the sample was broad               working website for 5 days in November 2008. The banner was
+(38% Northeast, 25% South, 19% West, and 18% Midwest), as                    titled ‘‘How Wrong Is It To…Have Sex With Your Boss?’’ fol-
+was the religious background of participants (34% nonbeliev-                 lowed by a short explanation that this is a survey on sexual
+ers, 35% Protestant, 17% Catholic, 5% Jewish, and 8% other).                 morality. Those clicking on the ad were taken to a page con-
+The vast majority (73%) had some college education or a col-                 taining a detailed description of the study, including a link to
+lege degree, with 16% reporting a post-graduate degree and 11%               the online survey. The survey was described as a study on sexual
+reporting a high school degree or less. In terms of race/ethnicity,          attitudes, beliefs, and behaviors; no mention was made that the
+79% of the sample was white, 6% was Asian American, 6% was                   study was also about sexual orientation. The ad was targeted to
+Latino/Hispanic, 5% was mixed race, and 4% was African Ameri-                a random sample of individuals aged 18 or older and residing in
+can. The sample was somewhat religious (M = 2.46, SD = 1.3,                  the U.S. Most participants (88%) learned about the study through
+on a scale of 1–5, with higher scores indicating greater reli-               Facebook, 7% responded after receiving an email from a friend,
+giosity) and somewhat more politically liberal than conserva-                and 5% learned about it through a website other than Facebook (a
+tive (M = -1.47, SD = 3.48, on a scale of -6 to 6, with higher               link to the study had been posted on several other blogs and
+scores indicating greater conservatism).                                     websites at the initiative of members/owners of those sites).
+    There were no significant sex differences in racial/ethnic                   The non-Facebook sample differed from the Facebook sample
+background, education, geographical region, or religiosity. How-             in that it was more female, 68 vs. 47%, v2(1, n = 1,675) = 51.59,
+ever, compared to women, men were somewhat older (Mmen =                     p\.001, and slightly older (M = 30.5 years, SD = 11.7 vs.
+30.1 years; Mwomen = 27.7 years), t(1,626) = 4.51, p\.001, and               M = 28 years, SD = 9.9), t(1,659) = 3.28, p\.001. There were
+more conservative (Mmen = -.91; Mwomen = -1.99), t(1,597) =                  no significant differences between the two groups in race,
+6.27, p\.001.1                                                               education, religious background, sexual orientation identity,
+                                                                             sexual partners, or sexual attraction (all ps[.10). The two groups
+1
+  Given these sex differences in our sample, all analyses of sex differences
+were run both without controls (using t-tests and v 2 analyses) and          Footnote 1 continued
+controlling for age and conservatism (using linear and logistic regression   conservatism and in order to avoid adding unnecessary complexity, we
+analyses). Controlling for these two variables did not significantly change  present the simple analyses without controls. The regression analyses
+any analyses. Because 43 participants were missing data for either age or    are available from the corresponding author upon request.
+ 123
+
+Arch Sex Behav (2012) 41:85–101                                                                                                                     89
+were therefore combined. The survey was anonymous and par-                   Table 1 Self-reported sexual orientation identity by sex
+ticipants were offered a chance to enter a lottery to win one of 20                                        Men (n = 828)           Women (n = 803)
+$15 prizes by entering their contact information on a separate
+website unrelated to the survey.                                             Heterosexual                  81% (670)               71% (568)
+                                                                             Mostly heterosexual            9% (72)                20% (158)
+Missing Data                                                                 Bisexual                       3% (25)                 6% (49)
+                                                                             Mostly gay/lesbian             2% (15)                 1% (10)
+Excluded from analyses were 31 cases of uncertain sexual ori-                Gay/lesbian                    5% (46)                 2% (18)
+entation labels. Five women did not provide sexual orientation
+                                                                             Excludes five women who did not provide sexual orientation labels, and 16
+labels and an additional 16 women and 10 men chose a label                   women and 10 men who chose a label not included in this study (pansexual,
+other than the five labels of interest in this study (pansexual,             asexual, uncertain, no label)
+asexual, uncertain, or no label). Also excluded from analyses were
+five cases that reported illogical patterns of sexual orientation            chosen by at least as many participants as the least frequently
+identity, attraction, and partners: three women and one man                  chosen traditional labels, that mostly heterosexual would emerge
+identified as heterosexual but reported an exclusively homo-                 as the most frequently chosen nonheterosexual label, and that
+sexual pattern of attraction and partners and one woman iden-                more women than men would choose intermediate identity
+tified as lesbian, but reported an exclusively heterosexual pattern          categories.
+of attraction and partners. An additional 64 cases were missing a               Table 1 shows the number and percentage of participants in
+rating of either same-sex or other-sex attraction. Of these, six did         each of the sexual orientation identity categories. Our predic-
+not provide consistent patterns of the non-missing attraction and            tions were confirmed in regard to the mostly heterosexual group.
+partners and were, therefore, excluded from further analyses; 55             Mostly heterosexual was the most frequently chosen nonhet-
+cases were heterosexually identified individuals who failed to               erosexual label in bothsexes;amongwomen,thisgroupwaslarger
+provide same-sex attraction information, but otherwise reported              than the three othernonheterosexual identity groups combined. As
+a consistent heterosexual pattern. Based on other responses, these           expected, the sex difference in the number of women compared to
+participants were categorized as exclusively heterosexual and the            men choosing the mostly heterosexual label was highly signif-
+missing same-sex attraction value was substituted with 1 (absence            icant, v2(1, n = 1,631) = 40.58, p\.001. Expectations were not
+of same-sex attraction). Three cases with missing data showed the            confirmed in regard to the mostly gay/lesbian group, which was
+opposite pattern, with individuals identified as mostly or exclu-            the smallest sexual orientation identity category for both sexes.
+sively gay/lesbian missing other-sex attraction in the presence of           More participants identified as bisexual or gay/lesbian than as
+strong same-sex attraction and partners. All also reported at least          mostly gay/lesbian. Furthermore, the difference in percentage
+one other-sex partner and were therefore assigned a 2 for other-             of men versus women selecting the mostly gay/lesbian label
+sex attraction. Two heterosexual women were missing attrac-                  was not significant, v2(1, n = 1,631)\1. Overall, more women
+tion data toward both same- and other-sex, and one heterosexual              (27%) than men (14%) chose a nonexclusive identity label (mostly
+man was missing partner data regarding both sexes. In order to               heterosexual, bisexual, or mostly gay/lesbian) over an exclusive
+maintain a constant number of respondents across all analyses,               identity (heterosexual or gay/lesbian), v2(1, n = 1,631) = 46.12,
+these individuals were excluded.2 The final analytical sample                p\.001.
+(including these three individuals) consisted of 1,631 partici-
+pants (803 women, 828 men). Descriptive data for all variables               Distinctiveness of Mostly Heterosexual
+used in the study and their correlations are shown in Tables 1 and 2.        and Mostly Gay/Lesbian Groups
+                                                                             Our second set of hypotheses stated that the intermediate groups
+Results
+                                                                             would differ from their adjacent identity groups in sexual attrac-
+                                                                             tion and sex partners in a manner supportive of a two-dimensional
+Mostly Heterosexual and Mostly Gay/Lesbian Categories
+                                                                             continuous conceptualization of sexual orientation, and that more
+                                                                             such differences would emerge among women than men.
+Our first set of hypotheses stated that the intermediate catego-
+ries, mostly heterosexual and mostly gay/lesbian, would be
+                                                                             Attraction
+2
+   Analyses were initially run without substituting missing values, with
+listwise deletion of all cases with missing values, and with missing values  Totestthesepredictionsregardingsexualattraction,weconducted
+for the 58 cases substituted as described above. Substitution did not        a series of analyses of variance (ANOVAs), separate by sex, with
+significantly impact results of analyses reported below. To retain as many
+                                                                             sexual orientation identity as an independent variable and other-
+participants as possible, we report the results of analyses with substituted
+values. The results from the other two analyses are available on request     sex and same-sex attraction as dependent variables. Four plan-
+from the corresponding author.                                               ned comparisons were tested with each ANOVA: heterosexual
+                                                                                                                                          123
+
+90                                                                                                                    Arch Sex Behav (2012) 41:85–101
+Table 2 Correlations among sexual orientation identity, attraction, and partners separately for men and women
+                                 1             2             3              4              5              6               7           M            SD
+1. Identitya                      1               .91**      -.84**           .57**        -.42**            .42**        -.05          1.42        1.04
+2. Same-sex attractionb             .78**       1            -.79**           .54**        -.41**            .41**        -.09*         1.57        1.15
+3. Other-sex attractionb         -.65**        -.44**         1             -.43**            .51**       -.46**              .13**     4.63         .96
+                         c
+4. Any same-sex partner             .54**         .59**      -.27**          1             -.14**          –                  .16**      .20
+5. Any other-sex partnerc        -.19**        -.07*           .27**          .02           1             -.11              –            .87
+6. # Same-sex partnersd             .25**         .36**      -.26**          –                .07          1              -.12        11.85        22.99
+7. # Other-sex partnersd            .07           .10**        .05            .30**         –                .27**          1         14.57        20.31
+M                                 1.45          2.02          4.71            .23             .91          3.29           11.42
+SD                                  .85         1.16           .72                                         5.57           15.46
+Female data are shown below the diagonal; male data are shown above the diagonal. For variables 1–5, analyses include all women (n = 803) and men
+(n = 828). For variable 6 and 7, analyses include only those participants with at least one same-sex partner (women = 188; men = 168) and other-sex
+partner (women = 734; men = 724), respectively
+a
+   Ranges from 1 (heterosexual) to 5 (gay/lesbian)
+b
+   Ranges from 1 (not at all) to 5 (very much)
+c
+   Coded as 1 (yes) and 0 (no)
+d
+   Ranges from 0 to 100 (values higher than 100 were assigned a value of 100)
+* p\.05; ** p\.01
+and mostly heterosexual, mostly heterosexual and bisexual, bisex-              sex and same-sex attraction, with mostly heterosexuals report-
+ual and mostly gay/lesbian, and mostly gay/lesbian and gay/                    ing higher other-sex attraction, but lower same-sex attraction
+lesbian. Given that the assumption of homogeneity of variance                  compared to bisexual women and men. Similarly, mostly gays/
+among the sexual orientation identity groups was violated for                  lesbians differed from bisexuals in both other- and same-sex
+both other- and same-sex attraction (based on Levene’s test sig-               attraction, reporting lower other-sex attraction but higher same-
+nificanceatp\.01),thecontrastswereevaluatedundertheassump-                     sex attraction compared to bisexual women and men. Finally,
+tion of unequal variances (Table 3).                                           mostly gay/lesbian men and women did not differ significantly
+    In the sample as a whole (Table 2), women and men reported                 from gays/lesbians in same-sex attraction, with both groups
+similar levels of other-sex attraction, t(1,629) = 1.88, but women             reporting close to the maximum same-sex attraction (range =
+reported stronger same-sex attraction than men, t(1,629) = 7.80,               4.70–4.94). The two groups differed, however, in other-sex
+p\.001. Overall ANOVAs for other-sex attraction among the                      attraction, with mostly gay/lesbian women and men reporting
+five sexual orientation identity groups were highly significant                higher other-sex attraction than gays/lesbians.
+for both men, F(4, 823) = 707.61, p\.001, and women, F(4,
+798) = 267.25, p\.001, and there was a linear decrease in other-               Sex Partners
+sex attraction from heterosexual to gay/lesbian groups in both
+men, F(1, 823) = 2364.56, p\.001, and women, F(1, 798) =                       The number of other-sex partners ranged from 0 to 500 among
+975.72, p\.001. Similarly, overall ANOVAs for same-sex                         men and from 0 to 200 among women, and the number of same-
+attraction among the five sexual orientation identity groups were              sex partners ranged from 0 to 1,000 among men and 0 to 50 among
+highly significant for both men, F(4, 823) = 1047.76, p\.001,                  women. All values higher than 100 (nine men and four women for
+and women, F(4, 798) = 353.56, p\.001, and there was a linear                  other-sex partners, and four men for same-sex partners) were
+increase in same-sex attraction from heterosexual to gay/lesbian               considered extreme outliers and were assigned a value of 100.
+groups in both men, F(1, 823) = 2854.47, p\.001, and women,                    All subsequent analyses were based on these Winsorized
+F(1, 798) = 476.11, p\.001.                                                    variables.3
+    Planned comparisons (Table 3) indicated that mostly heter-                     To test predictions regarding group differences in sexual
+osexual men and women did not significantly differ from het-                   behavior between intermediate and adjacent traditional sexual
+erosexuals in other-sex attraction. In both groups men and women
+reported close to the maximum other-sex attraction (range =
+4.78–4.90). The two groups differed in same-sex attraction,                    3
+                                                                                  Although descriptive data changed slightly when outliers were excluded
+with mostly heterosexual men and women reporting significantly
+                                                                               from analyses (i.e., using trimming of means), results of the inferential
+higher same-sex attraction than heterosexuals. The mostly het-                 analyses were identical. The Winsorization approach was favored in order
+erosexual group differed from the bisexual group in both other-                to increase statistical power of analyses.
+ 123
+
+Arch Sex Behav (2012) 41:85–101                                                                                                                       91
+Table 3 Means and SD for other-sex and same-sex attractions separate by sex for the five sexual orientation groups
+                           n         Other-sex                                                     Same-sex
+                                                                                         a
+                                     Strength of attraction         Group difference               Strength of attraction          Group differencea
+                                     M                SD            t-test            df           M               SD              t-test          df
+Men
+Heterosexual               672       4.90             .37                                          1.15             .40
+                                                                    1.71               78.6                                          9.83***        75.3
+Mostly heterosexual          72      4.78             .56                                          2.03             .75
+                                                                    2.62*              29.8                                          6.36***        31.8
+Bisexual                     25      4.24             .97                                          3.56            1.12
+                                                                    6.77***            35.7                                          5.40***        31.1
+Mostly gay/lesbian           15      2.40             .74                                          4.87             .35
+                                                                    4.57***            20.9                                        \1               18.8
+Gay/lesbian                  46      1.43             .62                                          4.93             .25
+Women
+Heterosexual               568       4.86             .41                                          1.49             .66
+                                                                    1.47              235.9                                         18.07***       213.9
+Mostly heterosexual        158       4.80             .45                                          2.79             .84
+                                                                    4.73***            56.7                                         10.14***        87.3
+Bisexual                     49      4.20             .84                                          4.08             .76
+                                                                    5.07***            13.5                                          2.58*          14.1
+Mostly gay/lesbian           10      2.80             .79                                          4.70             .68
+                                                                    3.98**             16.8                                          1.11           10.2
+Gay/lesbian                  18      1.61             .70                                          4.94             .24
+Based on all men (n = 828) and women (n = 803). Same- and other-sex attraction assessed separately on a scale of 1 (not at all) to 5 (very much). Higher
+scores indicate stronger attraction
+a
+  Tests of group differences (t-test) based on four planned contrasts per four ANOVA analyses (other-sex and same-sex attraction, separate for men
+and women). Due to violations of the assumption of homogeneity of variances among the sexual orientation identity groups, contrasts are evaluated
+under the assumption of unequal variances (with the respective df for each contrast provided)
+* p\.05; ** p\.01; *** p\.001
+orientation identity groups, we conducted two sets of analyses,                conducted after log-transforming these variables.4 Analyses, both
+one categorical and one continuous. Categorically, we tested                   categorical and continuous, were conducted separatelyfor women
+whether mostly heterosexual and mostly gay/lesbian groups                      and men.
+differed from adjacent sexual orientation identity groups in the                   Results from the categorical analyses are presented in Table 4
+percent of those who had at least one other-sex or same-sex                    and for the continuous analyses in Table 5. The means and SD for
+partner versus no such partners. This was done in a series of v2               number of sex partners provided in the text and in Table 5 are
+analyses, each testing one of the four comparisons of interest.                based on the original, non-transformed variables for better inter-
+Continuously, we tested whether groups differed in the num-                    pretability; all ANOVAs and t-tests reported in the text and
+ber of other-sex and same-sex partners among those who had                     Table 5 are based on the log-transformed variables.
+at least one partner of each type. Similar to analyses regarding                   Inthe total sample,significantly morewomenthanmenreported
+sexual attraction, this was done by conducting ANOVAs with                     at least one other-sex partner (91 and 87%, respectively), v2(1,
+sexual orientation identity as an independent variable and other-              n = 1,631) = 6.76, p = .009. The percentages of women and men
+sex and same-sex partners as dependent variables, each ANOVA                   with at least one same-sex partner were similar (23 and 20%,
+followed by four planned comparisons. Depending on whether                     respectively), v2(1, n = 1,631) = 2.33. The overall v2 for the
+the assumption of homogeneity of variance among the sexual
+                                                                               4
+orientation identity groups was violated (based on Levene’s                       Similar results were obtained when the number of partner variables was
+                                                                               analyzed using a series of non-parametric, median-based, Mann–Whitney
+test significance at p\.01), the contrasts were evaluated under
+                                                                               tests for each of the four comparisons of interest. We report the ANOVA
+the assumption of either equal or unequal variances. Due to severe             results; non-parametric analyses are available from the corresponding
+non-normality of the number of partner variables, ANOVAs were                  author on request.
+                                                                                                                                              123
+
+92                                                                                                                Arch Sex Behav (2012) 41:85–101
+Table 4 Percent and number in each sexual orientation identity group who had at least one other-sex and same-sex partner
+                           Other-sex                                                       Same-sex
+                                                  a                             b
+                           Had at least 1 partner             Group difference             Had at least 1 partnera             Group differenceb
+                           %                n                 v2               n           %                n                  v2                  n
+Men
+Heterosexual               92               616                                            10               66
+                                                             \1                742                                               72.80***          742
+Mostly heterosexual        90                 65                                           46               33
+                                                             \1                  97                                            \1                    97
+Bisexual                   84                 21                                           56               14
+                                                               2.88              40                                               4.02*              40
+Mostly gay/lesbian         60                  9                                           87               13
+                                                               4.94*             61                                            \1                    61
+Gay/lesbian                28                 13                                           91               42
+Women
+Heterosexual               92               524                                             9               52
+                                                               2.08            726                                             112.47***           726
+Mostly heterosexual        96               151                                            45               71
+                                                               2.28            207                                               25.09***          207
+Bisexual                   90                 44                                           86               42
+                                                             \1                  59                                            \1                    59
+Mostly gay/lesbian         78                  8                                           90                 9
+                                                               4.04*             28                                            \1                    28
+Gay/lesbian                39                  7                                           78               14
+a
+   Based on all women (n = 803) and men (n = 828)
+b
+   Each v2 analysis compares the two adjacent groups in terms of the number of respondents with and without at least one partner of each type. Df for all
+  2
+v analyses are 1
+* p\.05; ** p\.01; *** p\.001
+five sexual orientation identity groups was highly significant               (Table 4). Contrary to expectations, however, sexually experi-
+regarding other-sex partners in men, v2(4, n = 828) = 170.12,                enced mostly heterosexual men and women had somewhat more
+p\.001, and women, v2(4, n = 803) = 69.032, p\.001, and                      (rather than fewer) other-sex partners than heterosexual men and
+same-sex partners in men, v2(4, n = 828) = 278.20, p\.001,                   women (Table 5). More mostly heterosexual than heterosex-
+and women, v2(4, n = 803) = 265.68, p\.001. Among those with                 ual men and women had at least one same-sex partner and they
+at least one other-sex partner, men reported more other-sex part-            had more total same-sex partners than heterosexual men and
+ners than women, t(1,456) = 2.15; p\.05, and men reported more               women. Mostly heterosexual men did not differ from bisexual
+same-sex partners than women, t(354) = 5.32, p\.001. Overall,                men in sexual behavior. Mostly heterosexual women did not
+ANOVAs for other-sex partners among the five sexual orientation              differ from bisexual women in the percentage or number of
+identity groups were highly significant for both men, F(4, 719) =            other-sex partners, but fewer mostly heterosexual women had
+6.13, p\.001, and women, F(4, 729) = 5.67, p\.001, and there                 a same-sex partner compared to bisexual women; the number of
+was a linear decrease in other-sex partners from heterosexual to             same-sex partners among those with at least one such partner did
+gay/lesbian groups in men, F(1, 719) = 22.50, p\.001, but not in             not differ significantly between the two groups.
+women, F(1, 729) = 2.09. Similarly, overall ANOVAs for same-                      Mostly gay men did not differ from bisexual men in the
+sex partners among the five groups were highly significant for               likelihood of having at least one other-sex partner or the number
+both men, F(4, 163) = 22.57, p\.001, and women, F(4, 183) =                  of such partners. Mostly gay men differed from bisexual men in
+7.73, p\.001, and there was a linear increase in same-sex part-              their same-sex behavior: more mostly gay than bisexual men
+ners from heterosexual to gay/lesbian groups in both men, F(1,               had at least one same-sex partner and they had more total same-
+163) = 78.79, p\.001, and women, F(1, 183) = 19.80, p\.001.                  sex partners than bisexual men. Mostly lesbian women differed
+    In both sexes, similar proportions of heterosexual and mostly            from bisexual women in one aspect: among those with at least
+heterosexual individuals had at least one other-sex partner                  one same-sex partner, mostly lesbians had more same-sex
+ 123
+
+Arch Sex Behav (2012) 41:85–101                                                                                                                     93
+Table 5 Number of other-sex and same-sex partners across five sexual orientation identity groups among those with at least one partner of each type
+                           Other-sex                                                         Same-sex
+                                                 a                                  b
+                           Number of partners                      Group difference          Number of partnersa                Group differenceb
+                           M          SD        Mdn      n         t-test          df        M        SD       Mdn      n       t-test           df
+Men
+Heterosexual               14.4       19.5       7       616                                  3.9     12.4      1       66
+                                                                     2.05*         719                                            2.48*          163
+Mostly heterosexual        19.7       27.4      10         65                                 5.5       8.8     3       33
+                                                                     1.23          719                                          \1               163
+Bisexual                   15.1       23.1       5         21                                11.1     25.9      3.5     14
+                                                                     1.90          719                                            2.26*          163
+Mostly gay/lesbian          3.8         3.1      4          9                                20.6     24.9     11       13
+                                                                  \1               719                                          \1               163
+Gay/lesbian                 3.2         4.2      1         13                                26.9     32.6     10.5     42
+Women
+Heterosexual               10.2       14.2       5       524                                  1.7       1.2     1       52
+                                                                     4.48***       729                                            3.85***        121
+Mostly heterosexual        15.4       18.8       8       151                                  3.3       6.0     2       71
+                                                                     1.09          729                                          \1                 80
+Bisexual                   13.3       17.1       9         44                                 3.2       2.9     3       42
+                                                                  \1               729                                            2.29*            10
+Mostly gay/lesbian          9.4       12.6       5.5        8                                 8.6     12.0      4         9
+                                                                  \1               729                                            1.21             19
+Gay/lesbian                 5.9         6.8      3          7                                 6.2       9.6     2.5     14
+Includes participants who had at least one partner of each type (other-sex or same-sex). Both other-sex and same-sex number of partners variables have
+been Winsorised to a maximum of 100 partners
+a
+  Descriptive information based on the original, non-transformed other-sex and same-sex partner variables
+b
+   Tests of group differences (t-test) based on planned contrasts of four ANOVA analyses (other-sex and same-sex partners, separate by sex) using log-
+transformed variables. The assumption of homogeneity of variances among the five groups was only violated for number of same-sex partners among
+women; therefore, these contrasts were evaluated under the assumption of unequal variances. The other three sets of contrasts were evaluated under the
+assumption of equal variances
+* p\.05; ** p\.01; *** p\.001
+partners than bisexual women. The two groups did not differ in                  sole exception was mostly heterosexual men who differed from
+the percentage of those with at least one same-sex partner, or in               bisexual men in attraction but not in partners. Taken together,
+the percentage or number of other-sex partners. Among both men                  these findings confirmed our second hypothesis that the two
+and women, the mostly gay/lesbian group differed from the gay/                  intermediate sexual orientation groups would be distinct from
+lesbian group in one aspect: fewer mostly gays/lesbians had at                  adjacent traditional sexual orientation identity groups.
+least one other-sex partner. The two groups did not differ in                      Contraryto expectations,differenceswerenot morepronounced
+the percentage of those with at least one same-sex partner or in                among women than men (Table 6). The pattern of significant
+the number of other-sex or same-sex partners.                                   group differences was similar for women and men, with two
+    Table 6 summarizes findings presented thus far regarding                    exceptions (percentage of same-sex partners between mostly
+differences in sexual orientation components (sexual attraction                 heterosexual and bisexual, and between mostly gay/lesbian and
+and partners) between mostly heterosexual and mostly gay/lesbian                bisexual). In addition, the number of areas in which the four
+groups and adjacent sexual orientation identity categories. Both                pairs of sexual orientation groups showed significant differences
+intermediate groups differed from each adjacent category in at                  was the same for both sexes (12).
+least one component, with all but one pair of groups differing                     An additional goal in examining other-sex and same-sex
+from each other in at least one attraction aspect (same-sex and/                attraction and behavior separately was to determine whether
+or other-sex attraction) and at least one behavior aspect (per-                 these are better conceptualized as two separate dimensions as
+centage or number of same-sex and/or other-sex partners). The                   opposed to a single continuum. In support of the two-dimensional
+                                                                                                                                          123
+
+94                                                                                                           Arch Sex Behav (2012) 41:85–101
+Table 6 Summary of sexual orientation components in which mostly           Exclusivity of Exclusive and Nonexclusive Sexual
+heterosexual and mostly gay/lesbian groups differ significantly (4) and do Orientation Identity Groups
+not differ (–) from adjacent sexual orientation identity categories
+                 Sex attractionsa     Sex partners                         Our third hypothesis was that the two exclusive sexual orienta-
+                                      At least 1b           Numberc        tionidentity groups(heterosexual,gay/lesbian)wouldnotbeentirely
+                                                                           exclusive in sexual attraction and/or sex partners. As predicted,
+                 Other-    Same-      Other-     Same-      Other-  Same-
+                                                                           at least some individuals in each group reported sexual attrac-
+                 sex       sex        sex        sex        sex     sex
+                                                                           tion and/or partners toward their‘‘non-preferred’’sex. Between
+Men                                                                        13 and 50% of exclusively identified individuals reported some
+MHet–Het         –         4          –          4          4       4      attraction toward their non-preferred sex and between 9 and
+MHet–Bi          4         4          –          –          –       –      39% reported at least one same-sex partner (Table 7). Taken toge-
+MG/L–Bi          4         4          –          4          –       4      ther, 80% of heterosexual men, 57% of heterosexual women, 48%
+MG/L–G/L         4         –          4          –          –       –      of gays, and 39% of lesbians reported complete exclusivity in both
+Women                                                                      attraction and partners (Table 8).
+MHet–Het         –         4          –          4          4       4          Our fourth hypothesis stated that the three nonexclusive sexual
+MHet–Bi          4         4          –          4          –       –      orientation identity groups (mostly heterosexual, bisexual, mostly
+MG/L–Bi          4         4          –          –          –       4      gay/lesbian) were not nonexclusive due to a mix of individuals
+MG/L–G/L         4         –          4          –          –       –      with exclusive patterns of either same-sex or other-sex attrac-
+                                                                           tion and sex partners, but to individuals who report at least some
+4 p\.05; – p C .05
+a
+                                                                           same-sex and other-sex attraction or sex partners. As predicted,
+  Based on ANOVA analyses of strength of other- and same-sex attraction
+followed by planned contrasts (Table 3)
+                                                                           the majority of nonexclusive-identified individuals were non-
+b
+  Based on categorical (v2) analyses of the percentage of individuals in
+                                                                           exclusive in sexual orientation components, particularly in terms
+each group who had at least 1 other-sex or same-sex partner compared to    of attraction (Table 7). When both attraction and partners were
+no such partners (Table 4)                                                 taken into consideration, only six mostly heterosexual men (8%),
+c
+  Based on ANOVA analyses of the mean number of other-sex and same-        and one mostly gay man (7%) reported complete exclusivity in
+sex partners (log-transformed) among those with at least 1 such partner in both sexual orientation components. No bisexual men or mostly
+each group (Table 5)
+                                                                           heterosexual, bisexual, or mostly lesbian women reported com-
+                                                                           plete exclusivity (Table 8).
+                                                                               We also predicted that, among all sexual orientation identity
+                                                                           groups, there would be more nonexclusive (in attraction or part-
+conceptualization, Table 6 demonstrates that half of the 12 sig-           ners) women than men. These predictions were only partially
+nificant group differences in both sexes were not found in parallel        confirmed. As expected, when taking attraction and partners
+same-sex and other-sex aspects of the same attraction or behavior          together, there were more nonexclusive heterosexual women
+component. In other words, half of the time the groups differed            (43%) than men (20%), v2(1, n = 1,238) = 80.72, p\.001, and
+only in the same-sex or the other-sex aspect of each examined              more nonexclusive mostly heterosexual women (100%) than
+component, but not both. Another source of evidence for the two-           men (90%), v2(1, n = 230) = 15.84, p\.001. Sex differences in
+dimensional conceptualization is provided by the correlations              the number of nonexclusive gays/lesbians (61 and 52%, respec-
+between the same-sex and other-sex aspects of each variable                tively) and mostly gays/lesbians (100 and 99%, respectively)
+examined in our study (Table 2). A one-dimensional conceptu-               were not significant, v2(1, n = 64)\1, and v2(1, n = 25)\1,
+alization would be supported by strong negative correlations               respectively, and there was no sex difference in the number of
+between each pair; moderate or small negative correlations, or             nonexclusive bisexuals (null set). In the sample as a whole, more
+positive correlations would be evidence against it. In support of          women (59%) than men (32%) were nonexclusive in their sexual
+the two-dimensional approach, only one of the correlations                 attraction or sex partners, v2(1, n = 1,631) = 125.69, p\.001.
+exceeded .5 (the typical indicator of a large effect size, Cohen,
+1988), that between same-sex and other sex attraction among
+men (r = -.79), and even that was far from the ideal 1. Other              Discussion
+correlations ranged from moderately negative (r = -.44 for
+attraction among women) to null (r = .02 for having had at least           Overview
+one same-sex and other-sex partner among women) to moder-
+ately positive (r = .27 for number of same-sex and other-sex               We explored the nature of the sexual orientation continuum by
+partners among women).                                                     focusing on three sexual orientation components: sexual orienta-
+ 123
+
+Arch Sex Behav (2012) 41:85–101                                                                                                                          95
+Table 7 Percent (n) of participants in the five sexual orientation identity groups whose sexual attraction and partners were nonexclusive (both same-
+sex and other-sex), exclusive (either only same-sex or only other-sex), or non-existent (neither same-sex nor other-sex)
+               Men                                                                         Women
+               Both Other         Other Only         Same Only           Neither           Both Other         Other Only      Same Only            Neither
+               and Same                                                                    and Same
+               % (n)              % (n)              % (n)               % (n)             % (n)              % (n)           % (n)                % (n)
+Sexual attractionsa
+Het             13 (89)           86 (579)             0                 .1 (1)             41 (234)          59 (334)          0                     0
+MHet            79 (57)           21 (15)              0                   0               100 (158)           0                0                     0
+Bi             100 (25)             0                  0                   0               100 (49)            0                0                     0
+MG/L            93 (14)             0                  7 (1)               0               100 (10)            0                0                     0
+G/L             37 (17)             0                63 (29)               0                50 (9)             0              50 (9)                  0
+Total           24 (202)          72 (594)             4 (31)            .1 (1)             57 (460)          42 (334)         1 (9)                  0
+Sex partnersb
+Het             10 (65)           82 (551)            .1 (1)              8 (53)             9 (52)           83 (472)          0                    8 (44)
+MHet            44 (32)           46 (33)              1 (1)              8 (6)             44 (70)           51 (81)          1 (1)                 4 (6)
+Bi              52 (13)           32 (8)               4 (1)             12 (3)             78 (38)           12 (6)           8 (4)                 2 (1)
+MG/L            53 (8)             7 (1)             33 (5)               7 (1)             70 (7)            10 (1)          20 (2)                  0
+G/L             28 (13)             0                63 (29)              9 (4)             39 (7)             0              39 (7)               22 (4)
+Total           16 (131)          72 (593)             4 (37)             8 (67)            22 (174)          70 (560)         2 (14)                7 (55)
+All analyses based on all men (n = 828) and women (n = 803)
+a
+  Same- and other-sex attraction assessed separately on a scale of 1 (not at all) to 5 (very much).‘‘Both Other and Same’’indicates a report of 2 or higher
+on both scales;‘‘Other Only’’indicates report of 2 or higher on other-sex, but 1 on same-sex scale;‘‘Same Only’’indicates report of 2 or higher on the
+same-sex, but 1 on the other-sex scale; ‘‘Neither’’ indicates a report of 1 on both scales
+b
+   Sex partners assessed by the number of male and female genital sexual partners.‘‘Both Other and Same’’indicates at least 1 same- and 1 other-sex
+partner; ‘‘Other Only’’ indicates 1 or more other-sex, but 0 same-sex partners; ‘‘Same Only’’ indicates 1 or more same-sex, but 0 other-sex partners;
+‘‘Neither’’ indicates no partners of either sex
+Table 8 Percent (n) of participants in the five sexual orientation identity groups who reported nonexclusivity in both sexual attraction and sex
+partners, attraction but not partners, partners but not attraction, and neither attraction nor partners (exclusive)
+             Men                                                                              Women
+             Both attraction      Attraction only       Partners only       Exclusive         Both attraction      Attraction   Partners        Exclusive
+             and partner                                                                      and partner          only         only
+             % (n)                % (n)                 % (n)               % (n)             % (n)                % (n)        % (n)           % (n)
+Het           3 (21)              10 (68)                 7 (44)            80 (537)           7 (39)              34 (195)       2 (13)        57 (321)
+MHet         33 (24)              46 (33)               11 (8)              10 (7)            44 (70)              56 (88)        0                0
+Bi           52 (13)              48 (12)                 0                   0               78 (38)              22 (11)        0                0
+MG/L         53 (8)               30 (6)                  0                  7 (1)            70 (7)               30 (3)         0                0
+G/L          13 (6)               24 (11)               15 (7)              48 (22)           28 (5)               22 (4)       11 (2)          39 (7)
+Total         9 (72)              16 (130)                7 (59)            68 (567)          20 (159)             37 (301)       2 (15)        41 (328)
+Based on all men (n = 828) and women (n = 803)
+tion identity, sexual attraction, and sex partners. Our primary goal             exclusive sexual orientation identity groups (heterosexual, gay/
+was to assess the adequacy of the traditional sexual orientation                 lesbian) and the nonexclusivity of three presumably nonexclu-
+categorization based on three identity labels, heterosexual,                     sive sexual orientation identity categories (mostly heterosexual,
+bisexual, and gay/lesbian. We did this in two ways. First, we                    bisexual, mostly gay/lesbian). Additionally, we explored whe-
+examined the viability of two intermediate sexual orientation                    ther the sexual orientation continuum was best conceptualized
+identity categories (mostly heterosexual, mostly gay/lesbian)                    as a one- or two-dimensional construct. In all matters, we con-
+in terms of prevalence and distinctiveness when considering                      sidered sex differences, specifically whether male sexual ori-
+sexual attraction and sex partners. Second, we assessed the                      entation was more exclusive or categorical than female sex-
+exclusivity in sexual attraction and partners of two presumably                  uality.
+                                                                                                                                              123
+
+96                                                                                                        Arch Sex Behav (2012) 41:85–101
+    Our data indicated that sexual orientation categorized as five    Consistency of Sexual Orientation Components
+rather than three groups better reflected the nature of sexual
+orientation components. Although the sexual orientation iden-         Although chosen identity labels were generally consistent with
+tity individuals adopt is a relatively accurate representation of     reported attraction and behavior, identity labels were not perfect
+their sexual attraction and partners, it is not necessarily a perfect representations of the other sexual orientation components. Adopt-
+representation. Furthermore, we also found evidence for the notion    ing an exclusive sexual orientation label did not necessarily imply
+of sexual orientation as a continuously distributed character-        exclusivity in other sexual orientation components, as dem-
+istic, with the two-dimensional conceptualization of this con-        onstrated by the significant minority of heterosexuals and the
+tinuum better supported by the data than the one-dimensional          majority of gays and lesbians who reported some attraction and/
+conceptualization. Finally, we found mixed support for sex dif-       or behavior toward their non-preferred sex. Furthermore, although
+ferences in the nature of sexual orientation.                         anonexclusivelabelgenerallymeantnonexclusivityin at least one
+                                                                      other sexual orientation component, for many individuals this did
+Viability of ‘‘Mostly’’ Sexual Orientation Identities                 not mean nonexclusivity in both sexual attraction and partners. In
+                                                                      fact, nonexclusivity was more likely in relation to attraction than
+The viability of a mostly heterosexual identity group was sup-        sex partners. Although virtually all nonexclusive-identified indi-
+ported in that it was the most frequently chosen nonheterosexual      viduals (with the exception of a few mostly heterosexual men)
+identity label among both men and women. More women selected          were sexually attracted to both sexes, far fewer had sex part-
+mostly heterosexual than all other nonheterosexual identities         ners of both sexes. People may rely less on sex than attraction
+combined. Furthermore, mostly heterosexual men and women              to justify their chosen identity label. Alternatively, it also suggests
+were distinct from heterosexuals and bisexuals in both sexual         that having sexual attraction toward one’s non-preferred sex is
+attraction and sex partners (except mostly heterosexual men who       easier to reconcile with an exclusive sexual orientation identity
+differed from bisexual men in attraction only). The viability of a    than is engaging in sexual relations with one’s non-preferred sex.
+fifth sexual orientation group was less clear, in large part because
+relatively few participants chose mostly gay/lesbian as a sexual      Distributional Characteristics of Sexual Orientation
+orientation label. Fewer men identified as mostly gay than as
+bisexual and fewer women identified as mostly lesbian than as         With one exception (discussed below), the five identity groups
+lesbian. These relative differences were consistent with find-        differed in attraction and partners in a manner consistent with a
+ings from a recent nationally representative sample (Savin-           continuous distribution of sexual orientation. This was supported
+Williams et al., 2012). Despite its low frequency, mostly gay/        by the highly significant linear trends of decreasing or increasing
+lesbians were unique from bisexuals and gays/lesbians in both         attraction and sex partners across the five groups, as well as the
+attraction and partners. Taken together, these findings suggest       direction of each pair of significant group differences. Specifi-
+that an expanded sexual orientation is an appropriate alternative     cally, mostly heterosexuals reported a more same-sex pattern of
+to the traditional system and that sexual orientation identity        attraction and partners than did heterosexuals, but less so than
+labels are personally meaningful and relatively accurate.             bisexuals; correspondingly, mostly gays/lesbians reported a more
+    Explanations for the low numbers of mostly gays/lesbians (as      same-sex pattern of attraction and partners than did bisexuals, but
+opposed to mostly heterosexuals) are unclear. One is that this        less so than gays/lesbians. The continuous nature of sexual ori-
+difference is a direct result of the different prevalence in adja-    entation was further supportedby thefinding that exclusiveidentity
+cent identities (heterosexual and gay/lesbian); exclusive same-       categories were not entirely exclusive in the other two sexual
+sex interests and orientation are rarer than exclusive other-sex      orientation components. Nearly half of heterosexual women
+interests. Another possibility is that, although both mostly het-     and a fifth of heterosexual men reported aspects of same-sex
+erosexual and mostly gay/lesbian identity labels are relatively       sexuality, and more than half of lesbians and gay men reported
+new in our culture, the latter is more socially unfamiliar and        aspects of other-sex sexuality. Taken together, these data sug-
+therefore chosen less frequently. Finally, the differential prev-     gest that sexual orientation is a continuously distributed char-
+alence might be a product of the gay/lesbian identity formation       acteristic and decisions to categorize it into discrete units, regardless
+process. Given that homosexuality is socially stigmatized in U.S.     ofhowmany,maybeusefulforparticularresearchquestionsbutare
+society, those who are predominantly gay/lesbian may have             ultimately external impositions that are not consistent with reports
+already invested considerable mental and physical effort in coming    of individuals.
+out and crafting their nonheterosexual identities; thus, gay/lesbian      We speculate that individuals with nonexclusive sexual ori-
+individuals may protect their identity by not diluting it with        entation patterns may choose an exclusive identity label because
+recalling other-sex interests.                                        their levels of same-sex attraction and partners are so low that
+ 123
+
+Arch Sex Behav (2012) 41:85–101                                                                                                         97
+they are insufficient to tip the balance away from a heterosexual      different from each other. As proposed by Beach (1976) and more
+or gay/lesbian label. Perhaps if they were offered an even finer,      recently by Diamond (2009), sexuality may be governed by both
+7-category system they would choose a label between ‘‘exclu-           proceptivity (motivation to initiate sexual activity) and arous-
+sive heterosexual/homosexual’’and‘‘mostly heterosexual/homo-           ability (capacity to become aroused to sexual stimuli).‘‘Mostly’’
+sexual.’’Alternatively,theprevalenceofnonexclusivityinattraction       individuals may have high proceptivity toward their‘‘preferred’’
+or partners within exclusive sexual orientation identity groups may    sex (e.g., mostly heterosexual males toward females) and low
+be artificially inflated because of societal attitudes. The stigma and proceptivity toward the ‘‘non-preferred’’ sex (e.g., mostly het-
+sexual prejudice associated with same-sex sexuality (Herek, 2000)      erosexual males toward males). Alternatively,‘‘mostly’’individ-
+may have prevented some nonexclusive heterosexual-oriented             uals may be proceptively oriented toward only one sex, but have
+individuals from choosing anything other than a heterosexual           higher arousability to a wider range of stimuli, including those of
+label. A reverse but parallel attitude may exist within gay/les-       their non-preferred sex. Similarly, bisexual individuals may have
+bian communities, discouraging nonexclusive gay/lesbian-ori-           (relatively) equal levels of proceptivity (and arousability) toward
+ented individuals from choosing nonexclusive labels in order to        both sexes. Alternatively, they may have high proceptivity to one
+support the ‘‘gay/lesbian cause’’ (see Rodrı́guez Rust, 2002).         sex but high arousability to the other sex.
+Finally, some exclusive gays/lesbians may have engaged in                  The only sexual orientation component that failed to show a
+other-sex behaviors due to social pressures to act heterosexual        consistent decreasing or increasing pattern as would be expected
+against their desire and attraction (Savin-Williams, 2005), fur-       by the continuum hypothesis was the number of other-sex part-
+ther inflating the prevalence of nonexclusivity within the gay/        ners.Specifically,mostlyheterosexual men andwomenhad more,
+lesbian group.                                                         rather than fewer, other-sex partners than heterosexuals. This was
+   Although there was clear evidence of a continuous increase          in addition to their higher number of same-sex partners. These
+or decrease in sexual attraction and partners across the five sexual   findings mirror past findings of greater other-sex sexual expe-
+orientation identity groups, the between-group differences were        rience among mostly heterosexual women, but not men (Austin
+not always found in same-sex and other-sex sexuality. The two          et al., 2008; Saewyc et al., 2009; Vrangalova & Savin-Williams,
+intermediate,‘‘mostly’’identity groups differed from their adja-       2010). One reason for this could be a higher level of sex drive
+cent‘‘exclusive’’groups primarily in their attraction and behavior     that is inherent in greater bisexuality, i.e., nonexclusivity. This
+directed toward their less preferred sex (same-sex for hetero-         conclusion was also supported for women, but not men, by
+sexuals and mostly heterosexuals, and other-sex for gays/les-          Lippa (2006). However, if this were the case, then mostly gays/
+bians and mostly gays/lesbians). The mostly and exclusive groups       lesbians would be expected to have more same-sex and other-
+generally did not differ in their sexual attraction and partners       sex partners than gays/lesbians, which was not the case for our
+toward their preferred sex. That is, what most distinguished           sample. Also, dissimilar to previous work, we found the same
+mostly heterosexual from heterosexual men and women was not            pattern in men as well as women. An alternative possibility that
+their lack of other-sex attraction and partners, but their higher      explains our findings is that both the greater sexual activity of
+reported levels of same-sex attraction and partners. So, too, what     mostly heterosexuals and their willingness to acknowledge
+distinguished mostly gay/lesbian from gay/lesbian men and              same-sex sexuality could be a result of greater general sexual
+women was not their lack of same-sex attraction and partners,          and/or social liberality that allows them to explore their sex-
+but their higher reported levels of other-sex attraction and part-     uality in greater depths despite the stigma associated with both
+ners.                                                                  same-sex sexuality (Herek, 2000) and with highly sexually
+   The absence of completely parallel patterns of group differ-        active behavior (Crawford & Popp, 2003). Additional analyses of
+ences suggests that conceptualizing a sexual orientation con-          our data indicated that while conservatism was linked to lower
+tinuum as consisting of two distinct unipolar dimensions (same-        same-sex attraction, fewer other-sex partners, and lower like-
+and other-sex sexuality) is more appropriate than conceptual-          lihood of having a same-sex partner (among men), controlling
+izing it as consisting of one, bipolar dimension. As evidenced by      for conservatism did not render non-significant the established
+the two‘‘mostly’’groups, having more same-sex sexuality does           differences in these variables between the mostly heterosexual
+not necessarily mean having less other-sex sexuality, and vice         and the heterosexual. The sole exception was the number of
+versa. Individuals can be extremely high on one of these dimen-        other-sex partners among men: after controlling for conser-
+sions, as high as their exclusive peers, and yet in addition (rather   vatism, mostly heterosexual and heterosexual men did not
+than in the lieu of) they can also possess a non-zero level of the     differ in this respect.5 These issues require further research.
+other dimension. Although traditionally the one-dimensional                Recently, several scholars challenged the perspective that
+approach has been favored when assessing sexual orientation,           sexual orientation is a continuously distributed characteristic
+we suggest that the two-dimensional model is a better fit to           among men, suggesting that men are bimodal in that they are
+individual lives.                                                      either exclusively heterosexual or homosexual in their sexual
+   Nonexclusive individuals’ orientation along the two dimen-
+                                                                       5
+sions (other- and same-sex) may or may not be qualitatively              Tables available from the corresponding author on request.
+                                                                                                                                    123
+
+98                                                                                                      Arch Sex Behav (2012) 41:85–101
+arousal (Bailey, 2009; Chivers, Rieger, Latty, & Bailey, 2004;       sex difference appears to be one of quantity rather than of qual-
+Rieger et al., 2005). Our results, based not on genital arousal      ity.
+but self-reports, found mixed evidence for this perspective. In
+support, half as many men as women chose a nonexclusive              Limitations
+identity or reported nonexclusive attraction and partners. Two
+of the three nonexclusive identity categories among men (mostly      One limitation of our study was that data were self-reported and
+gay and bisexual) represented together only 5% of the entire         we had no independent or alternate means of verifying self-
+sample, which might be considered‘‘too low’’to corroborate a         assessments of sexual orientation label, attraction, or partners.
+continuous distribution, as opposed to a bimodal one. However,       The reliance on self-report is often necessary in studies of
+although these two groups were indeed half the size of the gay       sexuality, but the method is a liability–reports of behavior are not
+group (5%), the mostly heterosexual group (9%) was almost            always accurate reflections of actual sexual behavior (McAu-
+twice as numerous as the gay group. With the inclusion of the        liffe, DiFranceisco, & Reed, 2007). For example, as others have
+other two components of sexual orientation examined in our           shown (Chivers et al., 2004; Rieger et al., 2005), there can be a
+study (attraction and behavior), 32% of all men reported at least    significant disagreement between self-reported indicators of
+one instance of nonexclusivity. Unless or until we have evidence     sexual orientation and those recorded bygenital measures of arousal.
+that mostly heterosexual men (together with the other two non-       A comprehensive study using various methods of sexual orien-
+exclusive groups and all reports of nonexclusivity in attraction     tation assessment in the extended 5-category system is needed in
+and behavior among heterosexuals and gay men) are not‘‘truly’’       the future.
+nonexclusive (and can be explained by, for example, identity             Related to this limitation was the possibility that different
+confusion, social pressures, or some other non-sexual orienta-       participants had variable understandings of what constituted
+tion aspect), we consider them as a potentially legitimate and       sexual attraction or sexual partner. Perhaps some participants
+valid sexual orientation group—at least as much so as gay men.       understood attraction to mean‘‘who I want to have sex with’’or
+    A similar ‘‘number argument’’ could be applied to sexual         ‘‘what I think about when I masturbate,’’whereas others thought
+orientation among women, albeit to argue for the non-exis-           of it as ‘‘who I want to bond with/have a relationship with’’ or
+tence of exclusivity, particularly homosexual exclusivity. Namely,   ‘‘who I am romantically attracted to,’’while still others may have
+the mostly lesbian and lesbian identity labels in our sample were    thought of it as‘‘who I derive feelings of warmth and security
+chosen together by only 3% of participants, and only 41% of all      from.’’Future studies, both in-depth interviews and more objec-
+women reported complete exclusivity in all three components.         tive assessments of attraction, should explore this issue—what
+Yet, neither of these numbers is zero; thus, the same question of    attraction means, especially a small quantity of attraction, as
+‘‘how low is too low’’also applies to women. It would be difficult   frequently reported by mostly heterosexuals toward same-sex
+(if not impossible) to set an absolute cutoff point that would       individuals. Furthermore, additional error in our measure of
+answer this question appropriately as any such numeric would         sexual partners may have been introduced if some participants,
+be highly arbitrary. We propose that any non-zero category, until    despite being provided with a definition of sex, nonetheless
+or unless proven to be due to error needs to be considered for and   used their own definition.
+incorporated into scientific theories. Furthermore, until those          Another limitation was the relatively small size of nonhet-
+41% complete exclusivity reports among women (heterosex-             erosexual identity groups, with the exception of the mostly
+ual and lesbian) can be explained away by error, mistake, or inau-   heterosexual. Small sample size was particularly problem-
+thenticity, we believe it is too early to declare female sexual ori- atic with the mostly gay/lesbian group, bisexual men, and les-
+entation as entirely nonexclusive.                                   bian women. We presented these analyses because of the novelty
+    Three additional findings in our study supported the view that   of our approach, but conclusions are ultimately tentative until
+the sexes are more similar than different in the nature of their     additional data from other labs are collected. This is particularly
+sexual orientation. First, men who chose nonexclusive identity       true of the sex partner analyses; the small size combined with
+labels were just as frequently nonexclusive in their attraction      high variability rendered estimates less reliable than desirable.
+and/or behavior as were the nonexclusively identified women          Future research should make an effort to over-sample nonhet-
+(92 vs. 100%). Second, the sexual orientation groups among men       erosexual individuals within general population samples.
+differed from their adjacent groups in the exact same number of          A fourth limitation was our recruitment source and strategy.
+areas as they did among women. Finally, with only two excep-         There is little evidence that Facebook users are representative of
+tions, the pattern of these group differences among men and          the U.S. population and even those who participated might not
+women was the same. Taken together, the data suggested that          be representative of Facebook users. Specifically, although our
+the best way to conceptualize sexual orientation is as a con-        initial ad was presented to a random selection of Facebook users,
+tinuous variable that is heavily skewed toward heterosexuality       some participants learned about the survey through a friend’s
+in both men and women. Although more men than women are              profile or friends’ invites, thus leading to self-selection bias.
+at the exclusive ends of the sexual orientation continuum, this      However, at the time of data collection, 40% of U.S. residents
+ 123
+
+Arch Sex Behav (2012) 41:85–101                                                                                                                     99
+aged 18–35, the age range that represented the majority of our       adjacent one. Learning more about these categories, in partic-
+sample, owned a Facebook profile (Corbett, 2009). In addition,       ular mostly heterosexual with its high numbers and clear distinc-
+Facebook users are representative of the general Internet using      tiveness from other categories, might critically alter tradi-
+population in the U.S. in terms of race/ethnicity (Backstrom,        tional notions of sexuality (Thompson & Morgan, 2008;
+Chang, Marlow, & Rosenn, 2009). Furthermore, our study find-         Vrangalova & Savin-Williams, 2010).
+ings were consistent with previous research that reported sub-
+stantial same-sex attraction and behavior among heterosexual         Acknowledgment A version of this article was presented at the Uni-
+                                                                     versity of Lethbridge Workshop, The Puzzle of Sexual Orientation: What Is
+women and men (Dunne et al., 2000; Ellis et al., 2005; Hoburg        It and How Does It Work?, Lethbridge, Alberta, Canada, June 2010. We
+et al., 2004; Vrangalova & Savin-Williams, 2010) and the exis-       thank Dr. David Pizarro for his financial support and contribution in design-
+tence of mostly heterosexuals (Morgan & Thompson, 2008;              ing the study, to Dr. Gerulf Rieger for his valuable feedback regarding this
+Savin-Williams & Ream, 2007). However, our proportions of            article, and to Jegath Athilingam for her help with data collection and prep-
+                                                                     aration.
+individuals in the various groups did not always map onto other
+data; thus, we caution imputing any significance to the preva-
+lence rates of our various groups. In addition, our sample was
+also somewhat more socially liberal and less religious than the      References
+U.S. population as a whole (Chatters, Taylor, Bullard, & Jackson,
+2008; Rostosky, Regnerus, & Wright, 2003; Saad, 2009). Future        Austin, S. B., Conron, K. J., Patel, A., & Freedner, N. (2007). Making sense of
+research should include representative samples of the U.S. pop-            sexual orientation measures: Findings from a cognitive processing
+                                                                           study with adolescents on health survey questions. Journal of LGBT
+ulation, as well as oversample racial/ethnic minorities so that any        Health Research, 3, 55–65. doi:10.1300/J463v03n01_07.
+potential cultural differences in the meaning and acknowledge-       Austin, S. B., Roberts, A. L., Corliss, H. L., & Molnar, B. E. (2008). Sexual
+ment of various sexual orientation components can be explored.             violence victimization history and sexual risk indicators in a
+                                                                           community-based urban cohort of ‘‘mostly heterosexual’’ and heter-
+                                                                           osexual young women. American Journal of Public Health, 98,
+                                                                           1015–1020. doi:10.2105/AJPH.2006.099473.
+Implications                                                         Austin, S. B., Ziyadeh, N., Fisher, L. B., Kahn, J. A., Colditz, G. A., & Frazier,
+                                                                           A. L. (2004). Sexual orientation and tobacco use in a cohort study of US
+Despite its limitations, our study has several important impli-            adolescent girls and boys. Archives of Pediatric Adolescent Medicine,
+                                                                           158, 310–317. doi:10.1001/archpedi.158.4.317.
+cations for theory and research. First, it suggests sexual orien-    Backstrom, L., Chang, J., Marlow, C., & Rosenn, I. (2009, December 16).
+tation components occur in a natural continuum in both women               How diverse is Facebook? Facebook Data Team. Retrieved from
+and men and, with the possible exception of sexual orientation             http://www.facebook.com/note.php?note_id=205925658858.
+identities, are best understood as a two-dimensional phenome-        Bailey, J. M. (2009). What is sexual orientation and do women have one? In
+                                                                           D. A. Hope (Ed.), Nebraska symposium on motivation (Vol. 54):
+non. Thus, when the nature of sexual orientation is of primary             Contemporary perspectives on lesbian, gay, and bisexual identities
+interest, continuous, two-dimensional assessments of multiple              (pp. 43–63). New York: Springer. doi:10.1007/978-0-387-09556-1_3.
+sexual orientation components should be used. In addition,           Bailey, J. M., Dunne, M. P., & Martin, N. G. (2000). Genetic and environ-
+strategies for capturing expressions of sexual orientation com-            mental influences on sexual orientation and its correlates in an Aus-
+                                                                           tralian twin sample. Journal of Personality and Social Psychology, 78,
+ponents at lower levels should be implemented. For attraction              524–536. doi:10.1037/0022-3514.78.3.524.
+and fantasy, this would imply using more sensitive scales (for       Beach, F. A. (1976). Sexual attractivity, proceptivity, and receptivity in
+example, a 1-to-10 rather than a 1-to-5 response scale). For sexual        female mammals. Hormones and Behavior, 70, 105–138.
+behavior, more inclusive definitions of sex and sex partners may     Bogaert, A. F. (2005). Sibling sex ratio and sexual orientation in men and
+                                                                           women: New tests in two national probability samples. Archives of
+be particularly useful. For example, mutual masturbation and oral          Sexual Behavior, 34, 111–116. doi:10.1007/s10508-005-1005-9.
+sex contrary to one’s sexual orientation identity are more likely to Bogaert, A. F. (2010). Physical development and sexual orientation in men
+elicit endorsement from young adults than are vaginal or anal              and women: An analysis of NATSAL-2000. Archives of Sexual Behav-
+intercourse (Chandra, Mosher, & Copen, 2011; Savin-Williams,               ior, 39, 110–116. doi:10.1007/s10508-008-9398-x.
+                                                                     Bullough, V. (1990). The Kinsey Scale in historical perspective. In D.
+2005).                                                                     P. McWhirter, S. A. Sanders, & J. M. Reinisch (Eds.), Homosexuality/
+    The continuous nature of sexual orientation notwithstanding,           heterosexuality: Concepts of sexual orientation (pp. 3–14). New York:
+in some cases assessing sexual orientation in a categorical man-           Oxford University Press.
+ner-based on a finite number of identity categories-may be sim-      Busseri, M. A., Willoughby, T., Chalmers, H., & Bogaert, A. R. (2008). On
+                                                                           the association between sexual attraction and adolescent risk behavior
+pler or more useful. Our findings suggest that this approach is also       involvement: Examining mediation and moderation. Developmental
+warranted. Sexual labels appear to represent other sexual orien-           Psychology, 44, 69–80. doi:10.1037/0012-1649.44.1.69.
+tation components with relative, albeit not perfect, accuracy.       Cerny, J. A., & Janssen, E. (2011). Patterns of sexual arousal in homosexual,
+However, when using a categorical approach, researchers would              bisexual, and heterosexual men. Archives of Sexual Behavior, 40, 687–
+                                                                           697.
+benefit from replacing the traditional three category system, with   Chandra, A., Mosher, W. D., & Copen, C. (2011, March). Sexual behavior,
+a finer five category one (perhaps even seven or nine categories)          sexual attraction, and sexual identity in the United States: Data from the
+and to refrain from lumping intermediate categories with an                2006–2008 National Survey of Family Growth. National Health
+                                                                                                                                          123
+
+100                                                                                                                       Arch Sex Behav (2012) 41:85–101
+      Statistics Reports, No. 36. Washington, DC: U.S. Department of Health     Pedersen, W., & Kristiansen, H. W. (2008). Homosexual experience, desire
+      and Human Services.                                                             and identity among young adults. Journal of Homosexuality, 54, 68–
+Chatters, L. M., Taylor, R. J., Bullard, K. M., & Jackson, J. S. (2008). Spir-        102. doi:10.1080/00918360801951962.
+      ituality and subjective religiosity among African Americans, Caribbean    Poon, C. S., & Saewyc, E. M. (2009). Out yonder: Sexual-minority adoles-
+      Blacks, and non-Hispanic Whites. Journal for the Scientific Study of            cents in rural communities in British Columbia. American Journal of
+      Religion, 47, 725–737. doi:10.1111/j.1468-5906.2008.00437.x.                    Public Health, 99, 118–124. doi:10.2105/AJPH.2007.122945.
+Chivers, M. L., Rieger, G., Latty, E., & Bailey, J. M. (2004). A sex difference Rieger, G., Chivers, M. L., & Bailey, J. M. (2005). Sexual arousal patterns of
+      in the specificity of sexual arousal. Psychological Science, 15, 736–-          bisexual men. Psychological Science, 16, 579–584. doi:10.1111/j.14
+      744. doi:10.1111/j.0956-7976.2004.00750.x.                                      67-9280.2005.01578.x.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd   Rodrı́guez Rust, P. C. (2002). Bisexuality: The state of the union. Annual
+      ed.). Hillsdale, NJ: Lawrence Erlbaum Associates.                               Review of Sex Research, 13, 180–240.
+Corbett, P. (2009, January 5). 2009 Facebook demographics and statistics        Rosario, M., Schrimshaw, E. W., Hunter, J., & Braun, L. (2006). Sexual iden-
+      report: 276% growth in 35–54 year old users. Retrieved from http://             tity development among lesbian, gay, and bisexual youths: Consistency
+      www.istrategylabs.com/2009/01/2009-facebook-demographics-and-                   and change over time. Journal of Sex Research, 43, 46–58. doi:10.-
+      statistics-report-276-growth-in-35-54-year-old-users/.                          1080/00224490609552298.
+Crawford, M., & Popp, D. (2003). Sexual double standards: A review and          Rosenthal, A. M., Sylva, D., Safron, A., & Bailey, J. M. (2011a). Sexual
+      methodological critique of two decades of research. Journal of Sex              arousal patterns of bisexual men revisited. Biological Psychology, 88,
+      Research, 40, 13–26. doi:10.1080/00224490309552163.                             112–115. doi:10.1016/j.biopsycho.2011.06.015.
+Diamond, L. M. (2008). Sexual fluidity: Understanding women’s love and          Rosenthal, A. M., Sylva, D., Safron, A., & Bailey, J. M. (2011b). The male
+      desire. Cambridge, MA: Harvard University Press.                                bisexuality debate revisited: Some bisexual men have bisexual arousal
+Diamond, L. M. (2009). The evolution of plasticity in female–female desire.           patterns. Archives of Sexual Behavior. doi:10.1007/s10508-011-9881-
+      Journal of Psychology and Human Sexuality, 18, 245–274. doi:                    7.
+      10.1300/J056v18n04_01.                                                    Rostosky, S. S., Regnerus, M. D., & Wright, M. L. C. (2003). Coital debut:
+Dunne, M. P., Bailey, J. M., Kirk, K. M., & Martin, N. G. (2000). The subtlety        The role of religiosity and sex attitudes in the Add Health Survey. Jour-
+      of sex-atypicality. Archives of Sexual Behavior, 29, 549–565. doi:10.           nal of Sex Research, 40, 358–367. doi:10.1080/00224490209552202.
+      1023/A:1002002420159.                                                     Saad, L. (2009, June 15). ‘‘Conservatives’’ are single largest ideological
+Ellis, L., Robb, B., & Burke, D. (2005). Sexual orientation in United States          group. Gallup. Retrieved from http://www.gallup.com/poll/120857/
+      and Canadian college students. Archives of Sexual Behavior, 34, 569–            conservatives-single-largest-ideological-group.aspx.
+      581. doi:10.1007/s10508-005-6283-8.                                       Saewyc, E. M., Homma, Y., Skay, C. L., Bearinger, L. H., Resnick, M. D., &
+Fergusson, D. M., Horwood, L. J., Ridder, E. M., & Beautrais, A. L. (2005).           Reis, E. (2009). Protective factors in the lives of bisexual adolescents in
+      Sexual orientation and mental health in a birth cohort of young adults.         North America. American Journal of Public Health, 99, 110–117. doi:
+      Psychological Medicine, 35, 971–981. doi:10.1017/S0033291704004                 10.2105/AJPH.2007.123109.
+      222.
+                                                                                Savin-Williams, R. C. (2005). The new gay teenager. Cambridge, MA: Har-
+Herek, G. M. (2000). The psychology of sexual prejudice. Current Directions
+                                                                                      vard University Press.
+      in Psychological Science, 9, 19–22. doi:10.1111/1467-8721.00051.
+                                                                                Savin-Williams, R. C. (2009). How many gays are there? It depends. In D.
+Hoburg, R., Konik, J., Williams, M., & Crawford, M. (2004). Bisexuality
+                                                                                      A. Hope (Ed.), Nebraska symposium on motivation (Vol. 54): Contem-
+      among self-identified heterosexual college students. Journal of Bisex-
+                                                                                      porary perspectives on lesbian, gay, and bisexual identities (pp. 5–41).
+      uality, 4, 25–36. doi:10.1300/J159v04n01_03.
+                                                                                      Lincoln: University of Nebraska Press. doi:10.1007/978-0-387-09556-
+Kinsey, A. C., Pomeroy, W. B., & Martin, C. E. (1948). Sexual behavior in
+                                                                                      1_2.
+      the human male. Philadelphia: W. B. Saunders.
+Klein, F., Sepekoff,B., & Wolf, T. J. (1985). Sexual orientation: A multi-vari- Savin-Williams, R. C., Joyner, K., & Rieger, G. (2012). Prevalence and
+      able dynamic process. Journal of Homosexuality, 11, 35–49. doi:10.              stability of self-reported sexual orientation identity during young adult-
+      1300/J082v11n01_04.                                                             hood. Archives of Sexual Behavior. doi:10.1007/s10508-011-9913-y.
+LeVay, S., & Baldwin, J. (2012). Human sexuality (4th ed.). Sunderland,         Savin-Williams, R. C., & Ream, G. L. (2007). Prevalence and stability of
+      MA: Sinauer Associates.                                                         sexual orientation components during adolescence and young adult-
+Lippa,R.(2006).Ishighsexdriveassociatedwithincreasedsexualattractionto                hood. Archives of Sexual Behavior, 36, 385–394. doi:10.1007/s10508-
+      both sexes? It depends on whether you are male or female. Psychological         006-9088-5.
+      Science, 17, 46–52. doi:10.1111/j.1467-9280.2005.01663.x.                 Sell, R. L. (1997). Defining and measuring sexual orientation: A review.
+Loosier, P. S., & Dittus, P. J. (2010). Group differences in risk across three        Archives of Sexual Behavior, 26, 643–658. doi:10.1023/A:10245284
+      domains using an expanded measure of sexual orientation. Journal of             27013.
+      Primary Prevention, 31, 261–272. doi:10.1007/s10935-010-0228-2.           Shively, M. G., & DeCecco, J. P. (1977). Components of sexual identity. Jour-
+McAuliffe, T. L., DiFranceisco, W., & Reed, B. R. (2007). Effects of question         nal of Homosexuality, 3, 41–48. doi:10.1300/J082v03n01_04.
+      format and collection mode on the accuracy of retrospective surveys of    Skegg, K., Nada-Raja, S., Dickson, N., Paul, C., & Williams, S. (2003). Sex-
+      health risk behavior: A comparison with daily sexual activity diaries.          ual orientation and self-harm in men and women. American Journal of
+      Health Psychology, 26, 60–67. doi:10.1037/0278-6133.26.1.60.                    Psychiatry, 160, 541–546. doi:0.1176/appi.ajp.160.3.541.
+Morgan, E. M., & Thompson, E. M. (2011). Processes of sexual orientation        Storms, M. D. (1980). Theories of sexual orientation. Journal of Personality
+      questioning among heterosexual women. Journal of Sex Research, 48,              and Social Psychology, 38, 783–792. doi:10.1037/0022-3514.38.5.783.
+      16–28.                                                                    Thompson, E., & Morgan, E. M. (2008). ‘‘Mostly straight’’ young women:
+Morgan, E. M., Steiner, M. G., & Thompson, E. M. (2010). Processes of sex-            Variations in sexual behavior and identity development. Developmen-
+      ual orientation questioning among heterosexual men. Men and Mascu-              tal Psychology, 44, 15–21. doi:10.1037/0012-1649.44.1.15.
+      linities, 12, 425–443. doi:10.1177/1097184X08322630.                      Vrangalova, Z., & Savin-Williams, R. C. (2010). Correlates of same-sex
+Morrison, T. G., & Bearden, A. G. (2007). The construction and validation of          sexuality in heterosexually-identified young adults. Journal of Sex
+      the Homopositivity Scale: An instrument measuring endorsement of                Research, 47, 92–102. doi:10.1080/00224490902954307.
+      positive stereotypes about gay men. Journal of Homosexuality, 52, 63–     Weinberg, M. S., Williams, C. J., & Pryor, D. W. (1994). Dual attrac-
+      89. doi:10.1300/J082v52n03_04.                                                  tion: Understanding bisexuality. New York: Oxford University Press.
+123
+
+Arch Sex Behav (2012) 41:85–101                                                                                                                      101
+Weinrich, J. D., & Klein, F. (2002). Bi-gay, bi-straight, and bi–bi: Three   Wichstrøm, L., & Hegna, K. (2003). Sexual orientation and suicide attempt: A
+    bisexual subgroups identified using cluster analysis of the Klein Sexual     longitudinalstudyofthegeneralNorwegianadolescentpopulation. Jour-
+    Orientation Grid. Journal of Bisexuality, 2, 109–139. doi:10.1300/           nal of Abnormal Psychology, 112, 144–151. doi:10.1037/0021-843X.
+    J159v02n04_07.                                                               112.1.144.
+                                                                                                                                             123
+

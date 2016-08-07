@@ -1,0 +1,901 @@
+NOTICE:       The copyright law of the United States
+(Title 17, U.S. Code) governs the making of photocopies or other
+reproductions of copyrighted material. Under certain conditions
+specified in the law, libraries and archives are authorized to furnish a
+photocopy or other reproduction. One of these specified conditions
+is that the photocopy or reproduction is not to be "used for any
+purpose other than private study, scholarship, or research."
+The CDC library absorbs the cost of copyright fees charged by
+publishers when applicable and the cost of articles and books
+obtained from other libraries. Copyright fees average $35.00 and
+fees charged by the lending libraries are between $10 and $15 per
+request
+
+                                                     TSQ
+The (Mis)Measure of Trans
+                                     C H R IS T I N E L A B U S K I a n d C O LTO N K E O - M E I E R
+Abstract This essay considers the utility of research questions that articulate aspects of transgender
+lives to the nontransgender populations with whom they share a wide range of bodily and lived
+experience. By foregrounding transgender’s instability as a research variable, the authors argue for
+more precise methodological orientations in trans research, particularly regarding gender and sexual
+orientation. Drawing on their own data with trans men whose sexual attractions have shifted during
+transition, they argue against unidimensional interpretations of this experience. Feminists and
+critical race scholars suggest that race and gender frequently function as “proxies”: variables that
+reduce the complexities of biosocial bodily experience to more quantifiable forms of data. The authors
+argue that much of the research conducted with transgender persons suffers from similar reductions,
+narrowing the epistemological frameworks through which these populations are subsequently
+investigated and understood. By contrasting the National Transgender Discrimination Survey’s focus
+on the measurable experience of discrimination with research that makes broader claims regarding
+“the transgender population,” the essay invites researchers to develop a set of best practices that
+resemble those of feminist science studies scholars.
+Keywords methodology, transgender research, feminist science
+T    his essay weighs the risks and benefits of quantifying a group of individuals
+     who are made vulnerable by, actively challenge, and gain political recognition
+from the categories rendered “real” by quantitative research. Acknowledging the
+necessity of data like those produced by the National Transgender Discrimination
+Survey (NTDS) (Grant et al. 2011), we consider the utility of research questions
+that articulate aspects of the transgender experience to the nontransgender pop-
+ulations with whom they share a wide range of bodily and lived experience.
+          We define transgender as dynamic, unstable, and porous, and we use these
+characteristics to explore the relative use of measuring transgender people. How,
+in other words, can we quantify an experience that Judith Butler (2001: 627) has
+called “becoming . . . itself”? As a start, we turn to a set of “good practice guide-
+lines” (Springer, Stellman, and Jordan-Young 2012) developed to promote better
+science about sex and gender.1 We believe that these guidelines, which insist on
+carefully delineated claims that consider robust and explicit alternative mechanisms,
+TSQ: Transgender Studies Quarterly * Volume 2, Number 1 * February 2015                            13
+DOI 10.1215/23289252-2848868 ª 2015 Duke University Press
+                                  Published by Duke University Press
+
+                                      TSQ
+14      TSQ  * Transgender Studies Quarterly
+offer a beginning standard by which trans researchers can gauge their quantitative
+research instruments and results. We hope to generate a productive and inter-
+disciplinary dialogue about the difficulties inherent in producing the “right” kinds
+of research about transgender populations: how to produce useful and meaningful
+data about an unstable category and how to capture the experience of being trans
+for the widest variety of readers in ways that benefit transgender people.
+        We depart from and extend Jamison Green’s (2006) assertion that trans
+people are “just like anyone” (500) by suggesting that transgender is one of many
+intersectional and socially hierarchical experiences. By reorienting research ques-
+tions toward methodologies that do not assume nonconstructed differences
+between transgender and nontransgender people, we redirect quantitative research
+projects away from fixed understandings of trans toward those that are generative
+and evolving in nature.
+A Background Story
+Measuring “the transgender population” presented a challenge for us when we
+were invited to contribute a chapter to a handbook on sexuality demograph-
+ics (Meier and Labuski 2013). Like many contributors to this journal, we were
+energized by what trans lives make obvious: that sex and gender are profoundly
+unstable realities whose “assumed concordance” (Karkazis 2008: 12) is more ideo-
+logical than material. And though our goal was to represent trans people in the
+most comprehensive and useful ways possible, we were acutely aware that such a
+project was riddled with complexity. Like any unit of scientific analysis, trans-
+gender is a category through which a wide variety of multidimensional individuals
+are gathered, many of whom have little in common aside from their gender-
+diverse bodies and practices.
+        A related problem was that the term transgender is variably defined and
+that, for many, this diverse nomenclature is a central feature of being trans
+(Stryker, Currah, and Moore 2008).2 And though we were at pains to represent a
+category that we saw as both multiple and evolving, we were stymied by how to
+best render categorical resistance to an audience of demographers. Katherine
+Rachlin (2009) argues that “researchers must be able to clearly define the sub-
+group of interest for their study” (266), a challenge made difficult by two related
+issues: first, a growing number of trans people explicitly resist categories that
+stabilize gender in any way, rendering conventional quantitative methods unwieldy;
+second, many transgender individuals know exactly “who they are” (Valentine
+2007), regardless of whether categories exist to represent them.
+        Quantifying the so-called trans population also risked allying with forms
+of legitimacy and conformity through which many trans people have thus far
+been marginalized (Vidal-Ortiz 2002; Califia 2012). Collected data can be used to
+                      Published by Duke University Press
+
+                                            TSQ
+                          LABUSKI and KEO-MEIER     * The (Mis)Measure of Trans     15
+downplay or background the concerns of trans people, and standardizing the
+categories of pre- and postoperative could relegate many trans persons to a quasi-
+legitimate status. Finally, we grappled with questions of methodology—that is,
+“the more deeply embedded premises . . . [that] underpin how research questions
+are asked [and] how studies are constructed” (Spanier and Horowitz 2011, 45). We
+knew that our explanatory framework needed to capture a lived experience that
+was simultaneously real and contingent, measurable yet elusive, and vulnerable to
+misrepresentation while capable of representing itself.
+         In the end, we agreed with researchers like Rachlin (2009), who describe
+an “urgent need” for data that can “positively impact the lives of transgender
+people” (261). We knew that demonstrating the prevalence of trans people,
+however imperfectly, could contribute to both heightened awareness of and more
+affirming attitudes toward trans people (Silverschanz 2009). The NTDS makes the
+consequences of transphobia clear: in addition to higher rates of suicide attempts
+and emotional distress, a full three-quarters of respondents experienced dis-
+crimination, bullying, and violence in their lifetimes. In this context, any and all
+evidence of the statistical prevalence of a population that some would prefer
+remain invisible is a political and human rights necessity.
+         But we also knew that if our “numbers” did not come with a context, that
+is, did not translate into a more meaningful understanding of transgender lived
+experience, then we would have gotten only part of it right. Moreover, if popu-
+lation prevalence rates—of any percentage—led to even well-intentioned mis-
+understandings that transgender was a stable and measurable “thing,” then we
+were aligned with a reification project that reflected neither our own under-
+standings of the term nor our politics about it. Ultimately, we wanted to hold
+close the generative nature of trans while still communicating the ways in which
+the experience could be “captured” for the benefit of trans people worldwide.3
+Intra-researcher Complexity
+Further complicating our efforts was the fact that we defined transgender dif-
+ferently. For Colton Keo-Meier, transgender is a lived reality that becomes sta-
+ble while it destabilizes man, woman, male, and female, while for Christine
+Labuski, the instability of these categories exists on the same relative plane. In this
+latter framework, transgender people and bodies offer as many insights about a
+dynamic and evolving human condition as they do about alternative gender
+systems; they help to reveal the instability of bodies—period. Evolution here is
+not linear, with trans bodies positioned in between less perfect and more perfect
+human forms. It is, rather, a way to think about the durable and inextricable
+relationships between bodies and cultural practice; the physical and physio-
+logical changes that signify trans—including prosthetics, pronouns, dress, and
+                            Published by Duke University Press
+
+                                      TSQ
+16       TSQ * Transgender Studies Quarterly
+surgery—are in a relationship with discourses and material realities involving
+gender, genitals, bodies, power, and sex.
+         In short, we were—and continue to be—of two minds concerning the
+nature of trans. One of us, a transgenderqueer male psychologist, understands
+transgender to be fairly stable across history and culture: trans people have existed
+across time and space and, aside from cultural variation, reflect a similar mode of
+gender incongruence that can—though need not—be addressed with medical
+interventions or other modes of bodily adaptation. The other, a nontransgender
+female cultural anthropologist, understands trans to be as local and contingent as
+any other cultural practice or bodily state and that regardless of the existence of
+gender nonconformers in other times and places, how people transition in the
+contemporary United States reveals as much about the political economy, belief
+systems, and physical environment of that time and place as it does about the
+process of living gender differently.
+         As individuals, we embrace these somewhat divergent perspectives. But as
+researchers and coauthors, we recognize the conceptual difficulties they index.
+Located in psychology and anthropology, we engage with almost mutually exclu-
+sive literatures and frame problems in different ways. In this context, what is the
+nature of the concept at hand? Can we produce work that “matters” to both of us
+and to our disciplines? To be sure, conceptual instability is not a problem unique to
+trans scholarship. But because the current question concerns measurement, we
+are preoccupied by its translatability and utility. It is because transgender renders
+other categories unstable that we must properly attend to its own contingencies.
+         We suggest, then, that we think about trans people being “just like anyone”
+by focusing on their intersections with other social hierarchies. These hierar-
+chies—race, immigration status, physical ability—leave almost all of us both well
+and poorly positioned in our various worlds; how this multidimensionality maps
+onto the material experiences of trans and nontransgender people is part of what
+interests us here. How, for instance, do transgender men of color experience black
+male incarceration rates in the United States? How do trans women negotiate
+street harassment from perpetrators who see them as female but not (necessarily)
+trans? These articulations evidence an alternative methodology for trans research,
+one that does not reduce the reality of transgender to a genetic sequence, a
+neuroanatomical site, or childhood behavior patterns; one that allows us to
+describe and construct “men and women who are also trans people” in addition
+to a “transgender population.”
+         Conventional quantitative methods cannot address these entangled forms
+of difference; this is not news. But unpacking this assertion further helps to open
+transgender research questions up to many other dimensions of identity. Dean
+                       Published by Duke University Press
+
+                                            TSQ
+                          LABUSKI and KEO-MEIER    * The (Mis)Measure of Trans    17
+Spade (2006) argues that the ways he was “different” as a child, including being
+Christian and on welfare, were neither more nor less relevant to his transgender
+identity than were his surgical or childhood behavioral histories: “Why should I
+engage this idea that my gender performance has been my most important dif-
+ference in my life? It hasn’t, and I can’t separate it from the class, race, and
+parentage variables through which it was mediated” (319). By attending to these
+imbrications, we hope to demonstrate how trans can fruitfully attach to other
+forms of identity, not to dilute or mitigate the sometimes urgent realities of being
+trans but to remind those of us who ask questions for a living that more precise
+answers may come from analyses that do not render trans and nontrans as
+mutually exclusive categories.
+Counting the Problems
+In this section, we more carefully examine some of the problems with quantitative
+research that does not foreground transgender’s conceptual instability. We believe
+that trans—like all other bodies and forms of identity —can and should be
+researched as an identity coconstituted by its social milieu. We seek to incorporate
+Susan Stryker’s (2006b) assertion that “encounter[s] [with] the transsexual body
+[reveal] the constructedness of the natural order” (254) into a methodological
+orientation useful to quantitative researchers, a set of strategies that the final
+section of this essay will describe.
+The NTDS
+Developed and carried out by the National Center for Transgender Equality and
+the National Gay and Lesbian Task Force, the purpose of the NTDS was to “bring
+the full extent of discrimination against transgender and gender non-conforming
+[GNC] people to light” (Grant et al. 2011: 1). At 220 pages, the NTDS is the largest
+set of quantitative data about transgender persons in the United States, and it tells
+a difficult story: three-quarters of respondents report discrimination, bullying,
+and violence at the hands of classmates, health care providers, police officers,
+public officials, bosses and coworkers, teachers, and family members. These
+experiences were associated with increased rates, when compared with national
+averages, of drug and alcohol abuse, interrupted education, incarceration, mental
+health problems, and suicidality. The survey also demonstrated significant racial
+intersections, with transgender people of color experiencing much higher rates of
+poverty and police harassment than their white counterparts. There is no ques-
+tion that the NTDS represents a major achievement in quantitative research
+design, that it has produced vital empirical data about being trans in the con-
+temporary United States, and that these data will be analyzed by trans and legal
+                            Published by Duke University Press
+
+                                        TSQ
+18       TSQ  * Transgender Studies Quarterly
+scholars, social scientists, and activists for decades. What we wish to explore further
+is how the NTDS stabilized the term transgender in order to produce their data.
+         Not surprisingly, the NTDS thought big and included “those who tran-
+sition from one gender to another (transsexuals), and those who may not,
+including genderqueer people . . . and those whose gender non-conformity is a
+part of their identity” (2011: 12). Notably, the authors handled gender’s inherent
+variability with a series of questions that addressed the act of nonconformity
+rather than its specific content, including a self-assessment (“do you consider
+yourself transgender?”); two questions contrasting birth-assigned and currently
+lived gender; a list of terms with which respondents could identify; and two
+questions about social interactions (“people can tell” and “I tell people”). The
+data were then cleaned in order to eliminate respondents who did not meet
+the researchers’ definition of transgender.
+         Though the NTDS collected data regarding surgery, hormones, and other
+transitional practices, these data were not used to define transgender. And though
+this strategy reflects a set of admirable assumptions about research subjects’
+capacities for self-representation, problems arise when other researchers make
+different choices —for example, by explicitly tying inclusion criteria to respon-
+dents’ having “made strides to accommodate” another gender (Vidal-Ortiz 2002:
+225). Such “strides” are variously defined and may or may not include behaviors
+in which cisgender people also engage (e.g., cross-dressing). Our concerns here
+are not with the NTDS, whose tight focus reflected a methodological orientation
+toward lived experience rather than ontology. But for researchers interested in
+what constitutes transgender, survey instruments that do not more specifically
+define the population in question may invite more confusion than clarity. As it
+stands, trans scholars hoping to make empirically based claims have a variable—
+and at times contradictory —set of definitions through which they must wade
+(Lombardi 2009).
+         David Valentine, for example, defines transgender as “a plastic cate-
+gory . . . that clarifies a newly emergent model of gender and sexuality” (2012: 201),
+while Stryker calls it “a wide variety of phenomena that call attention to the fact
+that ‘gender’ as it is lived, embodied, experienced, performed, and encountered, is
+more complex and varied than can be accounted for by the currently dominant
+binary sex/gender ideology of Eurocentric modernity” (2006a: 3). For Sandy Stone,
+the transsexual body is an intertextual one whose “troubling and productive
+multiple permeabilities of boundary and subject position” must be negotiated
+(1998: 300). These definitions make sense to most readers of this journal because
+they highlight the complexities that confound quantitative analyses. But for those
+attempting to count, measure, operationalize, define, or generate empirical data,
+these definitions are more or less unusable.
+                         Published by Duke University Press
+
+                                             TSQ
+                           LABUSKI and KEO-MEIER     * The (Mis)Measure of Trans     19
+Who and What Is Transgender? And Who Defines It?
+Our concerns echo those of other researchers (Meezan and Martin 2009b) who
+insist that we delineate “why we are studying this particular group at this par-
+ticular point in time” (Wheeler 2009: 307), and who lament the fact that pro-
+ducing and maintaining trans as a singular entity can complicate the use of
+comparative data. In research she conducted with a group of trans men, for
+example, Rachlin (2009) limited her claims by strictly defining her research
+population: she combined a “a gender signifier” (birth-assigned female and male
+identified) and “a behavior” (considering surgery) (267). She compares this pro-
+cess with that of a colleague whose inclusion criteria for transitioning ranged from
+surgery to pronoun use. Though both used definitions specific to their research
+questions, their lack of concordance compromised their ability to generate widely
+useful data.
+        Indeed, inclusion criteria run the gamut, from expansive and some-
+times vague advertisements for “anyone who does not identify strictly as their
+‘male’ or ‘female’ birth sex” (Kuper, Nussbaum, and Mustanski 2012: 246) to
+subcategorical—and narrowly imagined —lists of trans-related attributes. Other
+studies simply report efforts to work with a “transgender community” (Rosser
+et al. 2007) (or “key members” of it: Paxton, Guentzel, and Trombacco 2006),
+whose interests are imagined to be homogeneous and represented as separate
+from those of the researchers. Still others, illustrated most consistently by Valentine
+(2007, 2012), question aspects of the category itself, arguing that its relevance
+is largely structural and institutional.
+        We argue that research design should begin with questions that specify
+what is to be learned from a specific transgender population—for example, the
+quantifiable experience of discrimination reported by the NTDS. What do ques-
+tions about hormone use or surgery target, for example? Do they always inform
+the issue at hand? Do they preclude other, potentially more relevant, dimensions
+of bodily experience? If, for example, libido shifts during or after transition, how
+to best understand the various roles played by genitals, hormones, erotic atten-
+tion, and the social environment? What role do we think these factors play in
+any person’s libido, and what are our assumptions regarding differences among
+trans, GNC, and cis libidos? Do we imagine that exogenous hormones affect trans
+and cis persons in the same ways? Are we willing to expand our findings to
+nontransgender persons? And if not, why not? Again, we must be clear about what
+we want to know from transgender respondents and who we think our data
+represent—them, other people, or all of the above.
+        If both trans and cisgender people experience shifts in erotic attraction
+over the course of their lives, a finding from our own research with trans men
+                            Published by Duke University Press
+
+                                       TSQ
+20       TSQ * Transgender Studies Quarterly
+(Meier et al. 2013), how might we discern whether there are distinct mechanisms
+at work? Kristen W. Springer, Jeanne Mager Stellman, and Rebecca Jordan-Young
+(2012) argue that such mechanisms “must be articulated” in order to avoid “a
+priori expectations of . . . difference” (1822). This is not to discount the possibility
+of biologically measurable differences between these two groups, particularly
+regarding hormones. But because hormones are not used by all trans people, and
+because investigations of this experience are not (yet) standardized, we cannot
+extrapolate hormone use to transgender as a scientific variable. And we most
+certainly cannot do so if the hormone users in question differ along other
+dimensions that might contribute to varied bodily experience, such as sex/gender,
+race, or concomitant biological conditions.
+         Though a full accounting of how race might intersect with the bodily
+dimensions of transgender is beyond the scope of this essay, it is important to
+note that it remains largely undertheorized, including in quantitative analyses. By
+demonstrating that respondents of color fared worse along almost every measure
+in their survey, the NTDS has given researchers the opportunity to elucidate the
+details of these patterns and to develop theory about how transgender and race
+interact as compounding—and measurable —biocultural stressors. Darrell P.
+Wheeler (2009) argues that across the research in trans health, “there are dif-
+ferences in outcomes based on or linked to race” (303) but that these outcomes are
+rarely unpacked. Urging us to keep our focus intersectional, he notes the “serious
+concerns” among some LGBT African Americans “about the appropriateness and
+utility of research findings to the[ir] lives” (304). Our methodological orientation
+is one way to address Wheeler’s concerns; research that includes transgender
+alongside other dimensions of identity and experience—for example, “people of
+color who are also trans” and “trans people who are also people of color” as
+equally unstable but distinctly nuanced populations—has the potential to
+address rather than evade these concerns.
+Becoming (More) Precise
+More precise definitional criteria, rather than supplanting direct questions about
+transgender experience, can allow us to look at existing themes in novel ways. If,
+for example, research on being trans at work demonstrates how profoundly
+work is structured along gendered lines (Schilt 2006), why not reframe the issue
+by aggregating rather than segregating trans and cis respondents, viewing “trans
+at work” and “gender at work” as two separate but related dimensions of a wider
+phenomenon? In this section, we look at two aspects of transgender that we
+believe are especially amenable to such efforts: sexual orientation and gender.
+                       Published by Duke University Press
+
+                                           TSQ
+                          LABUSKI and KEO-MEIER    * The (Mis)Measure of Trans     21
+Sexual Orientation
+Perry Silverschanz (2009) notes that “research has shown that lesbians and
+transgender people are less likely to seek medical care [because of ] distressing
+interactions with medical providers” (3) and recommends LGBT-specific training
+modules as a remedy. The NTDS data support his argument by demonstrating
+“widespread provider ignorance” about transgender patients and severe levels of
+discrimination in the United States health care system, all compounded by race,
+income, and education (Grant et al. 2011: 72–86). Though we too want to educate
+providers, we begin our discussion with Silverschanz because of the imprecise
+nature of his concerns. What, we ask, is the underlying factor at work in these
+disparities, and how exactly does it connect lesbian and transgender individuals?
+If the inadequate care of these groups is related to their “sexual minority” status,
+why are gay men or bisexual people not struggling with this issue?
+        Here, the concept of sexual minority serves as a “proxy” (Springer, Stellman,
+and Jordan-Young 2012: 1818) for related factors that are more limited and/or
+precise. Though NTDS respondents reported alarming rates of discrimination in
+health care settings, the survey also found that trans men were more likely to
+postpone care than were trans women due to both financial insecurity and “dis-
+crimination and disrespect” (Grant et al. 2011: 76). Our proxy question here is about
+the more complicated natures of both transgender and health disparities and
+whether women—including (cis and trans) lesbians—articulate, as research var-
+iables, with trans men who have “female” genitalia and reproductive organs. Might
+these trans men’s past experiences of being perceived as female patients overlap
+with the experiences of cisgender lesbians and (some) GNC or other cisgender
+heterosexual women? Might (some of) their lived experiences as women play a
+role in their increased economic precarity? And what role, if any, does sexual
+orientation play in any of this? What is the precise definition of “sexual minority”
+that adequately attends to these multidimensional strands of analysis?
+        These questions inform our own questions regarding sexual orientation
+and trans men, who, according to the NTDS, were more likely than trans women
+to describe themselves as queer (46 percent and 7 percent, respectively [Grant
+et al. 2011: 29]). Our research (Meier et al. 2013) demonstrates that shifts in
+attraction patterns are common among this group (35 percent of our sample) and
+that many eschew binary classificatory schemas (straight/gay) that do not cor-
+relate with their day-to-day experience. These multi-directional shifts in so-called
+sexual orientation, which have yet to be adequately described, theorized, or
+predicted, cut across all subgroups of trans men, including those whose gender
+identity or sexual orientation felt stable before transitioning. Though variables
+such as the use of exogenous testosterone and being seen as male by partner(s)
+have received some attention (Devor 1993, 1997; Schleifer 2006; Meier et al. 2013),
+                           Published by Duke University Press
+
+                                       TSQ
+22      TSQ * Transgender Studies Quarterly
+the respective roles played by surgery, nonsurgical transitioning aids, community
+support (or the lack of it), mental health variables, relationships with other trans
+people, or the ability to openly transition at work or school—all of which are
+amenable to quantitative analysis—have barely begun to be outlined or described.
+        Moreover, reports of trans men’s low levels of same-gender attraction
+(APA 2000; Bockting, Benner, and Coleman 2009) are worth reexamining. Fifty-
+one percent of our respondents reported current attractions to both men and
+women, and 17 percent reported exclusive attractions to men. These percentages
+may reflect a stable pattern of attraction; they may also be related to political and
+social developments in a community increasingly comfortable describing same-
+gender attractions. What is even more likely, however, and also suggested by our
+data, is that these attractions are part of a more fluid spectrum of desire, some of
+which is made available by the transitioning process itself. Additionally, and for a
+variety of reasons, fewer than 10 percent of trans men have had gender affirmation
+surgery involving their external genitalia (Meier et al. 2011), and many involve
+their vaginas and vulvas in their sexual activity. Less costly hormone supplements
+and body modifications (e.g., breast binders and prosthetic genitalia) make it
+increasingly possible to live and be perceived as male, shaping a population that
+is widely varied, both anatomically and experientially. In this milieu, “LGBT
+researchers” must be willing to consider what it means for the category of “gay
+man” to include people with vulvas, particularly if a vulva precludes entry into
+that category for others.
+        Finally, the shifting terms employed by researchers make interdisciplinary
+interpretation difficult, leading non–trans specialists to wonder about things like
+which trans men and women are gay, exactly? Does the definition stem from
+anatomical “sex”—that is, genitalia and secondary sex characteristics —or from
+gender identity and expression? What about sexual behavior? Do we presume
+sexual orientation to be stable, or is it “fluid” in the ways described by Lisa
+Diamond (2009), whose claims are especially interesting in that they involve
+greater fluidity in “women”? Though her research was with cis women, what
+questions does it help us to ask about trans women? To return to our good-
+practice guidelines, what is the mechanism or social phenomenon that we would
+want fluidity to inform?
+Gender
+Though the issue of how gender theory informs and is informed by transgender
+studies is beyond the scope of this essay, we want to note two separate though
+interrelated issues, the first being gender’s social asymmetry. The lived experiences
+of women, though variously intersected, are generally subordinate to those of
+men, meaning that acquiring a male identity involves accessing (more) power
+                       Published by Duke University Press
+
+                                              TSQ
+                             LABUSKI and KEO-MEIER   * The (Mis)Measure of Trans     23
+compared to transitioning to a female or nonbinary one. Gendered asymmetry
+exists in virtually every social space that might be empirically measured; it is also
+lived out by the body, in that women’s bodies are held to much stricter aesthetic
+standards, leading to stark differences in the bodily alterations in which different
+kinds of transgender people engage. “The fact is,” argues Valentine, “that the
+history of medical research and attention, surgical sophistication, kinds of sur-
+geries, access to surgeries, and cultural meanings of female-to-male and male-to-
+female surgeries are not equivalent” (2012: 205).
+        Research involving transgender people who identify as a particular gen-
+der must attend to these differences and acknowledge gender as a hierarchically
+ordered social dimension; analogizing the trans woman and trans man experience
+risks erasing both their “interpenetration” and their “power-laden differences”
+(Valentine 2012: 198).4 Closer methodological scrutiny can guide researchers as to
+whether questions and results should be broken down by gender identity: Is the
+research about the workplace, a site where gendered asymmetries exist for non-
+transgender people? Is it about bodily aesthetics or the pressure to have cosmetic
+surgery? Is it about sexual assault, military service, or other areas where maleness
+and femaleness are experienced in sometimes acutely different ways? Again, we do
+not suggest that these experiences do not also contain transgender dimensions.
+But when an accurate understanding of gender is not built into the research
+design, results are more likely to misrepresent the issue under investigation
+(Schiebinger 2014).
+        Second, transgender can be investigated, theorized, and lived as an
+opting out of a priori gender identities, a phenomenon to which the NTDS was
+extremely attentive. Whether this signifies different “kinds” of transgender people
+remains to be seen, but reckoning the differences between trans women and trans
+men should compel us to think in more precise ways about the source and
+direction of sexual difference and dimorphism. Female, male, intersex, and all
+other bodies—both cis and trans—overlap and diverge along numerous paths—
+neurological, behavioral, hormonal, sociocultural, and genetic. The trans+gender
+experience can therefore provoke questions about evolution, the hormonal envi-
+ronment, bodily adaptation, epigenetics, biological stability, and what Jane Bennett
+(2010: viii) calls “vitality.” Thinking in these terms invites research questions about
+trans-specific bodily practices as well as how trans bodies exist alongside other
+enhanced, augmented, or altered cyborg bodies—what Micha Cárdenas (2012)
+refers to as “the transreal”—in addition to the social worlds in which they are
+embedded.
+        Foregrounding gender in our research design can also help us to think
+more expansively about normative gender regimes. This argument has recently
+been made by Valentine (2012), who insists that theoretical models of gender that
+                               Published by Duke University Press
+
+                                      TSQ
+24      TSQ * Transgender Studies Quarterly
+fail to denaturalize the nontransgender, or “NT,” experience leave transgender
+individuals “bear[ing] the full weight of binary gender” (189). Developing his
+argument specifically around the process of sex reassignment surgery (SRS),
+Valentine insists that binary gender norms are shored up less by transsexuals
+seeking SRS than by gender theorists who do not actively question why NT people
+leave their genitals alone. In other words, Valentine suggests that gender categories
+are (re)produced by the decision to opt out of genital reassignment, a decision
+that many transgender people also avoid. Research design that starts here can
+open the category of transgender to anyone willing to alter their body in ways that
+trouble normative gender regimes, a process that Spade calls “mutilating gender”
+(2006: 315). This might include women who forego breast reconstruction after a
+mastectomy or “take hormones and become sexy ‘bearded ladies’” or anyone who
+does not “prioritize how their genitals will look to others” (323). What we want to
+stress here is that both trans and nontrans people can engage in this mutilation
+and that researchers must account for all of the ways in which they do.
+        Regardless of whether trans constitutes its own gender, some suggest that
+many trans people nonetheless “do gender” differently. Salvador Vidal-Ortiz
+(2002) describes alternative forms of masculinity pursued by trans men, attrib-
+uting this to a “burden of sexism” they disproportionately bear (191); he and
+others also find trans men using dress to distinguish themselves from “dykes”
+(Halberstam 1998) or engaging in stereotypical forms of sexuality that “shore up”
+their masculinity. This behavior is unsurprising given the number of trans people
+who “have no intention of undermining present gender inequalities” or binaries
+(Schact 2002: 161), people who want “quite simply to be” male or female (Prosser
+1998: 32) and do not wish to yield the “apparent naturalness of sex” to non-
+transgender people.
+        Whether we refer to this group as nondisclosing (colloquially, “stealth”),
+passing, or under the radar, they pose interesting problems for quantitative
+analyses, as they could be counted among both transgender and nontransgender
+populations. In some ways, they may be “easier” to measure given their unam-
+biguous identities as male or female, though it is the unmarked quality of their
+gender identities that may keep them from even completing a survey like the
+NTDS. Important questions remain regarding the relationship of these sub-
+populations to an apparently growing number of queer and GNC transgender
+people; to our minds, they represent a fruitful area for quantitative inquiry.
+        A final point in this discussion is the role that feminist analysis can and
+should play in our methodologies. Though feminism’s relationship to transgen-
+der studies has at times been an ambivalent one (Stryker, Currah, and Moore
+2008; Enke 2012), there is a long history of scholarship from both areas working
+toward what Stephen Whittle (2006) refers to as “a better set of values in which
+                       Published by Duke University Press
+
+                                             TSQ
+                            LABUSKI and KEO-MEIER  * The (Mis)Measure of Trans    25
+gender loses some of its power of oppression” (202). Research designs that do not
+attend to the ways in which power is unevenly distributed across all bodies risk
+allowing transgender to “contain all [the] gender trouble” (Stryker 2004: 214) and,
+potentially, all of its radicality. And, though the NTDS paid close attention to the
+ways in which distinctly gendered participants experienced discrimination, the
+reporting of its qualitative data did not consistently interrogate the normative
+gender performed by some respondents.
+        In describing their experience with school-based discrimination, for
+example, one participant wrote that they were “harassed . . . bullied [and] forced
+to wear dresses to school” (Grant et al. 2011: 46). What we find missing from this
+account is a discussion—however brief—noting that gender-specific clothing is
+also problematic for some cis girls. And though, again, we are attuned to the
+“geometric” (Wheeler 2009: 302) forms of marginalization borne by trans chil-
+dren, particularly those marked by other forms of social stigma, we nevertheless
+want to ask whether part of our job as researchers and methodologists is to
+construct instruments through which our respondents can reflect on the nor-
+mative arrangements that our research actively questions. Whittle (2006) argues
+that trans people have taught many feminists to “queer the pitch by highlighting,
+clarifying, deconstructing and then blowing apart . . . all the things we know about
+sex” (202); we seek only to extend this project to include cis girls and boys who
+may also need support and advocacy in resisting the gender norms through which
+their own nontransgender status will otherwise eventually be naturalized.
+        This would also be true for research with trans men who report that having
+sex as a man is often more pleasurable than it was as a woman (Vidal-Ortiz 2002;
+Dozier 2005). In her research with vulvar pain patients, Labuski (2013) found that
+the majority of her cis female respondents harbored longstanding feelings of
+distress regarding the relative importance of their specific sexual needs, making
+room for a broader discussion between trans and feminist scholars about how
+female eroticism is subordinated along gendered lines. If we are to fully resist the
+gender categories made real by the institutionalizing practices of medicine,
+schools, the media, and the state, then our research instruments must make room
+for our respondents to denaturalize gender in all its guises, including its struc-
+tured hierarchies.
+New Habits
+William Meezan and James I. Martin argue that LGBTresearch “should be socially
+responsible” (2009a: 424); Rachlin, in the same volume, adds that we should
+“contribute not just to a greater understanding of transgender populations, but
+also to their quality of life” (2009: 264–65). Though our prescriptive agenda leans
+more toward research conduct and less toward social policy, we agree that our
+                             Published by Duke University Press
+
+                                      TSQ
+26       TSQ * Transgender Studies Quarterly
+research should better the lives of our participants: not only should we seek to
+mitigate the potential harms to which so many trans people are routinely exposed,
+we should strive to illuminate the ways in which transgender persons can advance
+our understandings of human rights, bodily vulnerability, biocultural adapt-
+ability, gender, racialization and other forms of intersectional identity, and dis-
+crimination. More pragmatically, we also argue that transgender persons have
+experiences that are unique to their form(s) of identity as well as common to other
+populations, both of which can be measured using the methodological orienta-
+tion developed here. In this section, we outline two ways this might be done.
+         In an essay titled “Two Questions about Race,” anthropologist Alan
+Goodman (2006) argues that race is “no longer the right way to describe [human]
+biological variation.” Asserting that the term is part clumsy shorthand, part folk
+tale, and part unstable scientific concept, Goodman cautions us about all the
+things we ask race to do. Reminding us that 94 percent of human variation cannot
+be statistically explained by race and that genetic variation is greater within so-
+called racial groups than it is across them, Goodman concludes that race is an
+unsuitable concept for scientific inquiry, a “blunt and dull instrument” that
+should be replaced with more precise concepts and corresponding terminology.
+         This assertion answers just one of Goodman’s questions, however: “Is race
+a useful categorization to describe human biological variation?” We are more
+interested in his second—“Is race a useful categorization for tracking sociopo-
+litical injustices?”—in that it indexes our collective motives for “making trans-
+gender count.” By answering in the affirmative, Goodman offers concise and
+pragmatic advice regarding how to think about transgender’s complexity.
+Transgender is biological in many of the ways that “race” is, in that none of its
+bodily markers (e.g., altered genitalia, hormonal fluctuation) are unique to trans
+individuals, nor are they demonstrable across all the types of people who identify
+as trans. The point here is that de-essentializing transgender need not compro-
+mise our efforts to document and measure its lived experience. And though
+linguistic variation challenges our abilities to accurately represent these popula-
+tions, we agree with Goodman that “new vocabulary and concepts” can help our
+efforts achieve greater precision. As long as the term remains contingent, our
+research, writing, and activism can continue to address transgender’s unstable
+nature while simultaneously recognizing how it meaningfully organizes experience.
+         Though a long tradition of opposing the material to the discursive has led
+to some stagnant and fixed conceptions of the body, new materialist discourse
+and theory (Bennett 2010; Barad 2007) remind us that the bodily dimensions
+of being trans—anatomical variation, hormonal fluctuation, technological
+augmentation—are precisely what make this population so dynamic, “fascinat-
+ing” in their diversity (Goodman 2006), “far less implicated in physical norms,
+                      Published by Duke University Press
+
+                                             TSQ
+                          LABUSKI and KEO-MEIER    * The (Mis)Measure of Trans    27
+and far more diversely spread across rich and complex structuration of identity
+and desire, than it is now possible to express” (Stone 1998: 301). Though it remains
+critical to acknowledge, in the manner of the NTDS, the ways in which trans folks
+are persistently and structurally marginalized, we must also begin asking ques-
+tions from within this instability—diving into the dynamic bodies and lives of
+transgender persons and opening them out to other categories of experience.
+         Our second solution comes from feminist science studies, specifically
+Springer, Stellman, and Jordan-Young’s “good practice guidelines” (2012: 1817)
+that caution against unexamined uses of the terms sex and gender. Insisting that
+biological differences between men and women virtually always bear the traces of
+(social) gender, these authors call for more methodologically explicit delineations
+of whether and how sex/gender functions as an independent variable. In the case
+of cardiovascular disease, for example, numerous studies have described differ-
+ences between males and females regarding risk and susceptibility. But what the
+guidelines illustrate is that other mechanisms often dictate sex-specific risk (or
+protection), including—in the studies they highlight—height and muscle mass.
+“Women,” as they show, possess neither suboptimal glucose metabolism patterns
+nor diminished arterial elasticity; it is shorter people and people with less muscle
+mass who do. In these two cases, imprecision regarding the nature of the research
+question leads not only to improperly reassured short men and unnecessarily
+alarmed tall women but also to a general public underinformed about the rele-
+vance and stability of measurable sex-based differences.
+         Thus guided, we can consider how transgender might also function as a
+proxy, a variable reducible to other categories or experiences. In our own research,
+“trans man” might constitute a proxy for something far more specific and
+amenable to measurement: “people assigned female at birth taking exogenous
+testosterone at X dose” or “trans men who live in cities with large transgender
+populations,” both of which address but do not homogenize the transgender
+experience. Were our research focus to shift to, say, the relationship between
+libido and genital alteration, we could use these guidelines to decide whether and
+how to include genitally altered nontransgender people.
+         The good-practice guidelines unsettle and displace the terms sex and
+gender in scientific—specifically clinical—research; Springer and colleagues also
+insist that alternative hypotheses, especially those involving social factors, be
+analyzed, accommodated, and/or disproved. And though it is their specific
+strategies that make the guidelines so appealing —they read like a literal “how
+to”—it is their methodology that we want to highlight. Stressing the intersec-
+tional nature of their orientation, they use the “new materialist” (Coole and Frost
+2010) language of “irreducibl[e] entangle[ment]” (Springer, Stellman, and Jordan-
+Young 2012: 1818) to describe the relationships between biology and culture. This
+                            Published by Duke University Press
+
+                                       TSQ
+28      TSQ * Transgender Studies Quarterly
+language helps us reassess research designs that attempt to measure the trans-
+gender experience outside its social milieu. With what other social factors is the
+aspect of transgender that we are investigating entangled? And what steps do we
+need to take in order to ensure that we have properly taken those factors into
+account?
+Conclusions
+Bonnie B. Spanier and Jessica D. Horowitz (2011) begin their methodological essay
+by asking, “What are the biologically recognizable differences between gay people
+and straight people[?]” (43), in order to illustrate a research question funda-
+mentally grounded in two beliefs: first, that such differences exist; second, that
+they are amenable to measurement. We conclude with this provocation in order
+to review our major concerns and to gesture toward some of their implications.
+        Submitting our research designs to a similar “scratch test”—that is, are
+they based on unexamined assumptions about the differences between trans-
+gender and nontransgender people or on the similarities between all transgender
+people—is an important first step in delineating the kinds and scope of claims
+we hope to make. Once our assumptions are explicit, claim-specific instruments
+can be designed, and limitations can be anticipated. To continue with our own
+example, if our interest is in the relationship between transitioning and changes in
+libido and erotic attraction, we must define both “transitioning” and “libido” in
+ways that are measurable, and these definitions must reflect the degree to which
+we believe such a shift is unique to transgender people. Moreover, we should
+be clear about whether we want our research to contribute to a wider body of
+knowledge; if so, our definitions should strive to establish criteria that can be
+replicated by other researchers. Reorienting our designs in this way can help us
+avoid research trajectories that overly essentialize transgender people; it can also
+make it possible to establish bodily and experiential links with nontransgender
+people, “bursting transgender wide open” (Stryker, Currah, and Moore 2008: 12)
+to any number of measurable dimensions.
+        Research programs that neglect to elaborate the specific phenomena that
+the transgender experience is meant to illuminate risk substituting the category
+“trans” for any number of sociocultural processes—medical vulnerability (Grant
+et al. 2011), bodily integrity (Loeb 2008), racialized gender (Roen 2001), or
+misogyny (Serano 2012) —that exist within the broader population. These dis-
+placements obscure our perspective on the aspects of trans experience that are
+peculiar to these individuals and groups, and at the same time they circumscribe
+our research questions to the aspects of trans identity that we, perhaps erro-
+neously, believe to be incommensurate with nontrans experience. “Similarity,”
+argue Springer, Stellman, and Jordan-Young, “should . . . be considered with the
+                     Published by Duke University Press
+
+                                                    TSQ
+                             LABUSKI and KEO-MEIER         * The (Mis)Measure of Trans            29
+same level of sophistication and attention given to explaining differences” (2012:
+1822). Established similarities —however partial —can also be the basis for
+political solidarity (Feinberg 1992).
+        The degree to which we understand transgender in neurobiological, cul-
+tural, anatomical, behavioral, and/or psychological terms will determine the
+investigative angles and trajectories along which we trace and then establish a
+series of associations, hypotheses, findings, and even predictions, many of which
+will eventually articulate with public policy and popular media. We raise these
+concerns not to dissuade any of us from trans-related research topics but to
+highlight the significant limitations and potentially narrowed scope of the claims
+we might make with conventionally framed research questions. In short, how we,
+in Valentine’s (2007) words, “imagine” the experience and reality of transgender
+will substantially shape the kinds of political and theoretical questions that we ask,
+both of and about these anything-but-uniform populations.
+        In heeding Valentine’s call to “reach for a different imagination” regarding
+transgender experience (2012: 206), we are intrigued by the bodily states of hor-
+monal instability, physiological precarity, and radical corporeal imaginaries that
+are perhaps less quantifiable—and less politically urgent—than some of what we
+have examined here. Nevertheless, we remain challenged to investigate and rep-
+resent the lived experience of neither/nor (as well as both/and) that transgender
+individuals often embrace and embody—the “rich and rapidly proliferating ecol-
+ogies of embodied difference” described by Stryker, Paisley Currah, and Lisa Jean
+Moore (2008: 12). These and other experiences articulate with a range of other
+individuals and social groups, many of whom do not (yet) perceive a shared interest
+with “the transgender population” but with whom precisely defined research pro-
+jects can introduce and establish novel and even empathic forms of alliance.
+Christine Labuski is an assistant professor of women’s and gender studies at Virginia Tech,
+where she also directs the Gender, Bodies, and Technology initiative. Her ethnography, “It
+Hurts Down There”: The Bodily Imaginaries of Female Genital Pain, is forthcoming.
+Colton Keo-Meier is a clinical psychologist, researcher, and educator. He is a research coor-
+dinator at the Michael E. DeBakey Veterans Affairs Medical Center and an affiliate of Baylor
+College of Medicine. He teaches courses on human sexuality and transgender affirmative
+counseling at the University of Houston and at Southern Methodist University.
+Notes
+1.      We are aware of the literatures in critical and feminist science studies in which the project
+        and practices of empirical/imperialist, capital S “Science” are shown to depend on and
+        reproduce the very categories they claim to investigate (e.g., Harding 1986). Within this
+                               Published by Duke University Press
+
+                                              TSQ
+30        TSQ   * Transgender Studies Quarterly
+          context, looking to scientific data for legitimacy is a potentially misguided endeavor, as
+          “Science” produces what it already imagines. Though we take them quite seriously, this
+          essay brackets these critiques for the reasons made clear by the NTDS. The urgency that
+          we and many others experience about their data, coupled with a growing number of
+          scientists practicing from a queer and/or feminist perspective, makes us optimistic that
+          “strongly inferential, empirical tests” (Gowaty 2003: 903) can be designed with trans-
+          gender people in mind.
+2.        See Jaime M. Grant et al., esp. 183–84, for a helpful discussion about terminology and the
+          category “gender-not-listed-here.”
+3.        It is also important to note that qualitative research designs, such as the ethnographic
+          methods in which Labuski is trained and that she typically employs, are particularly well
+          suited toward accomplishing these aims. The present discussion is limited to specific
+          insights about quantitative methods that our coauthorship has helped us to develop, but
+          this does not mean that we do not recognize the crucial role that qualitative methods play
+          in representing the complexity of social life.
+4.        Valentine is citing Joseph 2002 here.
+References
+APA (American Psychiatric Association). 2000. Diagnostic and Statistical Manual of Mental
+          Disorders. 4th ed., text revision. Washington, DC: American Psychiatric Association.
+Barad, Karen. 2007. Meeting the Universe Halfway: Quantum Physics and the Entanglement of
+          Matter and Meaning. Durham, NC: Duke University Press.
+Bennett, Jane. 2010. Vibrant Matter: A Political Ecology of Things. Durham, NC: Duke University
+          Press.
+Bockting, Walter, Autumn Benner, and Eli Coleman. 2009. “Gay and Bisexual Identity Devel-
+          opment among Female-to-Male Transsexuals in North America: Emergence of a
+          Transgender Sexuality.” Archives of Sexual Behavior 38, no. 5: 688–701.
+Butler, Judith. 2001. “Doing Justice to Someone: Sex Reassignment and Allegories of Transexu-
+          ality.” GLQ 7, no. 4: 621–36.
+Califia, Patrick. 2012. Sex Changes: Transgender Politics. Berkeley, CA: Cleis.
+Cárdenas, Micha. 2012. The Transreal: Political Aesthetics of Crossing Realities. New York: Atropos.
+Coole, Diana, and Samantha Frost. 2010. New Materialisms: Ontology, Agency, and Politics.
+          Durham, NC: Duke University Press.
+Devor, Holly. 1993. “Sexual Orientation Identities, Attractions, and Practices of Female-to-Male
+          Transsexuals.” Journal of Sex Research 30, no. 4: 303–15.
+Devor, Holly. 1997. FTM: Female-to-Male Transsexuals in Society. Bloomington: Indiana Uni-
+          versity Press.
+Diamond, Lisa. 2009. Sexual Fluidity: Understanding Women’s Love and Desire. Cambridge, MA:
+          Harvard University Press.
+Dozier, Raine. 2005. “Beards, Breasts, and Bodies: Doing Gender in a Sexed World.” Gender and
+          Society 19, no. 3: 297–316.
+Enke, Anne Finn. 2012. “Introduction: Transfeminist Perspectives.” In Transfeminist Perspectives
+          in and beyond Transgender and Gender Studies, edited by Anne Finn Enke, 1–15. Phila-
+          delphia: Temple University Press.
+Feinberg, Leslie. 1992. Transgender Liberation: A Movement Whose Time Has Come. New York:
+          World View Forum.
+                           Published by Duke University Press
+
+                                                      TSQ
+                                LABUSKI and KEO-MEIER         * The (Mis)Measure of Trans        31
+Goodman, Alan. 2006. “Two Questions about Race.” Social Science Research Council, Is Race
+         Real? (blog), June 7. raceandgenomics.ssrc.org/Goodman.
+Gowaty, Patricia. 2003. “Sexual Natures: How Feminism Changed Evolutionary Biology.” Signs 28,
+         no. 3: 901–21.
+Grant, Jaime M., et al. 2011. “Injustice at Every Turn: A Report of the National Transgender
+         Discrimination Survey.” Washington, DC: National Center for Transgender Equality and
+         National Gay and Lesbian Task Force.
+Green, Jamison. 2006. “Look! No, Don’t! The Visibility Dilemma for Transsexual Men.” In
+         The Transgender Studies Reader, edited by Susan Stryker and Stephen Wittle, 499–508.
+         New York: Routledge.
+Halberstam, Judith. 1998. “Transgender Butch: Butch/FTM Border Wars and the Masculine
+         Continuum.” GLQ 4, no. 2: 287–310.
+Harding, Sandra. 1986. “From the Woman Question in Science to the Science Question in
+         Feminism.” In The Science Question in Feminism, 14–29. Ithaca, NY: Cornell University
+         Press.
+Joseph, Miranda. 2002. “Family Affairs: The Discourse of Global/Localization.” In Queer Globa-
+         lizations: Citizenship and the Afterlife of Colonialism, edited by Arnaldo Cruz-Malave and
+         Martin Manalansan, 71–99. New York: New York University Press.
+Karkazis, Katrina. 2008. Fixing Sex: Intersex, Medical Authority, and Lived Experience. Durham,
+         NC: Duke University Press.
+Kuper, Laura E., Robin Nussbaum, and Brian Mustanski. 2012. “Exploring the Diversity of Gender
+         and Sexual Orientation in an Online Sample of Transgender Individuals.” Journal of Sex
+         Research 49, nos. 2–3: 244–54.
+Labuski, Christine. 2013. “Vulnerable Vulvas: Female Genital Integrity in Health and Dis-ease.”
+         Feminist Studies 39, no. 1: 248–76.
+Loeb, Elizabeth. 2008. “Cutting It Off: Bodily Integrity, Identity Disorders, and the Sovereign
+         Stakes of Corporeal Desire in U.S. Law.” WSQ 36, nos. 3–4: 44–63.
+Lombardi, Emilia. 2009. “Varieties of Transgender/Transsexual Lives and Their Relationship with
+         Transphobia.” Journal of Homosexuality 56, no. 8: 977–92.
+Meezan, William, and James I. Martin. 2009a. “Doing Research on LGBT Populations: Moving the
+         Field Forward.” In Meezan and Martin 2009b, 415–27.
+———, eds. 2009b. Handbook of Research with Lesbian, Gay, Bisexual, and Transgender Popula-
+         tions. New York: Routledge.
+Meier, S., and Christine Labuski. 2013. “The Demographics of the Transsexual Population.” In
+         International Handbook on the Demography of Sexuality, edited by Amanda Baumle, 289–
+         327. New York: Springer.
+Meier, S., et al. 2011. “The Effects of Hormonal Gender Affirmation Treatment on Mental Health
+         in Female-to-Male Transsexuals.” Journal of Gay and Lesbian Mental Health 15, no. 3:
+         281–99.
+——— 2013. “Measures of Clinical Health among Female-to-Male Transgender Persons as a
+         Function of Sexual Orientation.” Archives of Sexual Behavior 42, no. 3: 463–74.
+Paxton, Keisha Carr, Heather Guentzel, and Kellii Trombacco. 2006. “Lessons Learned in
+         Developing a Research Partnership with the Transgender Community.” American Journal
+         of Community Psychology 37, nos. 3–4: 349–56.
+Prosser, Jay. 1998. Second Skins: The Body Narratives of Transsexulity. New York: Columbia
+         University Press.
+                                  Published by Duke University Press
+
+                                           TSQ
+32       TSQ  * Transgender Studies Quarterly
+Rachlin, Katherine. 2009. “The Questions We Ask: Conducting Socially Conscious Research with
+         Transgender Individuals.” In Meezan and Martin 2009b, 261–79.
+Roen, Katrina. 2001. “Transgender Theory and Embodiment: The Risk of Racial Marginalisation.”
+         Journal of Gender Studies 10, no. 3: 253–63.
+Rosser, B. R. Simon, et al. 2007. “Capturing the Social Demographics of Hidden Sexual Mino-
+         rities: An Internet Study of the Transgender Population in the United States.” Sexuality
+         Research and Social Policy 4, no. 2: 50–61.
+Schacht, Steven P. 2002. “Four Renditions of Doing Female Drag: Feminine Appearing Con-
+         ceptual Variations of a Masculine Theme.” In Gendered Sexualities, vol. 6 of Advances
+         in Gender Research, edited by Patricia Gagne and Richard Tewksbury, 157–80. Oxford:
+         Elsevier Science.
+Schiebinger, Londa. 2014. “Analyzing Gender.” genderedinnovations.stanford.edu/methods
+         /gender.html (accessed December 1, 2014).
+Schilt, Kristin. 2006. “Just One of the Guys? How Transmen Make Gender Visible at Work.”
+         Gender and Society 20, no. 4: 465–90.
+Schleifer, David. 2006. “Make Me Feel Mighty Real: Gay Female-to-Male Transgenderists
+         Negotiating Sex, Gender, and Sexuality.” Sexualities 9: 57–75.
+Serano, Julia. 2012. “Reclaiming Femininity.” In Transfeminist Perspectives in and beyond Trans-
+         gender and Gender Studies, edited by Anne Enke, 170–83. Philadelphia: Temple University
+         Press.
+Silverschanz, Perry. 2009. “What’s ‘Queer’ Got to Do with It? Enlightening Mainstream Research.”
+         In Meezan and Martin 2009b, 3–16.
+Spade, Dean. 2006. “Mutilating Gender.” In The Transgender Studies Reader, edited by Susan
+         Stryker and Stephen Wittle, 315–32. New York: Routledge.
+Spanier, Bonnie B., and Jessica D. Horowitz. 2011. “Looking for Difference? Methodology Is in the
+         Eye of the Beholder.” In Gender and the Science of Difference: Cultural Politics of Con-
+         temporary Science and Medicine, edited by Jill A. Fisher, 43–66. New Brunswick, NJ:
+         Rutgers University Press.
+Springer, Kristen W., Jeanne Mager Stellman, and Rebecca Jordan-Young. 2012. “Beyond a Catalogue
+         of Differences: A Theoretical Frame and Good Practice Guidelines for Researching Sex/
+         Gender in Human Health.” Social Science and Medicine 74, no. 11: 1817–24.
+Stone, Sandy. 1998. “The Empire Strikes Back: A Posttranssexual Manifesto.” In The Visible
+         Woman: Imaging Technologies, Gender, and Science, edited by Paula A. Treichler, Lisa
+         Cartwright, and Constance Penley, 285–309. New York: NYU Press.
+Stryker, Susan. 2004. “Transgender Studies: Queer Theory’s Evil Twin.” GLQ 10, no. 2: 212–15.
+———. 2006a. “(De)Subjugated Knowledges: An Introduction to Transgender Studies.” In The
+         Transgender Studies Reader, edited by Susan Stryker and Stephen Wittle, 1–17. New York:
+         Routledge.
+———. 2006b. “My Words to Victor Frankenstein above the Village of Chamounix.” In The
+         Transgender Studies Reader, edited by Susan Stryker and Stephen Wittle, 244–56. New
+         York: Routledge.
+Stryker, Susan, Paisley Currah, and Lisa Jean Moore. 2008. “Introduction: Trans-, Trans, or
+         Transgender?” WSQ 36, nos. 3–4: 11–22.
+Valentine, David. 2007. Imagining Transgender: An Ethnography of a Category. Durham, NC:
+         Duke University Press.
+———. 2012. “Sue E. Generous: Toward a Theory of Non-Transexuality.” Feminist Studies 38,
+         no. 1: 185–211.
+                         Published by Duke University Press
+
+                                                TSQ
+                              LABUSKI and KEO-MEIER     * The (Mis)Measure of Trans          33
+Vidal-Ortiz, Salvador. 2002. “Queering Sexuality and Doing Gender: Transgender Men’s Iden-
+         tification with Gender and Sexuality.” In Gendered Sexualities, vol. 6 of Advances in
+         Gender Research, edited by Patricia Gagne and Richard Tewksbury, 181–233. Oxford:
+         Elsevier Science.
+Wheeler, Darrell P. 2009. “Methodological Issues in Conducting Community-Based Health and
+         Social Services Research among Urban Black and African American LGBT Populations.”
+         In Meezan and Martin 2009b, 300–314.
+Whittle, Stephen. 2006. “Where Did We Go Wrong: Feminism and Trans Theory—Two Teams on
+         the Same Side?” In The Transgender Studies Reader, edited by Susan Stryker and Stephen
+         Wittle, 194–202. New York: Routledge.
+                                Published by Duke University Press
+

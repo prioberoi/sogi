@@ -1,0 +1,654 @@
+Sex Res Soc Policy (2012) 9:113–124
+DOI 10.1007/s13178-011-0074-x
+Measuring Sexual Identity Using Survey Questionnaires:
+How Valid Are Our Measures?
+Heather Ridolfo & Kristen Miller & Aaron Maitland
+Published online: 25 January 2012
+# Springer Science + Business Media, LLC (outside the USA) 2012
+Abstract Patterns of poorer health are observed in numer-       Keywords Sexual identity . Sexual orientation .
+ous groups within the US population. The Healthy People         Measurement error . Survey data . Cognitive interviewing .
+2020 initiative provides a national framework to improve        Health disparities
+the health of all people in the USA. One of the four over-
+arching goals of Healthy People 2020 is to achieve healthy
+equity, eliminate disparities, and improve the health of all    Introduction
+groups including, lesbian, gay, bisexual, and transgender
+(LGBT) people. To achieve this goal for LGBT populations        For the past three decades, the Department of Health and
+requires that these groups be identified in national health     Human Services has promoted the Healthy People initiative
+surveys. Sexuality, however, is a complex phenomenon that       to provide a science-based approach for improving the
+incorporates numerous, even contradictory, meanings, atti-      health of all Americans. Eliminating health disparities
+tudes, and types of experiences, creating a major challenge     across various US populations is a primary goal of the
+in developing a single measure that is both meaningful and      initiative (U.S. Department of Health and Human Services
+comparable across various socio-cultural groups throughout      2010). Those disparities recognized by Healthy People 2020
+the US population. Without quality data, the picture of         include those that occur by race and ethnicity, gender, edu-
+LGBT health, as it is portrayed through official statistics,    cation, income, geographic location, disability status, and
+is distorted. We contend that the specific construct of sexual  sexual orientation. The Healthy People framework also
+identity (i.e., how individuals identify and conceptualize      requires that specific health-related objectives (e.g., risk
+their own selves) is a key construct necessary for tracking     for heart disease, tobacco use, and nutrition) are monitored
+health disparities. In this paper, we assess the validity of    across groups, providing the ability to evaluate changes in
+sexual identity measures using qualitative data from cogni-     health statuses over time. However, there are data limita-
+tive interview studies as well as estimates produced from the   tions. Notably, it is not possible to identify and track LGBT
+National Survey of Family Growth and the National Health        health disparities given the lack of information of sufficient
+and Nutrition Examination Survey.                               quality on data sets used to monitor and track Healthy
+                                                                People objectives. For example, the National Center for
+H. Ridolfo (*) : K. Miller : A. Maitland                        Health Statistics (NCHS) does not recommend the use of
+Questionnaire Design Research Laboratory, Office of Research    existing NCHS sexual identity data to make prevalence esti-
+and Methodology, National Center for Health Statistics,         mates of the LGBT population or to describe the health
+Centers for Disease Control and Prevention,
+                                                                characteristics of that population because of data irregularities
+3311 Toledo Rd. Room 3219,
+Hyattsville, MD 20782, USA                                      associated with the current sexual identity variables.
+e-mail: hridolfo@cdc.gov                                           Like other disparity groups, there are unique challenges
+K. Miller                                                       to identifying LGBT respondents through surveys. Perhaps
+e-mail: ksmiller@cdc.gov                                        the foremost challenge is that sexuality, in and of itself, is a
+A. Maitland                                                     complex phenomenon that incorporates numerous, even
+e-mail: amaitland@cdc.gov                                       contradictory, meanings, attitudes, and types of experiences
+
+114                                                                                                  Sex Res Soc Policy (2012) 9:113–124
+throughout the US population. Designing a single “one-size-            used in the evaluation. In our discussion, we illustrate prob-
+fits-all” question is not as straightforward as it may seem. As        lematic response patterns associated with various measures,
+Table 1 illustrates, estimates of LGBT populations in vari-            as well as demonstrate how these problematic patterns are
+ous nationally represented surveys are comparatively small,            systematic and can produce statistically biased data. By
+therefore the slightest degree of error can dramatically im-           fully understanding the ways in which sexual identity ques-
+pact estimates. A cursory glance at the table below already            tions perform, we are able to improve the design of such
+indicates some problems with the measures. It is problem-              measures, thereby more accurately portraying the health
+atic, for example, that the numbers of “don’t know/refused”            needs and policy requirements for this group of people.
+cases are high and, in all but the National Health and
+Nutrition Examination Survey (NHANES), even surpass                    Constructs of Sexuality and the Appropriate Measure
+the number of those within the various sexual minority                 for Healthy People
+categories. It is also problematic that estimates of the “other”
+category are comparable to, or higher than, those of the sexual        To identify the sexual minority population in a survey, one
+minority categories.                                                   common practice is to simply ask respondents, “What is
+    While it is all too easy to accept statistics as factual           your sexual orientation?” However, as a construct, sexual
+representations, it is essential to critically reflect upon the        orientation is problematic in that it is intangible and difficult
+estimates and to examine the extent to which the measure is            to define. In its everyday usage, the term sexual orientation
+actually capturing what it purports to capture. To be sure, the        is used as a “catch-all” term that can characterize one’s
+way in which a question is asked, as well as its context, can          sexual identity, behavioral patterns, or feelings of attraction
+impact estimates. These factors can likely explain the dif-            (Sell 1997). Since respondents are likely referring to differ-
+ferent estimates across surveys—most notably the “bisexual,”           ent aspects of sexuality when forming their answer, it is not
+“other,” and “don’t know/refused” categories—presented in              clear what construct the data are actually capturing and, for
+Table 1. Again, because estimates of the LGBT population               that reason, the appropriate usage of that data. Additionally,
+are so small, and because of the complexity of the phenom-             references to particular aspects of sexuality are not likely to
+enon, it is especially important to understand and limit               occur randomly (e.g., men may be more likely to consider
+response error. Poor or biased data can easily lead to the             one dimension while women consider another). These sys-
+mischaracterization of this population, which would hold               tematic differences can bias data, reducing the overall quality
+implication for the Healthy People initiative and misguide             and allowing for mischaracterization.
+the policies created to serve this disparity population.                   A more prudent strategy is to disentangle the various
+    In this paper, we first describe various constructs used to        dimensions of sexuality into separate constructs and to
+measure sexuality and argue that the concept of sexual                 design questions around those aspects separately. The spe-
+identity is an important construct to measure given the goals          cific construct chosen should make theoretical sense to the
+of the Healthy People initiative. Using qualitative analyses           particular research question at hand. Questions about behav-
+of cognitive interview data as well as quantitative analyses           ior typically ask respondents to report a range of activities,
+of survey data produced by the National Survey of Family               such as sexual behaviors or practices, the time period within
+Growth (NSFG) and the NHANES, we assess the validity of                which sexual interactions occurred and the gender of their
+questions designed to measure sexual identity for                      sexual partners (Laumann et al. 1994). Although it is more
+nationally-represented federal surveys. Table 2 presents the           common and often preferred in epidemiological research to
+questions examined in this paper along with the type of data           use sexual behavior measures to identify sexual minority
+Table 1 Estimates of sexual identity groups by survey
+Survey                        Heterosexual, %        Gay men, %        Lesbian, %        Bisexual, %       Other, %        DK/refused, %
+2002–2003 NSFGa               89.6                   1.1               0.6               2.4                 4.2           2.0
+2006–2008 NSFG                94.5                   0.8               0.5               2.5                 0.4           1.2
+2001–2008 NHANESb             95.7                   1.1               0.7               1.9                 0.3           0.4
+HIS (UK) c                    94.2                   1.3               0.6               0.5                 0.5           3.8
+2009 CCHSd                    96.5                   1.2                                 1.0               NA              1.3
+a
+  National Survey of Family Growth
+b
+  National Health and Nutrition Examination Survey
+c
+  Health Interview Survey, UK
+d
+  Canadian Community Health Survey. Estimates found at: http://www.statcan.gc.ca/imdb-bmdi/document/3226_D3_T9_V15-eng.pdf
+
+Sex Res Soc Policy (2012) 9:113–124                                                                                                       115
+Table 2 Measures of sexual identity
+Sexual identity question                                                         Qualitative/cognitive interview data Quantitative/survey data
+What sexual orientation do you consider yourself to be? (1) heterosexual,        Ridolfo et al. (2010)                NA
+  (2) gay or lesbian, (3) bisexual, (4) other, (5) don’t know
+Do you think of yourself as (1) heterosexual or straight (that is,               Miller 2001; Ridolfo and             2001–2008 NHANES
+  sexually attracted only to women/men), (2) homosexual or gay/lesbian             Schoua-Glusberg 2009
+  (that is, sexually attracted only to men/women), (3) bisexual (that is,
+  sexually attracted to men and women), (4) something else, (5) or you’re
+  not sure?
+¿Se considera usted a sí mismo (1) heterosexual (le atraen las                   Ridolfo and Schoua-Glusberg 2009     2001–2008 NHANES
+  mujeres/los hombres), (2) homosexual o gay/lesbiana (le atraen los
+  hombres/las mujeres), (3) bisexual (le atraen los hombres y las mujeres),
+  (4) alguna otra cosa, (5) no está seguro(a)?
+Do you think of yourself as (1) heterosexual, (2) homosexual, (3) bisexual,      NA                                   2002–2003 NSFG
+  or (4) something else?
+Do you consider yourself to be (1) heterosexual or straight, (2) gay or          Ridolfo et al. (2010)                NA
+  lesbian, or (3) bisexual?
+Do you think of yourself as (1) heterosexual or straight,                        NA                                   2006–2008 NSFG
+  (2) homosexual, gay, (or lesbian,) (3) bisexual, (4) or something else?
+When you say “something else,” what do you mean?                                 NA                                   2006–2007 NSFG
+¿Usted se considera… (1) heterosexual, (2) homosexual,                           NA                                   2006–2008 NSFG
+  (3) bisexual, (4) O alguna otra cosa?
+Cuando usted dice “alguna otra cosa”, ¿a qué se refiere?                         NA                                   2006–2007 NSFG
+populations, this practice not only discounts sexual minori-                groups, and sociopolitical institutions within that context
+ties’ self-labeling, but it ignores the sociocultural factors that          (Rust 1993). Furthermore, identities are instrumental in
+influence health disparities among sexual minorities (Young                 organizing peoples’ lives and their everyday interactions.
+and Meyer 2005). That is, behavior in and of itself does not                That is, identities have important implication for individu-
+define a demographic group or population as it is concep-                   als’ behaviors and others’ actions toward them (Cast 2003).
+tualized within Healthy People 2020. In fact, it is well                    In the context of health, sexual identity is informative in
+established that same-sex behavior does not necessarily                     understanding respondents’ access to health care and, sub-
+coincide with a gay or lesbian identity (Ridolfo and                        sequently, the quality of care they are provided. Additionally,
+Schoua-Glusberg 2009; Laumann et al. 1994; Pathela, et                      because identities are a conception of self, sexual identity
+al. 2006; Ellis et al. 2005; Lever et al. 1992).                            (unlike orientation and attraction) is a more tangible and
+    Questions which ask about sexual attraction typically                   knowable construct and, theoretically, less problematic for
+include scales that ask respondents to rate the degree to                   respondents to report.
+which they are “attracted” to the same or opposite sex.                        Measuring sexual identity, however, on a survey ques-
+However, the usefulness of these scales relies on the as-                   tionnaire presents its own unique challenges. Sexual identity
+sumption that attractions toward women and toward men are                   (as an understanding of self) is multi-dimensional, rooted in
+fundamentally opposite attractions, that is, individuals are                social and political contexts, and changes over the course of
+either attracted to men or to women (Rust 1993). As with                    individuals’ lives (Stein and Plummer 1994). Community
+sexual behavior, individuals’ sexual attractions are not uni-               ties, cultural and political values, friendship relations, as
+formly concordant with their sexual identities (Ridolfo and                 well as sexual behavior and desire have all been identified
+Schoua-Glusberg 2009; Laumann et al. 1994; Ellis et al.                     as central components of sexual identity (Esterberg 1997;
+2005). Furthermore, as a subjective phenomenon, what ac-                    Stein 1997). Consequently, individuals’ sexual identities do
+tually constitutes “attraction” varies immensely among indi-                not necessarily conform to discrete, objective, and uniform-
+viduals, and (particularly when answering survey questions)                 ly defined categories (Institute of Medicine 1999; Plummer
+respondents often conflate aesthetics with sexual desire in                 1981, 1995). With this in mind, we would be remiss if we
+their interpretation of the term (Miller 2001).                             did not acknowledge that it is somewhat problematic to
+    Another important construct to examine when studying                    quantify the concept of sexual identity. Sexual identity,
+health disparities among sexual minority groups is sexual                   however, is not unique in that there are numerous examples
+identity. Sexual identity is best conceptualized as a concep-               of complex constructs on Federal surveys, for example,
+tion of self that is formed within a social context and defines             disability status and racial identity. For these important, yet
+for individuals their relationship to other individuals,                    complex, constructs, a good deal of investment is placed in
+
+116                                                                                         Sex Res Soc Policy (2012) 9:113–124
+the development and evaluation of these measures to ensure         In total, we conducted 126 cognitive interviews con-
+that the intended concept is captured. To this end, it is our  ducted. For all three studies, purposive samples of respond-
+goal to develop a question that most accurately captures the   ents were recruited, ensuring a diverse sample of
+concept of sexual identity. Such a question must be relevant   respondents in terms of education, race/ethnicity, gender,
+across a broad spectrum of sexualities and understandable      and sexual identity (see individual studies for specific sample
+within various socio-cultural groups that are represented in   breakdowns). In each study, during the interviews, respond-
+the US population.                                             ents were first asked the questionnaire in its entirety and then
+                                                               emergent retrospective probing techniques were used. This
+                                                               procedure allowed respondents to answer the survey question-
+Methods                                                        naire as they naturally would in the field, while still allowing
+                                                               for in-depth probing of the processes they engaged in when
+The assessment of many contemporary survey variables is        answering the survey questions (Biemer and Lyberg 2003;
+best accomplished with a dynamic question development          Willis 2005).
+and evaluation strategy. This is particularly true of survey       Data from cognitive interviews were analyzed using the
+items that focus on complex concepts such as identity and      constant comparative method of analysis, an inductive pro-
+sexuality. A variety of methods are available to evaluate      cess to generate conclusions (see Lincoln and Guba 1985;
+both the validity and the reliability of survey questions;     Strauss and Corbin 1990; Creswell 1998 for in-depth dis-
+however, each of the methods has its own strengths and         cussion of the constant comparative method). Data were
+weaknesses (Madans et al. 2011). In this paper, we use both    analyzed with two themes in mind: (1) the ways in which
+qualitative and quantitative data to examine the quality of    respondents interpreted the question and (2) the ways in
+the various versions of the sexual identity questions.         which respondents formulated their response (see Ridolfo
+                                                               and Schoua-Glusberg 2011 for detailed illustration regarding
+Qualitative Data and Methods                                   the use of the constant comparative method to analyze
+                                                               cognitive interview data).
+The qualitative findings presented in this paper come from
+three separate question evaluation studies we conducted at     Quantitative Data and Methods
+NCHS (see Miller 2001; Ridolfo and Schoua-Glusberg
+2009; Ridolfo et al. 2010). Within these studies, three dif-   The quantitative data used in the current study are from the
+ferent sexual identity questions were evaluated using the      2002 and 2006–2008 NSFG and the 2001–2008 NHANES.
+method of cognitive interviewing. Cognitive interviewing       The language of the interview variable is not available for
+is a qualitative method used to examine how survey ques-       the 2001 and 2002 NHANES. Therefore, when Spanish and
+tions perform. The method can be used to determine the         English interviews are compared in this paper, 2003–2008
+construct that is captured by a survey question, as well as to data are used. Both surveys are conducted by the NCHS.
+uncover problems that could lead to response error in the      Detailed methodological descriptions of the data sets are
+survey data (Willis 2005). Traditionally, cognitive inter-     available on the NCHS website (http://www.cdc.gov/nchs).
+viewing has focused on response error that emerges due to      The NSFG data sets include data on respondents aged 15–
+disruption in the cognitive processes that respondents en-     45 years, whereas the NHANES data set includes data on
+gage in when answering survey questions (i.e., comprehen-      respondents aged 20–59 years. It is important to note that
+sion, recall, judgment, and response mapping) (Tourangeau      the sexual identity questions analyzed for both the NSFG
+et al. 2000). However, it is increasingly argued that these    and NHANES surveys are included in a section of the
+cognitive processes occur within a larger socio-cultural con-  survey administered using Audio Computer-Assisted Self
+text, and in order to fully understand how respondents         Interviewing (A-CASI). The questions are also included in
+comprehend and respond to survey questions, it is necessary    sections of the survey about sexual behavior. Statistical
+to examine how each step in the response process is informed   analyses were conducted using the SURVEY procedures in
+by individuals’ lived experiences (Miller et al. 2011). During SAS version 9.2 in order to account for the clustering,
+cognitive interviews, respondents are administered a survey    stratification, and weighting in the NSFG and NHANES
+questionnaire and are then asked to describe how and why       complex sampling designs. The percentage of missing data
+they answered a question the way they did. In doing so,        is the primary dependent variable in the quantitative analy-
+interviewers elicit narratives regarding the interpretive pro- ses in this paper. Missing data is defined as respondents who
+cesses respondents engage in while answering the survey        answered “don’t know,” refused, something else, or not
+question. When paired with quantitative analyses, this meth-   sure. The decision to group these responses together was
+od allows us to assess the validity of survey questions across made for two reasons. First, this reflects how data users
+diverse groups of respondents (Miller 2011).                   traditionally treat these categories. That is, often, data users
+
+Sex Res Soc Policy (2012) 9:113–124                                                                                          117
+drop these categories from the analysis completely. Second, in    socio-cultural groups—what Padilla (2007) refers to as
+cognitive testing, we found that respondents select each one of   “construct overlap.” Analysis of cognitive interviews in this
+these response options (don’t know, refused, something else,      study revealed that the construct of sexual identity differed
+or not sure) for various reasons, and none of these response      across the various sexuality subgroups. This lack of compa-
+options were producing meaningful data. In addition to the        rability generated not only disparate data across groups, but
+sexual identity question, the 2006–2008 NSFG used an open-        it also generated different types of question response prob-
+ended follow-up question whereby respondents were allowed         lems for the different groups of respondents.
+to write in another answer if, when answering the sexual              In contrast to those respondents who did not identify
+identity question, they had selected “something else.” These      within a sexual minority group, the concept of “sexual
+open-ended responses were also examined in this analysis.         identity” held a particularly distinct and salient meaning
+                                                                  for those identifying as lesbian, gay, bisexual, or transgen-
+                                                                  der. For LGBT-identified respondents, “sexual identity”
+Results                                                           represented a core component of their sense of self. Perhaps
+                                                                  not surprisingly, this was not true for non-LGBT respond-
+It is a common understanding that where a question is             ents. By claiming a lesbian, gay, or bisexual sexual identity,
+placed in a questionnaire and the topics of questions that        individuals are able to make sense of significant aspects of
+come before can impact how a survey question is interpreted       their everyday lives that, in many ways, run counter to that
+(Sudman et al. 1996). However, it is equally important to         of socio-cultural ideals (Plummer 1995; Stein and Plummer
+recognize that the question response process itself is set        1994). Although specific conceptualizations varied across
+within the context of each respondent’s life circumstance,        LGBT interviews, the underlying theme running throughout
+and this perspective also impacts question interpretation;        all LGBT interviews pertained to life experience occurring
+how respondents go about understanding and answering a            outside mainstream expectation. For example, some
+survey question is necessarily informed by the socio-cultural     respondents described forgoing traditional marriage in order
+context in which they live. Respondents’ social location,         to create a family with someone of the same gender, others
+including such significant factors as their socio-economic        discussed their acknowledgement of same-sex sexual attrac-
+status, education, and age can impact how respondents go          tions or engaging in same-sex sexual behaviors—feelings
+about interpreting and processing survey questions (Miller        and actions, they recognized, that are non-normative and
+2003; Miller et al. 2011).                                        unsanctioned. Still others described belonging to a larger
+   The most noteworthy finding of this study is that respond-     LGBT community and participating in LGBT-related polit-
+ents’ conceptualization of their own sexuality impacted the       ical activities. For example, one respondent conceptualized
+way in which they interpreted and processed questions per-        his sexual identity within a socio-political framework:
+taining to sexual identity. Significantly, respondents’ different
+                                                                      To say that I am gay or I am lesbian is a political
+self-conceptions lead to different types of response problems
+                                                                      statement. And it’s about self-acceptance and about
+which, in some cases, led to skewed or misleading survey
+                                                                      self-acknowledgment and that there’s more—it’s more
+data. The findings of our analysis are organized by the fol-
+                                                                      than just the mechanics of sexual behavior… it has more
+lowing themes: (1) construct equivalence, (2) question inter-
+                                                                      to do with a community, a cultural connection and a
+pretation, and (3) response category fit. Qualitative and
+                                                                      social connection than just who you have sex with.
+quantitative data are presented where appropriate. The find-
+ings from this study provide necessary insight for the im-            Transgender interviews underscored the same theme of
+provement of sexual identity measures, which will be              self-acknowledgement outside social expectation. However,
+discussed in the paper’s conclusion.                              for these respondents, an additional critical component in-
+                                                                  cluded the complex relationship between gender and sexual
+Salience of Sexual Identity and Construct Equivalence             identities. By comparison, gender identity was not as prom-
+                                                                  inent a theme in lesbian, gay, and bisexual interviews.
+The idea of construct equivalence, that is, the extent to         Because sexual identity and gender identity were intrinsi-
+which a particular measureable concept exists and is salient      cally linked for transgender respondents, the question re-
+to all potential sub-groups within a survey sample, has been      sponse process became more involved and often
+a focal point in the cross-cultural survey methodology liter-     problematic. For example, one respondent who was trans-
+ature (Harkness et al. 2003, 2010; Miller et al. 2011). Data      gender female to male explained:
+lacks comparability if a particular construct does not exist,
+or is fundamentally different, in one or more of the repre-           Because I’m trans I kind of consider myself, I mean I
+sented cultural groups. Cognitive interviewing can provide            date women but I guess I might identify my orienta-
+insight into the degree that constructs correspond across             tion to be kind of heterosexual but a little queer. I
+
+118                                                                                            Sex Res Soc Policy (2012) 9:113–124
+    mean I’m not, I don’t date men but at the same time           comparison, heterosexual (or non-LGBT) respondents
+    I’m biologically female, transitioned to male so. I           maintained the same interpretation (i.e., the vague and
+    guess heterosexual. Let’s say heterosexual.                   loosely defined “not-me” construct) across both of these
+                                                                  questions.
+    When asked more about his response, he explained:
+                                                                      As previously described, non-LGBT respondents often
+    For me it’s because of the process to get where I’m at        had a limited vocabulary when reporting their sexual iden-
+    has been so much a part of the queer community for so         tities and some, particularly those of lower socio-economic
+    many years, it’s hard to fully identify as heterosexual       status, were unfamiliar with the term “heterosexual.” Con-
+    because it’s more, in terms of, less about my orienta-        sequently, for questions with response categories that only
+    tion and more about I think culture and feeling still a       used the term “heterosexual” (e.g., NSFG 2002), some
+    part of that queer culture.                                   respondents found it difficult to answer. For example, one
+                                                                  respondent with difficulty deliberated over the different
+    In comparison to LGBT-identified respondents, most of         response options: “I’m going back [and forth] to ‘heterosex-
+the other respondents did not hold a salient sexual identity;     ual’ [and] I guess ‘other.’ I want to be ‘straight.’ I’m
+this lack of salience was reflected in the absence of a well-     straight. You can write men only if you want.” In providing
+defined identity as heterosexual. Unlike LGBT respondents         an actual response, some respondents selected the category
+whose identity helps to make sense of non-normative expe-         “heterosexual” by ultimately deducing that it meant “not
+riences, non-LGBT respondents have little need for a salient      gay.” Others, however, selected the response category “oth-
+heterosexual identity. Instead, these respondents often dis-      er” and explained that they did not belong to any of the
+identified from a gay identity or possessed what is referred      provided options but, rather, were “straight.” Still others
+to as a “not-me” identity (McCall 2003). For these respond-       opted out of the question completely answering “don’t
+ents, identifying as heterosexual (or as some described it        know” or “refused.” Finally, a few others believed the term
+“not gay” or “normal”) served to distance themselves from         “heterosexual” meant “bisexual.” For example, one con-
+what they perceived as a stigmatized gay identity. When           fused respondent explained: “You know I hear that it [het-
+asked to define what identifying as heterosexual meant to         erosexual] means male and female, a person that likes a
+them, these respondents often lacked a vocabulary to de-          male or a female. A female likes a female and male.”
+scribe their sexual identity, finding it hard to elaborate on the     Examination of the 2002 NSFG survey data reaffirms the
+meaning. Instead of defining a central component of their         cognitive interview findings: comprehension problems lead
+sense of self, these respondents gave loosely constructed         to high rates (i.e., 6.2% of all respondents) of “something
+answers that vaguely pertained to sexual behavior and sex-        else,” “refused” and “don’t know” responses. Additionally,
+ual attractions. For example, one respondent explained it’s       comprehension problems were not entirely random but were
+“what do you gear yourself toward, the same sex or opposite       more likely to occur for those respondents of lower socio-
+sex.” When answering the question, another respondent             economic status. Indeed as Table 3 illustrates, those
+asked, “Heterosexual means you only deal with men right?          respondents with lower education were more likely to have
+I guess I'm hetero.” As evidenced by this last respondent, it     “something else,” “refused,” and “don’t know” responses.
+is arguable that many of these respondents simply do not          Furthermore, the problems appear to be exacerbated for
+possess a sexual identity as it is not salient to their life      women.
+experience.                                                           In an attempt to resolve this type of problem, in its
+                                                                  version of the sexual identity question, the NHANES incor-
+Respondent Identity and Question Interpretation                   porated a descriptive clause for each response category,
+                                                                  defining the identity categories along the dimension of
+How respondents understood the construct of sexual identity       sexual attraction. Common identity categories (i.e., straight,
+held direct implication for the ways in which they under-         lesbian, and gay) were also used to clarify the response
+stood the various versions of the question. For example,          options (see Table 2 for exact wording). The resulting sur-
+LGBT respondents understood the question which asked              vey data appears to indicate that these changes improve
+“Do you consider yourself to be heterosexual or straight,         problems of comprehension as they are observed in rates
+gay or lesbian, or bisexual” as asking about identity, how-       of missing data. In comparing the percent of “don’t know/
+ever, they tended to interpret the orientation question (i.e.,    refused” and “other” responses in the NHANES to those of
+“What sexual orientation do you consider yourself to be?”)        the other surveys not utilizing a definitional clause (as
+as only asking about sexual attraction or behavior. “By           illustrated in Table 1), only 0.7% of NHANES respondents
+limiting it to sexual orientation,” one gay-identified respon-    answered “other” or “don’t know/refused,” while the other
+dent explained, “it seems like it is more about behavior—         surveys ranged from 1.6% to 6.2% of respondents. Addi-
+attraction and the acting out of that attraction.” By             tionally, the percentage of missing data is lower for all
+
+Sex Res Soc Policy (2012) 9:113–124                                                                                                   119
+Table 3 Distribution of missing data by education in the 2002 NSFG
+                       Men                                                          Women
+Missing data           Less than              High            More than             Less than               High            More than
+                       high school            school          high school           high school             school          high school
+Yes                    11.4%                  8.0%            2.1%                  14.4%                   7.9%            2.1%
+No                     88.7                   92.0            97.9                  85.6                    92.1            97.9
+                       100                    100             100                   100                     100             100
+N                      (1,361)                (1,505)         (2,055)               (1,702)                 (2,167)         (3,767)
+                       Rao-Scott Chi-square (2)063.47, p<.05                        Rao-Scott Chi-square (2)0240.28, p<.05
+Missing data0something else, refused, and “don’t know” responses
+educational groups—although the relationship continues to                  occasionally sleep with one.... [as far as answering
+be significant (see Table 4).                                              the question], I thought I can’t answer this any other
+    The definitional clause, however, creates another type of              way aside from lesbian because of what I said before
+interpretive problem that is not visible in the survey data.               about the emotional part of it, because I could never
+Specifically, the solution conflates the construct of sexual iden-         imagine being in a relationship with a man.”
+tity with that of attraction, and it is not clear which construct is
+                                                                           Similarly, a heterosexual woman found herself having to
+actually being measured. In cognitive interviews, many
+                                                                        disregard the attraction clause in order to answer the sexual
+respondents indicated that they did not notice the statement;
+                                                                        identity component of the question.
+they either had no sexual identity (but rather a “not-me” iden-
+tity) and answered solely based on their perceived “attractions,”          I thought a little bit about it because I’ve been attracted
+or their sexual identity was consistent with the way they per-             to women but I wouldn’t say—I wouldn’t consider
+ceived their “attraction.” However, for other respondents, spe-            myself bisexual because I don’t have an interest in
+cifically those whose identity and sense of attraction were not            having a relationship with a woman. It’s more maybe a
+concordant, the response process was much more complicated.                curiosity thing.
+In forming their answer, they either had to adhere to the sexual
+                                                                           It is impossible to determine from the survey data alone the
+identity portion of the question and disregard the sexual attrac-
+                                                                        extent to which this type of response pattern impacted the
+tion clause, or adhere to the sexual attraction clause and disre-
+                                                                        estimates. Depending on how respondents ultimately choose
+gard the sexual identity portion of the question. This was true
+                                                                        to base their answer—on identity, as these two respondents
+for both minority and non-minority identified respondents. For
+                                                                        did, or on attractions—the estimates are impacted. It is possi-
+example, one woman who has self-identified as a lesbian for
+                                                                        ble that the estimate of bisexual is larger if respondents base
+over 20 years explained how she deliberated over the question:
+                                                                        their answer on attraction, rather than identity.
+    See, to me, sexuality is more than just who you sleep                  In 2006, NSFG altered its identity question by adding the
+    with. In fact, it’s more about emotion or it’s equally              more commonly used identity categories, but forgoing a
+    about emotion, not just sex. So, I could never imagine              definitional clause. As illustrated in Table 1, the change
+    myself in a relationship with a man, but I do                       dramatically reduced the missing data: “other” dropped
+Table 4 Distribution of missing data by education in the 2001–2008 NHANES
+                       Men                                                           Women
+Missing data           Less than               High            More than             Less than             High school        More than
+                       high school             school          high school           high school                              high school
+Yes                    4.0%                    1.1%            0.4%                  6.1%                  2.1%               1.0%
+No                     96.0                    98.9            99.6                  93.9                  97.9               99.9
+                       100                     100             100                   100                   100                100
+N                      (1,450)                 (1,474)         (2,774)               (1,421)               (1,365)            (3,392)
+                       Rao-Scott Chi-square  (2)083.76, p<.05                        Rao-Scott Chi-square (2)082.21, p<.05
+Missing data0something else, refused, and “don’t know” responses
+
+120                                                                                                    Sex Res Soc Policy (2012) 9:113–124
+from 4.2% in 2002 to 0.4% in 2006, and “don’t know/                     missing data. By comparison, there were only six cases
+refused” responses dropped from 2.0% to 1.2%. Further-                  (.04%) of missing data for the NSFG racial identity question,
+more, as Table 5 illustrates, the relationship between educa-           and even those cases were ultimately imputed. There is no
+tion and missing data is reduced and is even weaker than                known way to accurately impute sexual identity data. Specifi-
+that of the NHANES. The relationship between gender and                 cally because the sexual minority rates are so small, it is critical
+missing data has disappeared. Thus, it appears that the                 to more accurately distinguish the non-minorities from the
+NHANES attraction clause added an unnecessary complica-                 minorities in the missing data categories. As the next section
+tion. A question comparable to the sexual identity measure              describes, we also found in the cognitive interview studies that
+used in the 2006–2008 NSFG was cognitively tested and                   sexual minorities can also fall into these categories.
+showed better comprehension over other questions which
+did not include commonly used terms such as straight and                Lack of Fit: LGBT Experience and the Categorical Structure
+gay (see Ridolfo et al. 2010). For example, upon hearing the            of Survey Questions
+question which contained “straight” in the response options,
+one respondent stated: “I'm straight then. Now I have to go             As previously discussed, it is well documented that sexual
+home and figure out what heterosexual is.” We should note,              and gender identities are fluid, that is, they can change over
+however, that a few respondents did not conceptualize the               time and from context to context. However, the categorical
+term “straight” as a term to characterize one’s sexuality, but          structure of survey questions requires that respondents con-
+rather to indicate an individual as being “straight laced”              ceptualize their identity, at least in the confines of the survey
+(meaning they did not use drugs or alcohol). To this extent,            interview, as a more-or-less static phenomenon. This prob-
+use of this additional term in the response category did not            lem was most evident among those in the process of “com-
+completely eliminate interpretation problems.                           ing out” and those transitioning genders. For these
+    Much more of a problem, however, is that the inclusion              respondents, the “other” and “don’t know” responses often
+of the word “straight” only resolved comprehension prob-                represented the most appropriate categories. Transgender
+lems in English because there is no equivalent wording in               respondents, for example, tended to describe the other re-
+the Spanish language. Across all three data sets, as illustrated in     sponse options as not accurately capturing their true identity.
+Table 6, the percentage of missing data was higher for                  As one respondent explained, he identified as both a hetero-
+Spanish-speaking respondents compared with English-                     sexual woman and a homosexual man because he was
+speaking respondents. This is true for both men and women.              transitioning from male-to-female. Another transgender re-
+Comprehension problems persist among Spanish-speaking                   spondent explained that he has been exploring the term
+respondents. Even for the NHANES, where the definitional                “queer” to describe himself. Queer, he noted, was more
+clause attempted to explain the terms, Spanish interviews               encompassing of individuals who do not fit into the male–
+compared with those in English generated higher rates of                female binary. Because of this categorical problem, some
+missing data.                                                           transgender respondents selected “other” in lieu of the
+    Comprehension problems among non-LGBT respondents                   options provided. Still other transgender respondents chose
+can undoubtedly explain the relatively high rates of missing            “heterosexual” because they had fully re-conceptualized
+data—a problem that is particularly high among Spanish speak-           their gender identity and were in relationship with partners
+ers. Without a doubt, an improved question will be one that has         of their previous gender.
+equivalent meaning in both English and Spanish. It will also be            For those respondents “coming out,” that is, in the pro-
+critical to develop a measure that reduces the amount of                cess of questioning their sexual identity, the experience of
+Table 5 Distribution of missing data by education in the 2006–2008 NSFG
+                      Men                                                            Women
+Missing data          Less than            High school          More than            Less than            High school          More than
+                      high school                               high school          high school                               high school
+Yes                   3.1%                 1.6%                 0.7%                 3.8%                 1.2%                 1.0%
+No                    96.9                 98.4                 99.3                 96.2                 98.8                 99.9
+                      100                  100                  100                  100                  100                  100
+N                     (1,883)              (1,590)              (2,637)              (1,960)              (1,844)              (3,522)
+                      Rao-Scott Chi-square (2)017.14, p<.05                          Rao-Scott Chi-square (2)039.42, p<.05
+Missing data0something else, refused, and “don’t know” responses
+
+Sex Res Soc Policy (2012) 9:113–124                                                                                                   121
+Table 6 Percentages of missing data by language and ethnicity
+                       Men                                                         Women
+                       Spanish Hispanic    English Hispanic   English non-         Spanish Hispanic English Hispanic   English non-
+                       interview           interview          Hispanic interview   interview        interview          Hispanic interview
+2002–2003 NSFG         12.1%               10.6%              5.1%                 12.9%            9.5%               5.6%
+                       87.9                89.4               94.9                 87.1             90.5               94.4
+                       100                 100                100                  100              100                100
+                       (359)               (763)              (3793)               (558)            (1,031)            (6,037)
+2006–2008 NSFG         8.9%                1.3%               1.0%                 9.3%             1.2%               1.1%
+                       91.1                98.7               99.0                 90.7             98.8               98.9
+                       100                 100                100                  100              100                100
+                       (451)               (947)              (4708)               (546)            (1,053)            (5,716)
+2003–2008 NHANES       6.2%                1.2%               0.9%                 9.1%             4.0%               1.4%
+                       93.8                98.8               99.1                 90.9             96.0               98.6
+                       100                 100                100                  100              100                100
+                       (595)               (543)              (3,098)              (576)            (685)              (3,324)
+Missing data0something else, refused, and “don’t know” responses
+transitioning presented the same type of response problems.             conceptualize their identity within the provided categories,
+For example, instead of answering the question, one woman               that is, “gay,” “lesbian,” or “bisexual.” These terms used
+who was, at the time, married to a man, went on to explain:             commonly to describe sexual identities were not universally
+                                                                        used across all sexual minority groups. For example, a few
+   Well, I’m in a coming out process. I’ve made many,
+                                                                        respondents discussed using alternative terms, such as
+   many attempts to get involved with lesbian groups or
+                                                                        “queer” or “same gender loving.” This was particularly seen
+   women. But you know back in the mid ‘70s—see,
+                                                                        among some racial and ethnic minorities who associated gay
+   when I was 21 after a year I knew that I didn’t want
+                                                                        and lesbian with white gays and lesbians. One respondent,
+   to be involved with men. So then I started going to
+                                                                        who was a black male, associated the term “gay” with white
+   lesbian groups, but they were so militant back then,
+                                                                        homosexual men and did not feel that it applied to him as a
+   full of so much hatred and anger. And I thought, oh
+                                                                        black male. He explained:
+   my God, this is going to destroy me. That was around,
+   say, ‘72 to ‘74. And then about 10 years later, ‘82 to                   Because I think gay is like a marker. It’s like a stereo-
+   ‘84, I started corresponding with lesbians through [a                    type. I guess when you see gay it’s mostly white gay
+   lesbian group] in Washington. I was writing to women                     men. You just see mostly one race and that’s what you
+   from all across the country. And then I met my                           see when you say gay. It’s like you see ‘Queer as
+   husband.                                                                 Folk,’ which has no black characters on it…. I look
+                                                                            in the mirror and I say ‘okay I’m a different color of
+   As the respondent continued to explain, the question was
+                                                                            skin, different skin color than what I see of what’s
+difficult to answer because, although she is married, she
+                                                                            gay.’
+remains involved in several lesbian organizations and has
+told many people, including her husband, that she is a                      While some respondents, who used alternative terms to
+lesbian. In the context of legalized marriage, she lives as a           describe their sexual minority identity, would select “gay or
+heterosexual, but, in other social circles, she presents herself        homosexual,” others would select the “other” category when
+as a lesbian. Many gay and lesbian respondents also corrob-             provided.
+orated this type of response problem, noting that their an-                 Interestingly, the 2006–2008 NSFG write-in answers for
+swer would have fluctuated at different points in their life,           category “something else,” reflect these same findings found
+and that they (like this woman) endured a long transition               in the cognitive interviews. Slightly more than half of the
+period before they fully identified as “gay” or “lesbian.” For          codeable write-ins included words that could be interpreted
+these respondents, it is likely that they respond “don’t                as being that of a sexual minority group, for example, writing
+know” or “other.”                                                       in “omnisexual,” “multisexual,” “trisexual,” and “bicurious.”
+   Though not a problem for many cognitive interview                    Another third included terms that could be interpreted as
+respondents, some sexual minority respondents did not                   belonging to the heterosexual or non-LGBT category, for
+
+122                                                                                         Sex Res Soc Policy (2012) 9:113–124
+example, a woman writing in Spanish, “solo me gustan los        Without an “other” category, it is likely that these respond-
+hombres,” a man writing “sex with female only,” and others      ents would ultimately choose the “don’t know” option. A
+writing “normal.” The remaining codeable write-ins included     more prudent solution may be similar to the approach used
+a couple respondents who wrote “transgender,” a few who         by the NSFG where a follow-up question is used for
+stated that they had “no sexuality” and others who stated that  respondents to clarify what they mean by “other.” Instead
+they “do not know” or “aren’t sure.” Thus, in considering how   of following up with an open-ended question, whereby
+to handle the problem of missing data, it is important to       respondents write-in their answers, the question would con-
+recognize that this group does not consist solely of hetero-    sist of response categories that ultimately place respondents
+sexuals who are unfamiliar with the terms. The missing data     into one of the four distinct groups that are outlined above.
+also consists of sexual minorities.                             This same strategy could be used to clarify why respondents
+                                                                choose the “don’t know” category: whether they do not
+                                                                understand the terminology or because they are transitioning
+Discussion                                                      genders or questioning their sexuality.
+Findings from this study have provided a clearer picture of     Problems Are Systematic
+the types of interpretive processes used by respondents to
+construct responses to sexual identity questions in Federal     An important finding discovered was that the question re-
+surveys. The picture reveals a complex process that is in-      sponse problems cited above do not occur randomly across
+formed by respondents’ conceptualizations of themselves as      our samples but rather systematically occur among particu-
+well as their experience and understanding of sexuality.        lar subgroups of the sample. Less-educated respondents and
+Taken together, the findings provide a rich understanding       Hispanic respondents, particularly those who completed the
+of the phenomena that is captured in the survey data and,       survey in Spanish, were more likely to be unfamiliar with
+then, transformed into a statistic for a prevalence rate or as  the terms used in the questions. Additionally, cognitive
+an independent variable to characterize a population. This      interviews illustrated that transgender respondents as well
+understanding provides a keener ability to interpret the data   as racial minorities rejecting traditional terms used to de-
+as well as to assess scientific work purporting to character-   scribe sexual identities were more likely to experience
+ize the LGBT population. Just as importantly, the findings      difficulty.
+provide a path for improving measures to produce a more            Adding terms respondents are more familiar with, and
+accurate representation of this disparity group. The discus-    more importantly, identify with, may improve estimates.
+sion below summarizes the findings as they pertain to ques-     Across cognitive interview studies and in the 2006–2007
+tion design and lays out a strategy for improving the           NSFG, we found respondents interpreting heterosexual as
+measure.                                                        meaning “not gay.” It may be advantageous to allow
+                                                                respondents to indicate that they are in fact not gay, instead
+Problematic Categories                                          of asking them to report that they are straight or heterosex-
+                                                                ual, terms they may not be familiar with and may not
+As demonstrated above, the use of an “other” category in        identify with. Similarly, adding alternative terms to the
+questions on sexual identity captures respondents from four     “gay or homosexual” category may also improve response
+distinct groups: (1) non-LGBT respondents who have com-         rates as respondents may feel more comfortable reporting
+prehension problems regarding the terms “heterosexual”          that they are “queer” or “same gender loving” and thus be
+and “straight”; (2) sexual minority respondents who reject      less likely to answer “other” or “don’t know” or “refused.”
+traditional terms used to describe sexual identity; (3) trans-     It is important to note that this is a complex question
+gender respondents; and (4) respondents who are experi-         because, in the end, sexual identity is a complex concept.
+menting or questioning their sexual identity. As a result, this Even with these changes, there will likely be respondents
+category is not analytically meaningful, and it would be        who experience problems. This is a complex question that
+necessary to drop these cases altogether from the analyses      cannot easily be explained through a traditional question
+altogether. Because the sexual minority numbers are so low,     format, where interviewers are asked to read “help screens”
+however, it is critical to resolve this “other” problem as      to clarify terminology. Self-administration with the use of
+much as possible.                                               A-CASI technology would allow uniform presentation of
+   In revising a sexual identity question, it may seem rea-     help screens to help clarify the intent of the question. Con-
+sonable to simply drop the “other” option from the response     tent of the help screens should be based on information
+categories. However, as revealed in cognitive interviews,       gained from previous studies in which respondents de-
+respondents opting for the “other” category often do so after   scribed their conceptualizations of their own sexual
+debating over the “other” and “don’t know” categories.          identities.
+
+Sex Res Soc Policy (2012) 9:113–124                                                                                                     123
+Beyond Question Design: Other Considerations                    With these respondents falling out of the analysis as missing
+for Ensuring Data Quality                                       data or being misclassified, the picture of LGBT health will
+                                                                necessarily be skewed. By understanding question response
+Question design flaws represent only one factor related to      processes and the potential for error across the sexual identity
+potential measurement error. While this paper has concen-       groups, it is possible to improve the design of such measures,
+trated solely on question design, it is important to identify   thereby more accurately portraying the health needs and policy
+and reduce, if not eliminate, other sources contributing to     requirements for this group of people.
+measurement error. In the two NCHS surveys, sexual iden-
+tity is asked after a series of sexual behavior and attraction  Acknowledgments The project was funded, in part, by National
+                                                                Center for Health Statistics, the Centers for Disease Control’s Division
+questions. Therefore, it is possible that, in the survey inter- of Smoking and Health, and the Ford Foundation. The findings and
+view, respondents conflate interpretations of those concepts    conclusions in this paper are those of the authors and do not necessarily
+with the identity question. To capture a purer identity vari-   represent the views of the National Center for Health Statistics or
+able, then, it would be necessary to ask this question outside  Centers for Disease Control and Prevention.
+this context, perhaps in a demographic section. Additionally,
+some research suggests that data quality may be compro-
+mised when interviewers, themselves, deem questions to be       References
+sensitive (Sudman et al. 1977; Singer and Kohnke-Aguirre
+1979; Singer et al. 1983). For questions that interviewers do
+                                                                Biemer, P. P., & Lyberg, L. E. (2003). Introduction to survey quality.
+not like asking because they find it awkward or too personal,         Hoboken, NJ: Wiley.
+they may decide to skip the question altogether and code the    Cast, A. D. (2003). Identities and behavior. In P. J. Burke, T. J. Owens,
+response as “don’t know” or “refused.” Or interviewers may            R. T. Sherpe, & P. A. Thoits (Eds.), Advances in identity theory
+answer the question themselves based on their perceptions             and research (pp. 41–53). NewYork: Kluwer Academic/Plenum
+                                                                      Publishers.
+of the respondent. In this regard, a self-administered instru-  Creswell, J. W. (1998). Qualitative inquiry and research design: Choos-
+ment, such as the A-CASI technology, again, would serve as            ing among five traditions. Thousand Oaks: Sage Publications.
+an important strategy for ensuring data quality. If the use of  Ellis, L., Robb, B., & Burke, D. (2005). Sexual orientation in United
+A-CASI technology is not permitted due to time and cost               States and Canadian college students. Archives of Sexual Behavior,
+                                                                      34(5), 569–581.
+constraints, survey sponsors should consider using other        Esterberg, K. (1997). Lesbian and bisexual identities: Constructing
+forms of self-administered questionnaires. If interviewer             communities, constructing selves. Philadelphia, PA: Temple Uni-
+administered modes are used, survey sponsors should focus             versity Press.
+their attention on training interviewers not only on the        Harkness, J. A., Van de Vijver, F. J. R., & Mohler, P. (2003). Cross-
+                                                                      cultural survey methods. Hoboken, NJ: John Wiley and Sons.
+importance of asking questions as worded and the implications   Harkness, J., Braun, M., Edwards, B., Johnson, T., Lyber, L., Mohler,
+of invalid data but also on surveying sensitive topics (i.e.,         P., Pennell, B.-E., & Smith, T. (Eds.). (2010). Survey methods in
+questions they may not feel comfortable administering).               multinational, multiregional, and multicultural contexts. New
+                                                                      York: Wiley.
+                                                                Institute of Medicine, Committee on Lesbian Health Research Priorities.
+                                                                      (1999). Lesbian health: Current assessment and directions for the
+Conclusion                                                            future. Washington DC: National Academy.
+                                                                Laumann, E. O., Gagnon, J. H., Michael, R. T., & Michaels, S. (1994).
+The addition of a sexual identity question on surveys collect-        The social organization of sexuality. Chicago: University of
+                                                                      Chicago.
+ing data used to monitor and track Healthy People objectives    Lever, J., Kanouse, D. E., Rogers, W. H., Carson, S., & Hertz, R.
+may help us achieve the Healthy People 2020 goal of elimi-            (1992). Behavior patterns and sexual identity of bisexual males.
+nating health disparities for LGBT populations. However, it is        Journal of Sex Research, 29(2), 141–167.
+necessary that measures capture an accurate representation of   Lincoln, Y., & Guba, E. G. (1985). Naturalistic inquiry. Beverly Hills,
+                                                                      CA: Sage Publications.
+the population. Understanding data quality and limitations of   Madans, J., Miller, K., Maitland, A., & Willis, G. (2011). Introduction.
+survey data is an important, yet arguably overlooked aspect to        In K. Miller, J. Madans, A. Maitland, & G. Willis (Eds.), Question
+doing “good science.” To make policy effective, it is critical        evaluation methods: Contributing to the science of data quality
+that the data driving policy is quality—that the measures used        (pp. 1–4). New York: Wiley and Sons.
+                                                                McCall, G. J. (2003). The me and the not-me: Positive and negative poles
+to identify a population are indeed identifying the correct           of identity. In P. J. Burke, T. J. Owens, R. T. Sherpe, & P. A. Thoits
+population. This paper has illustrated ways in which existing         (Eds.), Advances in identity theory and research (pp. 11–25).
+measures of sexual identity can lead to mischaracterization of        NewYork: Kluwer Academic/Plenum Publishers.
+the LGBT population. Specifically, this paper has shown that    Miller, K. (2001). Cognitive testing of the NHANES sexual orientation
+                                                                      questions. Q-Bank. Retrieved from http://www.cdc.gov/qbank.
+lower socio-economic and Spanish-speaking heterosexual          Miller, K. (2003). Conducting cognitive interviews to understand ques-
+respondents are more likely to either be missing or misclassi-        tion response limitations. American Journal of Health Behavior,
+fied in the survey data used to monitor the Healthy People.           27, S264–S272.
+
+124                                                                                                          Sex Res Soc Policy (2012) 9:113–124
+Miller, K. (2011). Cognitive interviewing. In K. Miller, J. Madans, A.      Rust, P. C. (1993). ‘Coming out’ in the age of social constructionism:
+     Maitland, & G. Willis (Eds.), Question evaluation methods: Con-             Sexual identity formation among lesbian and bisexual women.
+     tributing to the science of data quality (pp. 51–75). New York:             Gender and Society, 7(1), 50–77.
+     Wiley and Sons.                                                        Sell, R. L. (1997). Defining and measuring sexual orientation: A
+Miller, K., Mont, D., Maitland, A., Altman, B., & Madans, J. (2011).             review. Archives of Sexual Behavior, 26(6), 643–658.
+     Results of a cross-national structured cognitive interviewing pro-     Singer, E., & Kohnke-Aguirre, L. (1979). Interviewer expectation
+     tocol to test measures of disability. Quality and Quantity, 45(4),          effects: A replication and extension. Public Opinion Quarterly,
+     801–815.                                                                    43, 245–260.
+Miller, K., Fitzgerald, R., Padilla, J., Willson, S., Widdop, S., Caspar,   Singer, E., Frankel, M. R., & Glassman, M. B. (1983). The effect of
+     R., Dimov, M., Schoua-Glusberg, A. (2011). Design and analysis              interviewer characteristics and expectations on response. Public
+     of cognitive interviews for comparative multinational testing.              Opinion Quarterly, 47, 68–83.
+     Field Methods (in press).                                              Stein, A. (1997). Sex and sensibility: Stories of a lesbian generation.
+Padilla, J. L. (2007). The use of cognitive interviewing to assess               Berkeley, CA: University of California Press.
+     “construct overlap” in cross-cultural surveys. Paper presented at      Stein, A., & Plummer, K. (1994). I can’t even think straight: Queer
+     II Conference of European Survey Research Association. Prague.              theory and the missing sexual revolution in sociology. Sociological
+Pathela, P., Hajat, A., Schillinger, J., Blank, S., Sell, R., & Mostashari,      Theory, 12(2), 178–187.
+     F. (2006). Discordance between sexual behavior, and self-reported      Strauss, A. C., & Corbin, J. (1990). Basics of qualitative research:
+     sexual identity: A population based survey of New York City                 Grounded theory procedures and techniques. Newbury Park:
+     men. Annals of Internal Medicine, 145, 416–425.                             Sage Publications.
+Plummer, K. (1981). Homosexual categories: Some research problems           Sudman, S., Bradburn, N. M., Blair, E. D., & Stocking, C. (1977). Modest
+     in the labeling perspective of homosexuality. In K. Plummer                 expectations: The effects of interviewers’ prior expectations on
+     (Ed.), The making of the modern homosexual (pp. 53–75).                     response. Sociological Methods & Research, 6, 171–182.
+     Totowa, NJ: Barnes and Noble Books.                                    Sudman, S., Bradburn, N., & Schwarz, N. (1996). Thinking about
+Plummer, K. (1995). Telling sexual stories: Power, change, and social            answers: The application of cognitive processes to survey meth-
+     worlds. New York: Routledge.                                                odology. San Francisco: Jossey-Bass.
+Ridolfo, H., & Schoua-Glusberg, A. (2009). Testing of NHANES A-             Tourangeau, R., Rips, L. J., & Rasinksi, K. (2000). The psychology of
+     CASI sexual behavior questions: Results of interviews conducted             survey response. New York: Cambridge University Press.
+     November 2008–February 2009. Q-Bank. Retrieved from http://            U.S. Department of Health and Human Services (2010) Healthy People
+     www.cdc.gov/qbank.                                                          2020. Retrieved July 1, 2011, from Healthy People website, http://
+Ridolfo, H., & Schoua-Glusberg, A. (2011) Analyzing cognitive inter-             www.healthypeople.gov/2020/topicsobjectives2020/overview.
+     view data using the constant comparative method of analysis to              aspx?topicid025.
+     understand cross-cultural patterns in survey data. Field Methods       Willis, G. B. (2005). Cognitive interviewing: A tool for improving
+     (in press).                                                                 questionnaire design. Thousand Oaks, CA: Sage Publications.
+Ridolfo, H., Perez, K., & Miller, K. (2010). Testing of sexual identity and Young, R. M., & Meyer, I. H. (2005). The trouble with “MSM” and
+     health related questions: Results of interviews conducted May-              “WSW”: Erasure of the sexual-minority person in public health
+     July 2005. Q-Bank. Retrieved from http://www.cdc.gov/qbank.                 discourse. American Journal of Public Health, 95, 1144–1149.
+

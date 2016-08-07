@@ -1,0 +1,714 @@
+Measuring Same-Sex Couples                                                              Lewis, Bates, and Streeter
+  MEASURING SAME-SEX COUPLES: THE WHAT AND WHO OF MISREPORTING ON RELATIONSHIP AND
+                                                          SEX
+                                          SEHSD Working Paper 2015-12
+                              Jamie M. Lewis, Nancy Bates, and Matthew Streeter 1
+                                                U.S. Census Bureau
+                                                  Issued May 2015
+ABSTRACT
+         Prior research on same-sex couples has identified relative group size as a key issue in obtaining
+accurate estimates. If a small percentage of opposite-sex couples is misreported as same-sex, the impact
+on estimates of same-sex couples is substantial. Despite the Census Bureau’s development of a revised
+relationship item, inconsistency in reports of couples’ relationship versus sex persists. Here, we
+investigate relationship-sex inconsistency in the 2013 American Housing Survey. Results suggest
+inconsistencies are due more to errors on the relationship item than sex. Both inconsistent reports and
+mismarks on relationship are most common for couples whose relationship was reported as same-sex
+married, followed by same-sex unmarried, opposite-sex unmarried, and opposite-sex married couples.
+Older respondents and larger households are associated with mismarks on relationship, and returning
+households are less likely to have sex misreported. We suggest some strategies, such as educating
+interviewers about relative group size, to improve estimates of same-sex couples.
+1
+  This paper is released to inform interested parties of ongoing research and to encourage discussion of work in
+progress. The views expressed on statistical or methodological issues are those of the authors and not necessarily
+those of the U.S. Census Bureau.
+                                                                                                                   1
+
+Measuring Same-Sex Couples                                                       Lewis, Bates, and Streeter
+  MEASURING SAME-SEX COUPLES: THE WHAT AND WHO OF MISREPORTING ON RELATIONSHIP AND
+                                                     SEX
+                            Jamie M. Lewis, Nancy Bates, and Matthew Streeter
+INTRODUCTION
+         Recent years have seen a call for improved estimates of same-sex couples. The need for quality
+estimates has grown in the first part of the 21st century, as recognition of same-sex couples has
+hastened. Massachusetts was the first state to perform same-sex marriage in 2004, and many additional
+states have followed suit. As of March 2015, thirty-seven states and the District of Columbia allow same-
+sex marriage. Several more states have received judicial rulings against a ban on same-sex marriage,
+though these decisions have been stayed pending appeal. Further, some states offer domestic
+partnerships or civil unions to same-sex couples that grant some or all the privileges of marriage.
+         Same-sex couples have also received greater recognition at the federal level. Although states
+retain the right to determine legal recognition of same-sex marriage, a June 2013 Supreme Court
+decision on the Defense of Marriage Act (DOMA) found Section 3 of the Act to be unconstitutional. That
+is, DOMA can no longer be used to bar same-sex married couples from receiving federal benefits. As a
+result, the Office of Personnel Management requires data on same-sex married couples to estimate
+beneficiaries. Other federal agencies may soon use this information for programmatic reasons, as
+marital status is a factor in many federal regulations and programs.
+         Quality data on same-sex couples is also needed to assess levels of discrimination. For example,
+the Department of Housing and Urban Development’s (HUD) Office of Fair Housing and Equal
+Opportunity aims to ensure that all Americans have access to housing of their choice. More broadly,
+there is a desire to describe the characteristics and well-being of members of same-sex couples as well
+as children residing in households headed by these couples.
+         For all these reasons, researchers at the Census Bureau have been working to improve the
+measurement of same-sex couples, both married and unmarried. In this paper, we continue this
+research by investigating inconsistency in reports of couples’ relationship status (i.e., same-sex married,
+same-sex unmarried, opposite-sex married, or opposite-sex unmarried) versus sex in an experiment
+conducted during the 2013 American Housing Survey (AHS). For instance, what is going on in cases
+where a couple is recorded as a same-sex married couple on the relationship item, but one person’s sex
+is marked as male and the other’s as female? The 2013 AHS data provide a unique opportunity because
+                                                                                                           2
+
+Measuring Same-Sex Couples                                                        Lewis, Bates, and Streeter
+the survey’s split-panel design and large sample size allow us to investigate relationship-sex
+inconsistency for a substantial number of same-sex couples. Here, we estimate whether errors are more
+often made in reports of couples’ relationship or sex, and explore which couples have inconsistent data.
+That is, we examine the what and who of misreporting on relationship and sex. Although a driving focus
+is improving estimates of same-sex couples, we assess relationship-sex inconsistency for both same- and
+opposite-sex couples. Further, the ultimate goal is a measurement strategy that accurately captures
+various relationship forms.
+BACKGROUND
+Relationship Measurement
+         Currently, the Census Bureau uses an indirect approach to measure couple type, including same-
+sex couples, in the 2010 Census and most Census surveys. Information from both the relationship to
+householder and sex items is needed to classify couples. Figure 1 shows the control relationship to
+householder item as it appears in the 2013 AHS. As an example of how this information is used to
+classify couples, if Person Two’s relationship to Person One was recorded as ‘Husband/wife/spouse,’ and
+both Person One and Person Two’s sex recorded as ‘Male,’ they would be considered a same-sex
+married couple.
+                  Figure 1: Control Relationship to Householder Question from 2013 AHS
+                                                                                                           3
+
+Measuring Same-Sex Couples                                                              Lewis, Bates, and Streeter
+         Census Bureau researchers have developed a revised relationship to householder item through
+focus groups and cognitive testing. 2 The Interagency Working Group on Measuring Relationships in
+Federal Household Surveys, convened by the Statistical and Science Policy Branch of the Office of
+Management and Budget, has recommended that this revised question be tested and used more widely
+(MRFHS 2014). The revised or test relationship item, as it appears in the AHS, is displayed in Figure 2. An
+important change in the revised item is the expansion of the ‘Husband/wife/spouse’ and ‘Unmarried
+Partner’ categories into separate choices for same- and opposite-sex couples. With this change, each of
+the four couple types of interest—same-sex married, same-sex unmarried, opposite-sex married, and
+opposite-sex unmarried—can be classified directly using only this item.
+                    Figure 2: Test Relationship to Householder Question from 2013 AHS
+         In addition to allowing direct measurement of couple type, the revised item can be compared to
+the couple members’ responses on the sex item for consistency. In effect, this comparison provides a
+check on the accuracy of reports on relationship and sex that is not possible when using the control
+relationship question. This new approach should prove useful in 1) estimating error rates for the various
+couple types, and 2) gaining insight into the nature and likely sources of these errors.
+2
+  DeMaio, Bates, and O’Connell (2013) provide a review of the qualitative testing that led to the revised
+relationship item.
+                                                                                                                 4
+
+Measuring Same-Sex Couples                                                        Lewis, Bates, and Streeter
+Previous Research
+         Prior research on the measurement of same-sex couples has identified the issue of relative
+group size as a key obstacle in obtaining accurate estimates (e.g., Cortina and Festy 2014; O’Connell and
+Feliz 2011). This is a statistical issue whereby a small amount of measurement error among a very large
+population leads to a large amount of error among a small population. In the case of couple
+measurement, if a small percentage of opposite-sex couples has incorrect information on relationship or
+sex and these couples are inadvertently recorded as same-sex couples, it has a substantial impact on
+estimates of same-sex couples. This issue is more problematic among married couples compared with
+unmarried couples, as opposite-sex married couples outnumber same-sex marrieds by a far greater
+margin than opposite- versus same-sex unmarried couples.
+        Using administrative records, Kreider and Lofquist (2015) found that some same-sex couples in
+Census data result from misreporting. They tested this by matching couples’ sex as reported on the 2010
+Census or 2010 American Community Survey (ACS) to sex on file with the Social Security Administration
+(SSA). A substantial proportion of couples reported as same-sex in the ACS or 2010 Census appeared to
+be opposite-sex in the SSA data. This discrepancy was more problematic for same-sex married couples
+than for their unmarried counterparts. A full 57.3 percent of couples reported as same-sex married in
+the ACS and 72.5 percent of these couples in the 2010 Census appeared to be opposite-sex in SSA data,
+compared with 7.0 percent of same-sex unmarried couples in both the ACS and 2010 Census.
+Inconsistencies for reported opposite-sex couples were also found, but were much less common. In both
+the ACS and decennial Census, less than 1 percent of reported opposite-sex married couples appeared
+to be same-sex in the SSA data. This was true of 1.6 percent of opposite-sex unmarried couples in the
+ACS and 0.8 percent of these couples in the 2010 Census.
+        Both the 2010 ACS and 2010 Census used the current or control version of the relationship to
+householder item. Potentially, the revised relationship item, with its explicit categories for same- versus
+opposite-sex relationships, may reduce errors of this type. As part of their study, Lofquist and Lewis
+(2014) assessed the level of inconsistent reports on relationship and sex in the 2013 American Housing
+Survey (AHS) for the panel receiving the revised relationship question. They concluded that although it
+may be reduced, relationship-sex inconsistency remains an issue, particularly for couples reported as
+same-sex married on the relationship item. In the AHS, 55.9 percent of couples recorded as same-sex
+married on the relationship item and 12.7 percent of those marked as same-sex unmarried had opposite
+                                                                                                           5
+
+Measuring Same-Sex Couples                                                               Lewis, Bates, and Streeter
+sexes marked on the sex item. In contrast, 0.6 percent of couples reported as opposite-sex married and
+1.8 percent of those marked as opposite-sex unmarried had same sexes marked on the sex item.
+         This phenomenon is not unique to the United States, and has been found to impact estimates of
+same-sex couples in other Western countries. In the 2001 Census of Canada, 26.4 percent of couples
+who had marked ‘Common-law partner (same-sex)’ on the relationship item reported one person as
+male and the other as female on the sex item (Cortina and Festy 2014). 3 Estimates of same-sex couples
+in the 2011 French census (Enquête annuelle de recensement, EAR) were corrected using information
+from an accompanying family and housing survey (Enquête famille et logement, EFL). Of those couples
+reported to be same-sex in the EAR, 43 percent were reclassified, mostly as opposite-sex couples
+(Banens 2013). 4 Thus, the issue of relative group size is pervasive, affecting estimates of same-sex
+couples for a variety of countries that measure relationship in different ways. Further, the Canadian
+example, which specifies the sex composition of common-law partnerships, provides additional
+evidence that explicit categories for same-and opposite-sex intimate relationships do not fully eliminate
+the problem.
+Current Study
+         Our research serves the effort toward more accurate estimates of same-sex couples by
+providing detailed information on misreports of couples’ relationship and sex. We investigate
+relationship-sex inconsistency for four types of couples—same-sex married, same-sex unmarried,
+opposite-sex married, and opposite-sex unmarried, classified according to their reports on the
+relationship item. In particular, we address two research questions:
+     •   Are errors more often made on the relationship or sex item? What can we learn using couple
+         members’ first names and the associated probability of being male?
+     •   Which couples are mismarked on relationship or sex? What are the characteristics of couples
+         with inconsistent versus consistent reports on relationship and sex?
+3
+  Because Canada did not legalize same-sex marriage until 2005, the relationship item on the 2001 Census
+questionnaire had a single category for spouse: ‘Husband or wife.’
+4
+  The 2011 EAR asked relationship to householder using an open-ended field rather than specific categories,
+although some specific examples were offered, including: époux/épouse (spouse), union libre (free union, or
+cohabitation), fils/fille (son or daughter), mère/père (mother or father), and sous-locataire (subtenant).
+                                                                                                                  6
+
+Measuring Same-Sex Couples                                                              Lewis, Bates, and Streeter
+In researching these questions, our study delineates the what and who of couples’ relationship-sex
+inconsistency. The ultimate aim is to learn more about the sources of inconsistency on sex and
+relationship in order to develop improved strategies for addressing misreporting.
+METHODOLOGY
+Data
+         We used data from the 2013 American Housing Survey (AHS) to conduct our research. The AHS
+is sponsored by the Department of Housing and Urban Development (HUD), with data collected by the
+Census Bureau. Although the AHS is designed primarily to monitor housing supply, conditions, and costs,
+it also collects a wealth of demographic data. Further, its large sample size (the 2013 sample includes
+about 167,000 housing units) makes it a good candidate for studying same-sex couples, who comprise
+about 1 percent of all coupled households (Lofquist 2011).
+         The 2013 AHS was fielded from May through September of 2013, and was comprised of both
+national and metropolitan samples. More importantly, the survey featured a split-panel design, with
+about half of the sampled households receiving the control version of the relationship to householder
+item (see Figure 1), and the second half receiving the revised question (see Figure 2). We restricted our
+analysis to data from the test panel, as relationship-sex inconsistency can only be assessed using the
+revised relationship item. We further omitted interviews completed in a language other than English.
+Although both an English and Spanish version of the instrument was fielded, the Spanish translations
+require additional cognitive testing, and thus are not yet ready for quantitative analysis.
+         The AHS was interviewer-administered via an automated Computer-Assisted Personal
+Interviewing (CAPI) instrument. The interviewer could use the instrument to conduct interviews in-
+person or over the phone. The instrument included automated soft edits aimed at reducing
+inconsistencies on relationship and sex. In the test panel, these soft edits appeared when the recorded
+relationship did not match the recorded sexes of the couple members, providing interviewers an
+opportunity to correct errors on either item. 5
+         The AHS is a panel survey of housing units, and uses dependent interviewing for returning
+households in order to reduce errors and respondent burden. Although sex was not asked or verified for
+5
+  Because the AHS is interviewer-administered, it is difficult to determine whether a reporting error arises from the
+answer the respondent provides or the response the interviewer records. We consider both possibilities.
+                                                                                                                    7
+
+Measuring Same-Sex Couples                                                         Lewis, Bates, and Streeter
+returning households, it was displayed in the roster, which interviewers could enter to make corrections.
+All respondents in the test panel, both new and returning, received the revised relationship item.
+Method of Analysis
+         In the initial part of our analysis, we describe what is going on with inconsistent reports on
+relationship and sex. First, we estimated the proportion of all coupled households that have inconsistent
+information on relationship and sex. Next, we used the first names of couple members and the
+associated probability that a given name is male to judge whether couples’ relationship or their sex was
+misreported. We used a method similar to that employed by O’Connell and Feliz (2011). Information on
+the probability that a name is male was derived from the 2010 Census statistical names directory, and
+this probability was merged onto the 2013 AHS data.
+         The 2010 Census names directory was created at the state level from internal microdata on
+individual records. Each name in the directory has a value for the male probability index, which ranges
+from 0 to 1,000. The probability was obtained by taking the ratio of the number of times the name was
+recorded with a male response to the sex item to the total number of times the name was recorded as
+either male or female. We used the 95 percent rule, meaning that a person’s probable sex was classified
+as male if that person’s name had a value on the male probability index of 950 or more. This value
+means that when the name appeared in the 2010 Census for a given state, at least 950 times out of
+1,000, or 95 percent of the time, the person was reported as male. A person’s probable sex was
+classified as female if that person’s name had a value on the male probability index of 50 or below.
+         Note that, using the 95 percent rule, probable sex can only be determined for a subset of the
+AHS sample. First, a value on the male probability index is not available for some names. This occurs
+where 1) there is not a full name for matching; 2) a name is not found in the names directory; or 3) in
+fewer than 10 of the cases used to create the directory, a sex was reported along with the name.
+Second, we do not determine probable sex for those with ambiguous names—names with a value
+between 51 and 949 on the male probability index (e.g., Jamie, Taylor, Sidney). Despite these
+limitations, we were able to apply this method to the majority of the sample. In 68.6 percent of couples
+with inconsistent reports on relationship and sex, both couple members had a value on the male
+probability index of 50 or below or 950 or above. That is, they fit the 95 percent rule, and we assigned
+probable sex. Using this method, we compared probable sex and reported sex to judge whether a
+                                                                                                            8
+
+Measuring Same-Sex Couples                                                              Lewis, Bates, and Streeter
+couples’ relationship or sex was misreported. Analysis was conducted by couple type—same-sex
+married, same-sex unmarried, opposite-sex married, and opposite-sex unmarried. 6
+          In the second part of the analysis, we investigate which couples have inconsistent reports on
+relationship or sex, in two stages. The first stage involved a logistic regression predicting the likelihood
+that a couple has inconsistent versus consistent reports on relationship and sex. All couples in the AHS
+test panel were analyzed in this stage. For the second stage, we ran a multinomial logistic regression
+model to understand which couples are more likely to 1) be misreported on sex or 2) have relationship
+incorrectly coded, compared with having consistent responses. This stage of analysis excluded couples
+that have inconsistent responses on relationship and sex but for whom we cannot determine which item
+was incorrectly marked (i.e., couples where at least one member has a name that is ambiguous or at
+least one member’s probable sex cannot be determined using the names directory). Regression models
+include a number of demographic and social characteristics, including couple type, age of respondent,
+Hispanic origin of respondent, nativity of respondent, education of respondent, and number of people in
+the household. We also included information on whether the household was a returning household as a
+predictor. 7
+          All analyses were conducted using unweighted data, for two reasons. First, we are concerned
+with investigating couples for whom errors were made on the relationship or sex item, rather than
+making statements generalizable to the larger population. Second, even with the large size of the overall
+AHS sample, sample sizes for couples with inconsistent responses on relationship and sex are small.
+Because there are separate weights for households in the national versus metropolitan samples, several
+couples with errors would be dropped from analysis were only one of the weights and its corresponding
+sample used. All comparative statements in this paper have undergone statistical testing, and, unless
+otherwise noted, all comparisons are statistically significant at the 95 percent confidence level. 8
+6
+  In preliminary analysis, we looked at mismarks on relationship and sex for the various couple types in greater
+detail. For couples with sex in error, we assessed which spouse/partner’s sex was mismarked, and for couples with
+relationship mismarked, we looked at their sex composition. However, due to small sample sizes, we were unable
+to draw conclusions.
+7
+  In preliminary analysis, we produced separate models for each of the four couple types. However, due to small
+sample size for some couple types, we instead used couple type as an independent variable in the final models.
+8
+  Methodological documentation—including information on sample design and weighting—needed to assess the
+statistical uncertainty of the information is accessible at the AHS methodology website
+(http://www.census.gov/programs-surveys/ahs/tech-documentation/ahs-definitions--errors--historical-changes--
+and-sample-design--.html).
+                                                                                                                 9
+
+Measuring Same-Sex Couples                                                        Lewis, Bates, and Streeter
+RESULTS
+What: Errors on Relationship Versus Sex
+         In order to provide some context for the issue of relationship-sex inconsistency, we calculated
+the inconsistency rate across all coupled households from the test panel. A tiny minority of coupled
+households, at 1.2 percent, has conflicting responses on relationship status and couple members’ sexes.
+Further, this rate does not differ statistically for those responding by telephone compared with those
+responding via personal visit.
+         Table 1, which contains information extracted from Lofquist and Lewis (2014), displays
+relationship-sex inconsistency by couple type. As noted previously, inconsistency in reports of
+relationship and sex is more common for couples reported as same-sex on the relationship item,
+especially married same-sex couples, than for those reported as opposite-sex. Thus, although this issue
+is rare among all coupled households, relationship-sex inconsistency appears to have a substantial
+impact on same-sex married couples, as 55.9 percent of them has conflicting responses.
+                                                                                                         10
+
+Measuring Same-Sex Couples                                                               Lewis, Bates, and Streeter
+                                                                                     1
+       Table 1. Inconsistency in Reports of Relationship and Sex, by Couple Type
+                                                                                       Standard
+                                                                       Number or        Error of
+                                                                         Percent        Percent
+       Total same-sex married couples                                           213
+         Consistent                                                           42.3             3.4
+         Inconsistent                                                         55.9             3.4
+         One or both missing                                                     1.9           0.9
+       Total same-sex unmarried couples                                         237
+         Consistent                                                           86.9             2.2
+         Inconsistent                                                         12.7             2.2
+         One or both missing                                                     0.4           0.4
+       Total opposite-sex married couples                                   27,108
+         Consistent                                                           99.1             0.1
+         Inconsistent                                                            0.6             Z
+         One or both missing                                                     0.3             Z
+       Total opposite-sex unmarried couples                                  2,851
+         Consistent                                                           98.1             0.3
+         Not consistent                                                          1.8           0.3
+         One or both missing                                                     0.1             Z
+       1
+         The results presented use unweighted data and may not fully account for the sample
+       design. For this reason, some results could relate to the sample design.
+       Z Rounds to zero.
+       Source: U.S. Census Bureau, American Housing Survey, 2013. Extracted from Lofquist
+       and Lewis (2014).
+         Results from a comparison of reported and probable sex for the four types of couples—reported
+same-sex married, same-sex unmarried, opposite-sex married, and opposite-sex unmarried—appear in
+Table 2. Looking first at couples reported as same-sex married on the relationship item, we see that 119
+of these couples had opposite sexes marked on the sex item. We could not determine probable sex for
+11 (9.2 percent) of these couples using the 2010 Census names directory. For an additional 26 (21.8
+percent) of these couples, we could not discern probable sex due to name ambiguity.
+         Of the 82 reported same-sex married couples for whom we could determine probable sex, none
+were judged to be same-sex couples, meaning that the sex item was incorrectly marked. Indeed, all 82
+couples were found to be opposite-sex couples based on probable sex, suggesting the relationship item
+was mismarked. Thus, relationship-sex inconsistency for reported same-sex married couples is driven by
+errors on relationship rather than sex. That is, these inconsistent cases are due to opposite-sex couples
+whose relationship is incorrectly recorded as ‘Same-sex husband/wife/spouse.’
+                                                                                                                11
+
+Measuring Same-Sex Couples                                                            Lewis, Bates, and Streeter
+    Table 2. Probable Sex of Couples with Inconsistent Reports on Relationship and Sex 1
+                                                                                                  Standard
+                                                                                                   Error of
+                                                                           Number       Percent    Percent
+    Total reported same-sex married couples with inconsistent sex                119       100.0
+      At least one member lacks value for probable sex                             11         9.2         2.7
+      At least one member has ambiguous name                                       26        21.8         3.8
+      Subset of couples for whom probable sex can be determined                   82       100.0
+       Probable sex is same-sex                                                     0         0.0         0.0
+       Probable sex is opposite-sex                                                82      100.0          0.0
+    Total reported same-sex unmarried couples with inconsistent sex                30      100.0
+      At least one member lacks value for probable sex                              5        16.7         6.8
+      At least one member has ambiguous name                                        4        13.3         6.2
+      Subset of couples for whom probable sex can be determined                   21       100.0
+       Probable sex is same-sex                                                     5        23.8         9.3
+       Probable sex is opposite-sex                                                16        76.2         9.3
+    Total reported opposite-sex married couples with inconsistent sex            156       100.0
+      At least one member lacks value for probable sex                             30        19.2         3.2
+      At least one member has ambiguous name                                       20        12.8         2.7
+      Subset of couples for whom probable sex can be determined                  106       100.0
+       Probable sex is same-sex                                                    15        14.2         3.4
+       Probable sex is opposite-sex                                                91        85.8         3.4
+    Total reported opposite-sex unmarried couples with inconsistent sex            52      100.0
+      At least one member lacks value for probable sex                              6        11.5         4.4
+      At least one member has ambiguous name                                       10        19.2         5.5
+      Subset of couples for whom probable sex can be determined                   36       100.0
+       Probable sex is same-sex                                                    26        72.2         7.5
+       Probable sex is opposite-sex                                                10        27.8         7.5
+    1
+      The results presented use unweighted data and may not fully account for the sample design. For this
+    reason, some results could relate to the sample design.
+    Source: U.S. Census Bureau, American Housing Survey, 2013.
+         Turning to couples reported as same-sex unmarried on relationship, 30 of these couples were
+marked as opposite sexes on the sex item. Of these 30 couples, in 5 (16.7 percent) at least one member
+lacked a value for probable sex, and in another 4 (13.3 percent) at least one member had an ambiguous
+name. Looking at the remaining 21 couples with information on probable sex, 5 (23.8 percent) of these
+couples were likely same-sex, meaning that misreporting occurred on the sex item. The other 16 (76.2
+percent) couples were judged to be opposite-sex based on probable sex, meaning that the relationship
+item was misreported. These results indicate that this particular inconsistency, whereby a couple is
+marked as same-sex partners on relationship but has opposite sexes marked, is caused by mistakes on
+                                                                                                              12
+
+Measuring Same-Sex Couples                                                        Lewis, Bates, and Streeter
+both the relationship and sex item, although mistakes on relationship occur about three times as often
+as those on sex.
+         Looking next at couples whose relationship was reported as opposite-sex married, 156 were
+reported as being of the same sex. Among this subgroup, 30 (19.2 percent) couples contained at least
+one member lacking a value for probable sex, and in another 20 (12.8 percent) at least one member had
+an ambiguous name. Focusing on the 106 couples with information on probable sex, 15 (14.2 percent)
+were judged to be same-sex couples, indicating a mistake on the relationship item. The remaining 91
+(85.8 percent) couples appear to be opposite-sex, meaning the sex item was misreported. Thus, in cases
+where a couple’s relationship is recorded as opposite-sex married but same sexes are marked, the
+mismark occurred on the sex item in a large majority of cases.
+         Finally, there were 52 couples who were recorded as opposite-sex unmarried on relationship
+but had same sexes marked. Of these couples, 6 (11.5 percent) contained at least one member lacking a
+value for probable sex. In another 10 (19.2 percent) couples, at least one person had an ambiguous
+name. Looking at the remaining 36 couples with information on probable sex, 26 (72.2 percent) appear
+to be same-sex couples, indicating the relationship item was misreported. The other 10 (27.8 percent)
+couples were judged to be opposite-sex using information on probable sex. These results suggest that
+this specific inconsistency, in which a couple’s relationship is reported as opposite-sex unmarried but
+same sexes are marked, is due to mismarks on both the relationship and sex item. However,
+misreporting on relationship occurs about three times as frequently as misreporting on sex.
+Who: Which Couples are Mismarked
+         Inconsistent versus Consistent. In addition to describing couples’ mismarks on relationship and
+sex, information on the characteristics of couples with mismarks is also useful. Table 3 presents results
+from the logistic regression testing the likelihood of couples having inconsistent reports on the
+relationship and sex items against having consistent reports. When looking at individual characteristics,
+we assess the traits of the household respondent, as this was the household member playing the largest
+role in reporting information. 9
+9
+  The householder was the respondent for 75.3 percent of couples.
+                                                                                                         13
+
+Measuring Same-Sex Couples                                                             Lewis, Bates, and Streeter
+                                                                                                             1
+ Table 3. Logistic Regression Predicting Couples' Likelihood of Inconsistent Reports on Relationship and Sex
+                                                                                              Standard
+                                                                              Estimate           Error Odds Ratio
+ Reported relationship type (reference category is opposite-sex married)
+   Same-sex married                                                             5.4972 ***        0.17     244.00
+   Same-sex unmarried                                                           3.3471 ***        0.22      28.42
+   Opposite-sex unmarried                                                       0.9775 ***        0.18         2.66
+ Respondent age (reference category is 45 to 54 years)
+   15 to 24 years                                                              -0.8537 *          0.36         0.43
+   25 to 34 years                                                               0.1575            0.19         1.17
+   35 to 44 years                                                              -0.0511            0.19         0.95
+   55 to 64 years                                                               0.2295            0.20         1.26
+   65 years and older                                                           0.2036            0.22         1.23
+ Respondent Hispanic or Latino (reference category is not Hispanic              0.2448            0.18         1.28
+ or Latino)
+ Respondent foreign-born (reference category is native-born)                    0.0308            0.18         1.03
+ Respondent education (reference category is high school graduate)
+   Less than high school                                                        0.2093            0.23         1.23
+   Some college or associate's degree                                          -0.0778            0.17         0.93
+   Bachelor's degree or more                                                   -0.0372            0.16         0.96
+ Number of people in household (reference category is 2 people)
+   3 people                                                                     0.5450 ***        0.16         1.73
+   4 people                                                                     0.2800            0.18         1.32
+   5 or more people                                                             0.4233 *          0.20         1.53
+ Returning household (reference category is nonreturning household)            -0.7138 ***        0.14         0.49
+ Intercept                                                                     -5.2175 ***        0.22
+ N                                                                              30,240
+ 1
+   The results presented use unweighted data and may not fully account for the sample design. For this reason,
+ some results could relate to the sample design.
+ Significance is noted at the following: *(p<0.05); **(p<0.01); ***(p<0.001).
+ Source: U.S. Census Bureau, American Housing Survey, 2013.
+          Looking first at the effect of reported relationship type, compared with couples reported as
+opposite-sex married on the relationship item, inconsistent responses are more likely for reported
+same-sex married, same-sex unmarried, and opposite-sex unmarried couples. These results confirm the
+pattern observed in Table 1 above, in which inconsistent reports are most common for reported same-
+sex married couples, followed in order by same-sex unmarried, opposite-sex unmarried, and opposite-
+sex married couples. Couples marked as having an opposite-sex unmarried relationship are 2.7 times as
+likely as reported opposite-sex married couples to have inconsistent responses on relationship and sex.
+                                                                                                                 14
+
+Measuring Same-Sex Couples                                                         Lewis, Bates, and Streeter
+The odds of inconsistent reporting are still higher among reported same-sex unmarried couples (28.4)
+and particularly those whose relationship was recorded as same-sex married (244.0).
+         Age is another factor related to the likelihood of having inconsistent reports. Couples in
+households with a young respondent are less likely to have inconsistent responses on relationship and
+sex. Compared with respondents aged 45 to 54 years, couples with a respondent aged 15 to 25 years are
+57 percent less likely to have inconsistent reports.
+         Household size also relates to inconsistent reporting on relationship and sex. The odds of having
+inconsistent reports are 73 percent higher for couples in 3-person households, compared with those in
+2-person homes. Inconsistent reports are also more likely for couples in households with 5 or more
+members, and the size of the effect is not statistically different from that for 3-person households.
+However, this relationship is not observed for couples residing in 4-person households. Because the AHS
+asks a number of demographic items, including relationship to householder and sex, of all household
+members, the survey instrument grows in tandem with the household. For larger households, it
+becomes easier for the respondent or interviewer to confuse which household member a question is
+asking about, consequently increasing the chances of misreporting.
+         Finally, couples in returning households are less likely than those in nonreturning households to
+have inconsistent reports on relationship and sex. The odds of inconsistent reporting for couples in
+returning households are about half as much as the odds for couples in nonreturning households. This
+suggests that dependent interview is a useful tool for reducing reporting errors.
+         Misreported Sex and Misreported Relationship versus Consistent. Above, we explored
+characteristics associated with couples having inconsistent versus consistent reports on relationship and
+sex. Here, we break inconsistent reports down further to assess the likelihood of specific reporting
+errors. Table 4 presents results from the multinomial logistic regression testing the odds of misreporting
+sex and misreporting relationship against having consistent reports.
+         Focusing first on the odds of having sex misreported versus having consistent reports on
+relationship and sex, we see an association with reported relationship type. Compared with couples
+recorded as being in an opposite-sex married relationship, those reported as same-sex unmarried are
+5.5 times as likely to have an error on the sex item. This means that these couples were recorded as
+same-sex unmarried on relationship but marked as opposite sexes on sex, and were determined to be
+same-sex using information on probable sex. The odds of misreporting sex do not differ statistically for
+                                                                                                          15
+
+Measuring Same-Sex Couples                                                              Lewis, Bates, and Streeter
+couples marked as same-sex married or opposite-sex unmarried on relationship, compared with
+reported opposite-sex married couples.
+Table 4. Multinomial Logistic Regression Predicting Couples' Likelihood of Misreporting Sex and Misreporting
+Relationship 1
+                                            Misreported Sex versus Consistent Misreported Relationship versus
+                                                        Reporting                      Consistent Reporting
+                                                          Standard                            Standard
+                                             Estimate       Error    Odds Ratio   Estimate      Error Odds Ratio
+ Reported relationship type (reference
+ category is opposite-sex married)
+   Same-sex married                         -11.0933         397.40           Z    7.5755 ***      0.30   1000.00
+   Same-sex unmarried                         1.6984 ***        0.48       5.47    5.2254 ***      0.37     185.93
+   Opposite-sex unmarried                    -0.2815            0.35       0.76    2.7063 ***      0.34      14.97
+ Respondent age (reference category is
+ 45 to 54 years)
+   15 to 24 years                            -0.5501            0.63       0.58   -2.0880 **       0.80       0.12
+   25 to 34 years                             0.1449            0.30       1.16   -0.1631          0.33       0.85
+   35 to 44 years                            -0.3259            0.34       0.72   -0.1586          0.31       0.85
+   55 to 64 years                             0.4090            0.29       1.51    0.2076          0.35       1.23
+   65 years and older                        -0.4748            0.38       0.62    0.9791 **       0.37       2.66
+ Respondent Hispanic or Latino
+ (reference category is not Hispanic or
+ Latino)                                      0.3911            0.29       1.48    0.1248          0.32       1.13
+ Respondent foreign-born (reference
+ category is native-born)                    -1.0300 *          0.41       0.36    0.0673          0.36       1.07
+ Respondent education (reference
+ category is high school graduate)
+   Less than high school                      0.7053            0.36       2.02    0.4923          0.41       1.64
+   Some college or associate's degree         0.0697            0.29       1.07    0.3058          0.29       1.36
+   Bachelor's degree or more                  0.1909            0.27       1.21   -0.1011          0.30       0.90
+ Number of people in household
+ (reference category is 2 people)
+   3 people                                   0.1836            0.24       1.20    0.3915          0.31       1.48
+   4 people                                  -0.5930            0.34       0.55    0.8979 **       0.32       2.46
+   5 or more people                          -0.3321            0.35       0.72    1.2398 ***      0.33       3.46
+ Returning household (reference
+ category is nonreturning household)         -2.0397 ***        0.34       0.13    0.2662          0.22       1.31
+ Intercept                                   -5.1670 ***        0.33              -8.2571 ***      0.44
+ N                                                                          30,130
+ 1
+   The results presented use unweighted data and may not fully account for the sample design. For this reason,
+ some results could relate to the sample design.
+ Z Rounds to zero.
+ Significance is noted at the following: *(p<0.05); **(p<0.01); ***(p<0.001).
+ Source: U.S. Census Bureau, American Housing Survey, 2013.
+                                                                                                                16
+
+Measuring Same-Sex Couples                                                         Lewis, Bates, and Streeter
+         A second demographic factor related to the risk of mismarking sex is respondent nativity.
+Couples are 63 percent less likely to have sex misreported when the respondent is foreign-born versus
+native-born. Recall that the analytic sample excludes couples who were interviewed in a language other
+than English, so this nativity effect is independent of interview language.
+         Finally, whether a household was a returning household is associated with the probability of
+marking a couple’s sex in error. Misreporting sex is less likely for couples in returning households.
+Having an error on the sex item is 87 percent less likely for couples in returning versus nonreturning
+households. This is consistent with the operation of dependent interviewing in the AHS. For members of
+returning households, information on sex was copied from a previous wave.
+         Turning to the results for the odds of misreporting relationship against having consistent
+reports, we see significant and substantial effects for reported relationship type. Compared with couples
+reported as having an opposite-sex married relationship, all other reported types—same-sex married,
+same-sex unmarried, and opposite-sex unmarried—are more likely to have had their relationship
+mismarked. This association is particularly strong for couples reported as being in a same-sex married
+relationship, who are 1,000 times as likely as reported opposite-sex married couples to have the
+incorrect relationship marked. Thus, consistent with our findings from frequency distributions of
+probable sex, there is a high probability that couples marked as having a same-sex married relationship
+are actually opposite-sex couples whose relationship was mismarked. The odds of misreporting
+relationship are also greater for couples reported as having a same-sex unmarried (185.9) or opposite-
+sex unmarried (15.0) relationship.
+         Reinforcing the findings for the likelihood of having inconsistent versus consistent responses on
+relationship and sex, respondent age is associated with the odds of misreporting relationship. Couples
+with respondents in the youngest age group, 15 to 24 years, are 88 percent less likely than those with
+respondents aged 45 to 54 to have relationship mismarked. In contrast, the likelihood of having an error
+on the relationship item is greater when the respondent is 65 or older (2.7). These age differences likely
+relate to how familiar different generations are with same-sex relationships and related terminology.
+Because legal recognition of same-sex marriage only began in 2004 in the United States, same-sex
+marriage did not garner much attention during much of the life spans of older Americans. In contrast,
+same-sex marriage has been a key issue during the formative years of young adults.
+                                                                                                          17
+
+Measuring Same-Sex Couples                                                        Lewis, Bates, and Streeter
+         A third factor related to the chance of couples being misreported on relationship is household
+size. Couples in 4-person homes, compared with those in 2-person households, are 2.5 times as likely to
+have relationship mismarked. The likelihood of having an error on relationship is also greater among
+households with 5 or more members (3.5). Recall that the AHS instrument is longer and more complex
+for larger households. In these longer interviews, the respondent or interviewer may be more likely to
+confuse which household member a question is asking about. It is also possible that respondents
+become disengaged in longer interviews, or for the interviewer to go through the instrument more
+quickly. In these ways, longer interviews can lead to more reporting errors.
+CONCLUSION
+         The Census Bureau strives to measure household and family relationships in a way that
+accurately captures the complexity of and shifts in American family life. As same-sex couples have
+gained greater recognition in recent years, the need for quality estimates of these couples has
+increased. Currently, most Census surveys capture same-sex households indirectly using information on
+relationship and sex from two separate questionnaire items. Census researchers have developed a
+revised relationship question that also captures couples’ sex composition. Preliminary results from tests
+of the revised item show that the new item alone does not eliminate errors in estimates of same-sex
+couples (Lofquist and Lewis 2014). A particularly thorny issue is relative group size, in which estimates of
+same-sex couples, particular same-sex married couples, are inflated by opposite-sex couples who are
+misreported as same-sex (Cortina and Festy 2014; O’Connell and Feliz 2011).
+         In this paper, we used 2013 AHS data using the revised relationship question to conduct a
+detailed examination of inconsistency between couples’ reports of relationship (i.e., same-sex married,
+same-sex unmarried, opposite-sex married, or opposite-sex unmarried) and their reported sex. We
+delineate the what and who of relationship-sex inconsistency. Analysis comparing reported and
+probable sex indicates that the relationship item is mismarked more frequently than sex. Misreports on
+relationship explain relationship-sex inconsistency for the majority of couples whose relationship was
+reported as same-sex married, same-sex unmarried, or opposite-sex unmarried. However, errors on sex
+are more often responsible for inconsistent reports among couples marked as being in an opposite-sex
+married relationship. Because opposite-sex married couples are the most numerous couple type, errors
+on sex explain relationship-sex inconsistency for a substantial minority of couples overall.
+                                                                                                          18
+
+Measuring Same-Sex Couples                                                          Lewis, Bates, and Streeter
+         These findings are generally consistent with the statistical issue of relative group size. Couples
+with inconsistent reports on relationship and sex more frequently belong to the more numerous
+group—opposite-sex couples—than to the smaller group—same-sex couples. The exception is for
+couples marked as opposite-sex unmarried on relationship but as same-sex on sex, who are actually
+same-sex in the majority of cases. In addition, our findings confirm previous research indicating that
+estimates of same-sex couples, particularly same-sex married couples, are inflated by errors on the part
+of opposite-sex couples (Banens 2013; Lofquist and Lewis 2014; O’Connell and Feliz 2011).
+         Regarding which couples are more likely to have errors made on the relationship or sex items,
+we find inconsistent reports to be most common for couples whose relationship was reported as same-
+sex married, followed in order by reported same-sex unmarried, opposite-sex unmarried, and opposite-
+sex married couples. This pattern is consistent with the findings of Lofquist and Lewis (2014). The same
+pattern holds for errors specific to the relationship item. Once more, this points to the importance of
+relative group size, as smaller groups are impacted more by mismarks on relationship.
+         Respondent age, household size, and whether a household is a returning household are also key
+factors for relationship-sex inconsistency. Respondent nativity has a limited impact, and Hispanic origin
+and education are unrelated to inconsistencies. Older respondents are associated with mismarks on
+relationship. It is likely that older respondents are more apt to make mistakes on the revised
+relationship question due to lower levels of familiarity with issues and terminology pertaining to same-
+sex couples. Indeed, for much of their lives, same-sex marriage was peripheral to mainstream politics
+and culture. Also in line with this reasoning, both relationship-sex inconsistency and misreports on
+relationship are less likely for younger respondents.
+         Larger households were found to correlate both with higher odds of relationship-sex
+inconsistency in general and misreported information on relationship in particular. Instrument operation
+and length likely account for the positive relationship between household size and relationship errors. In
+the AHS, demographic items including relationship to householder are asked of all household members.
+In consequence, larger households have longer instruments, increasing the chance that the respondent
+or interviewer could confuse which household member the present question is referring to. Longer
+instruments can also lead respondents to become disengaged or for the interviewer to progress more
+quickly through the instrument, thereby contributing to reporting errors.
+                                                                                                            19
+
+Measuring Same-Sex Couples                                                         Lewis, Bates, and Streeter
+          Couples in returning households are less likely to have inconsistent responses on relationship
+and sex, and are also less likely to have misreports on sex. This suggests that the use of dependent
+interviewing in the AHS reduces errors as intended. Because information on sex but not relationship was
+copied for members of returning households, dependent interviewing specifically lessened the
+likelihood of misreporting on sex.
+          Although the current study provides useful information regarding the what and who of
+relationship-sex inconsistencies, it is not without shortcomings. The 2013 AHS has a large sample size,
+necessary for studying small groups such as same-sex married couples. Despite this, however, the size of
+groups being analyzed became smaller as we split them in various ways, including by misreporting type
+(sex versus relationship item). These finer groups offer less statistical power for analysis. For example,
+regression using larger samples of couples misreporting on sex and relationship may yield additional or
+stronger relationships between misreporting and couple characteristics. In addition, we were limited in
+terms of analytic detail. For instance, small group size prevented us from assessing whether the
+characteristics related to relationship-sex inconsistency differ for various types of couples. We suggest
+that, if and when possible, our research be repeated using a still larger survey sample in order to
+confirm and expand our results.
+          A second weakness of our study is that we cannot distinguish between misreporting on the part
+of respondents and mismarks made by interviewers. That is, we are uncertain whether reporting errors
+arise from the answers respondents provide or what the interviewers record. To better tackle this issue,
+we suggest that future research on relationship-sex misreporting use a survey that collects data through
+both self-administered and interviewer-administered modes. Because self-administered modes are free
+from interviewer effects, comparing the two types of data collection would provide more information
+on respondent versus interviewer effects. Results from the 2014 Census Test will allow such a
+comparison. In addition, future research could use multilevel modeling to help isolate interviewer
+effects.
+          Limitations are inherent in our use of the statistical names directory and the 95 percent rule to
+determine probable sex and whether relationship or sex was reported in error. As noted earlier, using
+this method we were able to determine probable sex for only 68.6 percent of couples with inconsistent
+reports on relationship and sex. Conclusions may differ if a less stringent threshold was used to
+determine probable sex, or if an alternate method, such as administrative records, was used to verify
+sex.
+                                                                                                           20
+
+Measuring Same-Sex Couples                                                         Lewis, Bates, and Streeter
+         One benefit afforded by the revised relationship question is the allowance, in the case of
+automated instruments, of soft edits that detect inconsistencies and potentially correct
+misclassifications during data collection. Our current discussion of misreporting does not account for the
+impact of the soft edits that appeared to interviewers in situations where an inconsistency between
+relationship and sex was recorded. In future research, we plan to assess the effectiveness of the AHS
+soft edits in reducing inconsistencies and correcting errors on relationship and sex. Another topic worthy
+of future analysis is the characteristics associated with resolving relationship-sex inconsistencies through
+the soft edits. It could also be worthwhile to explore whether error could be further reduced by making
+the soft edits hard edits, meaning that inconsistencies would need to be resolved in order for the
+instrument to proceed.
+         Our results suggest a few steps that can be taken to decrease inconsistency on the relationship
+to householder and sex items. One possible venue would be to educate interviewers about the issue of
+relative group size and its relevance for estimating same-sex couples. Interviewers could be prepared to
+ensure that respondents understand the revised relationship item and to answer questions about the
+categories for opposite-sex husband/wife/spouse, opposite-sex unmarried partner, same-sex
+husband/wife/spouse, and same-sex unmarried partner. This is particularly important for older
+respondents.
+         A second suggestion is to educate interviewers about data quality issues associated with longer
+surveys for larger households, and to provide them with strategies to mitigate these issues. This action
+would likely contribute to improved quality for a number of items across a variety of subject areas, in
+addition to relationship measurement.
+         A final suggestion is to continue using dependent interviewing on sex in order to reduce errors
+on this item and mitigate relationship-sex inconsistency. It is also possible that dependent interviewing
+on the relationship item would further mitigate inconsistency by decreasing errors specific to this item,
+although this would need to be tested.
+         The current research marks a substantial step in the process to improve measurement of
+household relationships, particularly same-sex married couples. Although a revised relationship
+question has decreased measurement error (Lofquist and Lewis 2014), inconsistent responses on
+relationship and sex remain an issue. By providing detailed information on the nature of relationship-sex
+                                                                                                          21
+
+Measuring Same-Sex Couples                                                     Lewis, Bates, and Streeter
+inconsistencies, our research will enable us to develop additional avenues for mitigating error, and lead
+to improved estimates of same-sex couples.
+REFERENCES
+Banens, Maks. 2013. “Sex Miscoding and Same-Sex Miscoding Estimates.” Paper presented at the
+        International Population Conference of the International Union for the Scientific Study of
+        Population, August 28, Busan, North Korea.
+Cortina, Clara and Patrick Festy. 2014. “Identification of Same-Sex Couples and Families in Censuses,
+        Registers, and Surveys.” Working Paper 8(2014). Families and Societies: Stockholm University.
+DeMaio, Theresa J., Nancy Bates, and Martin O’Connell. 2013. “Exploring Measurement Error Issues in
+        Reporting of Same-Sex Couples.” Public Opinion Quarterly 77(S1):145-158.
+Interagency Working Group on Measuring Relationship in Federal Household Surveys (MRFHS). 2014.
+        “Improved Measurement of Household Relationships in Federal Surveys, Paper 1: Measuring
+        Same-Sex Co-Residential Relationships.” Statistical Policy Working Paper. Federal Committee on
+        Statistical Methodology: Washington, DC.
+Kreider, Rose M. And Daphne A. Lofquist. 2015. “Matching Survey Data with Administrative Records to
+        Evaluate Reports of Same-Sex Married Couple Households.” SEHSD Working Paper, 2014-36.
+        U.S. Census Bureau: Washington, DC.
+Lofquist, Daphne. 2011. “Same-Sex Couple Households.” American Community Survey Briefs, ACSBR 10-
+        03. U.S. Census Bureau: Washington, DC.
+Lofquist, Daphne and Jamie M. Lewis. 2014. “Improving Measurement of Same-Sex Couples.” Paper
+        presented at the Annual Meeting of the Population Association of America, May 2, Boston, MA.
+O’Connell, Martin and Sarah Feliz. 2011. “Same-Sex Couple Household Statistics from the 2010 Census.”
+        SEHSD Working Paper, 2011-26. U.S. Census Bureau: Washington, DC.
+                                                                                                        22
+

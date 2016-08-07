@@ -1,0 +1,467 @@
+Sex Res Soc Policy
+DOI 10.1007/s13178-016-0220-6
+The Utility of the Two-Step Gender Measure Within Trans
+and Cis Populations
+Emilia Lombardi 1 & Swagata Banik 1
+# Springer Science+Business Media New York 2016
+Abstract It has been acknowledged that more research into            Introduction
+the health and well-being of trans people is needed in order to
+identify important health issues. While recent studies have          There has been much discussion on the need for greater re-
+suggested using a two-question gender status measure to as-          search on the health of transgender, transsexual, and gender
+sess assigned sex at birth and gender identity, it is not well       nonconforming (trans) people in order to address significant
+understood how participants understand and subsequently an-          disparities experienced by these populations in terms of health
+swer the questions. The study recruited a convenience sample         care access and outcomes. Both the Institute of Medicine and
+of 50 people (25 trans and 25 cis) from the general population       National Institutes of Health have identified the need for great-
+of Cleveland and Akron, OH. The study used cognitive                 er research about the health disparities experienced by trans
+interviewing methods with scripted, semi-structured and              individuals (Institute of Medicine 2011; NIH LGBT Research
+spontaneous probes when appropriate. Participants were               Coordinating Committee 2013). Although limited, recent
+asked to read questions out-loud, answer the questions, and          years have evidenced an increase in the number of studies
+explain why they answered the way they did. Interviews were          addressing health issues of gender minorities (Pittsburgh
+audio recorded and transcribed prior to analysis. The gender         Transgender Health Research Summer Institute 2010).
+status questions were found to be easy to use and understood         However, existing quantitative research suffer from a primary
+by both trans and cis participants. The two-question gender          limitation; they have consisted of small samples collected
+status measure was able to encompass a diversity of identities       through convenience or snowball sampling methods within
+within a trans sample and be consistently answered by the            specific geographic areas without any systematic approach
+study’s cis participants. The measures were able to differenti-      to define the target population. As such, the generalizability
+ate between trans and cis groups. The two-step gender mea-           of these studies is limited.
+sure can be a useful tool in examining gender diversity within           The lack of research regarding trans issues is partly due to
+general population studies.                                          the lack of inclusion within population level studies, and a
+                                                                     major reason being the lack of measures that can effectively
+Keywords Transgender . Cisgender . Survey methods .                  differentiate between different gender identities. There has
+Cognitive interviewing                                               been a range of measures used to identify trans populations,
+                                                                     as most studies have focused on small, convenience samples
+                                                                     and they did not need to differentiate between people who are
+                                                                     trans and those who are not (Boles and Elifson 1994;
+                                                                     Lombardi et al. 2001; Nuttbrock et al. 2009).
+* Emilia Lombardi
+    elombard@bw.edu
+                                                                         Health researchers have used various terms like transves-
+                                                                     tite, transsexual, transgender, even conflating them with gay
+                                                                     and lesbian populations or include them within the population
+1
+    Department of Public Health and Prevention Sciences H219, School
+                                                                     of men who have sex with men without considering trans
+    of Health Sciences, Baldwin Wallace University, 275 Eastland Rd, people’s unique psychosocial contexts (Boles and Elifson
+    Berea, OH 44017, USA                                             1994; Operario et al. 2008). This has resulted into a lack of
+
+                                                                                                                       Sex Res Soc Policy
+understanding about adequate and relevant health care needs          Medicine [US] Board on the Health of Select Populations.
+for trans populations. The population itself also uses a wide        2013). The Center of Excellence for Transgender Health
+range of labels in reference to themselves, which can also           outlined a mechanism based on that definition to differentiate
+complicate the creation of study measures (Grant et al.              trans population from cis populations (cis—having a gender
+2011). The lack of consistency in how trans populations are          identity that is associated with their sex assigned at birth) within
+identified within research also mirrors what is found within         a general population (Center of Excellence for Transgender
+clinical settings where protocols tend to focus primarily upon       Health 2011). This method is referred to as the two-step method
+one’s physical sex without consideration about the patients          and versions of this measure is being advocated by many re-
+gender identity (Deutsch et al. 2013).                               searchers and used in HIV surveillance programs (Gender
+    There has been much activity to have the federal govern-         Identity in U.S. Surveillance [GenIUSS group] 2013).
+ment include measures to capture gender identity in order to             Quantitative studies examining the utility of the two-step
+better understand the health and social issues transgender peo-      measure found it to be effective and easy to use within general
+ple experience. There are only a small number of federal stud-       population studies (Cahill et al. 2014; Tate et al. 2013). Tate et
+ies that currently include any kind of measure to identify trans-    al. utilized university students to test their questions and found
+gender people. The National Inmate Survey (NIS) was created          the two-step measure to be more reliable than the single ques-
+as part of the Bureau of Justice Statistics’ National Prison         tion method. Overall, 78 % reported they understood the gen-
+Rape Statistics Program to provide more detailed information         der questions within Cahill et al. study. They also did not find
+regarding the issue of sexual victimization within jails and         any significant difference in responses by race/ethnicity, but
+prisons (Gaes 2008). The NIS asks inmates, BAre you male,            they did find that older (65 and older) and heterosexual people
+female, or transgender?^ This manner of identifying transgen-        were more likely to report not understanding the questions.
+der individuals is problematic in that it does not allow for the     Even with these differences, the majority still stated that they
+gender identity of the inmate to be identified. As a result, it will would answer the questions. Other versions of the two-step
+be impossible to know whether the inmate identified as a man,        measure were also found to be effective (Reisner et al. 2014a;
+woman, or anything else. Additionally, many transgender in-          Reisner et al. 2014b). These studies show promise that the
+dividuals may choose the male or female option as either may         two-step measure can work within quantitative studies, but
+represent their gender identity rather than transgender and this     the differences in how people understand the concepts embed-
+may result in the undercounting of transgender individuals.          ded within the two-step measures require further study. Thus,
+The only other federal program that collects gender identity         a qualitative examination of these measures was needed to
+is the CDC’s HIV/AIDS Surveillance program, which uses the           better understand how people responded to the measure and
+Center for Excellence for Transgender Health two-step mea-           how they interpreted the questions in their own minds. These
+sure (Center of Excellence for Transgender Health 2011;              studies also did not provide much discussion regarding the
+Centers for Disease Control and Prevention 2015).                    difference between trans and cis participants. How these two
+    Many LGBT organizations have been working to have the            groups understand and respond to the two-step measure will
+Health and Human Services Administration (HHS) include               be important to know in order to be more confident in its
+gender identity measures within their data collection activities     effectiveness in differentiating between the two groups.
+(Cahill and Makadon 2013, 2014). Currently, HHS has not                  This study is focused on understanding how trans and cis
+included gender identity measures in any of their programs.          individuals interpret each of the questions within a two-
+In 2012, they stated that they were not going to include any         question measure to assess transgender and cisgender status.
+measures since there was a lack of consensus for the definition      Both groups will likely vary how they experience and interpret
+of gender identity or any measure for it (Department of Health       sex and gender. Trans populations can vary widely in regards
+and Human Services Office of the Secretary 2012). Also,              to their gender identities (Grant et al. 2011; Lombardi 2009).
+when asked whether to collect either sex or gender, their re-        At the same time, cis populations will likely have a very tra-
+sponse was to have people record sex. They made a differen-          ditional belief of sex and gender. We have quantitative studies
+tiation between sex and gender, but did not include a specific       showing that trans and cis groups will answer the questions,
+definition of sex other than it not being gender. In 2015, they      but what is not known is either groups understanding of the
+did make changes to include Systematized Nomenclature of             measure. The current study addresses that gap.
+Medicine Clinical Terms (SNOMED CT) codes for gender
+identity categories, but at the same time did not include spe-
+cific questions to for programs to use (Department of Health         Methods
+and Human Services Office of the Secretary 2015).
+    There has been movement in conceptualizing trans popula-         The two-step measure used is based on the Center of
+tions as those with a gender identity that differs than what         Excellence for Transgender Health version (at the time of this
+would be associated with their sex at birth (Institute of            study, this was the only recommended version) (Center of
+
+Sex Res Soc Policy
+Excellence for Transgender Health 2011). As this study wanted       Table 1    Sample demographics
+to assess the effectiveness of the two-step measure for general     Number by race
+population studies (rather than LGBT or primarily trans popu-                                       White                     Black
+lations), the number of response categories for the question        Cis                             22                        3
+asking about people’s sex or gender was limited to only Male,       Trans                           22                        3
+Female, and Other (specify). The percentage of trans people of      Number by sex assigned at birth
+all categories to be found within a general population is likely to
+                                                                                                    Male                      Female
+be small and will create problems during quantitative analysis
+                                                                    Cis                             10                        15
+(e.g., statistical power, how to combine responses). This study
+                                                                    Trans                           20                        5
+decided to force a choice between male, female, and an Bother
+                                                                    Age                             Mean (standard deviation)
+(specify)^ category in order to differentiate between binary and
+                                                                    Cis                             32.44 (13.92)
+nonbinary (genderqueer, agender, etc.) identified individuals.
+                                                                    Trans                           44.88 (15.68)
+This is seen as the simplest way to differentiate between trans
+and cis, male and female, and binary and nonbinary populations
+for studies targeting general populations. As opposed to LGBT       gender, and whether they believed their friends and family
+or trans-specific populations where one would expect greater        could answer the question. Additional questions were asked
+number and variation of gender identities.                          in regards to people’s understanding of the wording of ques-
+                                                                    tions (i.e., what does sex assigned at birth mean to you?).
+Participants                                                            Interviews were conducted primarily face to face within the
+                                                                    interviewer’s office or off site in a closed room. Five inter-
+The study recruited a purposeful sample from the general            views were conducted online via Adobe Connect (an internet-
+population of trans and cis people from Cleveland and               based system allowing people to communicate and to share
+Akron, OH. Twenty-five cis individuals were interviewed             electronic materials) to allow for those who could not travel to
+for the study. Of these, 15 were female assigned and 10 were        interview sites. In both instances, participants were able to
+male assigned at birth. Three participants were African-            read questions (off a sheet of paper or computer screen) out
+American and the remaining 22 were White, and their average         loud, interact verbally with the interviewer, and have their
+age was 32 years (range 19–61). Twenty-five trans individuals       interviews audio recorded. All interviews were conducted by
+were also interviewed. Of these, 20 were assigned male at           the principle investigator, and audio recordings were tran-
+birth and 5 were assigned female at birth. Three participants       scribed for analysis.
+were African-American and the remaining 22 were White, and
+their average age was 45 years (range 19–81) (see Table 1).         Analysis Interviews were audio recorded and transcribed pri-
+Recruitment utilized internet resources, community venues,          or to analysis within a dedicated qualitative research program
+and word of mouth. Participants were informed that re-              (NVIVO) (QSR International Pty Ltd 2012). The principle
+searchers were interested in conducting a health survey in          investigator for the study analyzed the transcripts and initially
+the area and that they needed feedback regarding demographic        identified sensitizing concepts and to examine the diversity of
+questions that will be used in order to be confident that the       reports given by the participants, while subsequent analysis
+questions accurately identify social groups when linking those      focused on people’s understanding and interpretation of each
+groups to health issues. The study was conducted under the          question. The analysis was conducted separately by trans/cis
+guidance of Baldwin Wallace University’s Institutional              status by the interviewer. The study was able to attain theoret-
+Review Board, and informed consent was obtained from all            ical saturation with the 50 cases examined (Table 2).
+individual participants included in the study.
+                                                                        Two-Step Gender Status Measures
+Interview Activities The study methods utilized cognitive               1. What is your sex or gender? (Check ALL that apply)
+interviewing methods to examine the effectiveness of the
+two-step measure (Drennan 2003). Interviews were conducted               (A) □ Male
+by the first author (a trans woman who has conducted many                (B) □ Female
+research studies examining health and social disparities                 (C) □ Other: Please specify: _____________________
+among trans populations). The study used scripted, semi-            2. What sex were you assigned at birth? (Check one)
+structured and spontaneous probes when appropriate.
+Participants were asked to read questions out-loud, answer               (A)    □ Male
+the questions, and explain why they answered the way they                (B)    □ Female
+did. In addition, participants were asked whether they found             (C)    □ Unknown or Question Not Asked
+the questions to be hard or easy to answer, to define sex and            (D)    □ Decline to State
+
+                                                                                                                                  Sex Res Soc Policy
+Table 2 Assigned sex and
+gender                             Trans                  Male only        Female only       Other only       Male and other        Female and other
+                                   Assigned male          1a               12                5b                                     1c
+                                                                                                               d
+                                   Assigned female        3                                                   2
+                                   Unknown                1                                                   1e
+                                   Cis
+                                   Assigned male          10
+                                   Assigned female                         15
+                                  a
+                                    During the interview, the participant identified themselves as a male to female crossdresser
+                                  b
+                                    Other responses include
+                                  • The reason I answered that was is because I’m transgender
+                                  • I’m not really super male, and I’m not really super female
+                                  • Transgendered—male to female
+                                  • Male cross-dresser
+                                  • I am transgendered, but I also consider myself female. But, I don’t consider myself until I have the entire female
+                                  body or the entire female parts
+                                  c
+                                    Response: I am a transsexual woman
+                                  d
+                                    Male and other responses include
+                                  • Female to male transsexual
+                                  • Transgender male
+                                  e
+                                    Response: I’m just going to say BI’m a question mark.^
+Results: Trans Participants                                                     could be who is the bigger gender, or It could be confused
+                                                                                with the physical stuff. Sex can be confusing.^
+What Is Your Sex or Gender The majority of the trans fe-                   &    BI heard a quote a couple of years ago, I don’t remember
+male participants only chose female for their gender identity,                  who it was, but I was told that sex is between the legs and
+one also chose the other category in order to specify their                     gender is between the ears.^
+transsexual woman identity. Most trans male participants only
+chose the male option and two chose male and other in order                    This distinction influenced how many would answer
+to specify identifying as a female to male transsexual or trans-           their questions. When focused on just the first questions,
+gender male. Among those who were assigned male and just                   some participants would provide two answers: one refer-
+chose the other response reported very diverse identities in-              ring to their male or female identity and the other option
+cluding crossdresser, and female but without female anatomy.               to provide additional detail regarding their trans status.
+There was also someone with a very unique conception of                    There were also four responses who defined sex as a be-
+their assigned sex (choosing unknown) and gender identity                  havior: Bsex is when two people have intercourse,^ BSex
+(BI’m a question mark.^), but this was not due to having an                is what two people do.^ However, they were still able to
+intersex identity. Overall, even with a simplified set of gender           answer the question about their sex assigned at birth as
+identity categories, trans individuals were able to express a              designed.
+diversity of gender identities.
+   All but one participant saw sex and gender as being two                 What Is Your Sex Assigned at Birth Everyone was able to
+different categories. For many trans participants, sex referred            answer the question regarding their sex assigned at
+to one’s biological status and gender referred to one’s identity           birth. When asked to define Bsex assigned at birth^ their
+(internal sense of themselves as men, women, or something                  answers focused on their anatomical status, with many
+else). Examples include:                                                   specifying whether they had a penis or vagina or sex
+                                                                           organs, or in some cases DNA. People also mentioned
+&   Bsex is your biological, ahh, sex according to your phys-              birth certificates as being part of the assignment pro-
+    ical makeup, where gender is your internal identify of who             cess. Examples:
+    you are by your own identity.^
+&   Bgender to me is a mental thing, a belief, a feeling, an               &    Interviewer: Can you tell me what Bsex assigned at birth^
+    identification if you will. Ahh, sex is really a strange term.              means to you? Ummm, it’s whatever they put down on
+    Sex could be sexual orientation, a blend of both genders, it                your birth certificate.
+
+Sex Res Soc Policy
+&    Interviewer: Can you tell me ‘what sex assigned at birth’     especially when using the additional question regarding their
+     means to you? It’s what your DNA and chemistry decide         sex assigned at birth. Most trans participants preferred having
+     to make you at birth.                                         the question asking about one’s gender be asked prior to the
+&    Interviewer: Can you tell me ‘what sex assigned at birth’     question about their sex assigned at birth.
+     means to you? Your sex is assigned at birth due to your
+     genitals.
+                                                                   Cis Participants
+    While there was a clear consensus regarding sex being a
+biological or legal characteristic (birth certificate), many par-  What Is Your Sex or Gender All cis participants answered
+ticipants (16) also mentioned that assignment was done by          both questions with the same answer; those who answered
+someone else other than themselves. Approximately two              female (or male) in question 1 answered female (or male) in
+thirds of the participants described sex assignment as being       question 2 as well. No one used any of the other options.
+done by a doctor or other health care provider or generally by     Many people said either male or female when answering ei-
+another person referred to as Bthey.^ Examples include:            ther question, and others made BI^ statements (BI am a female,
+                                                                   ^ BI would choose male^). Participant’s answers were given in
+&    BMainly ‘assigned at birth’ means what did the doctor         a very straightforward manner with very little elaboration.
+     think when they had a look.^                                     Cis participants were mixed in regards to their understand-
+&    BIt means the doctor’s perception of you sex at birth.^       ing of sex and gender. Ten participants identified sex and
+&    BThey see that you have the sex organs of a female or         gender to refer to the same thing. Examples:
+     male.^
+&    BWhat they mark off on your birth certificate. It’s basically &   What is your sex and what is your gender in those-in those
+     what they think you are.^                                         questions, I think of it as the same
+&    BWhat the doctor determined when he looked between my         &   When I see the words, uh, sex or gender, I could almost
+     legs.^                                                            say you could use them as synonyms.
+                                                                   &   Personally, I feel that they’re basically the same
+    The other participants provided their answer without attri-
+bution and focused primarily of their own physical status and         Nine participants made distinctions between sex and gen-
+biology.                                                           der. Examples:
+&    BThe sex you were born as, depending on your genitals.^       &   I think gender is more where your mindset is and, sex is
+&    BIt’s what your DNA and chemistry decide to make you at           more where your physical features are.
+     birth.^                                                       &   I believe its sex is biological and gender is what you iden-
+&    BI guess what you were born biologically, male or                 tify more with.
+     female.^                                                      &   Sex, I’d have to say, would be, um, what your reproduc-
+&    BHow our body was formed at birth, whether or not we              tive organs are. Gender is probably more where you iden-
+     have the male genitalia, the female genitalia.^                   tify with between the two sexes.
+    There was a definite consensus among the participants that        There were also two participants who mentioned that sex
+Bsex assigned at birth^ referred to one’s biology or physical      can also refer to sexuality or sexual behavior. Regardless of
+state at birth, many trans people also viewed it as a process      whether they saw sex and gender as being the same or not, it
+being done to them rather than a neutral activity. There were      did not affect how they answered either question.
+two participants who discussed their intersex status, but they
+were still able to answer the questions using the existing cat-    What Is Your Sex Assigned at Birth Cis participants were
+egories (neither of these people chose the unknown category).      able to answer the question about their sex assigned at birth.
+    Trans participants were found to answer the questions in       When asked, participants referred to biology (e.g., presence of
+the expected manner. Few expressed nontraditional gender           a penis or vagina) or birth certificate. Participants were split in
+identities and expressions, and were still able to answer the      regards to their perception of how sex is assigned to people.
+questions by utilizing the Bother^ response category. When         Ten participants attributed assignment to a physician or other
+asked about making changes to these questions, many request-       people.
+ed that the gender identity question (what is your sex or gen-
+der) only ask about sex or gender and not include both as          &   What the doctor said when you were born.
+many trans participants found it contradictory. Of the two, it     &   It’s what your parents gave you, not necessarily what you
+would be best to only ask about gender rather than sex,                identify with.
+
+                                                                                                                   Sex Res Soc Policy
+&    What did the doctor say you were, you know, it’s a boy,        they view sex and gender. Sex and gender among the trans
+     it’s a girl.                                                   sample were primarily seen as different concepts, with sex re-
+&    The way your parents interpreted your birth.                   ferring to one’s physical status and gender being one’s internal
+                                                                    sense of themselves as a man or woman. The distinction is due
+    Twelve participants just made reference to biological or        to trans population’s experiences with interpreting their biology
+physiological characteristics.                                      in light of their gender identity. Among the cis sample, many
+                                                                    saw sex and gender to refer to the same thing, resulting with
+&    If you were born with, um, male genitalia vs. female           most not reflecting on the distinction between the two.
+     genitalia                                                          Since the completion of this study, others have published
+&    Sex assigned at birth means, uh, like your physiology.         their findings examining the utility of the two-step method of
+&    I don’t know, just…my female organs.                           identifying gender within quantitative studies (Cahill et al.
+&    Whatever genitalia I was born with.                            2014; Gender Identity in U.S. Surveillance [GenIUSS] Group
+                                                                    2014; Reisner et al. 2014a; Reisner et al. 2014b; Tate et al.
+    Regardless of whether they attributed their assignment to       2013). Each study is somewhat varied in regards to how ques-
+others or not, there was consensus that sex assigned at birth       tions are asked and which responses are offered. Our study’s
+primarily referred to their status when born and answered the       uniqueness is based on examining how trans and cis people
+question accordingly without any problems in understanding          understand the questions and the meanings inherent in the mea-
+its purpose.                                                        sures conceptualization. Its focus on older people and those
+    Cis participants did not have any problem answering the         living in the Mid-West also adds to its distinction. However,
+questions and did so in the expected manner (sex or gender          all were able to show that asking about one’s assigned sex at
+and sex assigned at birth were consistent with each other).         birth and one’s gender identity was effective for both trans and
+When asked if they had any problems answering the ques-             cis populations. This along with other reports from experts in
+tions, there were those who wondered why we were asking             the field shows support toward the usage of the two-step mea-
+the same question twice, but they realized that it was oriented     sure for identifying and differentiating between trans and cis
+to capture people with different experiences.                       populations (Gender Identity in U.S. Surveillance [GenIUSS]
+                                                                    Group 2014). Future studies can work to refine the measures to
+&    First it sort of took me aback, like, ‘what?’ Why are they     see what version works best for a particular sample or context
+     asking two different questions? Like would my answer be        and how to transition existing studies using single measures for
+     the same? And then, I realize that, maybe for someone          sex or gender to a two-step format.
+     else, the answer might not be the same, and that’s why             This study utilized fewer response options than previous
+     it’s being asked.                                              studies, but this did not create a problem for participants. The
+                                                                    choice of responses can be a decision made by researchers
+                                                                    based on the population to be studied and the study’s purpose.
+                                                                    Options like genderqueer, transgender, trans, etc. can be added
+Discussion                                                          as needed depending on the study and communities being ex-
+                                                                    amined. Another issue is how it can be used along with the new
+A review of studies examining transgender populations               SNOMED CT codes (Department of Health and Human
+reflected upon the need to examine and utilize new methods          Services Office of the Secretary 2015). Table 3 outlines the
+in transgender health research (Melendez et al. 2006). Previous     arrangement of responses to the two questions and shows that
+studies have focused on simplistic measures of sex or gender        it can be used effectively with the SNOMED CT codes.
+that fail to capture the reality of transgender people. The present
+study supports the use of the two-step gender measure as a basis
+for distinguishing between trans and cis populations. The gen-      Limitations
+der status measure was found to be easy to use and understood
+by both trans and cis participants. The measure was able to         While the cognitive interviews cannot be generalized to
+differentiate between trans and cis groups, encompass a diver-      any population other than itself, it did allow for inferring
+sity of identities within a trans sample, and be consistently       how a group of trans and cis people understood and an-
+answered by the study’s cis participants. There was a consistent    swered questions on sex and gender identity. However,
+understanding of the concepts within each question for both         the small number of interviews did not allow for a de-
+groups, especially with the idea of Bsex assigned at birth.^        tailed examination of how race/ethnicity could affect peo-
+Both groups understood the phrase to mean one’s                     ples’ answers. The study also did not have many male
+physiological/legal status placed upon them when they were          identified trans participants compared to male identified
+born. The one difference between trans and cis groups is how        individuals among the cis participants.
+
+Sex Res Soc Policy
+    While support is growing for the use of the two-step mea-                        A third gender identity has become a constitutionally rec-
+sure to identify cis and trans populations, further research is                  ognized gender category across South Asia (India,
+needed in regarding adapting the measure to better identify                      Bangladesh, Nepal). In India, BHijras^ are identified as neither
+differences between trans individuals (Scheim and Bauer                          men nor women and they have a long cultural history across
+2015). For example, is there a difference between someone                        south Asia (Nanda 1990). While some individuals, in recent
+who would select female as a gender identity versus someone                      years, identify themselves as [Trans] women, a majority will
+who would choose Trans woman, or between people who                              still identify themselves as BHijra.^ Due to social stigma and
+would choose male or female compared to someone who                              discrimination, Hijras members also experience significant
+would choose another identity such as genderqueer, two-spir-                     disparities in healthcare access and outcomes (Banik et al.
+it, or another identity other than that of male or female. The                   2013). Thus, studies are needed to evaluate the effectiveness
+measures work best to identify gender binary (male or female)                    of the two-step measure among non-binary identified popula-
+identified trans people. Nonbinary identified trans individuals                  tions. At this point, the two-step gender measure is developing
+(genderqueer, crossdressers, etc.) tended to utilize the Bother^                 a strong consensus for its use within the USA with English-
+category, but more research is needed to understand how to                       speaking participants.
+differentiate between the different trans populations of people
+who do not fit traditional conceptions of gender from gender
+binary identifying trans people. The responses of non-US pop-                    Conclusion
+ulations also need to be examined.
+    Further studies are needed to examine how well the mea-                      This investigation found that the two-step gender status
+sures can be used in other languages and cultures. The USA                       measure were understood by a sample of cis men and
+does not have a third gender option that exist in other cultures                 women, and its results were what were expected for
+around the world (e.g., Native American, Native Hawaiian,                        both cis and trans populations. Based on the study’s
+Latin American) and other cultures may have different ways                       findings, it will be important to refer to people’s gender
+to conceptualize biological sex, gender identity, and sexual                     or gender identity rather than sex. While the cis partic-
+orientation (Jacobs 1997; Lancaster 1998; Matzner 2001).                         ipants did not note a significant difference between the
+Reisner et al. (2014a) utilized a version within a quantitative                  two, the trans participants did and saw gender as refer-
+study of Men who have Sex with Men (MSM) in Latin                                ring to their identity and sex as their physiology. The
+America, Caribbean, Portugal, and Spain and found many                           results support the consensus that is growing regarding
+participants utilizing the other, specify option to refer to their               the use of the two-step gender measure within popula-
+sexual orientation and sexual practices rather than their gender                 tion studies within the US Health surveillance system,
+identity. Qualitative analysis and cognitive interviewing is                     but issues remain regarding the categories to offer in
+necessary to examine how populations in Latin America relate                     order to best capture diverse gender identities for the
+between sex, gender identity, and sexuality in order to better                   purpose of quantitative studies. The invisibility of trans
+refine the two-step measures for use within those contexts.                      people plays a large role in the health disparities they
+Table 3     Two-step gender measure correspondence with SNOMED CT
+U.S. Edition of SNOMED CT, March 2015                                                   What is your gender?a                     What sex were you
+(Department of Health and Human Services Office of the Secretary 2015)                  (additional categories)                   assigned at birth?
+Identifies as male gender                                                               Male                                      Male
+SNOMED CT: 446151000124109.
+Identifies as female gender                                                             Female                                    Female
+SNOMED CT: 446141000124107.
+Female-to-male transsexual                                                              Male                                      Female
+SNOMED CT: 407377005                                                                    (transgender/trans man, etc.)
+Male-to-female transsexual                                                              Female                                    Male
+SNOMED CT: 407376001                                                                    (transgender/trans woman, etc.)
+Identifies as non-conforming gender SNOMED CT:                                          Other                                     Male or female
+   446131000124102                                                                      (genderqueer, etc.)
+Other, HL7 V3 nullFlavor OTH                                                            Other                                     Male or female
+Asked but unknown,                                                                      Declined to state/answer                  Declined to state/answer
+HL7 V3 nullFlavor ASKU
+a
+  Only gender is asked for because of the difference trans populations see in regards to the terms sex and gender. Its use would not impact the response of
+cis populations
+
+                                                                                                                                        Sex Res Soc Policy
+experience. The authors of this study found that the                                  Information Technology (Health IT) Certification Criteria, 2015
+                                                                                      Edition Base Electronic Health Record (EHR) Definition, and
+two-question gender status measure could be a useful tool in
+                                                                                      ONC Health IT Certification Program Modifications. Federal
+identifying trans populations within general population                               Register, 80(60), 16804–16921.
+studies with little misunderstanding among cis populations.                     Deutsch, M. B., Green, J., Keatley, J., Mayer, G., Hastings, J., & Hall, A.
+                                                                                      M. (2013). Electronic medical records and the transgender patient:
+Acknowledgments The authors wish to thank the Williams Institute,                     recommendations from the World Professional Association for
+UCLA, for their support for this research project. We also wish to thank              Transgender Health EMR Working Group. Journal of the
+Jesper Zuber and Katie Mitchells for their assistance with this research              American Medical Informatics Association : JAMIA, 20(4), 700–3.
+project. Dr. Banik acknowledges the salary support from NIH grant               Drennan, J. (2003). Cognitive interviewing: verbal data in the design and
+R21DA033719-01.                                                                       pretesting of questionnaires. J Adv Nurs, 42(1), 57–63. Retrieved
+                                                                                      October, 2011 from http://onlinelibrary.wiley.com/doi/10.1046/j.
+Compliance with Ethical Standards The study was funded by a small                     1365-2648.2003.02579.x/abstract.
+grant provided by the Williams Institute, UCLA.                                 Gaes, G. G. (2008). Report to the Review Panel on Prison Rape on the
+    The study was conducted under the guidance of Baldwin Wallace                     Bureau of Justice Statistics Study Sexual Victimization in State and
+University’s Institutional Review Board for human research. Informed                  Federal Prisons Reported by Inmates, 2007. Retrieved June, 2015
+consent was obtained from all individual participants included in the                 from http://ojp.gov/reviewpanel/pdfs_mar08/testimony_gaes.pdf.
+study.                                                                          Gender Identity in U.S. Surveillance (GenIUSS group). (2013). Gender-
+    All procedures performed in studies involving human participants                  related measures overview. Los Angeles, Calif: Williams Institute.
+were in accordance with the ethical standards of the institutional and/or             Retrieved June, 2015 from http://williamsinstitute.law.ucla.edu/wp-
+national research committee and with the 1964 Helsinki declaration and                content/uploads/GenIUSS-Gender-related-Question-Overview.pdf.
+its later amendments or comparable ethical standards.                           Gender Identity in U.S. Surveillance [GenIUSS] Group. (2014). Best
+                                                                                      practices for asking questions to identify transgender and other
+Conflict of Interest Emilia Lombardi and Swagata Banik declare that                   gender minority respondents on population-based surveys. Los
+neither have a conflict of interest.                                                  Angeles, Calif. Retrieved June, 2015 from http://williamsinstitute.
+                                                                                      law.ucla.edu/wp-content/uploads/geniuss-report-sep-2014.pdf.
+                                                                                Grant, J. M., Mottet, L. A., Tanis, J., Harrison, J., Hermon, J. L., &
+                                                                                      Keisling, M. (2011). Injustice at every turn: a report of the
+                                                                                      National Transgender Discrimination Survey. Washington:
+                                                                                      National Center for Transgender Equality and National Gay and
+References                                                                            Lesbian task Force.
+                                                                                Institute of Medicine. (2011). The health of lesbian, gay, bisexual, and
+Banik, S., Srivastava, A., Setia, M., Jerajani, H., Anand, V., Bockting, W.,          transgender people: building a foundation for better understanding.
+       & L. E. F. (2013). Exploring HIV stigma and transphobia among                  Washington DC: National Academy of Sciences.
+       health care providers in Mumbai, India: preliminary findings from        Institute of Medicine (US) Board on the Health of Select Populations.
+       project Shakti. Boston: American Public Health Association                     (2013). Collecting sexual orientation and gender identity data in
+       Conference.                                                                    electronic health records: workshop summary. Washington (DC):
+Boles, J., & Elifson, K. W. (1994). The social organization of transvestite           National Academy of Sciences.
+       prostitution and AIDS. Social Science and Medicine, 39(1), 85–93.        Jacobs, S.-E. (1997). Two-spirit people: Native American gender identity,
+Cahill, S., & Makadon, H. (2013). Sexual orientation and gender identity              sexuality, and spirituality. USA: University of Illinois Press.
+       data collection in clinical settings and in electronic health records: a Lancaster, R. N. (1998). Transgenderism in Latin America: some critical
+       key to ending LGBT health disparities. LGBT Health, 1(1), 34–41.               introductory remarks on identities and practices. Sexualities, 1(3),
+Cahill, S., & Makadon, H. J. (2014). Sexual orientation and gender iden-              261–274.
+       tity data collection update: U.S. Government takes steps to promote      Lombardi, E. (2009). Varieties of transgender/transsexual lives and their rela-
+       sexual orientation and gender identity data collection through mean-           tionship with transphobia. Journal of Homosexuality, 56(8), 977–92.
+       ingful use guidelines. LGBT Health, 1(3), 157–160.                       Lombardi, E. L., Wilchins, R. A., Priesing, D., & Malouf, D. (2001).
+Cahill, S., Singal, R., Grasso, C., King, D., Mayer, K., Baker, K., &                 Gender violence: transgender experiences with violence and dis-
+       Makadon, H. (2014). Do ask, do tell: high levels of acceptability              crimination. Journal of Homosexuality, 42(1), 89–101.
+       by patients of routine collection of sexual orientation and gender       Matzner, A. (2001). BO Au No Keia: voices from Hawai^i’s mahu and
+       identity data in four diverse American community health centers.               transgender communities. Hawaii: Xlibris Corporation.
+       PloS One, 9(9), e107104.                                                 Melendez, R., Bonem, L., & Sember, R. (2006). On bodies and research:
+Center of Excellence for Transgender Health. (2011). Recommendations                  transgender issues in health and HIV research articles. Sexuality
+       for trans-inclusive data collection. Retrieved March 12, 2011 from             Research & Social Policy, 3(4), 21–38.
+       http://transhealth.ucsf.edu/trans?page=lib-data-collection.              Nanda, S. (1990). Neither man nor woman. Wadsworth Modern
+Centers for Disease Control and Prevention. (2015). HIV among trans-                  Anthropology Library, Belmont California: Wadsworth Publishing
+       gender people. Retrieved July 22, 2015, from http://www.cdc.gov/               Company
+       hiv/group/gender/transgender/index.html.                                 NIH LGBT Research Coordinating Committee. (2013). Consideration of
+Department of Health and Human Services Office of the Secretary.                      the Institute of Medicine (IOM) report on the health of lesbian, gay,
+       (2012). 45 CFR Part 170, RIN 0991-AB82. Health Information                     bisexual, and transgender (LGBT) individuals. Washington:
+       Technology: Standards, Implementation Specifications, and                      National Institutes of Health.
+       Certification Criteria for Electronic Health Record Technology,          Nuttbrock, L., Hwahng, S., Bockting, W., Rosenblum, A., Mason, M.,
+       2014 Edition; Revisions to the Permanent Certification Program                 Macri, M., & Becker, J. (2009). Lifetime risk factors for HIV/
+       for Health Informat. Federal Register, 77(171), 54163–54292.                   sexually transmitted infections among male-to-female transgender
+Department of Health and Human Services Office of the Secretary.                      persons. Journal of Acquired Immune Deficiency Syndromes, 52(3),
+       (2015). 45 CFR Part 170 RIN 0991–AB93 2015 Edition Health                      417–421.
+
+Sex Res Soc Policy
+Operario, D., Burton, J., Underhill, K., & Sevelius, J. (2008). Men who          Caribbean, Portugal, and Spain. Archives of Sexual Behavior,
+     have sex with transgender women: challenges to category-based               43(8), 1503–1514.
+     HIV prevention. AIDS and Behavior, 12(1), 18–26.                       Reisner, S. L., Conron, K. J., Tardiff, L. A., Jarvi, S., Gordon, A. R., &
+Pittsburgh Transgender Health Research Summer Institute. (2010).                 Austin, S. B. (2014b). Monitoring the health of transgender and
+     Transgender health: a review and guidance for future re-                    other gender minority populations: validity of natal sex and gender
+     search—Proceedings from the Summer Institute at the Center                  identity survey items in a U.S. national cohort of young adults. BMC
+     for Research on Health and Sexual Orientation, University of                Public Health, 14(1), 1224.
+     Pittsburgh. International Journal of Transgenderism, 12(4),            Scheim, A. I., & Bauer, G. R. (2015). Sex and gender diversity
+     211–229.                                                                    among transgender persons in Ontario, Canada: results from
+QSR International Pty Ltd. (2012). NVIVO qualitative data analysis soft-         a respondent-driven sampling survey. Journal of Sex
+     ware V10. Australia: QSR International Pty Ltd.                             Research, 52(1), 1–14.
+Reisner, S. L., Biello, K., Rosenberger, J. G., Austin, S. B., Haneuse, S., Tate, C. C., Ledbetter, J. N., & Youssef, C. P. (2013). A two-question
+     Perez-Brumer, A., & Mimiaga, M. J. (2014a). Using a two-step                method for assessing gender categories in the social and medical
+     method to measure transgender identity in Latin America/the                 sciences. Journal of Sex Research, 50(8), 767–76.
+

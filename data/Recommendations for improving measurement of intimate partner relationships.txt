@@ -1,0 +1,220 @@
+
+Recommendations for improving measurement of intimate partner relationships
+Submitted to the Counting Couples, Counting Families conference, 19-20 July 2011
+by Gary J. Gates
+The influence of the decades-old concept of POSSLQs (People of the Opposite-Sex Sharing Living
+Quarters) can still be evidenced in how measures of intimate partner relationships that occur outside of
+marriage are conceptualized on surveys.1 The POSSLQ framework considers only different-sex couples
+and only those who are residing together in the same household. Despite clearly representing a
+subsample of possible forms of non-marital intimate relationships, this construct forms the basis for
+how most surveys measure this construct. Assessments of non-marital relationships are largely limited
+in scope to co-residential couples and few surveys take into account important conceptual and
+methodological issues that should be considered in measuring same-sex couples.
+In this essay, I will highlight challenges associated with how we conceptualize and measure intimate
+relationships. The assessment focuses on a review of twelve publicly funded population-based surveys.2
+The essay considers how social scientists might expand beyond current conceptualizations beyond
+marriage and cohabitation to include a broader range of relationships, including those of same-sex
+couples. The essay also highlight specific challenges, conceptual and methodological, associated with
+measuring same-sex couples. This includes consideration of formal legal statuses like civil unions and
+registered domestic partnership that are now available to both same-sex and different-sex couples in
+several states.
+Beyond marriage and POSSLQ: expanding the conceptualization of intimate partner relationships
+The approaches used to assess the presence of intimate relationships and to measure the legal status of
+those relationships are largely fixed in two paradigms, neither of which is grounded in an inclusive
+concept of intimate partner relationships. The first paradigm constructs a framework whereby
+relationships are largely divided into two types: marriage and everything else. The second paradigm
+assumes that for the “everything else” relationships, a key component is co-residency in a household.
+Of course, the reality of intimate relationships is much more complex than these paradigms. The
+framework of marriage versus all other relationships forces a somewhat false dichotomy as we think of
+the nature of these relationships. Manning and Smock (2005) observed that couples do not frame their
+decision about union formation as marriage versus cohabitation but rather as cohabitation versus
+remaining single. They also observe that cohabitation is hardly a binary condition. Non-married
+cohabiting couples show substantial variation in the degree to which they co-reside. Variation in
+cohabitation also exists among married individuals. An estimated five percent of married individuals in
+the 2009 American Community Survey report that they are not separated and are not residing with their
+spouse.
+The current methods most frequently used to measure relationships seem restrictive and rarely allow
+researchers to consider the totality of relationships outside of the structure of the household. They also
+often lack conceptual clarity and conflate varied constructs for measuring relationships. I would posit at
+least three distinctive conceptual constructs for measuring relationships:
+1
+  See Casper and Cohen (2000) for a review of the history of POSSLQ.
+2
+  American Community Survey (2000-2010), Consumer Expenditure Survey (2003, 2010), Current Population Survey (2000-2010), Early
+Childhood Longitudinal Study: Birth cohort, Early Childhood Longitudinal Study: Kindergarten class, Fragile Families and Child Wellbeing Study,
+Add Health: National Longitudinal Study of Adolescent Health, National Longitudinal Survey of Youth 79, National Longitudinal Survey of Youth
+97, National Survey of Family Growth (2006-2008), Survey of Income and Program Participation, and US Decennial Census (1990, 2000, 2010).
+                                                                       1
+
+         Nature of the relationship: What terms do individuals use to describe their relationships? This
+         construct is potentially distinct from a household roster where respondents are asked if a
+         husband, wife, fiancé, partner, boyfriend, or girlfriend is living in a household. A more inclusive
+         construct designed to assess if respondents are in a relationship and what specific terms they
+         use to describe that relationship would not depend on co-residency. Decoupling co-residency
+         from measuring the existence of intimate relationships could provide more accurate
+         assessments of both the presence and nature of such relationships.
+         Relationship behaviors and co-residency: How do individuals interact with their relationship
+         partners? These might include questions about resource allocation, like those used in the
+         Consumer Expenditure survey, or co-residency behaviors included in Add Health. This would
+         also include co-residency constructs captured in household rosters like those used in Census,
+         ACS, or CPS.
+         Legal status: How have individuals formalized their relationships legally? This would be akin to
+         typical marital status questions but needs to include a wider range of legal statuses like civil
+         unions and registered domestic partnerships.
+Questions that measure these constructs certainly exist on a wide array of surveys. But surveys rarely
+keep these concepts conceptually distinct. The vast majority of the surveys assessed for this essay
+condition the identification of relationships on co-residency, either via a household roster or by asking
+(as in the ECLS surveys) if partners, boyfriends, or girlfriends live in the household. Perhaps a more
+obvious conflation of these constructs can be found in the marital status question used in the NSFG.
+This includes the typical options of married, widowed, separate, divorced, or never married but also
+adds an option for not married but living with a partner of the opposite sex. Setting aside for the
+moment the obvious heterosexual bias of this question, it is also problematic in that the categories are
+not mutually exclusive. The question stem reads “What is your current marital status?” It is entirely
+possible that a respondent can simultaneously be living with a partner, currently married, divorced, and
+widowed. But perhaps even more importantly, by adding the partner option, the question conceptually
+veers away from assessing the current legal marital status of a person and instead adds an element of
+assessing some type of non-marital relationship.
+In most surveys, marriage is the only relationship form that is measured without regard to co-residency.
+However, in the case of the American Community Survey and the decennial Census, the occupants of a
+household can affect how marital status is actually coded. If the householder designates another person
+as an “unmarried partner”, Census coding procedures do not allow either the householder or the
+unmarried partner to be designated as “currently married” in the marital status question. If either
+indicates that they are married, the response is subject to an allocation to another marital status. Again,
+this procedure conflates two different conceptual constructs, legal relationship status of an individual
+(which is not dependent on the presence of any other individual in the household) and how respondents
+describe their relationships to other individuals in a household. Census procedures also do not allow for
+the presence of multiple unmarried partners or spouses and do not permit households to include both a
+spouse and an unmarried partner. Such procedures confine these relationship measures to very specific
+parameters that largely narrow and perhaps somewhat distort our understanding of intimate
+relationships.
+In order to really begin to understand the totality of relationships, surveys must take greater care to
+move beyond co-residency as a condition for the identification of relationships. They must also consider
+designing questions with substantially more conceptual clarity so that researchers can compare and
+                                                       2
+
+contrast how individuals describe their relationships, how those relationships manifest themselves in
+behaviors including co-residency, and what type of legal status those relationships may have.
+Measuring same-sex relationships
+The treatment of same-sex relationships in surveys marks a particularly problematic aspect of
+relationship measurement. Some of the concerns in this regard are related to the issues of conceptual
+clarity described above and to issues associated with measuring small populations. But much more
+problematic is a hetero-normative perspective that seems to pervade relationship measurement
+constructs. Another problem related to measuring same-sex relationships (but also potentially a
+problem in the measurement of different-sex relationships) is the lack of any questions designed to
+measure the increasing number of non-marital relationship recognition forms.
+Methods used to identify same-sex couples in the decennial Census and ACS highlight both a general
+lack of conceptual clarity about same-sex relationships as well as serious measurement problems.
+Identification of cohabiting same-sex couples relies on both the household roster and the sex of
+respondents. A same-sex couple is identified when a householder designates another person of the
+same sex as a “husband/wife” or “unmarried partner”. Conceptually, the options of husband/wife and
+unmarried partner are even more limiting to same-sex couples than to different-sex couples. This is
+partly due to the complicated legal and social status of same-sex couples in the US.
+Today, 15% of same-sex couples live in the six states (and DC) that permit them to marry.
+Approximately 25% of same-sex couples live in the 14 states that offer various forms of non-marital
+recognition including civil unions, registered domestic partnerships, and designated beneficiaries. Many
+municipalities maintain domestic partnership registries for same-sex couples. Regardless of state and
+local law, some religious communities will marry same-sex couples and the LGBT community has a long
+history of conducting commitment ceremonies. There is no federal recognition of any same-sex
+relationships. Given this history and legal complexity, terms like “husband/wife” and “unmarried” mean
+different things to same-sex couples than to different-sex couples. If you were married and live in Iowa,
+do you have a husband or wife if you know that you file your federal taxes as single? If a couple has had
+a civil union and receives the equivalent of spousal benefits from their employer, are they really
+“unmarried”? These terms are simply ill-suited to the realities of same-sex relationships.
+Increasing the conceptual ambiguity, all same-sex couples are coded as “unmarried partners” in public
+use microdata files and flags that would indicate any alteration of “husband/wife” couples to
+“unmarried partner” are not included in these files. Further, Census Bureau procedures do not allow
+“unmarried partners” to be “currently married” in the marital status question. This means that any
+individual within a same-sex couple who indicates a status of “currently married” is recoded and
+allocated to another status.
+A further complication with this form of measurement concerns the possibility that different-sex
+couples, who outnumber same-sex couples by roughly 100 to 1, occasionally miscode the sex of a
+spouse or partner and are mistakenly coded as same-sex couples. Gates and Steinberger (2011) suggest
+that as many as 30% of same-sex couples in the 2007 ACS and approximately 15% of same-sex couples
+in the 2008 and 2009 ACS (when improvements were made to reduce miscoding) may be miscoded
+different-sex couples and also offer methods to adjust data to minimize the error. However, as long as
+survey options do not explicitly distinguish between same-sex and different-sex spouses or partners (as
+the Canadian and UK Census options do), analyses of the Census and ACS same-sex couple data are
+challenging and come with a variety of caveats.
+                                                     3
+
+For essentially the same reasons as described regarding the household roster, a typical marital status
+question is also challenging for someone in a same-sex couple. This is likely to also become problematic
+for different-sex couples. Civil unions in Hawaii and Illinois and domestic partnerships in Nevada (all
+offering rights equivalent to marriage) are available to both same-sex and different-sex couples.
+The fact that most surveys require that individuals in same-sex relationships use terms designed
+primarily for different-sex couples to describe their relationships is indicative of a hetero-normative bias.
+That bias is amplified when surveys actually restrict responses to explicitly describe different-sex
+relationships while not providing comparable options to describe same-sex relationships. The NSFG
+marital status question offers an example of this. It includes a response option of “not married but
+living together with a partner of opposite sex” but offers no mechanism to indicate that the respondent
+is not married but living with a same-sex partner.
+Hetero-normativity in population-based surveys raises serious human subjects concerns. LGBT people
+and same-sex couples routinely experience social stigma in their daily lives. Their families do not treat
+their same-sex relationships as comparable to the different-sex relationships of siblings or other family
+members. Employers routinely provide benefits to different-sex married couples that are not available
+to same-sex couples. When surveys fail to provide options that allow same-sex couples to appropriately
+designate their relationships or, even worse, when they explicitly only inquire about different-sex
+relationships, this amounts to a reinforcement of social stigma. It signals to LGBT respondents that
+same-sex relationships are not valued and are not actually comparable to different-sex relationships.
+This is a concern that Institutional Review Boards should take more seriously.
+Ten years ago, after California passed its first domestic partnership law, only 13% of Americans lived in a
+state that offered any legal recognition for same-sex couples. Today, more than 40% of the US
+population lives in a state with at least some form of legal recognition for same-sex couples and more
+than one in ten Americans lives in a state that allows same-sex couples to marry. Surveys designed to
+measure intimate relationships must begin to adapt to these changes. The Census Bureau has recently
+conducted testing on alterations to both the household roster and marital status questions that would
+improve measurement of same-sex couple relationships. This is a clear step forward, but the process is
+still focused only on couples and essentially maintains a paradigm of using the household roster and
+legal relationship status to measure relationships.
+It seems self-evident that knowledge of a person’s sexual orientation and gender identity would be a
+crucial component to understanding the nature of their intimate relationships. Yet of the surveys
+reviewed for this essay, only Add Health and the NSFG include questions designed to measure sexual
+orientation and none assess gender identity. The recent Institute of Medicine (2011) review of LGBT
+health disparities observed that a detailed identification of specific gaps in LGBT health research was not
+actually possible given the lack of population-based data that allowed for identification of LGBT
+respondents. The review called for broad-based inclusion of sexual orientation and gender identity
+measures in population-based surveys.
+US Department of Health and Human Services Secretary Kathleen Sebelius recently announced a
+process for adding sexual orientation and gender identity questions to the National Health Interview
+Survey and eventually other HHS surveys. Federal statistical agencies must follow the lead of HHS and
+initiate appropriate steps for routinely including sexual orientation and gender identity questions on
+population-based surveys. The absence of such data severely restricts the ability of researchers to
+understand the totality of human relationships and reinforces a heterosexual bias in available research.
+                                                      4
+
+It limits the ability of social scientists to contribute in a meaningful way to the many public policy
+debates about the role of government in sanctioning or restricting certain types of human relationships,
+including those between same-sex partners.
+Recommendations
+In conclusion, I would offer the following recommendations for improving our ability to study intimate
+partner relationships:
+          Refocus the measurement of relationships away from marriage and co-residency and toward a
+          broader concept of what constitutes intimate relationships.
+          Develop methods of measuring relationships that offer greater conceptual clarity. The ability of
+          individuals to describe a relationship should not be contingent on either co-residency or marital
+          status and those constructs should be separated in survey questions.
+          Develop methods of measuring legal relationship status that encompass emerging forms of non-
+          marital relationship recognition including civil unions and registered domestic partnership.
+          Develop methods of measuring relationships that are inclusive of both different-sex and same-
+          sex relationships and allow for accurate measurement of both groups.
+          Institutional Review Boards should consider the ramifications of hetero-normative relationship
+          measurements on population-based surveys and challenge the conduct of research that
+          potentially stigmatizes LGBT respondents.
+          Include measurement of sexual orientation and gender identity as a standard demographic
+          characteristic in population-based surveys, especially those focused on measuring intimate
+          relationships.
+References
+Casper, LM, Cohen, PN. 2000. How Does POSSLQ Measure Up? Historical estimates of cohabitation.
+          Demography 37(2): 237-245.
+Gates, GJ, Steinberger, MD. 2011. Same-sex Unmarried Partner Couples in the American Community
+          Survey: The role of misreporting, miscoding, and misallocation. Working paper presented at
+          UCLA-California Center for Population Research and UC-Berkeley Population Center
+          Miniconference on Census Microdata and Applications, UCLA, 3 June.
+Institute of Medicine of the National Academies. 2011. The Health of Lesbian, Gay, Bisexual, and
+          Transgender People: Building a Foundation for Better Understanding. Board on the Health of
+          Select Populations, Institute of Medicine of The National Academies, The National Academies
+          Press, Washington, DC.
+Manning, WD, Smock, PJ. 2005. Measuring and Modeling Cohabitation: New Perspectives From
+          Qualitative Data. Journal of Marriage and Family 67(4): 989-1002.
+                                                          5
+

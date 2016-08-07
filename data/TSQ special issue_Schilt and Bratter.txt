@@ -1,0 +1,1038 @@
+NOTICE:       The copyright law of the United States
+(Title 17, U.S. Code) governs the making of photocopies or other
+reproductions of copyrighted material. Under certain conditions
+specified in the law, libraries and archives are authorized to furnish a
+photocopy or other reproduction. One of these specified conditions
+is that the photocopy or reproduction is not to be "used for any
+purpose other than private study, scholarship, or research."
+The CDC library absorbs the cost of copyright fees charged by
+publishers when applicable and the cost of articles and books
+obtained from other libraries. Copyright fees average $35.00 and
+fees charged by the lending libraries are between $10 and $15 per
+request
+
+                                                    TSQ
+From Multiracial to Transgender?
+Assessing Attitudes toward Expanding Gender Options
+on the US Census
+                                            K R I S T E N S C H I LT a n d J E N I F E R B R AT T E R
+Abstract In 2000, the US Census Bureau acknowledged multiracial Americans on the decennial
+census in an attempt to better capture racial heterogeneity and to more closely align what is publicly
+collected on forms with people’s personal understandings of their racial identity. In this article, we
+start a discussion of how the census—a major source of political identity recognition and legiti-
+mation—could be more inclusive of gender variance. We ask: (1) Is there support for a transgender
+category on the US census? (2) Who might select a transgender option if it were provided? To answer
+these questions, we conducted questionnaire research at three transgender and genderqueer con-
+ferences and found strong support for the inclusion of a transgender category. Conversely, we found
+that many people did not currently check “transgender” on forms when given the opportunity. As we
+show, the decision to check “transgender” varies by what we term gender identity validation. In other
+words, people who identified as male or female and who felt others viewed them as unequivocally
+male or female, respectively, were less likely to check “transgender” than people who identified as
+transgender or who experienced a discrepancy between their self-perceived and other-perceived
+gender identity. These differences suggest that—similar to the push for adding a multiracial cat-
+egory to the census—the expansion of sex/gender categories is most likely to come from individuals
+who experience themselves as constrained by the existing possibilities and/or who are stigmatized by
+others’ conceptions of the appropriate alignment of bodies and genders.
+Keywords trans, transgender, census, population statistics, gender identity measurements
+I   n April 2010 a media frenzy surrounded President Barack Obama’s public
+    acknowledgment that he had checked only the “Black, African-American,
+Negro” box on his decennial US Census Bureau survey. One pundit expressed
+surprise that Obama, the son of a white mother and African father, would choose
+to represent himself as “unequivocally part of black America,” a choice she viewed
+as “a holdover from racially ugly times” (Thernstrom 2010). Others supported
+him, arguing that racial identity is a personal decision that should not be open to
+criticism (Avila 2010). Yet what is notable about Obama’s decision from a social
+TSQ: Transgender Studies Quarterly * Volume 2, Number 1 * February 2015                             77
+DOI 10.1215/23289252-2848895 ª 2015 Duke University Press
+                                  Published by Duke University Press
+
+                                       TSQ
+78      TSQ  * Transgender Studies Quarterly
+science perspective is that he, and all other Americans, even had the opportunity
+to select multiple races (Thompson 2012; Perlman and Waters 2002). Prior to the
+2000 census, respondents could only select one racial category from a set list, just
+as they can make—as of the 2010 census —only a singular response of “Male” or
+“Female” for sex/gender categories.1
+        Expanding the categories for sex/gender on the US decennial census would
+not be without precedent. In 2011, Nepal included a “third gender” category on
+their national census, and in 2014, the Australian High Court recognized a citi-
+zen’s right to identify as neither male nor female on government documents.2
+And the many shifts in race options since the 1790 inception of the decennial
+US census demonstrates that the US Census Bureau has responded to transfor-
+mations in political ideologies and identity-based activism—such as those that
+occurred around race in the civil rights era (Nobles 2000). The shift toward a
+“check all that apply” race option on the 2000 US census was an attempt on the
+part of this government agency to better capture racial heterogeneity and to more
+closely align what is publicly collected on forms with people’s personal under-
+standings of their racial identity (Brunsma 2006). Since many people conceive of
+sex/gender as more complex than a binary, we start a discussion in this article of
+how the US decennial census—a major source of political identity recognition
+and legitimation (Baumle and Compton 2013; Thompson 2012)—could be more
+inclusive of gender variance. While the comparison between the categorization of
+sex/gender and that of race on official documents has limitations —limitations we
+address in this article—we use empirical data on the development and use of the
+multiracial census option as a starting point for our research questions: (1) Is there
+support for adding a transgender category to the US census? (2) Who might select
+a transgender option if it were provided?
+        In this article, we explore how complexities of gender identity could be
+expressed in an official classification system in more inclusive ways. We acknowl-
+edge that surveys are problematic for locating personal identity, an unbounded
+concept that is a reflection of the self (Owens 2003) and wholly distinct from
+identification or classification, which is a more public, bounded, and specific
+approach to classifying selves (see Brunsma 2006). Additionally, we recognize that
+the term transgender has a fraught history (Meyerowitz 2002) and fails to capture
+many people’s lived experiences of gender. However, such classification on official
+forms carries important outcomes, as it is used to set funding priorities and to
+measure discrimination faced by demographic subgroups (Anderson and Fine-
+burg 2001). Our goal is to capture how new forms of identification could apply to
+a previously unmeasured population and to discuss how such identification may
+generate greater gender protections.
+                      Published by Duke University Press
+
+                                             TSQ
+      SCHILT and BRATTER    * Attitudes toward Gender Options on the US Census       79
+The Census and Statistical Representation
+The Multiracial Case
+Since 1790, the US decennial census has reported the race of American residents
+from a list of predetermined categories. The organization of the early classifica-
+tion schemes reflected the ways in which racial ideology intertwined with evolving
+political priorities of denoting civil status (slave vs. free), presumptions of bio-
+logically based differences, and upholding systems of formal segregation to
+enshrine privileges associated with race-specific access to political, social, and
+economic resources (Davis 1991; Nobles 2000). While “white” was defined as the
+absence of non-European origins, the categories “black” and “American Indian”
+included people of partial ancestry and even allocated, in some censuses, par-
+ticular categories denoting the idea of blood quantum (e.g., “octoroon,” “qua-
+droon,” or “mulatto”). With the Civil Rights Act of 1965, the aims of the census
+shifted toward providing a means to track and measure adherence to policies
+aimed at ending discrimination. The Office of Management and Budget (OMB)
+began to prioritize racial self-identification (Perez and Hirschman 2009) and
+set forth standards of racial classification by which residents could choose one
+response from a list of categories or select “some other race” and write in an open-
+ended response (J. Spencer 1997; Morning 2003; Saperstein 2006). In the 2000s,
+the census again changed to reflect notions of multiracial—rather than
+monoracial —identification.
+         The change from single to multiple race options came from activists in the
+1990s who lobbied the OMB to revise its standards of racial and ethnic classifi-
+cation. People’s early attempts to check multiple categories in this singular system
+were allocated by census officials to a single race category or the “some other race”
+category (R. Spencer 2003; Saperstein 2006), which effectively erased the offi-
+cial existence of multiracial-identified Americans. While the US Census Bureau
+held up “other” as an option, many people who identified as multiracial saw it
+as an empty category that signified a racially nonspecific second-class citizen-
+ship. Activists initially sought the addition of a specific “multiracial” category that
+would be listed alongside black and white, arguing that such a lack ignored the
+changed cultural landscape of the United States, where interracial marriage was
+both legal and increasingly prevalent (Nobles 2000). Opponents viewed a mul-
+tiracial category as a detriment to the larger goals of using racial enumeration as a
+means to remedy discrimination and track inequality. Many civil rights activists
+feared the demographic impact of the exit of large numbers of people from the
+category “black” to the category “multiracial,” particularly as census-based group
+size played a key role in the allocation of resources in public policies (J. Spencer
+1997; Farley 2004).
+                             Published by Duke University Press
+
+                                      TSQ
+80      TSQ * Transgender Studies Quarterly
+        The OMB opted for a compromise wherein individuals could “mark one
+or more” racial categories from a preset list (Nobles 2000). Respondents could
+declare a complex racial identity, and the Census Bureau could allocate them to
+single-race categories for compliance monitoring and resource allocation pur-
+poses (Goldstein and Morning 2002). Yet Barack Obama’s public declaration that
+he selected only one race category underscores research findings that people’s
+racial identification decisions on surveys are driven by many factors. Estimates
+based on the 2000 census showed that only 33 percent of families involving a
+husband and wife who selected two distinctive races had children who were
+reported as two or more races (Lee and Edmonston 2005), echoing findings in
+other studies (Brunsma 2005; Roth 2005; Bratter 2007; Gullickson and Morning
+2011). These patterns are framed by historical legacies of racial discrimination that
+continue to drive many persons who identify as having mixed-race ancestry toward
+single race categories on governmental forms (Gullickson and Morning 2011).
+        A person’s decision to select multiple race categories on the census is
+dependent on many factors, such as generation, region, individual background,
+and social interactions with others. Cohorts born after the civil rights era of the
+1960s with parents who report a high SES (usually college-educated) and who
+lived outside the South are more likely to select multiple race categories on the
+census (Tafoya, Johnson, and Hill 2004; Brunsma 2005). In addition, people are
+more likely to select multiple race categories when they report that their self-
+identity as multiracial or biracial is “validated” or legitimated by other people in
+their lives (Khanna 2004, 2010; Rockquemore and Brunsma 2008). In contrast,
+people who identify as multiracial or biracial but feel that other people do not
+recognize this identity (in other words, that they are seen as black or as white) are
+more likely to select only one race category even when they have the option to
+select multiple categories (Brunsma 2006). These findings suggest that a person’s
+decisions about racial identification on survey instruments is influenced by per-
+sonal identity—how one thinks about one’s own racial identity —and social
+identity—how one thinks one is viewed and treated by others in regard to racial
+identity.
+        A sense of connection to a community also can be what sociologists call a
+“push” factor in people’s self-reporting of race identification. Finding a collective
+of strongly identified multiracial individuals can push people who identify as
+having mixed-race ancestry toward claiming such an identity (Bernstein and De
+la Cruz 2009). Yet people with the same idea of their race ancestry may choose
+to select only one race in order to politically align themselves with a histori-
+cally marginalized group, such as Native Americans or blacks (Khanna 2010).
+This political alignment reflects in part how negative interactions such as race-
+based harassment and discrimination can push individuals toward collective
+                     Published by Duke University Press
+
+                                              TSQ
+        SCHILT and BRATTER    * Attitudes toward Gender Options on the US Census    81
+organizing, as such treatment often follows being perceived by others as a member
+of a historically marginalized racial group (Herman 2004; Lee and Bean 2012). By
+contrast, people who identify as having mixed-race ancestry but who do not face
+such experiences may perceive themselves as having different options for racial
+identification (Lee and Bean 2012).
+           For activists, the move toward “check all that apply” in race categories on
+the census legitimized the existence of Americans who identify as multiracial.
+This official recognition is important, as “the act of naming helps to establish the
+structure of the world, and does so all the more significantly the more widely
+it is . . . authorized” (Bourdieu 1999: 105). While categorization has the power to
+both create and reify particular identities, the refusal to name a category erases
+and hides the existence of particular groups (Kertzer and Arel 2002; Baumle and
+Compton 2013).
+A Transgender Option on the Census: Potential Parallels?
+Expansion of the sex/gender options on governmental surveys such as the census
+has yet to emerge as an OMB agenda item at the time of this writing. However,
+the current public attention on LGBTQ rights in a variety of spheres (e.g., mar-
+riage equality, employment discrimination) has brought issues facing transgen-
+der people into wider public conversation. Advocates’ push for enumeration is
+well under way, and success could signify greater legitimization of transgender
+Americans and generate more reliable estimators of the size of the population.
+Attempts at such enumeration have been historically fraught (see De Cuypere
+et al. 2007; Meyerowitz 2002; Olyslager and Conway 2007). Drawing on an
+analysis of large, population-based surveys that “include questions to identify the
+transgender population” (Gates 2011: 5), demographer Gary Gates has estimated
+the size of the US transgender population as 0.3 percent. Yet it is difficult to assess
+the reliability of this estimate, as it is not known how well such surveys capture
+this diverse population or how many people who identify as transgender choose
+not to do so on surveys for a variety of reasons. Further, we have little information
+on whether this push for enumeration on the part of advocates aligns with the
+desires of transgender people more broadly.
+           A more accurate estimation of the transgender population could have
+important impacts. People who can be conceived of as gender variant, whether
+this is an internal conception or an identity imposed on them by others, have been
+subject to discrimination in many social arenas (Currah, Juang, and Minter 2006;
+Stryker 2008). While transgender lives and experiences have increased in public
+visibility over the last thirty years (Stryker 2008; Schilt 2010), the lack of reliable
+statistics on the percentage of transgender people in the US population can be an
+impediment to policy changes. It is population statistics that separate groups seen
+                               Published by Duke University Press
+
+                                      TSQ
+82      TSQ * Transgender Studies Quarterly
+as legitimate minorities from “fringe” anomalies. In other words, transgender
+people’s experiences with discrimination carry more weight at the level of policy
+when they are a “counted” group who can demand federal and state protections.
+Inclusion on the US decennial census could demonstrate a kind of “statistical
+citizenship” or new form of institutional legitimization for transgender people,
+as it did for multiracial Americans, even if the population is small.3
+        Yet there are several ways in which including a transgender category on the
+census differs from the multiracial case. While people who identify as multiracial
+may choose to identify as a single race on their census form, they do not typically
+report a fear of potential repercussions of making their identity as multiracial
+public.4 The long history of discrimination and persecution of transgender
+people (Meyerowitz 2002; Stryker 2008)—particularly by police and other state-
+sponsored actors—and the lack of federal protections for gender identity and
+gender expression could create fear over identifying as transgender on an official
+document (particularly as the census survey arrives through the US mail, signi-
+fying that respondents’ locations are known). It may be difficult to allay the fears
+of repercussions, particularly for people whose gender transitions are largely
+unknown by others in their lives.
+        Second, race is no longer legally defined (Haney-Lopez 1995) in the United
+States, meaning that anyone can select multiple racial identities on the census
+without penalty and without external verification of their “true” race (see Yang
+2005). In contrast, the US government continues legal regulation of sex/gender, as
+people are tied to the “M” or “F” listed on their birth certificates. This sex/gender
+mark is listed on many government-issued documents, such as Social Security
+cards, driver’s licenses, and marriage licenses (Meadow 2010). While changing
+legal sex/gender is possible in many states, it is not an easy, expedient, or inex-
+pensive process. People who self-identify as transgender but who have not legally
+changed their sex marker, then, could feel bound to report their legal sex/gender
+for fear of “misrepresenting” themselves on a government document.
+        While the sex/gender and race parallel is not perfect, there are enough
+similarities to suggest that the characteristics that lead people to select one or
+multiple race categories might predict (a) support for a transgender category on
+the census sex/gender question and (b) reporting one’s gender when given a
+transgender option. In what remains of this article, we explore these demo-
+graphic, experiential, and relational factors.
+Research Questions and Hypotheses
+We constructed an original questionnaire that drew on biracial identity research
+(Rockquemore and Brunsma 2008; Khanna 2010). We tapped respondents’ expe-
+riences of identity validation—a social science term typically applied to racial
+                      Published by Duke University Press
+
+                                           TSQ
+       SCHILT and BRATTER  * Attitudes toward Gender Options on the US Census     83
+identity that signifies the relationship between a person’s personal identity
+(the identity that speaks to how one understands oneself) and success in having
+this identity validated by outsiders, what sociologists imagine as a social identity
+(Goffman 1963). We asked respondents to identify their personal gender identity,
+both from a list of possible options (check all that apply) and in their own words
+in an open-ended response. For social identity, we asked for respondents’ best
+estimate of how other people read their gender expression in a variety of settings.
+Such responses do not necessarily reflect the “truth” of how someone is being
+read by others in social situations, but they do reflect people’s feelings about how
+they are being read —and it is these feelings (rather than verified facts) that
+typically motivate social action (Goffman 1963). When respondents reported that
+their personal identity and social identity aligned, we describe them as having
+a validated gender identity. Respondents could be validated as men, women, or
+transgender. When such identities did not align, we described respondents as
+having an unvalidated gender identity.
+        We anticipated that interest in a transgender census category and current
+usage of such a survey category would be most common among respondents with
+validated transgender identities and those with any unvalidated gender identity.
+Both groups might be the most likely to experience hostility in regard to their
+gender and thus be invested in utilizing the state-sponsored instrument of the
+census to mobilize antidiscrimination advocacy. We also theorized that respon-
+dents’ support or usage of a transgender option would overlap with close ties
+or associations with various LGBTQ groups. Additionally, we anticipated that
+respondents who felt close to people who had experienced gender-based violence
+and harassment and/or who had experienced such behaviors personally would
+exhibit more support for a transgender option on the census as a potential avenue
+for addressing such treatment as discrimination.
+Overview of Data Collection
+We applied and received approval for our questionnaire study from the Rice
+University Institutional Review Board. The first section of the questionnaire
+focused on background characteristics (see table 1). We then asked respondents
+how they publicly identified their sex/gender on forms when they could choose
+only one option from the list of “Male, Female, Transgender.” Then we proposed a
+scenario in which the decennial census offered the following options: “Male,
+Female, Transgender.” We selected this particular scenario for two reasons: (1) it
+mirrors the current practices of some official surveys; (2) it mirrors the original
+demands of multiracial activists for a singular category (as the “check all that
+apply” option was a compromise offered by the Census Bureau).5 To gauge
+respondents’ attitudes, we presented a set of statements that described why this
+                            Published by Duke University Press
+
+                                      TSQ
+84       TSQ * Transgender Studies Quarterly
+approach might be a “good” or “bad” idea. Next, we asked a series of social
+distance questions, to gauge how “close” respondents felt to particular commu-
+nities, as well as a set of questions about personal identity and social identity.
+         We collected data at three conferences aimed at transgender, genderqueer,
+and gender-variant people that took place in 2007 and 2008. We sought out con-
+ferences that had regional variation, variation in gender, race, and age of attendees,
+and variation in cost. Our conference cities were Seattle, Los Angeles, and Phi-
+ladelphia. The Seattle conference was predominantly attended by transmasculine
+participants and drew a younger (18–34), racially diverse crowd. The Philadelphia
+conference was attended by older (35–65), predominantly white transfeminine
+participants. The Los Angeles conference had a great deal of age, gender, and
+racial diversity. The Seattle and Philadelphia conferences were both pay-to-
+register events (between $100 and $300) that took place at hotels and conference
+centers, while the Los Angeles conference was free and took place at an LGBTQ
+community center readily accessible by public transportation.
+         The first author attended each conference to collect questionnaires. Any
+person who asked for a questionnaire was eligible for participation. Each ques-
+tionnaire contained a consent form and an informational tear-off sheet for
+respondents to keep. Respondents were not compensated for their participa-
+tion. This data collection strategy did not generate a random sample from which
+to generalize; it did, however, provide variation in response to show where the
+extremes of positive and negative attitudes toward a potential census question
+might lie.
+Data and Sample
+A total of 167 questionnaires were collected and coded. We constrained our
+sample to those reporting a gender identity that differed from their response to
+the question, “What gender were you assigned at birth?” with responses for (1)
+male and (2) female. The next question asked how they currently defined their
+gender identity, with the responses (1) male, (2) female, (3) transgender (either
+transman or transwoman), (4) genderqueer, and (5) other (with space for a
+written response). Respondents whose current gender identity aligned with how
+they were assigned at birth (e.g., those assigned male at birth who currently iden-
+tified as men) were omitted from the analysis (15 cases removed).6 We then omitted
+an additional 18 cases that provided incomplete information on a census classi-
+fication question or how they currently report their gender on forms. Our ana-
+lytic sample for this analysis consists of 134 respondents.
+Dependent Variables Our key dependent variables are those that address sup-
+port for a transgender category in relation to a hypothetical census option and
+                       Published by Duke University Press
+
+                                                TSQ
+      SCHILT and BRATTER     * Attitudes toward Gender Options on the US Census            85
+declaration of whether respondents do/would use the category of transgender
+on forms when provided with the option. To assess support for this option, we
+asked respondents to indicate on a five-point Likert scale (1 = strongly agree,
+2 = agree, 3 = neutral, 4 = disagree, and 5 = strongly disagree) their agreement with
+the following statements:
+        1    Adding a transgender category is extremely important because knowing the
+             size of the group will allow for policies to address the needs of the transgender
+             population.
+        2    The Census Bureau should add a category because two gender categories are
+             not adequate to describe people’s gender identity.
+        3    Adding a transgender category on the census is a bad idea because it could
+             identify transsexual and transgender people and expose them to discrimi-
+             nation.
+        4    Adding a transgender category on the census is a bad idea because the goal of
+             transsexual and transgender people should be to be seen as male or female, not
+             as a separate group.
+Based on responses to these questions, we constructed a dichotomous measure
+indicating “1” if respondents agree/strongly agree with the affirmative statements
+on the transgender option or disagree/strongly disagree with the negative state-
+ments. We then created a summative scale, as responses to these questions were
+found to be highly correlated (Cronbach’s a = .778) when entered into a reliability
+analysis, and thus appropriate to combine into one measure.
+        Our second variable indicated respondents’ current practices of reporting
+their gender on forms. Respondents were asked, “On forms asking my sex or
+gender, I usually identify myself as _______ (if I have to check one box).” The
+response categories were (1) male, (2) female, and (3) transgender. This question
+allows us to see who is currently employing, or feels they will likely employ, a
+transgender option when that choice is provided. We recoded these responses to a
+dichotomous variable indicating (1) transgender and (0) male or female.
+Independent Variables Our independent variables tap the forces most prominent
+in the discussion of the multiracial census question. We control for age with a
+dichotomous variable indicating birth after the Stonewall riots (1 = birth year
+is post-1969),7 race (1 = nonwhite), education (1 = college educated or more, 0 =
+otherwise), childhood family structure (1 = grew up not living with both mother
+and father, 0 = grew up with both mother and father), and parent’s education (1 =
+at least one parent is college educated, 0 = otherwise). Finally, we control for
+gender assigned at birth (1 = female, 0 = male).
+                              Published by Duke University Press
+
+                                      TSQ
+86      TSQ * Transgender Studies Quarterly
+        The next set of variables adjusts for gender identity. We asked respondents
+to select an option that indicated their current gender identity. We recoded this
+response for those who identified as either transmen or transwomen to test
+whether endorsement of a transgender census option or reporting a transgen-
+der identity on forms was simply a function of stating one’s identity. In other
+words, does everyone who identifies as transgender report as such on forms when
+given the option? Second, we constructed a variable that indicates how much
+respondents’ personal gender identity aligned with their social gender identity
+and another that captured when respondents reported that they felt their personal
+identity was out of step with their social identity, a situation we classified as
+“unvalidated.” We categorized those who reported that all of their identities
+aligned in the way they desired as “validated.”
+        We then gauged dynamics of social distance. First, we asked, “How close
+do you feel to . . . ,” and provided a list of groups that can fall under the LGBTQ
+rubric. We also asked about closeness to cisgender men and women. The original
+options were “Very close,” “Close,” and “Not close at all,” which we collapsed to
+“Close” and “Not close.” Second, we asked if respondents had experienced gen-
+der-based harassment or violence. Respondents were presented with two ques-
+tions, one that asked if they had experienced any hostility from cisgender
+men or women.8 The responses were “Frequently,” “Occasionally,” “Rarely,” and
+“Never.” We recoded these responses to dichotomous measures, indicating (1) for
+frequently/occasionally and (0) for rarely/never.
+Results
+Table 1 displays the distributions of the dependent and independent variables
+(N = 134). Beginning with our dependent variable, there is a high degree of sup-
+port for a transgender census option, but there is relatively weak evidence that
+respondents currently use this category when the option is available. Nearly half
+(41 percent) of our sample solidly endorse a transgender census option. Yet only a
+quarter of the sample currently report themselves as transgender on forms when
+given the option. In contrast, more than 70 percent of respondents currently
+report their gender as either male or female. In some cases, this monogender
+choice reflects how a respondent was assigned at birth. In other cases, it reflects
+their personal gender identity.
+        The demographics of the sample indicate that, on average, our respon-
+dents are forty-one years of age, and 45 percent were born after the Stonewall riots
+of 1969. Respondents are predominantly white (79 percent), mostly educated
+beyond a college level (61.9 percent). Further, most respondents grew up in a two-
+parent household (77.6 percent) and have either a mother or father who has
+                        Published by Duke University Press
+
+                                                     TSQ
+       SCHILT and BRATTER        * Attitudes toward Gender Options on the US Census            87
+Table 1. Descriptive statistics of independent and dependent variables (N = 134)
+                                                                         Percent/Mean        Freq.
+Dependent Variable
+Endorsement of census category                                            41.7                 56
+Identiﬁed as transgender on forms                                         25.4                 34
+Demographic characteristics
+Age (SD)a                                                                 41.1 (13.6)
+Born after 1969                                                           45.5                 61
+Race (%)
+White                                                                     79.1               106
+Black/Asian/American Indian                                                3.7                  5
+Hispanic                                                                   3.7                  5
+Some other race                                                            3.7                  5
+Multiracial                                                                9                   12
+Missing                                                                    0.8                  1
+Education (%)
+Less than high school                                                      5.2                  7
+HS/trade school/some college                                              22.4                 30
+Associate’s degree                                                         9.7                 13
+Bachelor’s degree                                                         61.9                 83
+Missing                                                                    0.8                  1
+Family structure while growing up (%)
+Both mother and father                                                    77.6               104
+Other                                                                     22.4                 30
+Parent’s education (%)
+At least one parent college educated                                      53.7                 72
+Other                                                                     46.3                 62
+Gender assigned at birth (%)
+Male                                                                      55.2                 74
+Female                                                                    44.8                 60
+Gender Identity (%)
+Male                                                                       9.7                 13
+Female                                                                    11.9                 16
+Transgender (transman/transwoman)                                         43.3                 58
+Genderqueer                                                               20.1                 27
+Other                                                                     14.9                 20
+Validation of gender identity (%)
+Unvalidated                                                               57.5                 77
+Validated male/female                                                     23.1                 31
+Validated transgender                                                     19.4                 26
+How close do you feel to . . . (% close)b
+Transwomen                                                                74.6               100
+Transmen                                                                  78.6               105
+Bio women                                                                 85.1               114
+Bio men                                                                   61.9                 83
+                                                                                      (Continued)
+                                   Published by Duke University Press
+
+                                                  TSQ
+88        TSQ   * Transgender Studies Quarterly
+Table 1. (Continued )
+                                                                             Percent/Mean Freq.
+                                           b
+How close do you feel to . . . (% close)
+Trans people who “blend genders” w/o hormones/Surgery                         74.6        100
+Trans people who are stealth                                                  70.9          95
+Transsexuals on talk shows                                                    70.9          95
+Transgender activist organizations                                            79.9        107
+People who perform gender (e.g., drag queens)                                 51.5          69
+Transsexual people who are victims of violence/murder                         76.9        103
+Experienced hostility frequently/occasionally from . . . (%)
+Bio men                                                                       71.6          96
+Bio women                                                                     58.2          78
+a
+ One respondent is missing on this information.
+b
+  Reference categories for these groups are “Not close.” Please see table 2.
+earned a college education (53.7 percent). In terms of gender, our sample is almost
+evenly split between those assigned male or female at birth (55.2 percent vs. 44.8
+percent). We find considerable variation in gender identity, as 43 percent identify
+as transgender, 20 percent indicate they are genderqueer, and another 20 percent
+indicate a monogender identity as either male or female. The remaining 15 percent
+chose multiple boxes on the gender question (such as transman and male) or
+wrote in answers for the “other” option. Despite this variation, the majority of
+respondents (57 percent) report a personal gender identity that they feel is
+unvalidated by outsiders. In contrast, a substantial segment reports being vali-
+dated as male or female (23.1 percent) or as transgender (19.4 percent).
+          Next, we gauge their feelings of closeness to a variety of communities and
+any experiences of gender-based hostility and harassment. The majority report
+feeling close to nearly all the communities we identified, with the highest level of
+reported closeness being to cisgender women, the least closeness to cisgender men
+(61.9 percent) and to people who playfully perform gender, such as drag queens
+and drag kings (51.5 percent). Finally, the majority reported frequently or occa-
+sionally experiencing some hostility about their gender expression from cisgender
+men or cisgender women.
+Bivariate Distributions
+In table 2, we show the bivariate relationships between our independent variables
+and our two key dependent variables: percent supporting a transgender census
+option and percent selecting a transgender category (if offered) on forms. In the
+first column, we show the percent support for the census option by each category
+of our independent variables and indicate significant differences (with +),
+according to two-way chi-square test (a < .10, two tailed) in light of the small size
+of our sample. In the second column, we show the percent selecting transgender
+                             Published by Duke University Press
+
+                                                    TSQ
+       SCHILT and BRATTER       * Attitudes toward Gender Options on the US Census              89
+Table 2. Distribution of endorsement of a transgender census category on forms
+and usage of transgender category, by independent variables
+                                                   % endorse               % mark
+                                                   transgender             transgender
+                                                   on census               on forms             N
+Total sample                                          41.7                    29.0             134
+Generation
+Born after 1969                                       39.9                    34.4              73
+Born in 1969 or before                                43.8                    24.7              61
+Race
+Nonwhite                                              29.6                    22.2              27
+White                                                 44.9                    30.8              62
+Parent’s education
+College educated                                      45.8                    29.2              83
+Neither parent college educated                       37.1                    29.0              51
+Gender assigned at birth
+Male                                                  39.2                    25.7              74
+Female                                                45.0                    33.3              60
+Gender identity
+Transgender (transman/transwoman)                     39.7                    29.3              58
+Male/female/genderqueer/other                         43.4                    28.9              78
+Validation of gender identitya
+Unvalidated                                           45.5                    31.2              77
+Validated male/female                                 25.8+                    6.5+             31
+Validated transgender                                 50.0                    50.0              26
+Closeness to Transwomen (male to female)
+Close                                                 46.0+                   28.0             100
+Not close                                             29.4                    32.4              34
+Transmen (female to male)
+Close                                                 40.0                    33.0+            105
+Not close                                             48.3                    13.8              29
+Bio women
+Close                                                 45.6+                   28.9             114
+Not close                                             20.0                    30.0              20
+Bio men
+Close                                                 43.4                    31.4              51
+Not close                                             39.2                    27.7              83
+Trans people who “blend genders”
+Close                                                 43.0                    27.7             100
+Not close                                             38.2                    31.4              34
+Trans people who are stealth
+Close                                                 38.9                    34.0+             95
+Not close                                             48.7                    14.7              39
+                                                                                       (Continued)
+                                 Published by Duke University Press
+
+                                                  TSQ
+90         TSQ    * Transgender Studies Quarterly
+Table 2. (Continued )
+                                                         % endorse      % mark
+                                                         transgender    transgender
+                                                         on census      on forms     N
+Transsexuals on talk shows
+Close                                                       42.4           26.3      95
+Not close                                                   41.6           35.9      39
+Transgender activist organizations
+Close                                                       38.3           29.9     103
+Not close                                                   55.6           25.9      31
+People who perform gender (e.g., drag queens)
+Close                                                       37.7           39.1      69
+Not close                                                   46.2           18.5      65
+Transsexual people who are victims of violence/murder
+Close                                                       43.7           31.1     103
+Not close                                                   35.5           22.6      31
+Experiencing Hostility
+Hostility from bio men
+Frequently/occasionally                                     42.1           33.3+     96
+Rarely/never                                                42.1           18.4      38
+Hostility from bio women
+Frequently/occasionally                                     38.5           37.2+     56
+Rarely/never                                                46.4           17.9      78
+*p < .05, +p < .10, two‐tailed test.
+a
+ Statistical difference reﬂects comparison with “unvalidated” category.
+on forms by each independent variable and indicate significant differences
+between these percentages, according to a two-way chi-square test.
+           Although none of our background characteristics are significantly related
+to our outcomes, we highlight several findings of substantive interest that might
+have been statistically significant with a larger sample. We find greater approval
+for the transgender census option among those born in 1969 or before (43.8
+percent), white respondents (44.9 percent), and those whose parents are college
+educated (45.8 percent). We also find somewhat more approval among those
+respondents assigned female at birth compared to those assigned male (45.0
+percent vs. 39.2 percent).
+           Endorsing the transgender option was significantly associated with
+respondents’ being validated as transgender or being unvalidated in their gender
+identities in some way. In addition, closeness to transwomen and cisgender
+women was associated with support for adding a transgender category. Counter
+to our expectations, closeness to transgender advocacy organizations corresponded
+                              Published by Duke University Press
+
+                                            TSQ
+       SCHILT and BRATTER   * Attitudes toward Gender Options on the US Census     91
+to less support for the transgender census option compared to those who reported
+not being close to these organizations (38 percent vs. 55.6 percent—a difference
+that barely misses significance with p = .105). There was a null relationship between
+experiencing gender-based hostility and endorsing the transgender option.
+         In the next column, we report the patterns for marking transgender on
+forms and find similar correlates. Only 29 percent of the sample used transgender
+when given the option on a form. Such reporting is not a simple reflection of a
+personal identification as transgender; respondents who identify as transgender
+are equally likely to report themselves as such on forms as those respondents who
+do not identify as transgender (29.3 percent vs. 28.9 percent). As with endorsing
+the transgender census option, respondents who identify and are validated as
+either male or female are less likely to report transgender on forms than respon-
+dents with unvalidated gender identities of any kind (6.5 percent vs. 31.2 percent).
+And underscoring that personal identification alone does not drive identity
+reporting on forms, only half of respondents (50 percent) who report a validated
+transgender identity also report using the transgender category on forms when
+presented with the option.
+         Closeness to transmen is positively related to using a transgender category
+but not to supporting a census category. Closeness to transwomen shows an
+opposite trend: it is associated with endorsing a transgender option on the census
+but not with identifying as transgender on forms. Also, closeness to transgender
+people who go stealth and people who playfully perform gender (e.g., drag
+queens) is also associated with marking transgender on forms but not to
+endorsing the census option. Confirming our expectations, experiencing gender-
+based hostility and harassment is related to reporting as transgender on forms
+even though it is not related to endorsing a transgender option on the census.
+The Multivariate Scenario
+In the next set of analyses, we evaluate predictors of attitudes and behaviors
+around a transgender census option within a multivariate framework. Table 3
+displays the results of the multivariate logistic regression models with the like-
+lihood of endorsing the inclusion of a transgender category on the census as
+the outcome. We begin with a baseline model that adjusts for background
+characteristics and consistency between personal gender and social gender, with
+those who report being unvalidated in their gender identity in the reference
+category. We introduce covariates indicating each type of closeness to gender and
+sexual communities, and three emerge as significant; the results are shown in the
+remaining models (see table 2 for a list of all communities). In the final model, we
+adjust for experiences of gender-based hostility.
+                             Published by Duke University Press
+
+                                             TSQ
+92        TSQ   * Transgender Studies Quarterly
+Table 3. Odds ratios (OR) of endorsing the addition of a transgender category
+on the US Census gender question
+                                                     Model 1      Model 2     Model 3   Model 4
+                                                     OR           OR          OR        OR
+Background/demographic characteristics
+Born after 1969                                        0.73        0.88         0.77      0.71
+Has college education or more                          0.84        0.74         0.80      0.84
+Not lived with both parents                            0.83        0.82         0.77      0.81
+Gender at birth (born female = 1)                      1.35        1.80         1.60      1.68
+Race (nonwhite = 1)                                    0.53        0.62         0.52      0.61
+Validation of gender identity (ref = unvalidated)
+Identiﬁes as M/F / seen as M/F                         0.37+       0.37*        0.36*     0.38*
+Identiﬁes as transgender / seen as transgender         1.09        1.15         1.22      1.14
+Close to . . .
+Transwomen                                                         2.61+
+Transmen                                                                        0.52
+Bio women                                                                                 3.67*
+Nagelkerke R square                                     0.08       0.113        0.097     0.127
+Chi‐square, df                                       8.195, 7      11.739     10.030, 8 13.323, 8
+Sample size                                             134          134         134       134
+*p < .05, +p < .10, two‐tailed test.
+           Similar to the patterns in the bivariate analyses, we find that reporting a
+validated gender identity, particularly a monogender identity, is strongly asso-
+ciated with endorsing a transgender census option independent of background
+characteristics. According to model 1, individuals with a validated, monogender
+identity (male or female) are far less likely to endorse the transgender census
+option (OR = 0.37) compared to respondents with unvalidated gender identities
+of any kind (e.g., whose personal gender identity is not validated by outsiders).
+Respondents with validated identities as transgender (e.g., they identify as
+transgender and other people see them as transgender) are not significantly
+different from the reference group (OR = 1.09). This pattern holds across all of the
+following models, demonstrating that is it not a function of associations with
+specific communities or with experiences of gender-based hostility.
+           Models 2, 3, and 4 reveal that ties to certain communities increase the
+likelihood of endorsing a transgender census option. Closeness to transwomen is
+associated with a doubling of the odds of endorsing the census category (OR =
+2.61) and closeness to cisgender women triples these odds (OR = 3.67). Personally
+experiencing hostility on the basis of gender expression is not significant (analysis
+not shown but available from the author by request); however, the direction of the
+effects depended on the gender of the hostile party. Hostility from cisgender men
+                             Published by Duke University Press
+
+                                                     TSQ
+        SCHILT and BRATTER           * Attitudes toward Gender Options on the US Census             93
+Table 4. Odds ratios (OR) of reporting gender as transgender on a hypothetical gender question
+                                                     Model 1      Model 2       Model 3       Model 4
+                                                     OR           OR            OR           OR
+Background/demographic characteristics
+Born after 1969                                       1.72         1.63          1.79          1.76
+Has college education or more                         1.21         1.19          1.09          1.11
+Not lived with both parents                           0.52         0.48          0.42          0.58
+Gender at birth (born female = 1)                     1.34         1.34          1.50          1.19
+Race (nonwhite = 1)                                   0.67         0.74          0.69          0.65
+Validation of gender identity (ref = unvalidated)
+Identiﬁes as M/F/seen as M/F                          0.15*        0.17*         0.13*         0.13
+Identiﬁed as transgender/seen as transgender          2.12         1.986         2.19          2.15
+Close to . . .
+People who perform gender                                          2.42*
+Transgender victims of violence/murder                                           2.431
+Experienced hostility from
+Bio men                                                                                        1.71
+Bio women                                                                                      2.316
+Nagelkerke R square                                   0.197        0.236         0.223         0.255
+Chi‐square, df                                      19.880*, 7   24.191*, 8    22.810*, 8   26.372*, 9
+Sample size                                            134          134           134           134
+*p < .05, +p < .10, two‐tailed test.
+was positively correlated with endorsing a transgender census option, while
+hostility from cisgender women was negatively related to endorsing this option.
+           Next, as shown in table 4, we moved from predictors of attitudes to pre-
+dictors of behaviors. Similar to the previous analysis, we find that respondents
+with validated monogender identities (male or female) that differ from how they
+were assigned at birth are far less likely to report their gender as transgender
+relative to those with unvalidated gender identities of any kind (OR = 0.15). This
+pattern sustains across all models and again is the most consistent predictor of
+reporting the use of a transgender option on forms when the option is provided.
+We highlight the following associations, though all findings are available from the
+authors by request. People who express closeness to those who perform gender
+are significantly more likely to use transgender on forms (OR = 2.42). Closeness to
+several other communities, including transgender activists and victims of vio-
+lence, were positively, though not significantly, associated with the usage of
+transgender on forms. Additionally, experiences of gender-based hostility, spe-
+cifically hostility from cisgender women, were positively related to usage of a
+transgender category.
+                                      Published by Duke University Press
+
+                                       TSQ
+94       TSQ * Transgender Studies Quarterly
+Discussion
+Utilizing questionnaire data from a gender-diverse sample, we ask two questions
+in this research: (1) What is the degree of support for the addition of a transgender
+category on the US census? (2) To what degree is such a category currently used?
+We find nearly half of our respondents support the addition of a transgender
+category, while fewer than 30 percent mark themselves as transgender. We also
+find that experiences with gender validation (e.g., the degree to which one’s per-
+sonal identity aligns with how they feel others see them) strongly shape patterns of
+endorsement and usage of a transgender category. Transgender individuals who
+identify solely as male or female and experience validation in these identities are far
+less likely to endorse adding a category to the US census or to use such a category
+on official forms compared to those whose gender identities are not validated by
+others or those with a validated transgender identity. It may be that those indi-
+viduals on the borders will drive the expansion of gender categories. Meanwhile,
+those who feel like they fit within the sex/gender binary may see less to gain (or
+even something to lose) from an institutionalizing of transgender identity.
+         We also find that feeling close to specific communities patterns support
+for a census category. Closeness to gender communities that are highly visible
+as targets of gender-based violence, such as trans and cis women (Schilt and
+Westbrook 2009) is strongly associated with endorsement of the transgender
+category. Personally experiencing hostility does not differentiate support for the
+category, but it does elevate the likelihood of currently reporting one’s identity as
+transgender, as does a sense of closeness to victims of violence and murder. This
+sense of closeness with transgender and cisgender women may bring a greater
+awareness of gender-based discrimination and more support for using govern-
+mental data to track such issues.
+         The importance of being on the borders of singular, fixed sex/gender
+categories shows some parallels with the experience of activists who advocated for a
+multiracial category on the census. In both cases, the underlying principle is making
+a challenge to a binary (male/female, white/nonwhite) that does not fully represent
+the complexity of many people’s lived experiences. Within the multiracial situa-
+tion, people who were unvalidated in their racial identity and/or who felt that
+their children’s identities were not accurately represented by singular race cate-
+gories pushed for the multiracial category on the census (Khanna 2010; R. Spencer
+2003). Yet our data suggest new avenues of research, as the correlates for support
+of a transgender option did not always align with the predictors for a multiracial
+category. For example, closeness to transgender advocacy organizations was not a
+predictor of support (in fact, it was negatively correlated).
+         These data do have limitations. First, our small sample limits our ability to
+identify statistically significant differences. Second, as we collected our data at
+                      Published by Duke University Press
+
+                                                TSQ
+      SCHILT and BRATTER    * Attitudes toward Gender Options on the US Census         95
+conferences organized around transgender-related issues and themes, our pool of
+respondents is highly selective of people who have some attachment to a trans-
+gender identity. While those attending such conferences have very diverse under-
+standings of gender (as evidenced by our open-ended gender identity question),
+our data may be biased toward greater support for a transgender census option
+than we might have found from a random sample of transgender individuals.
+Finally, the more affluent and educated may be overrepresented in our sample, as
+two of our three conferences had registration fees.
+Conclusion
+Adding a transgender option to the sex/gender question on the US decen-
+nial census would be one way to make more solid estimates of the size of the
+transgender population, which can have a major impact on policy. This addition
+would also provide recognition of transgender people by a government instrument
+imbued with the power of determining “who counts” in America, as the census
+“plays a key role in reflecting . . . reality” (Kertzer and Arel 2002: 2). As this type of
+recognition is intimately tied to discourses and ideologies of citizenship (Nobles
+2000), such a move could, like the enumeration of multiracial identity, signify a
+shift away from “top-down” structuring of identity categories, allowing new
+ways for individuals to organize their identities to guide policies of enumeration.
+        However, if such enumeration were possible, how reliable would this
+estimate be? Our data suggest that those who are supportive of a transgender
+census option and who would mark themselves as transgender are a selective slice
+of this community —specifically, those who feel unvalidated in their gender
+identities, those who have a validated transgender identity, and/or those who feel
+close to victims of gender-based harassment and violence. The size of the
+transgender population would likely be underestimated on population surveys,
+as those who have validated monogender identities or who do not encounter
+harassment may opt out. This potential underestimation runs parallel to multi-
+racial enumeration, as selection of multiple race categories is highly unstable
+within individuals (Harris and Sim 2002; Harris 2002; Doyle and Kao 2007) and
+overlaps only to a limited degree with identifying as having interracial parentage
+(Campbell and Eggerling-Boeck 2006). Moreover, transgender as a category may
+be insufficient to capture the complexity of gender identity. Adopting a fixed
+choice (male, female, or transgender) would only replace the binary with a tri-
+chotomy and could alienate individuals who view gender identity as fluid, par-
+ticularly people who identify as genderqueer, agender, or dual/multigendered.
+        Beyond accurate enumeration, is the addition of a transgender option on
+the census a possibility? Certainly it would necessitate a major shift in the popular
+                             Published by Duke University Press
+
+                                           TSQ
+96       TSQ  * Transgender Studies Quarterly
+(and statistical) understanding of sex/gender away from this notion that it is a
+static, “objective marker” (Kertzer and Arel 2002: 6) located in a binary. But such
+transformations are not unprecedented, as the shift from understanding race
+as based in biology to positioning it as inscribed in social experiences shows
+(Saperstein 2012). With this ideological shift, the biological basis of race for
+regulating rights and thus for having a “legal race” was eliminated in the United
+States. Illustrative of this point is the fact that race is not listed on governmental
+identification documents such as driver’s licenses, passports, Social Security cards,
+or marriage licenses. While the eradication of a legally binding sex/gender may
+come in time, we see the expansion of sex/gender categorization as a more likely
+first step toward legitimizing, and addressing discrimination toward, gender-
+variant people at the federal level—particularly as some government surveys and
+many large-scale health surveys have begun to include transgender as a sex/gender
+option. And, similar to the multiracial case, the push for such an expansion may
+come from the growth of advocacy groups headed by the parents of transgender
+and gender-variant children who seek to see their children officially counted.
+Kristen Schilt is an associate professor of sociology at the University of Chicago. Her research
+focuses on gender inequality and the workplace. She is the author of the book Just One of the
+Guys: Transgender Men and the Persistence of Gender Inequality (2010).
+Jenifer Bratter is an associate professor of sociology at Rice University. Her research centers
+on population studies, health, and multiracial identities. She has published in Social Forces,
+Demography, and the Journal of Health and Social Behavior.
+Acknowledgments
+We wish to acknowledge the invaluable undergraduate research assistance of Megan Alley and
+Noah Tian, who aided in the initial setup of the data used for this analysis. The second author
+would like to acknowledge the Woodrow Wilson Fellowship Foundation, which provided time
+and support for this project.
+Notes
+1.       On the census survey, the sex/gender question asks, “What is the sex of Person One?”
+         However, in the summaries provided by the US Census Bureau, the data from this
+         question are reported as “gender.” In this article, we use “sex/gender” to reference the
+         fuzziness of these terms on official forms.
+2.       For an evaluation of the impact of this addition in Nepal, see Knight, Flores, and Nezhad
+         2015 (this issue).
+                         Published by Duke University Press
+
+                                                     TSQ
+       SCHILT and BRATTER       * Attitudes toward Gender Options on the US Census                97
+3.        We look to census statistics on American Indians/Alaskan native populations as a ref-
+          erence for this point. This group encompasses a little more than 1 percent of the US
+          population, is highly unstable in terms of who identifies as “American Indian,” and
+          includes a wide degree of racial mixture (Liebler 2010). While these facts point to a large
+          degree of fluidity and a lack of demographic presence, they have not diminished the
+          importance of American Indian community politically or historically, and as such this
+          community has been enumerated on nearly every census.
+4.        Historically there have been repercussions for selecting a “white” race when an individual
+          had any black ancestry. While these repercussions can still exist today, they are no longer
+          legally sanctioned (see Yang 2005 for recent discussion of how these issues apply to cases
+          of “racial fraud”).
+5.        Our research goal was to determine support among a gender-diverse population for a
+          transgender option on the census and to understand how people in this population were
+          currently reporting their gender identity when given different options. For best practices
+          on collecting gender identity on surveys, see the work of the GenIUSS group (2014).
+6.        Typically, these respondents returned the questionnaire and noted that they identified as
+          cisgender. They also rarely filled out the entire survey, making their responses unusable.
+7.        We selected Stonewall because it represents the emergence of the modern LGBTQ activist
+          movements. Coming of age in the 1990s, this post-Stonewall cohort would see more
+          options for openly identifying as transgender. We theorized that fears about identifying
+          as transgender on a government document might be less prevalent in this cohort.
+8.        In our piloting of the questionnaire, we discovered that “bio men” was a clearer term for
+          respondents than “cisgender men,” therefore we use the term cisgender in the text but bio
+          men/women in our tables.
+References
+Anderson, Margo, and Stephen E. Fineburg. 2001. Who Counts: The Politics of Census Taking in
+          Contemporary America. New York: Russell Sage Foundation.
+Avila, Oscar. 2010. “Obama’s Census Form Choice: Black.” Los Angeles Times, April 4. articles
+          .latimes.com/2010/apr/04/nation/la-na-obama-census4-2010apr04.
+Baumle, Amanda, and D’Lane R. Compton. 2013. “Identity versus Identification: How LGBTQ
+          Parents Identify Their Children on Census Surveys.” Journal of Marriage and Family 76,
+          no. 1: 94–104.
+Bernstein, Mary, and Marcie De la Cruz. 2009. “What Are You? Explaining Identity as a Goal of
+          the Multiracial Hapa Movement.” Social Problems 56, no. 4: 722–45.
+Bourdieu, Pierre. 1999. Language and Symbolic Power. Cambridge, MA: Harvard University Press.
+Bratter, Jenifer. 2007. “Will Multiracial Survive to the Next Generation? The Racial Classification
+          of Children of Multiracial Parents.” Social Forces 86, no. 2: 821–49.
+Brunsma, David L. 2005. “Interracial Families and the Racial Identification of Mixed Race
+          Children: Evidence from the Early Childhood Longitudinal Study.” Social Forces 84, no. 2:
+          1129–55.
+———. 2006. “Public Categories, Private Identities: Exploring Regional Differences in the Biracial
+          Experience.” Social Science Research 35, no. 3: 555–76.
+Campbell, Mary. 2007. “Thinking Outside of the (Black) Box: Measuring Black and Multiracial
+          Identification on Surveys.” Social Science Research 36, no. 3: 921–44.
+                                 Published by Duke University Press
+
+                                              TSQ
+98       TSQ  * Transgender Studies Quarterly
+Campbell, Mary, and Jennifer Eggerling-Boeck. 2006. “What about the Children? The Psychology
+         and Social Well-Being of Multiracial Adolescents.” Sociological Quarterly 47, no. 1: 147–73.
+Currah, Paisley, Richard Juang, and Shannon Price Minter. 2006. Transgender Rights. Minnea-
+         polis: University of Minnesota Press.
+Davis, F. James. 1991. Who Is Black? One Nation’s Definition. University Park: Pennsylvania State
+         University Press.
+De Cuypere, Griet, et al. 2007. “Prevalence and Demography of Transsexualism in Belgium.”
+         European Psychiatry 22, no. 3: 137–41.
+Doyle, Jamie, and Grace Kao. 2007. “Are Racial Identities of Multiracials Stable? Changing Self-
+         Identification among Single and Multiple Race Individuals.” Social Psychology Quarterly
+         70, no. 4: 405–23.
+Farley, Reynolds. 2004. “Identifying with Multiple Races: A Social Movement That Succeeded but
+         Failed?” In The Changing Terrain of Race and Ethnicity, edited by Maria Krysan and
+         Amanda E. Lewis, 123–48. New York: Russell Sage Foundation.
+Gates, Gary. 2011. “How Many People Are Lesbian, Gay, Bisexual, and Transgender?” Williams
+         Institute, April. williamsinstitute.law.ucla.edu/research/census-lgbt-demographics-studies
+         /how-many-people-are-lesbian-gay-bisexual-and-transgender.
+GenIUSS Group. 2014. “Best Practices for Asking Questions to Identify Transgender and Gender
+         Minority Respondents on Population-Based Surveys.” Los Angeles: Williams Institute.
+Goffman, Erving. 1963. Stigma. New York: Simon and Schuster.
+Goldstein, Joshua, and Ann Morning. 2002. “Back in the Box: The Dilemma of Using Multiple-
+         Race Data for Single-Race Laws.” In The New Race Question: How the Census Counts
+         Multiracial Individuals, edited by Joel Perlman and Mary C. Waters, 119–36. New York:
+         Russell Sage Foundation and Levy Economics Institute.
+Gullickson, Aaron, and Ann Morning. 2011. “Choosing Race: Multiracial Ancestry and Identifi-
+         cation.” Social Science Research 40, no. 2: 498–512.
+Haney-Lopez, Ian. White by Law: The Legal Construction of Race. New York: New York University
+         Press.
+Harris, David. 2002. “Does It Matter How We Measure? Racial Classification and the Char-
+         acteristics of Multiracial Youth.” In How the Census Counts Multiracial Individuals, edited
+         by Joel Perlman and Mary C. Waters, 62–101. New York: Russell Sage Foundation and
+         Levy Economics Institute.
+Harris, David R., and Jeremiah Joseph Sim. 2002. “Who Is Multiracial? Assessing the Complexity
+         of Lived Race.” American Sociological Review 67, no. 4: 614–27.
+Herman, Melissa. 2004. “Forced to Choose: Some Determinants of Racial Identification in Multi-
+         Racial Adolescents.” Child Development 75, no. 3: 730–48.
+Kertzer, David, and Dominique Arel. 2002. “Censuses, Identity Formation, and the Struggle for
+         Political Power.” In Census and Identity: The Politics of Race, Ethnicity, and Language in
+         National Censuses, edited by David Kertzer and Dominique Arel, 1–42. Cambridge, MA:
+         Harvard University Press.
+Khanna, Nikki. 2004. “The Role of Reflected Appraisals in Racial Identity: The Case of Multiracial
+         Asians.” Social Psychology Quarterly 67, no. 2: 115–31.
+———. 2010. “‘If You’re Half Black, You’re Just Black’: Reflected Appraisals and the Persistence of
+         the One Drop Rule.” Sociological Quarterly 51, no. 1: 96–121.
+Knight, Kyle G., Andrew R. Flores, and Sheila J. Nezhad. 2015. “Surveying Nepal’s Third Gender:
+         Development, Implementation, and Analysis.” TSQ 2, no. 1: 101–22.
+                          Published by Duke University Press
+
+                                                   TSQ
+        SCHILT and BRATTER      * Attitudes toward Gender Options on the US Census                 99
+Lee, Jennifer, and Frank. D. Bean. 2012. The Diversity Paradox: Immigration and the Color Line in
+          Twenty-First Century America. New York: Russell Sage Foundation.
+Lee, Sharon, and Barry Edmonston. 2005. “New Marriages, New Families: U.S. Racial and His-
+          panic Intermarriage.” Population Reference Bureau 60, no. 2: 3–36.
+Liebler, Carolyn. 2010. “A Group in Flux: Multiracial American Indians and the Social Con-
+          struction of Race.” In Multiracial Americans and Social Class: The Influence of Social Class
+          on Racial Identity, edited by Kathleen Odell Korgen, 131–44. New York: Routledge.
+Meadow, Tey. 2010. “A Rose Is a Rose: On Producing Legal Gender Classifications.” Gender and
+          Society 24, no. 6: 814–37.
+Meyerowitz, Joanne. 2002. How Sex Changed: A History of Transsexuality in the United States.
+          Cambridge, MA: Harvard University Press.
+Morning, Ann. 2003. “New Faces, Old Faces: Counting the Multiracial Population Past and
+          Present.” In New Faces in a Changing America: Multiracial Identity in the Twenty-First
+          Century, edited by Loretta I. Winters and Herman L. DeBose, 41–67. Thousand Oaks,
+          CA: Sage.
+Nobles, Melissa. 2000. Shades of Citizenship: Race and the Census in Modern Politics. Palo Alto, CA:
+          Stanford University Press.
+Olyslager, Femke, and Lynn Conway. 2007. “On the Calculation of the Prevalence of Trans-
+          sexualism.” Paper presented at the World Professional Association for Transgender
+          Health 20th International Symposium, Chicago, September 5–8. ai.eecs.umich.edu
+          /people/conway/TS/Prevalence/Reports/Prevalence%20of%20Transsexualism.pdf.
+Owens, Timothy J. 2003. “Self and Identity.” In The Handbook of Social Psychology, edited by John
+          D. DeLamater, 205–32. New York: Kluwer/Plenum.
+Perez, Anthony Daniel, and Charles Hirschman. 2009. “The Changing Racial and Ethnic Com-
+          position of the US Population: Emerging American Identities.” Population and Devel-
+          opment Review 35, no. 1: 1–51.
+Perlman, Joel, and Mary C. Waters. 2002. Introduction to The New Race Question, edited by Joel
+          Perlman and Mary C. Waters, 1–32. New York: Russell Sage Foundation and Levy Eco-
+          nomics Institute.
+Rockquemore, Kerry Ann, and David Brunsma. 2008. Beyond Black. 2nd ed. Thousand Oaks, CA:
+          Sage.
+Roth, Wendy D. 2005. “The End of the One-Drop Rule? Labeling of Multiracial Children in Black
+          Intermarriages.” Sociological Forum 20, no. 1: 35–67.
+Saperstein, Aliya. 2006. “Double-Checking the Race Box: Examining Inconsistency between
+          Survey Measures of Observed and Self-Reported Race.” Social Forces 85, no. 1: 57–74.
+———. 2012. “Capturing Complexity in the United States: Which Aspects of Race Matter and
+          When?” Ethnic and Racial Studies 35, no. 8: 1484–502.
+Schilt, Kristen. 2010. Just One of the Guys? Transgender Men and the Persistence of Gender
+          Inequality. Chicago: University of Chicago Press.
+Schilt, Kristen, and Laurel Westbrook. 2009. “Doing Gender, Doing Heteronormativity: Trans-
+          gender People, ‘Gender Normals,’ and the Social Maintenance of Heterosexuality.”
+          Gender and Society 23, no. 4: 440–64.
+Spencer, Jon. 1997. The New Colored People. New York: New York University Press.
+Spencer, Rainier. 2003. “Census 2000: Assessments in Significance.” In New Faces in a Changing
+          America: Multiracial Identity in the Twenty-First Century, edited by Loretta I. Winters
+          and Herman L. DeBose, 99–110. Thousand Oaks, CA: Sage.
+                                 Published by Duke University Press
+
+                                            TSQ
+100        TSQ * Transgender Studies Quarterly
+Stryker, Susan. 2008. Transgender History. Seattle: Seal.
+Tafoya, Sonya M., Hans Johnson, and Laura E. Hill. 2004. Who Chooses to Choose Two?
+         Washington, DC: US Census Bureau.
+Thompson, Debra. 2012. “Making (Mixed-)Race: Census Politics and the Emergence of Multi-
+         racial Multiculturalism in the United States, Great Britain, and Canada.” Ethnic and
+         Racial Studies 35, no. 8: 1409–26.
+Thernstrom, Abigail. 2010. “Obama’s Census Identity.” Wall Street Journal, April 20. online.wsj
+         .com/article/SB10001424052702303720604575169783989253108.html.
+Yang, Tseming. 2005. “Choice and Fraud: Race Choice and Fraud in Racial Identification: The
+         Dilemma of Policing Race in Affirmative Action, the Census, and a Color-Blind Society.”
+         Unpublished Manuscript.
+                         Published by Duke University Press
+

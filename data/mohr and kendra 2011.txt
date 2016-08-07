@@ -1,0 +1,753 @@
+Journal of Counseling Psychology                                                                                                © 2011 American Psychological Association
+2011, Vol. 58, No. 2, 234 –245                                                                                               0022-0167/11/$12.00 DOI: 10.1037/a0022858
+ Revision and Extension of a Multidimensional Measure of Sexual Minority
+                           Identity: The Lesbian, Gay, and Bisexual Identity Scale
+                                                       Jonathan J. Mohr and Matthew S. Kendra
+                                                                      George Mason University
+                               Two studies were conducted to investigate a revised and extended version of the Lesbian and Gay
+                               Identity Scale (Mohr & Fassinger, 2000): the 27-item Lesbian, Gay, and Bisexual Identity Scale
+                               (LGBIS). This revision features more inclusive and less stigmatizing language than the previous version
+                               and includes 2 new subscales assessing identity affirmation and centrality. In Study 1, an exploratory
+                               factor analysis (n ⫽ 297) and a confirmatory factor analysis (n ⫽ 357) supported an 8-factor solution
+                               assessing acceptance concerns, concealment motivation, identity uncertainty, internalized homonegativ-
+                               ity, difficulty with the identity development process, identity superiority, identity affirmation, and
+                               identity centrality. Predicted associations with measures of identity-related constructs and psychosocial
+                               functioning provided preliminary validity evidence for LGBIS scores in a college student population.
+                               Study 2 (N ⫽ 51) provided evidence of the test–retest and internal consistency reliability of LGBIS
+                               scores. These studies suggest that the LGBIS may offer researchers an efficient means of assessing
+                               multiple dimensions of sexual orientation minority identity.
+                               Keywords: lesbian, gay, and bisexual, identity, measurement, psychometric investigation
+                               Supplemental materials: http://dx.doi.org/10.1037/a0022858.supp
+   Lesbian, gay, and bisexual (LGB) people face the challenge of                           Issues in Measuring Dimensions of LGB Identity
+developing a positive identity against a backdrop of social stigma
+and marginalization. Individual differences in adapting to a stig-                       A central issue in assessing LGB identity is determining which
+matized identity can have significant consequences for psychoso-                      variables to measure. Although LGB identity, like all collective
+cial functioning, including well-being, quality of interpersonal                      identities, is multidimensional (Ashmore, Deaux, & McLaughlin-
+relationships, and ability to cope with prejudice and discrimination                  Volpe, 2004), research has focused on a limited number of
+(Meyer, 2007). The rapidly growing literature on dimensions of                        identity-related variables. Internalized homonegativity—the appli-
+LGB identity has highlighted the importance of developing mea-                        cation of anti-LGB stigma to the self—is arguably the variable that
+sures of identity-related constructs for use with diverse LGB                         has generated the most attention among researchers (Williamson,
+people (Moradi, Mohr, Worthington, & Fassinger, 2009). Despite                        2000). A few other variables have also received attention in
+the growing availability of LGB identity scales, a number of                          studies, including sexual orientation concealment and percep-
+limitations have been noted. For example, writers have raised                         tion of anti-LGB bias in heterosexuals (Meyer, 2007). Research on
+concerns about ad hoc adaptations of measures, the lack of instru-                    these variables has provided important findings, but the focus on
+                                                                                      these variables has resulted in missed opportunities to advance
+ments available to assess certain aspects of identity, and a lack of
+                                                                                      knowledge by studying other facets of identity. Social identity
+instruments developed for use with women and bisexual people
+                                                                                      theorists have identified a wide range of identity-related variables,
+(Balsam & Mohr, 2007; Moradi et al., 2009). The present article
+                                                                                      such as the importance of group membership to one’s overall
+provides preliminary psychometric data on a multidimensional
+                                                                                      identity, evaluations of one’s group relative to others, and certainty
+measure of LGB identity designed to address a number of these
+                                                                                      about one’s group membership (Ashmore et al., 2004). Some of
+measurement-related concerns: the Lesbian, Gay, and Bisexual
+                                                                                      these variables have been discussed with respect to LGB identity.
+Identity Scale (LGBIS), which is a revision and extension of the
+                                                                                      For example, identity uncertainty has been discussed as normative
+Lesbian and Gay Identity Scale (LGIS; Mohr & Fassinger, 2000).
+                                                                                      in developing a marginalized sexual identity (Worthington, Na-
+                                                                                      varro, Savoy, & Hampton, 2008). Our goal in the present study
+                                                                                      was to develop a measure that assesses multiple dimensions of
+                                                                                      LGB identity. Such a measure would offer researchers a way to
+   This article was published Online First February 14, 2011.                         assess a variety of identity-related variables, including some that
+   Jonathan J. Mohr and Matthew S. Kendra, Department of Psychology,
+                                                                                      have received little empirical attention.
+George Mason University.
+   We thank Andrew Blair, Benjamin Stillman, and Amanda Rahimi for
+                                                                                         Another important question to consider is whether it makes
+their assistance with data collection.                                                sense to conceptualize and assess identity in the same way for
+   Correspondence concerning this article should be addressed to Jonathan             lesbians, gay men, bisexual women, and bisexual men. We believe
+J. Mohr, who is now at the Department of Psychology, University of                    there are a number of reasons to create a single measure suitable
+Maryland, College Park, MD 20742. E-mail: jmohr@umd.edu                               for LGB people. First, there are substantial commonalities among
+                                                                                  234
+
+                                             LESBIAN, GAY, AND BISEXUAL IDENTITY SCALE                                                  235
+LGB people. All LGB people face the stigma of deviating from          clear interpretation. Moreover, the analysis allowed the researchers
+heterosexual norms, including challenges related to labeling one’s    to identify and eliminate items that loaded on multiple factors,
+identity, fear of stigmatization, disclosure of identity, applying    which increased the confidence that the resulting subscales were
+stigma to oneself, and developing a positive group identity. Les-     relatively clean indicators of the associated constructs.
+bians, bisexual women, bisexual men, and gay men may differ in           Despite these positive features, the LGIS also suffers from
+the ways in which these challenges manifest, but there is good        significant limitations. First, phrases in some LGIS items and
+reason to believe that identity-related phenomena cut across sexual   subscale labels could be perceived as insensitive, outdated, or
+orientation minority groups (just as the phenomena likely cut         unnecessarily pathologizing. For example, one of the items in the
+across groups based on social class, religion, and other sociode-     Internalized Homonegativity subscale refers to homosexual life-
+mographic factors).                                                   styles, a phrase that has been used in a stigmatizing manner. Also,
+   Second, although LGB people likely develop identities specific     the subscale label Identity Confusion may be pejorative, implying
+to their orientation and gender (e.g., lesbian identity), it seems    to some that uncertainty about one’s sexual orientation indicates
+equally likely that they develop a broader identity as an LGB         adjustment or developmental problems. Second, items refer only to
+person who is stigmatized for having same-sex attractions and         lesbians and gay men, even though some participants in the scale
+sexual experiences. This possibility is suggested by the increasing   development study likely identified as bisexual. This limitation
+use of broader sexual minority terminology in public arenas (e.g.,    reflects the marginalization of bisexuals common in research on
+political and policy discourse, social service agencies, LGB social   sexual minority people (Balsam & Mohr, 2007). A third limitation
+groups; Moradi et al., 2009). Third, neatly categorizing sexual       is that internal consistency estimates for the Superiority subscale
+orientation into one of a few groups belies the complexity of         were below .70 for both samples investigated in the instrument
+sexual orientation (Moradi et al., 2009). A person’s sexual orien-    development study (Mohr & Fassinger, 2000). The low estimates
+tation identity can differ across contexts and developmental          were likely due to the fact that the subscale consisted of only two
+periods (Diamond, 2005), and some people may feel as though           items.
+conventional labels used for sexual orientation are not self-            Finally, the LGIS does not assess two constructs that have
+descriptive (Russell, Clarke, & Clary, 2009). Thus, having a mea-     received increasing focus in the sexual minority literature: identity
+sure of a broader LGB identity may be a useful way to capture the     centrality and identity affirmation. Identity centrality is the degree
+experiences of LGB people who use multiple sexual minority            to which an aspect of a person’s identity (e.g., sexual orientation,
+identity labels or who do not readily identify with a more specific   racial, vocational) is central to her or his overall identity. It is
+identity label. Also, a measure of LGB identity makes it possible     unclear whether identity centrality directly affects the well-being
+to compare lesbians, gay men, bisexual women, and bisexual men        of LGB people. However, it has been proposed that centrality may
+directly on facets of identity.                                       moderate the effects of sexual minority stress on well-being, such
+   A final issue we consider is selection of the scale-construction   that stress most disturbs well-being among people whose LGB
+approach. LGB identity scales have typically been developed using     identity is core to their sense of self (Meyer, 2003). Identity
+either a rational/theoretical method (e.g., Szymanski & Chung,        affirmation reflects the degree to which an LGB person associates
+2001) or a factor analytic method (e.g., Mayfield, 2001). We used     positive thoughts and feelings with her or his sexual orientation
+factor analysis because it suited our goal of advancing understand-   and membership in LGB communities. Affirmation has long been
+ing of the basic content and structure of LGB identity variables. It  featured in models of LGB identity formation (Mohr & Fassinger,
+also provides a basis for determining the degree to which items are   2000), and interest in studying this construct has recently been
+pure indicators of the constructs they are intended to assess (Reise, expressed in calls for greater focus on sources of resilience among
+Waller, & Comrey, 2000). Applied to the present study, this           LGB people (e.g., Riggle, Whitman, Olson, Rostosky, & Strong,
+capability of factor analysis may increase confidence that the        2008). Moreover, evidence suggests that identity affirmation is
+resulting scale assesses the intended identity constructs rather than distinct from identity devaluation rather than being the positive
+related but different constructs.                                     end of a single spectrum of identity evaluation (Mayfield, 2001).
+                                                                      Although identity centrality and affirmation are but two of many
+   Strengths and Limitations of an Existing Measure:                  dimensions of identity not assessed by the LGIS, their omission is
+                             The LGIS                                 particularly unfortunate given their potential value in understand-
+                                                                      ing the effects of minority stress on the lives of LGB people.
+   The LGIS (Mohr & Fassinger, 2000) was developed to address
+some of these issues related to assessing sexual minority identity.                             Present Studies
+Factor analysis of LGIS data from adults in same-sex romantic
+relationships led to the development of a 27-item measure scored         The purpose of these studies was to develop a revised version of
+for six identity-related subscales: Internalized Homonegativity,      the LGIS to meet the following goals: (a) feature language inclu-
+Need for Privacy, Need for Acceptance, Difficult Process, Identity    sive of bisexuals, (b) phrase items with respect to a broader LGB
+Confusion, and Superiority. It was one of the first scales to assess  identity rather than a more specific sexual orientation identity, (c)
+diverse dimensions of sexual orientation identity in both women       eliminate phrases that could be perceived as stigmatizing, (d)
+and men, which allows researchers to examine the role of gender       improve internal consistency reliability on the Identity Superiority
+in identity-related phenomena. Subscales consist of relatively few    subscale, and (e) include items assessing identity centrality and
+items and thus offer an efficient means of assessing identity. Also,  identity affirmation. Aside from these changes, we aimed to retain
+the use of factor analysis to identify unidimensional facets of       assets of the LGIS (e.g., brevity, subscales, assessing multiple
+identity yielded subscales with a strong empirical foundation and     dimensions of identity, applicability to women and men).
+
+236                                                         MOHR AND KENDRA
+   The following two studies describe the development of the         would be inversely associated with Acceptance Concerns because
+revised measure: the LGBIS. In Study 1, an exploratory factor        individuals who fear rejection are more likely than others to use
+analysis (EFA) and confirmatory factor analysis (CFA) are re-        concealment as a way to avoid stigmatization. Finally, we rea-
+ported along with reliability and validity data related to LGBIS     soned that identity salience would be positively related to Identity
+subscales. In Study 2, the test–retest reliability of the LGBIS was  Affirmation because a strong sense of pride and pleasure in one’s
+investigated.                                                        LGB status would likely increase the salience of one’s sexual
+                                                                     orientation to overall sense of self.
+   Study 1: Investigation of Factor Structure, Validity,                We made two main predictions regarding Identity Uncertainty
+                          and Reliability                            (our new label for the LGIS Identity Confusion subscale). First,
+                                                                     research and theory suggested that Identity Uncertainty would be
+   In this study, we examined the factor structure of the revised    inversely associated with length of time in the LGB identity-
+LGBIS and provided initial reliability and validity estimates using  formation process (Mohr & Fassinger, 2000). We also predicted
+data from a sample of LGB college students. Previous studies of      Identity Uncertainty scores would be higher for bisexuals than
+the LGIS led us to expect to find support for an eight-factor        lesbians and gay men, based on past research findings and on
+solution: the six original factors plus factors reflecting identity  theory suggesting that identity uncertainty may be greater among
+centrality and identity affirmation. However, we began our inves-    bisexuals because of the prevailing binary view of sexuality as
+tigation with an EFA (using a random subsample of data) because      either lesbian/gay or heterosexual (Balsam & Mohr, 2007).
+we added new items, revised items, and used data from a new             Several LGBIS variables reflect minority stress processes that
+population. We then conducted a CFA on the remaining data to test    would likely be associated with psychosocial problems (Meyer,
+the factor structure identified in the EFA. We investigated the      2007). We expected Internalized Homonegativity, Acceptance
+construct validity of subscale scores by examining their associa-    Concerns, and Difficult Process to be positively associated with
+tion with measures of LGB identity, identity-related experiences,    measures of psychopathology and negative affect and negatively
+and psychosocial functioning. We also examined the degree to         associated with measures of positive adjustment and affect. In
+which scores on LGBIS subscales were influenced by social de-        contrast, we anticipated observing an opposite pattern of findings
+sirability response bias. Our validity-related hypotheses were       for Identity Affirmation. We also believed Concealment Motiva-
+based on the expected LGBIS factor structure. If the data analysis   tion would be positively associated with a measure of general
+supported a different factor structure, we believed the criterion-   self-concealment, given the clear relation between the two con-
+related validity measures included in the study would still provide  structs.
+a basis for examining the psychometric properties of the LGBIS.
+   To investigate the construct validity of the LGBIS, we admin-
+                                                                     Method
+istered established identity-related scales that assessed constructs
+identical or related to those assessed by items in the LGBIS item       Participants. The sample comprised 654 university students
+pool. Participants completed measures of internalized homonega-      of whom 460 identified as lesbian/gay (197 female, 256 male, six
+tivity, identity affirmation and commitment, perceived public af-    female-to-male transgender, and one of unreported gender) and
+firmation, identity salience, identity disclosure, and degree of     194 identified as bisexual (139 female, 46 male, three female-to-
+interaction with heterosexuals. We hypothesized that these mea-      male transgender, three male-to-female transgender, and three of
+sures would be most strongly associated with the LGBIS subscales     unreported gender). Ages ranged from 18 to 52 years old (M ⫽
+to which they were most conceptually related. Specifically, we       22.9 years, SD ⫽ 5.6), and the sample included 502 undergraduate
+believed (a) a measure of perceived public affirmation would be      students and 150 graduate students (two participants did not indi-
+negatively related to Acceptance Concerns (our new label for         cate school status). The sample represented the following nonmu-
+the LGIS Need for Acceptance subscale), (b) an identity-disclosure   tually exclusive racial/ethnic groups: 32 African American/Black,
+scale would be positively related to Concealment Motivation (our     43 Asian American/Pacific Islander, 68 Latino/Hispanic, 23 Na-
+new label for the LGIS Need for Privacy subscale), (c) an inter-     tive American/American Indian, and 547 White/Caucasian. The
+nalized homonegativity scale would be positively associated with     sample featured participants from 45 U.S. states and Canadian
+Internalized Homonegativity and negatively associated with Iden-     provinces.
+tity Affirmation, (d) a measure of interest in interacting with         Participants indicated aspects of their sexual orientation on fully
+heterosexuals would be negatively associated with Identity Supe-     anchored rating scales ranging from 1 to 7. Their sexual orientation
+riority, (e) a measure of commitment to one’s LGB cultural iden-     identities ranged from 2 (mostly heterosexual) to 7 (exclusively
+tity would be negatively related to Internalized Homonegativity      lesbian/gay; M ⫽ 5.8, SD ⫽ 1.4). Their current sexual attractions
+and positively related to both Identity Centrality and Identity      ranged from 1 (exclusively to people of the other sex) to 7 (exclu-
+Affirmation, and (f) a measure of identity salience would be         sively to people of the same sex; M ⫽ 5.9, SD ⫽ 1.3). Their sexual
+positively related to Identity Centrality. We expected a number of   behavior over the last year ranged from 1 (exclusively with people
+additional associations between LGBIS subscales and the other        of the other sex) to 7 (exclusively with people of the same sex; M ⫽
+identity-related measures. For example, because internalized         5.8, SD ⫽ 1.9).
+homonegativity likely increases sensitivity to rejection and the        Measures.
+desire to hide one’s identity, we believed measures of internalized     LGBIS. Forty-one items were included in the LGBIS item
+homonegativity would be positively associated with Acceptance        pool for use in the EFA, and 27 of these items were based on
+Concerns, Concealment Motivation, and Difficult Process. As          original LGIS items. Twenty-five LGIS items were minimally
+another example, we thought measures of identity disclosure          reworded to make references to the participant’s sexual orientation
+
+                                            LESBIAN, GAY, AND BISEXUAL IDENTITY SCALE                                                  237
+LGB rather than lesbian or gay. Another LGIS item was slightly       adults (Mohr & Fassinger, 2000). OGO scores from LGB people
+reworded for clarity (“If it were possible, I would choose to be     have been found to be negatively associated with beliefs that LGB
+straight”). We reworded the remaining LGIS item to remove the        people are better than heterosexuals (Mohr & Fassinger, 2000).
+phrase homosexual lifestyles (“My life would be more fulfilling if      The Collective Self-Esteem Scale (CSES; Luhtanen & Crocker,
+I were heterosexual”). A new item intended to assess identity        1992) was used to assess perceptions of heterosexuals’ views of
+superiority was included: “I feel that LGB people are superior to    LGB people, as well as identity salience. The CSES was created
+heterosexuals.” We created four items intended to assess identity    for use in relation to any collective identity. We replaced the
+centrality: “My sexual orientation is an insignificant part of who I phrase social group with LGB people to make the item reference
+am,” “My sexual orientation is a central part of my identity,” “To   group more specific. Items were rated on a 6-point scale ranging
+understand who I am as a person you have to know that I’m LGB,”      from 1 (strongly disagree) to 6 (strongly agree). Two of the four
+and “Being an LGB person is a very important aspect of my life.”     CSES subscales were used in the validity analyses. The four-item
+Newly created items were developed by our research team, which       Public Collective Self-Esteem subscale measured LGB partici-
+consisted of LGB-identified adults (one faculty member, three        pants’ perceptions of how others generally evaluate LGB people
+students).                                                           (e.g., “Overall, LGB people are considered good by others”; ␣ ⫽
+   Finally, we included nine items from the Internalized Homon-      .77). The four-item Importance to Identity subscale was used to
+egativity Inventory (Mayfield, 2001), several of which were min-     measure how important being an LGB person was to participants’
+imally reworded to broaden their use beyond gay men. We selected     self-concept (e.g., “Overall, being an LGB person has very little to
+these to increase the number of items that assessed both negative    do with how I feel about myself”; ␣ ⫽ .83). In a study of LGB
+and positive views LGB people might have regarding their sexual      adults, daily heterosexist hassles were associated with decreases in
+orientation (e.g., “I sometimes resent my sexual orientation,” “I    daily scores on Public Collective Self-Esteem (Swim, Johnston, &
+see my sexual orientation as a gift”), with a particular goal of     Pearson, 2009). The link between heterosexist hassles and daily
+adding to the number of LGB affirmation items in the pool. These     well-being was strongest for those with higher scores on Impor-
+were the nine items from the scale that clearly (a) did not refer to tance to Identity (i.e., for those to whom the hassles represent an
+distress or psychopathology (so as to clearly differentiate measure- identity threat). This moderation effect was not found for hassles
+ment of self-stigma from measurement of its hypothesized out-        unrelated to heterosexism, supporting the discriminant validity of
+comes) and (b) referred to views of one’s own sexual orientation     Importance to Identity scores with LGB respondents.
+rather than beliefs regarding the role of LGB people in society (so     The four-item Out to World subscale of the Outness Inventory
+as to be consistent with the purpose of the LGBIS). For all items,   (Mohr & Fassinger, 2000) was used to assess the degree to which
+participants were asked to indicate their experience as an LGB       participants disclosed their sexual orientation to heterosexual
+person using a 6-point rating scale (1 ⫽ disagree strongly, 2 ⫽      friends, work peers, work supervisor(s), and strangers or new
+disagree, 3 ⫽ disagree somewhat, 4 ⫽ agree somewhat, 5 ⫽             acquaintances. Participants were asked how out they were to the
+agree, 6 ⫽ agree strongly).                                          above groups of people on a 7-point scale ranging from 1 (does not
+   Identity-related measures. The nine-item Ego-Dystonic Ho-         know) to 7 (definitely knows and openly talked about). Cronbach’s
+mosexuality Scale (Martin & Dean, 1987) was used to assess           alpha for the present study was .78. Out to World scores have been
+internalized homonegativity. Because the measure was created for     shown to be inversely related to scores on a measure of sexual
+gay male respondents, items were rephrased so that references to     orientation privacy (Mohr & Fassinger, 2000) and positively re-
+a participant’s sexual orientation were LGB instead of gay. Ref-     lated to connectedness to the LGB community (Balsam & Mohr,
+erences to potential romantic/sexual partners were rephrased as      2007).
+people of the same-sex rather than men. Participants responded to       To assess number of years passed since completing milestones
+items (e.g., “I feel that being LGB is a personal shortcoming for    of LGB identity formation, participants were asked to indicate the
+me”) on a 6-point scale ranging from 1 (strongly disagree) to 6      ages at which they (a) first noticed having romantic– erotic attrac-
+(strongly agree). Cronbach’s alpha for the present study was .87.    tions to someone of the same sex, (b) first wondered whether they
+Studies demonstrating validity support for this scale have found     might be LGB, and (c) first considered themselves as LGB. To
+that scores were negatively correlated with collective self-esteem   create a measure of how many years had passed since these
+and connection with the LGB community (Herek & Glunt, 1995).         LGB-related milestones, we subtracted the age participants re-
+   The 20-item Multigroup Ethnic Identity Measure was adapted to     ported having each milestone from their current age and then
+measure strength of LGB cultural identity and degree of interac-     averaged the difference scores (␣ ⫽ .81).
+tion with heterosexuals (Phinney, 1992). Items were slightly re-        Psychosocial functioning measures. Global life satisfaction
+worded to refer to participants’ LGB identity rather than their      was measured with the five-item Satisfaction With Life Scale
+ethnic identity. Items were rated on a 6-point scale ranging from 1  (Diener, Emmons, Larsen, & Griffin, 1985). The items asked
+(strongly disagree) to 6 (strongly agree). The 14-item Same-Group    participants to rate their life satisfaction (e.g., “The conditions of
+Orientation (SGO) subscale measured strength of connection to        my life are excellent”) on a 7-point scale ranging from 1 (strongly
+LGB people and one’s LGB identity (e.g., “I feel a strong attach-    disagree) to 7 (strongly agree). Cronbach’s alpha for the present
+ment towards the LGB community”; ␣ ⫽ .91). The six-item              study was .88. Balsam and Mohr (2007) found that life satisfaction
+Other-Group Orientation (OGO) subscale measured interest in          scores were related in expected ways to measures of distress and
+interacting with non-LGB people (e.g., “I like meeting and getting   self-esteem in a community sample of LGB adults.
+to know people from outside the LGB community”; ␣ ⫽ .83).               Interpersonal self-esteem was assessed with the seven-item So-
+SGO scores were positively associated with outness and negatively    cial subscale of the State Self-Esteem Scale (Heatherton & Polivy,
+associated with internalized homonegativity in a sample of LGB       1991). Participants responded to items (e.g., “I am worried about
+
+238                                                           MOHR AND KENDRA
+what other people think of me”) on a 5-point scale ranging from 1       drawing to receive a $20 gift card for a national café chain (or opt
+(not at all) to 5 (extremely). Cronbach’s alpha for the present study   to donate the funds to one of two nonprofit human rights organi-
+was .90. We could not find research using this measure with LGB         zations). Individuals interested in participating could click an
+participants, but it was negatively related to depression and posi-     Internet link directing them to the informed-consent webpage and
+tively related to other measures of self-esteem in college students     online survey. All surveys contained the LGBIS item pool,
+(Heatherton & Polivy, 1991).                                            identity-related measures, and demographic items. To control the
+   The 20-item Center for Epidemiologic Studies Depression Scale        survey length, we developed two versions that contained different
+was used to measure depression (Radloff, 1977). Participants rated      measures of psychosocial functioning: one with the measures of
+their depression level by rating items (e.g., “I had crying spells”)    mood, self-concealment, self-esteem, and social desirability, and
+on a 4-point scale ranging from 0 (rarely or none of the time [less     one with the depression scale. Measures were not counterbalanced.
+than 1 day this week]) to 3 (most or all of the time [5–7 days this     Throughout the survey, we used the abbreviation LGB and in-
+week]). Cronbach’s alpha for the present study was .93. Depression      cluded instructions explaining its meaning and our rationale for
+scores were strongly correlated with scores on neuroticism and          using it (see the Appendix).
+depression scales in a college student sample (Santor, Zuroff,             We cleaned and managed data in a four-step process. First, we
+Ramsay, Cervantes, & Palacios, 1995).                                   examined the date, time, and origin of submission for all responses
+   Twenty items from the Positive and Negative Affect Scale—            and found no evidence of duplicate surveys. Second, to identify
+Expanded Form (Watson & Clark, 1994) were used to measure               careless or random responders, we examined responses to an item
+five dimensions of affect we believed would be related to aspects       asking people to select the second of five colors listed. We re-
+of LGB identity. Participants rated the amount they had felt the        moved data from five people who responded incorrectly. Third, we
+feeling named in each item within the previous 24 hours on a            removed data from 141 respondents who did not respond to all
+5-point scale ranging from 1 (very slightly or not at all) to 5         LGBIS items, many of whom discontinued the survey very soon
+(extremely). The subscales and associated items were Guilt (guilty,     after completing the consent document. Fourth, we removed data
+angry at self, disgusted with self, dissatisfied with self; ␣ ⫽ .85),   from 12 respondents who identified as exclusively heterosexual.
+Fear (afraid, scared, frightened, nervous; ␣ ⫽ .86), Hostility (an-     The sample described above were all respondents who remained
+gry, hostile, irritable, scornful; ␣ ⫽ .78), Sadness (sad, blue, alone, after completing these four steps.
+lonely; ␣ ⫽ .86), and Self-Assurance (proud, strong, confident,
+bold; ␣ ⫽ .86). Watson and Clark (1994) reported extensive              Results
+evidence supporting the validity and reliability of subscale scores.
+   The 10-item Self-Concealment Scale measured the degree to               The sample was randomly split into two subsamples for the EFA
+which participants have concealed important aspects of themselves       and CFA. We selected a slightly smaller sample size for the EFA
+(Larson & Chastain, 1990). Participants responded to items (e.g.,       (n ⫽ 297) than the CFA (n ⫽ 357), given evidence that the higher
+“I have an important secret that I haven’t shared with anyone”) on      sample size would most benefit the CFA in terms of minimizing
+a 5-point scale of 1 (strongly disagree) to 5 (strongly agree).         bias and parameter estimate variance (Jackson, 2001; MacCallum,
+Cronbach’s alpha for the present study was .89. In a sample of          Widaman, Zhang, & Hong, 1999). The only missing data were
+LGB individuals, Self-Concealment Scale scores were positively          occasional skipped items that appeared to be due to inattentive-
+related to social anxiety and negatively related to social support      ness. In such cases, we scored scales by averaging responses to all
+(Potoczniak, Aldea, & DeBlaere, 2007).                                  rated items for the scale. We believe this strategy was reasonable
+   The 13-item Marlowe-Crowne Social Desirability Scale—Form            given the very low percentage of missing data at the item level
+C was used to measure level of social desirability bias (Reynolds,      (Schafer & Graham, 2002).
+1982). Participants responded “true” or “false” to items (e.g., “I’m       Factor analyses.
+always willing to admit when I make a mistake”). A total score is          Preliminary analyses. Using the EFA subsample, we con-
+derived by summing the number items on which socially desirable         ducted an initial principal components analysis of scores on the 41
+responses were made. Cronbach’s alpha for the present study was         items to determine whether the Pearson correlation matrix was a
+.65. Reynolds (1982) found that this scale was very highly corre-       good candidate for factor analysis. Both the Kaiser-Meyer-Olkin
+lated with the original 33-item version of the Marlowe-Crowne           index (.90) and Bartlett’s test of sphericity ( p ⬍ .001) suggested
+Social Desirability Scale. The form has been found to be positively     that the matrix was appropriate for factor analysis. Distributions of
+associated with measures assessing defensiveness (Robinette,            scores for several items were clearly leptokurtic and positively
+1991).                                                                  skewed, so we selected data analytic strategies known to perform
+   Demographic measures. Participants were asked to complete            better with nonnormal data. All factor analyses were performed
+general demographic items including age, sexual orientation, sex,       using Mplus software Version 5.21 (Muthén & Muthén, 2007).
+race/ethnicity, and geographic location. Response options for the          Determining number of factors. We determined the number
+sexual orientation item were lesbian, gay male, heterosexual, and       of factors to extract using criteria that have been identified as most
+bisexual. We used this item to create a binary variable indicating      helpful in identifying the actual factor structure, including criteria
+whether participants were bisexual or lesbian/gay, such that 0 ⫽        based on the scree plot, parallel analysis, and indicators of good-
+lesbian/gay and 1 ⫽ bisexual.                                           ness of fit (Fabrigar, Wegener, MacCallum, & Strahan, 1999;
+   Procedure. We contacted leaders of LGB student organiza-             Worthington & Whittaker, 2006). The scree plot supported an
+tions at universities in North America, who then posted our an-         eight-factor solution. We conducted the parallel analysis using
+nouncement on their electronic mailing lists. The announcement          code developed by O’Connor (2000), which generated 100 random
+described the study and stated that participants could enter a          permutations of the original data set. We conducted the analysis
+
+                                              LESBIAN, GAY, AND BISEXUAL IDENTITY SCALE                                                239
+two times— once using principal-axis factoring and once using          initial factor analysis. On the basis of these findings, we retained
+principal components analysis— because there is not yet a consen-      all 27 items for the final version of the LGBIS.
+sus on which technique is best to use (O’Connor, 2000). Results           Confirmatory factor analysis. We conducted a CFA on the
+indicated extraction of nine factors when using principal-axis         second random sample to determine the degree to which the EFA
+factoring and six factors when using principal components analy-       factor structure would fit data from a different sample. This anal-
+sis. As a final step in selecting the number of factors to extract, we ysis constrained the 27 items to load on eight correlated factors
+extracted the six-, seven-, eight-, and nine-factor solutions using    such that each item loaded only on the factor on which the item
+maximum-likelihood factor analysis with robust statistics (i.e.,       had the highest absolute loading in the EFA. Robust fit statistics
+Satorra-Bentler scaled chi-square). Three statistics were examined     indicated that this model provided a reasonably good fit (CFI ⫽
+to assess goodness of fit, using the following guidelines for good     .94, SRMR ⫽ .05, RMSEA ⫽ .04). Pattern coefficients for the
+fit suggested by Hu and Bentler (1999): comparative fit index          standardized solution are presented in Table 1.
+(CFI; ⬎.95), standardized root-mean-square residual (SRMR;                Descriptive statistics and reliability estimates. The final 27-
+⬍.08), and root-mean-square error of approximation (RMSEA;             item version of the LGBIS, along with respondent and scoring
+⬍.06). Although none of the factor solutions achieved optimal CFI      instructions, is presented in the Appendix. We computed subscale
+values, the eight-factor solution offered the most favorable profile   scores by averaging scores from the items corresponding to each
+of fit indices (CFI ⫽ .91, SRMR ⫽ .03, RMSEA ⫽ .05).                   subscale, reverse-scoring items as necessary. Subscale means,
+   In short, results favored the eight- and nine-factor solutions. To  standard deviations, and Cronbach’s alpha estimates are in Table
+choose between these two solutions, we examined the respective         2; subscale correlations are in Table 3. Coefficient alphas were
+structure coefficients after applying an oblique rotation using the    sufficiently high for research purposes, ranging from .76 to .89
+CF-Equamax method (which has been found to perform well                across the subsamples. Distributions for four of the subscales had
+relative to other methods when complex factor structures are           skewness coefficients ⬎ .50 in magnitude, although the full range
+expected; Sass & Schmitt, 2010). We selected the eight-factor          of possible scores was represented. These coefficients were as
+solution because it was more consistent with the expected factor       follows (EFA, CFA): Identity Uncertainty (1.06, 1.16), Internal-
+structure.                                                             ized Homonegativity (1.38, 1.37), Identity Superiority (0.98, 1.01),
+                                                                       and Identity Affirmation (⫺1.02, ⫺0.85).
+   Development of LGBIS subscales. We used structure coef-
+                                                                          Validity analysis. Hypothesized associations between LG-
+ficients (see Table 1) to interpret and label the factors from the
+                                                                       BIS subscales and validity measures largely conformed to expec-
+eight-factor solution: (a) Concealment Motivation (concern with
+                                                                       tations. We report results separately for the EFA and CFA samples
+and motivation to protect one’s privacy as an LGB person),
+                                                                       (in that order unless otherwise noted); all reported findings were
+(b) Identity Uncertainty (uncertainty about one’s sexual orientation
+                                                                       statistically significant ( p ⬍ .05) unless otherwise noted. A table
+identity), (c) Internalized Homonegativity (rejection of one’s LGB
+                                                                       of all associations between LGBIS subscales and validity measures
+identity), (d) Difficult Process (perception that one’s LGB identity
+                                                                       is available online via the supplemental materials link at the start
+development process was difficult), (e) Acceptance Concerns
+                                                                       of this article.
+(concern with the potential for stigmatization as an LGB person),
+                                                                          As hypothesized, Acceptance Concerns were negatively associ-
+(f) Identity Superiority (view favoring LGB people over hetero-
+                                                                       ated with Public Collective Self-esteem (r ⫽ ⫺.20, ⫺.33) and Out
+sexual people), (g) Identity Centrality (view of one’s LGB identity    to World (r ⫽ ⫺.55, ⫺.58) and positively associated with Ego-
+as central to one’s overall identity), and (h) Identity Affirmation    Dystonic Homosexuality (r ⫽ .41, .45). Acceptance Concerns
+(affirmation of one’s LGB identity).                                   were positively related to measures of negative psychosocial func-
+   We next determined which items to retain in the scale. We           tioning, including Depression (r ⫽ .46, .34), Guilt (r ⫽ .29, .46),
+retained items only if (a) their highest structure coefficient was at  Fear (r ⫽ .34, .40), Hostility (r ⫽ .27, .41), and Sadness (r ⫽ .32,
+least .45 in absolute magnitude (to ensure a strong relation of each   .40); conversely, this subscale was negatively associated with
+item to the construct it assessed) and (b) the difference between the  measures of positive adjustment, including Satisfaction With Life
+absolute values of the two strongest structure coefficients was at     (r ⫽ ⫺.25, ⫺.28), Social State Self-Esteem (r ⫽ ⫺.44, ⫺.48), and
+least .20 (to maximize subscale distinctiveness). These criteria led   Self-Assurance (only for the CFA sample, r ⫽ ⫺.24; EFA sample,
+to retention of 27 items, such that each factor was represented by     r ⫽ .08, p ⬎ .05).
+three to five items.                                                      Concealment Motivation was negatively related to Out to World
+   Because dropping items can change the factor structure, we          (r ⫽ ⫺.55, ⫺.58) and positively related to Ego-Dystonic Homo-
+heeded Worthington and Whittaker’s (2006) suggestion to conduct        sexuality (r ⫽ .34, .43) and Self-Concealment (r ⫽ .40, .51).
+a final EFA on the reduced set of items. We expected an eight-            Identity Uncertainty was negatively related to the number of
+factor solution would provide a satisfactory fit to data from the      years since reaching LGB development milestones (r ⫽ ⫺.27,
+reduced pool of 27 items. The initial eight-factor solution ac-        ⫺.24). In addition, bisexual individuals had higher Identity Un-
+counted for 71.34% of the shared variance in the 27 items (eigen-      certainty scores than lesbians and gay men (r ⫽ .48, .51).
+values for unrotated Factors 1– 8 were 6.75, 3.23, 2.50, 1.87, 1.49,      Internalized Homonegativity was positively related to Ego-
+1.29, 1.11, and 1.02, respectively). This solution fit the observed    Dystonic Homosexuality (r ⫽ .83, .85) and negatively related to
+data well (CFI ⫽ .99, SRMR ⫽ .02, RMSEA ⫽ .03). After                  SGO (r ⫽ ⫺.41, ⫺.43). It was positively related to measures of
+applying a CF-Equamax rotation, the eight factors closely resem-       negative psychosocial functioning, including Depression (r ⫽
+bled those retained from the initial eight-factor solution based on    .21, .22), Guilt (r ⫽ .17, .38), Fear (r ⫽ .17, .29), Sadness (r ⫽
+the original item pool. Communalities ranged from .30 to .94 (M ⫽      .17, .31), and Hostility (only for the CFA sample, r ⫽ .25; EFA
+.60). Items fulfilled the basic requirements for retention used in the sample, r ⫽ .08, p ⬎ .05). Internalized Homonegativity was
+
+240                                                               MOHR AND KENDRA
+Table 1
+Factor Loadings and Extracted Communalities for LGBIS Items (Study 1)
+                                                                        Exploratory factor analysis structure coefficients
+                                                                                                                                  Confirmatory factor
+                                Item                                  1       2      3      4      5       6       7       8   h2      analysis
+I keep careful control over who knows about my same-sex
+   romantic relationships.a                                            .82   .23     .30   .29     .48   ⫺.21    ⫺.23 ⫺.24    .74         .74
+I prefer to keep my same-sex romantic relationships rather
+   private.a                                                           .74   .16     .30 .23       .28   ⫺.17    ⫺.30   ⫺.28  .58         .67
+My sexual orientation is a very personal and private matter.a          .67   .14     .20 .16       .07   ⫺.14    ⫺.24   ⫺.19  .47         .62
+I think very carefully before coming out to someone.a                  .49   .19     .22 .27       .38   ⫺.10    ⫺.07   ⫺.15  .31
+My private sexual behavior is nobody’s business.a                      .38   .05     .10 ⫺.01    ⫺.02    ⫺.08    ⫺.17     .12 .23
+I’m not totally sure what my sexual orientation is.a                   .25   .84     .13 .06       .24   ⫺.03    ⫺.18   ⫺.16  .74         .86
+I get very confused when I try to figure out my sexual
+   orientation.a                                                       .21   .83     .22   .16     .15     .10     .00  ⫺.20  .73         .84
+I keep changing my mind about my sexual orientation.a                  .17   .81     .15   .12     .25     .12   ⫺.08   ⫺.13  .66         .69
+I can’t decide whether I am bisexual or homosexual.a                   .11   .69     .11   .13     .24     .07   ⫺.02   ⫺.11  .49         .65
+If it were possible, I would choose to be straight.a                   .35   .13     .89   .43     .34   ⫺.09    ⫺.19   ⫺.42  .83         .74
+I wish I were heterosexual.a                                           .32   .20     .88   .34     .26   ⫺.03    ⫺.16   ⫺.46  .80         .74
+I believe it is unfair that I am attracted to people of the same
+   sex.                                                                .21   .15     .67   .36     .40   ⫺.01    ⫺.13   ⫺.47  .55         .53
+I feel ashamed of my sexual orientation.                               .34   .23     .50   .28     .35   ⫺.05    ⫺.07   ⫺.48  .41
+I sometimes resent my sexual orientation.                              .21   .22     .44   .40     .37     .04     .01  ⫺.19  .32
+My life would be more fulfilling if I were heterosexual.a              .20   .08     .35   .23     .11     .05   ⫺.01   ⫺.21  .16
+Admitting to myself that I’m an LGB person has been a very
+   painful process.a                                                   .19   .09     .35   .91     .32     .01     .04 ⫺.16   .83         .84
+Admitting to myself that I’m an LGB person has been a very
+   slow process.a                                                      .31   .18     .35   .72     .21     .01     .03 ⫺.16   .55         .81
+I have felt comfortable with my sexual identity just about
+   from the start.a                                                  ⫺.18 ⫺.07     ⫺.21 ⴚ.61     ⫺.14      .12     .01    .27 .42        ⫺.63
+Developing as an LGB person has been a fairly natural process
+   for me.a                                                          ⫺.38 ⫺.12     ⫺.35 ⫺.56     ⫺.19      .12     .14    .43 .46
+Coming out to my friends and family has been a very lengthy
+   process.a                                                           .31   .13     .16   .36     .31     .03   ⫺.04 ⫺.06    .22
+I think a lot about how my sexual orientation affects the way
+   people see me.a                                                     .26   .21     .26   .21     .74   ⫺.03      .13 ⫺.16   .57         .53
+I often wonder whether others judge me for my sexual
+   orientation.a                                                       .22   .17     .17   .25     .72   ⫺.02    ⫺.04 ⫺.07    .53         .62
+I can’t feel comfortable knowing that others judge me
+   negatively for my sexual orientation.a                              .43   .20     .34   .30     .63     .03   ⫺.14 ⫺.31    .50         .66
+I wish I could control my feelings of attraction toward people of
+   the same sex.                                                       .36   .32     .53   .31     .54   ⫺.06    ⫺.18 ⫺.42    .52
+If you are not careful about who you “come out” to, you can get
+   very hurt.a                                                         .35   .18     .18   .43     .49     .01     .12    .00 .40
+I will never be able to accept my sexual orientation until all of
+   the people in my life have accepted me.a                            .41   .36     .40   .35     .48     .02     .00 ⫺.31   .43
+Being an LGB person makes me feel insecure around straight
+   people.a                                                            .27   .14     .34   .28     .43     .26     .04 ⫺.26   .35
+I look down on heterosexuals.a                                       ⫺.10    .07   ⫺.08  ⫺.01      .01     .75     .14 .06    .58         .65
+I feel that LGB people are superior to heterosexuals.                ⫺.15    .00   ⫺.06  ⫺.04    ⫺.07      .65     .07 .15    .44         .81
+Straight people have boring lives compared with LGB people.a         ⫺.08    .08     .11 ⫺.03    ⫺.01      .62     .12 ⫺.05   .42         .73
+Being an LGB person is a very important aspect of my life.           ⫺.40  ⫺.12    ⫺.25  ⫺.07    ⫺.06      .27     .85 .51    .81         .60
+I believe being LGB is an important part of me.                      ⫺.33  ⫺.14    ⫺.25  ⫺.01    ⫺.04      .26     .82 .51    .75         .89
+My sexual orientation is a central part of my identity.              ⫺.30  ⫺.14    ⫺.15    .02   ⫺.04      .22     .74 .28    .58         .79
+My sexual orientation is an insignificant part of who I am.            .13 ⫺.01      .17 ⫺.01    ⫺.07    ⫺.11    ⴚ.60 ⫺.08    .40         .54
+To understand who I am as a person, you have to know that
+   I’m LGB.                                                          ⫺.16  ⫺.08    ⫺.04    .05     .07     .24     .52    .16 .30         .53
+I am glad to be an LGB person.a                                      ⫺.29  ⫺.24    ⫺.56  ⫺.30    ⫺.27      .09     .35    .78 .70         .81
+I am proud to be LGB.                                                ⫺.36  ⫺.21    ⫺.46  ⫺.24    ⫺.21      .15     .49    .77 .70         .90
+I am thankful for my sexual orientation.                             ⫺.26  ⫺.14    ⫺.52  ⫺.20    ⫺.17      .23     .37    .68 .57
+I see my sexual orientation as a gift.                               ⫺.28  ⫺.16    ⫺.40  ⫺.12    ⫺.13      .24     .39    .54 .40
+I’m proud to be part of the LGB community.a                          ⫺.24  ⫺.01    ⫺.17  ⫺.21    ⫺.07      .18     .27    .48 .30         .58
+In general, I believe that LGB sexual orientations are as fulfilling
+   as heterosexuality.                                               ⫺.16 ⫺.17     ⫺.36 ⫺.07     ⫺.19    ⫺.03      .03    .43 .26
+Note. Items and structure coefficients in bold indicate items retained in the final version of the LGBIS. 1 ⫽ Concealment Motivation; 2 ⫽ Identity
+Uncertainty; 3 ⫽ Internalized Homonegativity; 4 ⫽ Difficult Process; 5 ⫽ Acceptance Concerns; 6 ⫽ Identity Superiority; 7 ⫽ Identity Centrality; 8 ⫽
+Identity Affirmation; LGB ⫽ lesbian, gay, and bisexual; LGBIS ⫽ Lesbian, Gay, and Bisexual Identity Scale.
+a
+  Item was adapted from the LGIS.
+
+                                                LESBIAN, GAY, AND BISEXUAL IDENTITY SCALE                                                           241
+Table 2
+Descriptive Statistics and Reliability Estimates for Study 1 and Study 2 Samples
+                                                      Study 1                                                Study 2
+                                   Exploratory factor         Confirmatory factor
+       Lesbian, Gay, and          analysis (N ⫽ 297)           analysis (N ⫽ 357)           Time 1 (N ⫽ 51)          Time 2 (N ⫽ 51)
+   Bisexual Identity Scale                                                                                                                  Test–retest
+            subscale             ␣        M        SD         ␣        M         SD       ␣       M        SD       ␣        M      SD           r
+1.  Acceptance Concerns         .77      3.35     1.23       .76      3.43      1.21     .82     3.30     1.37     .74      3.06   1.22         .83
+2.  Concealment Motivation      .78      3.23     1.28       .79      3.25      1.31     .72     2.80     1.18     .72      2.97   1.13         .70
+3.  Identity Uncertainty        .88      2.00     1.19       .89      2.02      1.25     .93     1.81     1.11     .89      1.91   1.07         .87
+4.  Internalized
+   Homonegativity               .87      1.92     1.19       .86      1.96      1.19     .89     1.82     1.23     .93      1.86   1.27         .92
+5. Difficult Process            .79      3.27     1.39       .82      3.25      1.40     .86     2.95     1.52     .88      2.77   1.39         .92
+6. Identity Superiority         .78      1.97     0.98       .81      2.10      1.06     .82     1.99     1.08     .83      1.88   1.01         .81
+7. Identity Affirmation         .89      4.81     1.10       .89      4.84      1.02     .94     5.13     1.04     .91      4.96   1.18         .91
+8. Identity Centrality          .86      4.01     1.14       .85      4.17      1.08     .84     4.10     1.13     .83      4.19   1.12         .80
+negatively related to Satisfaction With Life (r ⫽ ⫺.28, ⫺.21)                     culties, including Depression (only for the EFA sample, r ⫽ ⫺.19;
+and Social State Self-Esteem (r ⫽ ⫺.33, ⫺.33), but not Self-                      CFA sample, r ⫽ .11, p ⬎ .05), Guilt (r ⫽ ⫺.20, ⫺.39), Fear (only
+Assurance (r ⫽ ⫺.06, ⫺.13, both ps ⬎ .05).                                        for the CFA sample, r ⫽ ⫺.29; EFA sample, r ⫽ .01, p ⬎ .05),
+    Difficult Process was positively related to Ego-Dystonic Ho-                  Sadness (r ⫽ ⫺.17, ⫺.32), and Hostility (only for the CFA sample,
+mosexuality (r ⫽ .47, .51). It was also positively related to                     r ⫽ ⫺.25; EFA sample, r ⫽ ⫺.03, p ⬎ .05). Conversely, Identity
+measures of negative psychosocial functioning, including De-                      Affirmation was positively associated with Satisfaction With Life
+pression (r ⫽ .25, .31), Guilt (r ⫽ .21, .36), Fear (only for the                 (r ⫽ .23, .25), Social State Self-Esteem (r ⫽ .25, .26), and
+CFA sample, r ⫽ .29; EFA sample, r ⫽ .13, p ⬎ .05), Sadness                       Self-Assurance (r ⫽ .27, .29).
+(only for the CFA sample, r ⫽ .35; EFA sample, r ⫽ .11, p ⬎                          The Social Desirability Scale was not significantly associated
+.05), and Hostility (only for the CFA sample, r ⫽ .19; EFA                        with Acceptance Concerns, Concealment Motivation, Difficult
+sample, r ⫽ .04, p ⬎ .05). Conversely, Difficult Process was                      Process, Identity Confusion, or Identity Centrality. However,
+negatively related to Satisfaction With Life (r ⫽ ⫺.21, ⫺.24),                    small, significant correlations were found for Internalized Homon-
+Social State Self-Esteem (r ⫽ ⫺.22, ⫺.34), and Self-Assurance                     egativity (only for the CFA sample, r ⫽ ⫺.18; EFA sample, r ⫽
+(only for the CFA sample, r ⫽ ⫺.33; EFA sample, r ⫽ ⫺.03,                         .02, p ⬎ .05), Identity Superiority (r ⫽ ⫺.22, ⫺.24), and Identity
+p ⬎ .05).                                                                         Affirmation (only for the CFA sample, r ⫽ .19; EFA sample, r ⫽
+    The main hypothesis related to Identity Superiority was sup-                  .00, p ⬎ .05).
+ported: It was negatively related to the degree of interest in
+interacting with heterosexuals, that is, OGO (r ⫽ ⫺.38, ⫺.47).
+    Identity Centrality was positively related to Importance to Iden-                            Study 2: Test–Retest Reliability
+tity (r ⫽ .76, .81) and SGO (r ⫽ .55, .53), as hypothesized.
+    Identity Affirmation was negatively associated with Ego-                         The main purpose of this study was to examine the test–retest
+Dystonic Homosexuality (r ⫽ ⫺.56, ⫺.64) and positively associ-                    reliability of the LGBIS. A secondary purpose was to obtain
+ated with Importance to Identity (r ⫽ .41, .44) and SGO (r ⫽ .73,                 additional descriptive statistics and internal consistency reliability
+.73). It was negatively related to measures of psychosocial diffi-                estimates for the LGBIS.
+Table 3
+Subscale Intercorrelations for Study 1
+   Lesbian, Gay, and Bisexual
+      Identity Scale subscale              1               2                3               4             5              6           7              8
+                                                              ⴱⴱ              ⴱⴱ              ⴱⴱ            ⴱⴱ                          ⴱ
+1.  Acceptance Concerns                   —               .37              .33             .38           .40           .08        ⫺.22             .13ⴱ
+2.  Concealment Motivation                .42ⴱⴱ           —                .36ⴱⴱ           .39ⴱⴱ         .37ⴱⴱ       ⫺.09         ⫺.39ⴱ          ⫺.25ⴱⴱ
+3.  Identity Uncertainty                  .29ⴱⴱ           .24ⴱⴱ            —               .39ⴱⴱ         .33ⴱⴱ         .00        ⫺.38ⴱⴱ         ⫺.19ⴱⴱ
+4.  Internalized Homonegativity           .42ⴱⴱ           .37ⴱⴱ            .20ⴱⴱ            —            .41ⴱⴱ       ⫺.05         ⫺.63ⴱⴱ         ⫺.33ⴱⴱ
+5.  Difficult Process                     .34ⴱⴱ           .30ⴱⴱ            .17ⴱⴱ           .44ⴱⴱ         —           ⫺.01         ⫺.35ⴱⴱ         ⫺.05
+6.  Identity Superiority                ⫺.02            ⫺.15ⴱⴱ             .08           ⫺.05          ⫺.03             —           .09            .31ⴱⴱ
+7.  Identity Affirmation                ⫺.33ⴱⴱ          ⫺.41ⴱⴱ           ⫺.24ⴱⴱ          ⫺.60ⴱⴱ        ⫺.33ⴱⴱ          .11           —             .52ⴱⴱ
+8.  Identity Centrality                 ⫺.07            ⫺.37ⴱⴱ           ⫺.12ⴱ           ⫺.26ⴱⴱ        ⫺.01            .21ⴱⴱ        .52ⴱⴱ          —
+Note. Pearson correlation coefficients below the diagonal are from the exploratory factor analysis subsample (n ⫽ 297). Pearson correlation coefficients
+above the diagonal are from the confirmatory factor analysis subsample (n ⫽ 357).
+ⴱ
+  p ⬍ .05. ⴱⴱ p ⬍ .01.
+
+242                                                         MOHR AND KENDRA
+Method                                                                David, 2003). Future research will help to clarify the unique roles
+                                                                      of identity affirmation and internalized homonegativity in the
+   Participants and procedure. The sample comprised 51 stu-           everyday experiences of LGB people.
+dents from 13 universities in the United States who were recruited       The lack of simple factorial structure in the LGBIS item pool
+for a study of same-sex romantic relationships in which they were     underscores the importance of careful attention to measurement of
+surveyed twice with approximately six weeks between surveys           dimensions of LGB identity. Consider, for example, the item “I
+(see Mohr & Daly, 2008). Regarding sexual orientation and gen-        wish I could control my feelings of attraction toward people of the
+der, 42 identified as lesbian/gay (29 female, 13 male), seven         same sex,” which had equally high loadings on Internalized
+identified as bisexual (three female, four male), and two identified  Homonegativity and Acceptance Concerns. Inclusion of this item
+as queer (two female). Ages ranged from 18 to 45 years (M ⫽           in either subscale would have adversely affected subscale validity
+22.65 years, SD ⫽ 5.11). Participants’ sexual orientation identities  and compromised interpretation of findings based on the subscale.
+ranged from 5 (somewhat more homosexual) to 7 (exclusively            The use of factor analysis with diverse identity-related items in the
+homosexual; M ⫽ 6.10, SD ⫽ .73). The sample represented the           present study increases the likelihood that LGBIS subscales are
+following nonmutually exclusive racial/ethnic groups: nine Afri-      relatively pure indicators of the corresponding dimensions of iden-
+can American/Black, one Asian American/Pacific Islander, one          tity (at least among college students).
+Latino/Hispanic, four Native American/American Indian, and 38            Associations among the eight LGBIS subscales were relatively
+White/Caucasian.                                                      consistent across samples. Identity Superiority was unrelated to
+   Measures. The 27 items of the LGBIS developed in Study 1           most other subscales, except for positive correlations with Identity
+were included in both Time 1 and Time 2 surveys. The survey           Centrality. Identity Centrality was strongly and positively associ-
+included several measures not reported here, which assessed psy-      ated with Identity Affirmation (rs ⬎ .50). Finally, intercorrelations
+chosocial functioning, demographics, and other LGB identity-          were found among Acceptance Concerns, Concealment Motiva-
+related variables.                                                    tion, Identity Uncertainty, Internalized Homonegativity, Difficult
+                                                                      Process, and Identity Affirmation. These correlations were all
+Results                                                               positive except for those involving Identity Affirmation. It seems
+                                                                      possible that underlying these interrelations is a second-order
+   Descriptive and reliability statistics for the eight LGBIS sub-    factor reflecting a person’s adaptation to stigma on a positive-to-
+scales are presented in Table 2. Six-week test–retest correlation     negative continuum. It would be valuable to investigate this pos-
+coefficients for the LGBIS subscales ranged from .70 to .92. These    sibility in future research on the LGBIS.
+results suggest that there was a moderate to high degree of stability    The clearest convergent validity evidence emerged for Conceal-
+in LGBIS subscale scores over a 6- week period. Cronbach’s alpha      ment Motivation, Internalized Homonegativity, Identity Affirma-
+estimates ranged between .72 and .94, indicating moderate to high     tion, and Identity Centrality. Each of these subscales evidenced
+levels of internal consistency reliability.                           strong correlations (⬎.50 in magnitude) with established measures
+                                                                      of identical or closely related constructs. Moreover, these correla-
+                             Discussion                               tions were notably stronger than those of other LGBIS subscales
+                                                                      with the same validity measures. Although we believe this study
+   The two studies presented here describe the development and        offered good preliminary support for other LGBIS subscales, the
+psychometric properties of the 27-item LGBIS. EFA and CFA of          study would have been strengthened by including validity mea-
+data from geographically diverse LGB university students sup-         sures more closely related to the LGBIS constructs. For example,
+ported the creation of eight short subscales assessing diverse        our validity evidence for Identity Uncertainty would have been
+identity-related variables. The measure addresses limitations of the  stronger if our survey had included the Sexual Orientation Identity
+LGIS—the measure on which the LGBIS is based— by using                Uncertainty subscale of the Measure of Sexual Identity Explora-
+language that is inclusive of bisexual people, eliminating phrases    tion and Commitment (Worthington et al., 2008).
+likely to be perceived as insensitive or pathologizing, improving        The strongest links between LGB identity and psychosocial
+the internal consistency reliability of Identity Superiority scores,  functioning involved Acceptance Concerns, suggesting that preoc-
+and assessing identity centrality and affirmation. Results generally  cupation with one’s potential for being stigmatized may have
+supported the validity and reliability of LGBIS subscale scores       marked implications for mood and interpersonal well-being. This
+with LGB college students, suggesting that the LGBIS may offer        finding is consistent with social-cognitive models of secrecy that
+researchers an efficient means of assessing dimensions of LGB         highlight the destructive role of preoccupation that can accompany
+identity in this population.                                          concealment of stigmatized characteristics (Smart & Wegner,
+   The identity-related factors that emerged largely mirrored those   2000).
+from the original LGIS test development study, except for the            LGBIS subscales were mostly weakly associated with a social
+predicted Identity Centrality and Identity Affirmation factors. The   desirability measure. The main exception was the small-to-
+evidence of highly related but distinct affirmation and homonega-     moderate negative correlations between the Social Desirability
+tivity factors in the present study parallels results from a study    Scale and Identity Superiority. This result is an interesting example
+reporting the development of an internalized homonegativity scale     of how interpersonal patterns may shape the way people from
+for gay men (Mayfield, 2001). This finding is interesting because     stigmatized groups report their views of majority group members.
+it suggests that positive feelings about one’s LGB identity are not   In this case, participants who were motivated to present themselves
+merely the opposite of negative feelings, similar to evidence of the  in socially desirable ways were more likely than others to deny
+independence of positive and negative affect (Reich, Zautra, &        preferring LGB people to heterosexuals.
+
+                                              LESBIAN, GAY, AND BISEXUAL IDENTITY SCALE                                                          243
+   The reliability of LGBIS subscale scores appears adequate for       identity formation by examining change in and interrelations
+most research purposes. Mean internal consistency estimates            among components of identity over time. Moreover, the LGBIS
+across samples ranged from .75 to .91, and 6-week test–retest          can be used to investigate differences in levels and correlates of
+correlations ranged from .70 to .92. Temporal stability was lowest     identity variables across sexual orientation groups. Finally, the
+for Concealment Motivation and highest for Internalized Homon-         LGBIS may be useful for researchers and clinicians who wish to
+egativity, Identity Affirmation, and Difficult Process. These dis-     examine the effects of counseling interventions on aspects of
+parities in stability may reflect differences in the degree to which   identity associated with minority stress processes. Such investiga-
+dimensions of LGB identity are influenced by situational factors.      tions could help to identify mechanisms through which specific
+For example, one’s motivation to conceal a stigmatized identity        interventions influence dimensions of identity and, in turn, psy-
+likely depends more on immediate social context (e.g., whether         chosocial functioning in LGB clients.
+one’s focus is on final exams or organizing an LGB-related event)
+than does one’s belief about the difficulty of one’s identity-
+formation process, which reflects a personal narrative developed                                       References
+over time.
+                                                                       Ashmore, R. D., Deaux, K., & McLaughlin-Volpe, T. (2004). An organiz-
+   Although preliminary evidence supported the reliability and            ing framework for collective identity: Articulation and significance of
+validity of LGBIS scores, it is important to highlight some limi-         multidimensionality. Psychological Bulletin, 130, 80 –114. doi:10.1037/
+tations of the present studies and the measure itself. One signifi-       0033-2909.130.1.80
+cant limitation concerns the degree to which the psychometric          Balsam, K. F., & Mohr, J. J. (2007). Adaptation to sexual orientation
+properties of the LGBIS would vary for different populations. All         stigma: A comparison of bisexual and lesbian/gay adults. Journal of
+participants were college students, most of whom were White and           Counseling Psychology, 54, 306 –319. doi:10.1037/0022-0167.54.3.306
+relatively out and proud with respect to their sexual orientation (as  Diamond, L. M. (2005). A new view of lesbian subtypes: Stable versus
+evidenced by the negatively skewed Identity Affirmation distribu-         fluid identity trajectories over an 8-year period. Psychology of Women
+tion). The factor structure and correlates of the LGBIS may differ        Quarterly, 29, 119 –128. doi:10.1111/j.1471-6402.2005.00174.x
+                                                                       Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The
+for people whose life contexts lead them to understand and re-
+                                                                          Satisfaction With Life Scale. Journal of Personality Assessment, 49,
+spond to their sexual orientation identity in a different way from        71–75. doi:10.1207/s15327752jpa4901_13
+college students. This point notwithstanding, it is worth noting that  Fabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J.
+the factor structure of the LGBIS is very similar to the factor           (1999). Evaluating the use of exploratory factor analysis in psycholog-
+structure of the LGIS identified through analysis of data from a          ical research. Psychological Methods, 4, 272–299. doi:10.1037/1082-
+different population.                                                     989X.4.3.272
+   Another limitation of the study is that all validity estimates were Heatherton, T. F., & Polivy, J. (1991). Development and validation of a
+based on concurrent self-reports and thus were likely inflated due        scale for measuring state self-esteem. Journal of Personality and Social
+to shared method variance. The case for the validity of LGBIS             Psychology, 60, 895–910. doi:10.1037/0022-3514.60.6.895
+scores will be strengthened to the degree that scores can be shown     Herek, G. M., & Glunt, E. K. (1995). Identity and community among gay
+                                                                          and bisexual men in the AIDS era: Preliminary findings from the
+to be associated in predicted ways with reports from multiple
+                                                                          Sacramento Men’s Health Study. In G. M. Herek & B. Greene (Eds.),
+sources (e.g., peers, family members, clinicians, observers). More-       AIDS, identity, and community: The HIV epidemic and lesbians and gay
+over, the measure of social desirability suffered from low internal       men (pp. 55– 84). Thousand Oaks, CA: Sage.
+consistency reliability. Other methodological limitations include      Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance
+the lack of counterbalancing of measures in surveys and the               structure analysis: Conventional criteria versus new alternatives. Struc-
+limited number of procedures used to identify inattentive respon-         tural Equation Modeling, 6, 1–55.
+dents.                                                                 Jackson, D. L. (2001). Sample size and number of parameter estimates in
+   Our decision to assess dimensions of a global LGB identity             maximum likelihood confirmatory factor analysis: A Monte Carlo in-
+rather than a more specific identity group (e.g., lesbian) naturally      vestigation. Structural Equation Modeling, 8, 205–223. doi:10.1207/
+limits the use of the LGBIS to measurement of perceptions related         S15328007SEM0802_3
+                                                                       Larson, D. G., & Chastain, R. L. (1990). Self-concealment: Conceptual-
+to a person’s status as a sexual orientation minority. The implica-
+                                                                          ization, measurement, and health implications. Journal of Social &
+tions of this decision are apparent when considering whether LGB          Clinical Psychology, 9, 439 – 455.
+people might respond differently to items depending on whether         Luhtanen, R. K., & Crocker, J. (1992). A collective self-esteem scale:
+the social identity reference is LGB versus a more specific group         Self-evaluation of one’s social identity. Personality and Social Psychol-
+(e.g., affirmation of one’s identity as LGB vs. bisexual). Investi-       ogy Bulletin, 18, 302–318. doi:10.1177/0146167292183006
+gation of this possibility would contribute to greater understanding   MacCallum, R. C., Widaman, K. F., Zhang, S., & Hong, S. (1999). Sample
+of constructs assessed by the LGBIS and provide insight into ways         size in factor analysis. Psychological Methods, 4, 84 –99. doi:10.1037/
+that LGB people understand their various social identities related        1082-989X.4.1.84
+to sexual orientation.                                                 Martin, J. L., & Dean, L. L. (1987). Ego-Dystonic Homosexuality Scale.
+   The LGBIS offers researchers and clinicians a tool for assessing       Unpublished manuscript, Columbia University, New York, NY.
+                                                                       Mayfield, W. (2001). The development of an internalized homonegativity
+and investigating many dimensions of LGB identity that have been
+                                                                          inventory for gay men. Journal of Homosexuality, 41, 53–76. doi:
+discussed in the theoretical literature on identity formation. Al-        10.1300/J082v41n03_05
+though subscales could be used to address questions about single       Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian,
+dimensions of identity, the LGBIS may be especially well suited to        gay, and bisexual populations: Conceptual issues and research evidence.
+address questions about identity as a multidimensional phenome-           Psychological Bulletin, 129, 674 – 697. doi:10.1037/0033-
+non. For example, the LGBIS could be used to test models of LGB           2909.129.5.674
+
+244                                                              MOHR AND KENDRA
+Meyer, I. H. (2007). Prejudice and discrimination as social stressors. In   Robinette, R. L. (1991). The relationship between the Marlowe-Crowne
+  I. H. Meyer & M. E. Northridge (Eds.), The health of sexual minorities      Form C and the validity scales of the MMPI. Journal of Clinical
+  (pp. 242–267). New York, NY: Springer.                                      Psychology, 47, 396 –399. doi:10.1002/1097-4679(199105)47:3⬍396::
+Mohr, J. J., & Daly, C. A. (2008). Sexual minority stress and changes in      AID-JCLP2270470311⬎3.0.CO;2-K
+  relationship quality in same-sex couples. Journal of Social and Personal  Russell, S. T., Clarke, T. J., & Clary, J. (2009). Are teens “post-gay”?
+  Relationships, 25, 989 –1007. doi: 10.1177/0265407508100311                 Contemporary adolescents’ sexual identity labels. Journal of Youth and
+Mohr, J. J., & Fassinger, R. (2000). Measuring dimensions of lesbian and      Adolescence, 38, 884 – 890. doi:10.1007/s10964-008-9388-2
+  gay male experience. Measurement and Evaluation in Counseling and         Santor, D. A., Zuroff, D. C., Ramsay, J. O., Cervantes, P., & Palacios, J.
+  Development, 33, 66 –90.                                                    (1995). Examining scale discriminability in the BDI and CES-D as a
+Moradi, B., Mohr, J. J., Worthington, R. L., & Fassinger, R. E. (2009).       function of depressive severity. Psychological Assessment, 7, 131–139.
+  Counseling psychology research on sexual (orientation) minority issues:     doi:10.1037/1040-3590.7.2.131
+  Conceptual and methodological challenges and opportunities. Journal of    Sass, D. A., & Schmitt, T. A. (2010). A comparative investigation of
+  Counseling Psychology, 56, 5–22. doi:10.1037/a0014572                       rotation criteria within exploratory factor analysis. Multivariate Behav-
+Muthén, L. K., & Muthén, B. O. (2007). Mplus Version 5 [Computer            ioral Research, 45, 73–103. doi:10.1080/00273170903504810
+  software]. Los Angeles, CA: Author.                                       Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the state
+O’Connor, B. P. (2000). SPSS and SAS programs for determining the             of the art. Psychological Methods, 7, 147–177. doi:10.1037/1082-
+  number of components using parallel analysis and Velicer’s MAP test.
+                                                                              989X.7.2.147
+  Behavior Research Methods, Instruments, & Computers, 32, 396 – 402.
+                                                                            Smart, L., & Wegner, D. M. (2000). The hidden costs of hidden stigma. In
+Phinney, J. S. (1992). The Multigroup Ethnic Identity Measure: A new
+                                                                              T. F. Heatherton, R. E. Kleck, M. R. Hebl, & J. G. Hull (Eds.), The
+  scale for use with diverse groups. Journal of Adolescent Research, 7,
+                                                                              social psychology of stigma (pp. 220 –242). New York, NY: Guilford
+  156 –176. doi:10.1177/074355489272003
+                                                                              Press.
+Potoczniak, D. J., Aldea, M. A., & DeBlaere, C. (2007). Ego identity,
+                                                                            Swim, J. K., Johnston, K., & Pearson, N. B. (2009). Daily experiences with
+  social anxiety, social support, and self-concealment in lesbian, gay, and
+                                                                              heterosexism: Relations between heterosexist hassles and psychological
+  bisexual individuals. Journal of Counseling Psychology, 54, 447– 457.
+                                                                              well-being. Journal of Social & Clinical Psychology, 28, 597– 629.
+  doi:10.1037/0022-0167.54.4.447
+Radloff, L. S. (1977). The CES-D Scale: A self-report depression scale for    doi:10.1521/jscp.2009.28.5.597
+  research in the general population. Applied Psychological Measurement,    Szymanski, D. M., & Chung, Y. B. (2001). The Lesbian Internalized
+  1, 385– 401. doi:10.1177/014662167700100306                                 Homophobia Scale: A rational/theoretical approach. Journal of Homo-
+Reich, J. W., Zautra, A. J., & David, M. (2003). Dimensions of affect         sexuality, 41, 37–52. doi:10.1300/J082v41n03_04
+  relationships: Models and their integrative implications. Review of Gen-  Watson, D., & Clark, L. A. (1994). The PANAS-X: Manual for the Positive
+  eral Psychology, 7, 66 – 83. doi:10.1037/1089-2680.7.1.66                   and Negative Affect Schedule-Expanded Form. Unpublished manuscript,
+Reise, S. P., Waller, N. G., & Comrey, A. L. (2000). Factor analysis and      University of Iowa, Iowa City, IA.
+  scale revision. Psychological Assessment, 12, 287–297. doi:10.1037/       Williamson, I. R. (2000). Internalized homophobia and health issues af-
+  1040-3590.12.3.287                                                          fecting lesbians and gay men. Health Education Research, 15, 97–107.
+Reynolds, W. M. (1982). Development of reliable and valid short forms of      doi:10.1093/her/15.1.97
+  the Marlowe-Crowne Social Desirability Scale. Journal of Clinical         Worthington, R. L., Navarro, R. L., Savoy, H. B., & Hampton, D. (2008).
+  Psychology, 38, 119 –125. doi:10.1002/1097-4679(198201)38:1⬍119::           Development, reliability, and validity of the Measure of Sexual Identity
+  AID-JCLP2270380118⬎3.0.CO;2-I                                               Exploration and Commitment (MoSIEC). Developmental Psychology,
+Riggle, E. D. B., Whitman, J. S., Olson, A., Rostosky, S. S., & Strong, S.    44, 22–33. doi:10.1037/0012-1649.44.1.22
+  (2008). The positive aspects of being a lesbian or gay man. Professional  Worthington, R. L., & Whittaker, T. A. (2006). Scale development research:
+  Psychology: Research and Practice, 39, 210 –217. doi:10.1037/0735-          A content analysis and recommendations for best practices. Counseling
+  7028.39.2.210                                                               Psychologist, 34, 806 – 838. doi:10.1177/0011000006288127
+
+                                                   LESBIAN, GAY, AND BISEXUAL IDENTITY SCALE                                                  245
+                                                                        Appendix
+                                                    Lesbian, Gay, and Bisexual Identity Scale
+   For each of the following questions, please mark the response that best indicates your current experience as an LGB person. Please be
+as honest as possible: Indicate how you really feel now, not how you think you should feel. There is no need to think too much about any
+one question. Answer each question according to your initial reaction and then move on to the next.
+                                                                          Disagree  Disagree     Disagree       Agree       Agree   Agree Strongly
+                                                                          Strongly              Somewhat      Somewhat
+ 1. I prefer to keep my same-sex romantic relationships rather
+    private.                                                                  1         2           3             4          5            6
+ 2. If it were possible, I would choose to be straight.                       1         2           3             4          5            6
+ 3. I’m not totally sure what my sexual orientation is.                       1         2           3             4          5            6
+ 4. I keep careful control over who knows about my same-sex
+    romantic relationships.                                                   1         2           3             4          5            6
+ 5. I often wonder whether others judge me for my sexual
+    orientation.                                                              1         2           3             4          5            6
+ 6. I am glad to be an LGB person.                                            1         2           3             4          5            6
+ 7. I look down on heterosexuals.                                             1         2           3             4          5            6
+ 8. I keep changing my mind about my sexual orientation.                      1         2           3             4          5            6
+ 9. I can’t feel comfortable knowing that others judge me negatively
+    for my sexual orientation.                                                1         2           3             4          5            6
+10. I feel that LGB people are superior to heterosexuals.                     1         2           3             4          5            6
+11. My sexual orientation is an insignificant part of who I am.               1         2           3             4          5            6
+12. Admitting to myself that I’m an LGB person has been a very
+    painful process.                                                          1         2           3             4          5            6
+13. I’m proud to be part of the LGB community.                                1         2           3             4          5            6
+14. I can’t decide whether I am bisexual or homosexual.                       1         2           3             4          5            6
+15. My sexual orientation is a central part of my identity.                   1         2           3             4          5            6
+16. I think a lot about how my sexual orientation affects the way
+    people see me.                                                            1         2           3             4          5            6
+17. Admitting to myself that I’m an LGB person has been a very
+    slow process.                                                             1         2           3             4          5            6
+18. Straight people have boring lives compared with LGB people.               1         2           3             4          5            6
+19. My sexual orientation is a very personal and private matter.              1         2           3             4          5            6
+20. I wish I were heterosexual.                                               1         2           3             4          5            6
+21. To understand who I am as a person, you have to know that I’m
+    LGB.                                                                      1         2           3             4          5            6
+22. I get very confused when I try to figure out my sexual
+    orientation.                                                              1         2           3             4          5            6
+23. I have felt comfortable with my sexual identity just about from
+    the start.                                                                1         2           3             4          5            6
+24. Being an LGB person is a very important aspect of my life.                1         2           3             4          5            6
+25. I believe being LGB is an important part of me.                           1         2           3             4          5            6
+26. I am proud to be LGB.                                                     1         2           3             4          5            6
+27. I believe it is unfair that I am attracted to people of the same sex.     1         2           3             4          5            6
+   For comparability to the norms published in this study, the item response instructions listed above should be included. Also, at some
+point in the survey prior to these instructions, the following statement should be presented to respondents: “Some of you may prefer to
+use labels other than ‘lesbian, gay, and bisexual’ to describe your sexual orientation (e.g., ‘queer,’ ‘dyke,’ ‘questioning’). We use the term
+LGB in this survey as a convenience, and we ask for your understanding if the term does not completely capture your sexual identity.”
+   In the interest of promoting further study, other researchers may use this scale without contacting us to obtain prior permission. However, we
+do ask that researchers send any reports of research findings as soon as available, including those that remain unpublished, to Jonathan J. Mohr.
+   Subscale scores are computed by reverse-scoring items as needed and averaging subscale item ratings. Subscale composition is as
+follows (underlined items should be reverse-scored): Acceptance Concerns (5, 9, 16), Concealment Motivation (1, 4, 19), Identity
+Uncertainty (3, 8, 14, 22), Internalized Homonegativity (2, 20, 27), Difficult Process (12, 17, 23), Identity Superiority (7, 10, 18), Identity
+Affirmation (6, 13, 26), and Identity Centrality (11, 15, 21, 24, 25).
+                                                                                                                     Received March 31, 2010
+                                                                                                          Revision received January 11, 2011
+                                                                                                                   Accepted January 14, 2011 䡲
+

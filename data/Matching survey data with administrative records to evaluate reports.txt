@@ -1,0 +1,975 @@
+SEHSD Working Paper #: 2014-36
+2/12/2015
+Matching survey data with administrative records to evaluate reports of same-sex married couple
+households
+This report is released to inform interested parties of ongoing research and to encourage discussion of
+work in progress. The views expressed on statistical or methodological issues are those of the authors
+and not necessarily those of the U.S. Census Bureau.
+By Rose M. Kreider and Daphne A. Lofquist
+Since they are a relatively small population among all households, same-sex couple households are
+difficult to estimate accurately. In Census 2010, an issue affecting the measurement of same-sex couple
+households was discovered. Mismarks on the sex question by opposite-sex married couples led to
+inflated estimates of same-sex couple households, especially in the problematic nonresponse follow-up
+form (NRFU) of the questionnaire (O’Connell and Feliz 2011). This working paper follows up on that
+research and links American Community Survey (ACS) 2010 data and Census 2010 data with
+administrative records in order to have a closer look at the accuracy of reported sex in survey data by
+couple type.
+This paper has four sections. In the first, we match ACS 2010 data with Social Security data (Census
+Numident) 1 and look at consistency of reported sex by couple type. Next, we do the same for decennial
+2010 data. In the third section, we look at whether assigning sex based on the reported first name
+matches with the sex entry in the Census Numident. In the final section, we compare the characteristics
+of couples who have mismarked sex with those who have not.
+Research questions
+This paper follows up on earlier research done with decennial 2010 data, which found error in estimates
+of same-sex couple households (O’Connell and Feliz 2011). The earlier work used a first names index to
+try to quantify the error and adjust the estimates. This paper checks survey reports against
+administrative data in order to quantify the error and evaluate the use of the first names index to adjust
+the estimates.
+The research questions we evaluate here include:
+           1. How often is there a mismatch between reported sex in Census survey data and the sex entry
+on the Numident? Is the level of mismatch in ACS as high as in Census 2010?
+           2. Can we isolate the source of error in the estimates of same-sex married couples?
+1
+  Census Numident is derived from the Social Security Numident and contains additional recodes. We will refer to
+this file as the Numident in this paper.
+                                                                                                                 1
+
+SEHSD Working Paper #: 2014-36
+         3. When sex is assigned based on a first name index, how accurate is it?
+         4. Do the characteristics of same-sex married couples whose sex is not mismarked differ from
+those of other couples?
+The level of mismatch between reported sex and the sex entry in administrative data is important since
+a low level of mismarks by opposite-sex married couple households can result in a significant inflation in
+the estimates of same-sex couple households, especially those for same-sex married couples (O’Connell
+and Feliz 2011). This is a statistical problem that arises because there are far more opposite-sex married
+couples than same-sex married couples. The first group makes up an estimated 56 million households,
+while the second is estimated at about 180,000 households in the 2012 ACS data (See Tables 1 and 2
+online at: http://www.census.gov/hhes/samesex/files/ssex-tables-2012.xls). If just 1 percent of this
+larger group mismarked the sex of one spouse, it would translate into 560,000 “same-sex” married
+couples.
+This type of problem is not unique to estimates of same-sex married couples; it would also occur for
+estimates of other small populations. For example, suppose we were to estimate the number of
+widowed people under age 30. According to ACS 2012 1-year data, there were some 49,000 widowed
+men and women age 15 to 29. However, it is possible that if a small rate of the rest of the adult
+population were to misreport their age or marital status inadvertently, this population might appear to
+be larger than it really is. Suppose just 0.1 percent of widowed adults age 30 and over were to
+mistakenly report their age to be under 30. This would result in roughly an additional 14,946 people
+being added to the estimate of widows under age 30.
+Data Sources
+Census 2010
+We use both unedited and edited variables from the decennial 2010 file. Census 2010 was discovered to
+have error in estimates of same-sex married couples due to mismarks on sex by opposite-sex married
+couples. This problem was especially pronounced in the nonresponse followup (NRFU) mode. For
+details, see the report available online at: <http://www.census.gov/hhes/samesex/files/ss-report.doc>.
+The decennial census was mainly self-response, with nonresponse followup conducted by field
+representatives.
+ACS 2010
+We use both unedited and edited variables from the American Community Survey 2010 1-year file. The
+2010 file includes the revised form layout implemented in 2008 which helps reduce, but does not
+eliminate mismarks on sex as were present in the Census 2010 NRFU form. ACS is mainly self-response,
+                                                                                                          2
+
+SEHSD Working Paper #: 2014-36
+with nonresponse follow-up conducted by field representatives. Note that the analyses conducted in
+this report use unweighted ACS data. 2
+Numident 2010
+The Numident is an administrative data set which contains the value of sex recorded by the Social
+Security administration. We match this data set to our survey data using a set of individual
+characteristics, but are unable to match using Social Security Number. So there may be some false
+matches, as well as some cases in the survey data that we are unable to match to the Numident file.
+Mismatch between reported sex in ACS 2010 and the Numident
+We use the unedited relationship and sex items in ACS data to identify people who report being in
+same-sex and opposite-sex couple households. There were 1,999,996 people who were reported as a
+householder, spouse or partner. Of these, 86,433 could not be matched to the Numident. So we were
+able to match about 96 percent of the records overall. Since we consider couples during most of this
+analysis, further description of the sample is in those terms. There were 999,084 unweighted couples 3 in
+the 2010 ACS. Out of these couples, we drop 8,511 in which either the householder and/or the partner
+is missing on the sex item in the ACS. Of the remaining 990,573 couples, we also drop 1,615 households
+that report multiple spouses and/or partners. This leaves us with 988,958 unweighted coupled
+households in the ACS. We then drop 65,566 couples because in the Numident either the spouse and/or
+partner is missing on the sex item. We are left with 923,392 couples, about 92 percent of reported
+coupled households with valid sex entries in the Numident for both partners, and in which both
+members matched the Numident. Results presented in this study are not intended to represent the U.S.
+population. 4
+Table 1 and Figure 1 show unweighted numbers of coupled households in ACS by whether their sex
+reports in the ACS match the Numident entries. Of the 923,392 coupled households, 843,202 reported
+as married, and 80,190 reported as unmarried. Among those reporting as married couple households,
+57.3 percent of those reporting as same-sex married couples are opposite-sex couples in the Numident.
+This compared with 0.9 percent of those reporting as opposite-sex married couples, who are same-sex
+couples in the Numident. For those reported as unmarried partner households, 7 percent of those who
+reported as same-sex in ACS are opposite-sex in the Numident. The corresponding percentage of those
+who differed for opposite-sex unmarried partner households is 1.6 percent. So, while mismatch rates
+are generally low, the problem of opposite-sex married couples mismarking their sex and appearing to
+2
+  Weights are not used since this study is not using the ACS to estimate the larger US population, but rather
+evaluating reports of sex in ACS using administrative records data. For more information about matching between
+ACS and the Numident, see Luque & Bhaskar 2014.
+3
+  At least one spouse or unmarried partner was reported in the household, and they matched to the Numident.
+4
+  Weights in the ACS are meant to produce representative estimates of the underlying population. However, it is
+not clear whether they would produce representative estimates of the underlying population that matches to
+administrative records. This is because the matching subset may be different from the ACS sample in a non-
+random manner. It could also be argued that this non-randomness may be exacerbated for the subset who can be
+matched.
+                                                                                                                3
+
+SEHSD Working Paper #: 2014-36
+report as a same-sex married couple has a large effect on the estimates of same-sex married couples in
+ACS data.
+Table 2 provides more details about the number of partners whose sex report in ACS does not match
+their Numident record. Most often, either the householder or their partner’s report does not match.
+However, in a very small percentage of cases, neither report matches the Numident record. If the error
+is due to respondents mismarking sex, this means that they have misreported sex for both people.
+Among opposite-sex couples, a higher percentage shows neither partner matching the Numident sex
+value than those in which only one partner does not match. We need to consider this group separately
+from couples in which one has apparently misreported their sex, in case those in which neither report
+matches are a distinct group.
+While the mismarking of sex on ACS by respondents or interviewers creates a problem in the estimates
+of same-sex married couples, it is not the only source of error. It is difficult to believe that very many
+respondents manage to mismark sex for both members of the couple. It is possible that these couples
+reflect matches between ACS 2010 and the Numident that are false positives—they appear to match,
+but perhaps are in error. To facilitate matching the ACS to the Numident, we do not have social security
+numbers, which would provide the highest quality match. The match is done using other characteristics,
+such as address, name, and age. So it is possible that sometimes the files appear to match, but we have
+not successfully matched to the same person in the Numident. Since there are only two possible valid
+values for sex in the Numident, we have only a 50/50 chance of the sex report matching between the
+two files if the match is a false positive.
+While Census Bureau staff in the Center for Administrative Records Research and Applications(CARRA)
+have investigated the extent of false positive matches to federal administrative data and to commercial
+data, we are not aware of any studies that have evaluated the false positive match rate to federal survey
+data. 5 The rate of false positives is estimated to be less than 1 percent for federal administrative data,
+but as high as 13 percent for commercial data (Layne, Wagner, Rothhaas 2013). False positive match
+rates for federal survey data presumably fall somewhere between these two types of data. There are
+likely to be more false positives than in administrative data, which may be verified for eligibility, but it is
+also likely that the rate is not as high as for commercial data, since respondents are notified that their
+participation is required by law.
+It is also possible that some of these cases reflect errors in the Numident file. It is hard to imagine that
+the rate at which sex is incorrectly recorded on the Numident is very high, though, since it is the value
+from the Social Security record. In addition, a mismatch rate of 2 percent would still be quite low.
+In previous research, O’Connell and Feliz (2011) showed that error rates differed by mode in 2010
+decennial data. The layout of the sex question in the NRFU form was prone to mismarks. Table 3 shows
+5
+  By federal administrative data, we mean data collected as part of administering federal programs such as Social
+Security, or birth/death records collected from states. Administrative data include everyone to whom the program
+applies, and are often legal records. By federal survey data, we mean data collected by the federal government by
+asking a sample of the public to respond either on a paper questionnaire, or by answering questions posed by an
+interviewer in person or on the phone.
+                                                                                                                  4
+
+SEHSD Working Paper #: 2014-36
+the breakdown of responses by mode in ACS, whether paper or computer assisted telephone (CATI) and
+computer assisted personal interviews (CAPI). Mail response is self-response, where the respondent is
+marking a paper form in order to indicate their answers. In mail response, 59 percent of those reported
+as same-sex married couples in ACS show up as opposite-sex couples in the Numident. This compares
+with 7 percent of those reported as same-sex unmarried couples whose sex reports do not match the
+Numident (including couples where one or both do not match). Percentages of couples whose reports of
+sex do not match Numident are much lower for opposite-sex couples, at 2 percent for married couples
+and 3 percent for unmarried couples.
+CATI/CAPI questionnaires are interviewer administered. In comparison with self-response modes, the
+interviewer may serve as a knowledgeable interpreter of the questions for the respondent, and serve to
+reduce errors. At the same time, interviewers are only human, and may also inadvertently mismark an
+answer. In addition, there is an automated check that pops up in the CATI/CAPI when a same-sex
+married couple is reported, which asks the interviewer to confirm. It does not ask the interviewer to
+read the check to the respondent, however. Mismatch rates for CATI/CAPI responses were lower for
+same-sex married couples than in the paper form, but higher than the paper form for other couple
+types: 46 percent for same-sex married couples, 13 percent for same-sex unmarried couples, 4 percent
+for opposite-sex married couples, and 4 percent for opposite-sex unmarried couples. The automated
+check may help explain why mismatch rates were lower for same-sex married couples in CATI/CAPI than
+in paper.
+In summary, the mismatch between sex reports in ACS and sex entries in the Numident for same-sex
+married couples is worse than we believed in ACS. Since the estimates from ACS are lower than
+decennial 2010 estimates, this may mean that an even higher percentage than we previously estimated
+based on the names index comparison may have been reported in error on Census 2010.
+As mentioned previously, misreporting of sex on the ACS form by respondents is not the only source of
+mismatch. The Numident is a high quality administrative data set, but it is not perfect. One indication of
+this is the ‘gendif’ flag provided on the file. This flag indicates individuals whose sex value in the Social
+Security file has switched over time. This could be due to an administrative error which the person has
+had corrected, or because the person purposely worked to have their sex report changed to reflect a sex
+transition. Table 4 shows individuals in the various couple groups and whether the householder and/or
+their partner has had a sex switch in the Numident. Roughly 1 percent of the couples have at least one
+member whose sex value has switched: 0.5 percent of unmarried same-sex couples (adding 0.2, 0.3 and
+0.0 from Table 4); 1.2 percent of married same-sex couples; 1.0 percent of opposite-sex unmarried
+couples; and 0.8 percent of opposite-sex married couples. This paper uses the most recent report of sex
+on the individual’s record. Other research has found that as of 2010, roughly 1.45 million people born
+between 1895 and 2010 had ever changed their sex value on their Social Security record. This would be
+very roughly 0.5 percent of the US population in 2010, although it also includes children, and those in
+the Social Security file for whom we do not have a date of death, but who had already died. 6 So while it
+6
+  Harris, Benjamin C. 2013. "Consistency of person-level sex reporting in the SSA Numident," CARRA Internal
+Memo, U.S. Census Bureau.
+                                                                                                              5
+
+SEHSD Working Paper #: 2014-36
+is a small percentage, it is another contributor to a mismatch between the ACS survey report and the sex
+value on the Numident. Changes to sex in the Social Security file could also be the result of
+administrative error.
+Mismatch between reported sex in Census 2010 and the Numident
+In this section, we turn to a comparison of sex reports in Census 2010 data with the Numident file.
+Previous research (O’Connell and Feliz 2011) identified significant levels of sex misreporting in decennial
+2010 data that affected estimates of same-sex couple households. By matching Census 2010 data to the
+Numident, we hope to evaluate the extent of this misreporting, as well as evaluate the methods used to
+produce the “preferred estimates” of same-sex couples, which were adjusted using sex probabilities
+based on first name reports. We use the unedited relationship and sex items in Census 2010 data to
+identify people who report being in same-sex and opposite-sex couple households. Similarly to ACS
+2010, we were able to match about 95 percent of individual people who reported being a householder,
+spouse, or partner in households with a spouse or partner to the Numident file. Looking at those
+couples who matched the Numident, there were 63,107,488 couples 7 in Census 2010. Out of these
+couples, we drop 832,426 in which either the householder and/or the partner is missing on the sex item
+in Census 2010. Of the remaining 62,275,062 couples, we also drop 201,189 households that report
+multiple partners and/or spouses. This left us with 62,073,873 coupled households in Census 2010. We
+then drop 4,575,198 couples because in the Numident either the spouse and/or partner were missing
+on the sex item. Finally we are left with 57,498,675 couples, about 91 percent of reported coupled
+households with a sex value in the Numident for both partners who could be matched to the Numident.
+Table 6 shows unweighted numbers of coupled households by whether their sex report in the decennial
+matched the Numident. Overall, of the 306,587 households reported as same-sex married in 2010
+decennial, 73 percent are opposite-sex in the Numident. In comparison, of households reported as
+opposite-sex married in 2010 decennial, 0.56 percent were same-sex in the Numident. For those
+reported as unmarried partner households, 7 percent of those who were same-sex in decennial were
+opposite-sex in the Numident. The corresponding percentage of those who differed for opposite-sex
+unmarried partner households was .79 percent. This very high rate of mismatch for same-sex married
+couples mirrors the findings in previous work, although it is a bit higher (O’Connell, Feliz 2011). Note
+also that the mismatch rate for same-sex couples is higher than found between ACS and the Numident
+for same-sex married couples, but is substantively the same for same-sex unmarried couples, which are
+a larger group.
+Table 6 also details the number of partners whose sex report in 2010 decennial does not match their
+Numident record. Of those couples whose report does not match the Numident, most often, either the
+householder or their partner’s report does not match. As we saw when matching ACS and the
+Numident, in a very small proportion of cases, neither report matches the Numident record. There are
+multiple sources of error that might contribute to this, including a false match between decennial and
+7
+  At least one spouse or unmarried partner was reported in the household.
+                                                                                                          6
+
+SEHSD Working Paper #: 2014-36
+the Numident, and a mismatch between the sex recorded on the Numident record and the current
+gender the person chooses to express. The proportion of couples where neither person’s sex matches to
+the Numident is lower in decennial than in ACS. For unmarried couples, about 0.04 percent have neither
+partner’s report matching in decennial and the Numident, while it is 0.03 percent for those who
+reported as married couples, including opposite and same-sex couples.
+Decennial 2010 data were collected mainly through self-response (paper form), with followup
+conducted by interviewers using a different paper form, which contained a problematic vertical layout
+of the answer categories for the sex question. The sex question on the NRFU form was prone to
+mismarking. Unlike the CATI/CAPI followup in ACS, there was no check that alerted the interviewer to
+verify households that reported same-sex married couples. For those reported as opposite-sex couples
+in 2010 decennial, regardless of mode, mismatch rates between their decennial report and the
+Numident are very low—1.0 percent or less (Table 7). This low rate was also regardless of whether the
+couple reported as spouses or unmarried partners. Mismatch rates between decennial and the
+Numident vary far more widely for those who were reported in decennial as same-sex couples. The
+majority of same-sex married couples in 2010 decennial did not match their sex reports in the
+Numident: 67 percent from the mail form, 87 percent from non-response follow-up (NRFU), and 53
+percent of those from other types of response forms (for example: TQA (telephone question
+instrument), Be Counted forms, Military Census Report, Shipboard Census Report). Mismatch rates for
+unmarried same-sex couples were far lower, but still higher than for couples who reported as opposite-
+sex in decennial 2010. While 4 percent of those reported as same-sex unmarried couples on the mail
+form in 2010 decennial did not match their sex reports in the Numident, this was true for 26 percent of
+these couples in NRFU, and 8 percent in other response forms.
+While this analysis supports earlier work showing that sex misreporting by opposite-sex married couples
+in the NRFU form was likely the significant factor in creating many of the households that appear to
+have reported as same-sex married couples in 2010 decennial data (DeMaio, Bates & O’Connell 2013), it
+also shows that the mail form did not function well. The vertical layout of the answer categories for the
+sex question in the NRFU form was especially error prone, but mismarking was also a significant
+problem in other modes.
+As we saw in ACS, the idea that the couples whose sex reports do not match the Numident are not
+matching due to changes to their sex is not supported. Table 8 shows the ‘gendif’ flag provided on the
+Numident file, which indicates individuals whose sex value in the Social Security file has switched over
+time. This could be due to an administrative error that was corrected, or because the person purposely
+worked to have their sex report changed to reflect a sex transition, or because a new administrative
+error was introduced. Roughly 1 percent of the couples have at least one member whose sex value was
+switched: 0.9 percent of unmarried same-sex couples (adding 0.4, 0.5 and 0.0 on Table 8); 1.2 percent of
+married same-sex couples; 1.1 percent of opposite-sex unmarried couples; and 0.9 percent of opposite-
+sex married couples. These low rates of couples with someone whose sex report has switched over time
+in the Numident are comparable to what we saw in the ACS-Numident match, and they do not explain
+the relatively higher level of mismatches we see between sex reports in decennial 2010 data and the
+Numident for same-sex couples, especially those who reported as householders and spouses.
+                                                                                                          7
+
+SEHSD Working Paper #: 2014-36
+Mismatch between sex assigned based on first name index and the Numident
+After discovering that the estimates of same-sex coupled households in Census 2010 data were likely
+inflated by misreports of sex by opposite-sex couples, Census Bureau researchers used a first names
+index in order to adjust the estimates. The adjusted estimates are referred to as the “preferred
+estimates” in published materials and the methodology is described in detail in the O’Connell and Feliz
+(2011) report. An index is created which tallies the number of times a particular name is reported as
+male. If a name was reported as male 95 percent of the time, then the report of sex for that person was
+set to male. The same was done for names reported as female. An “ambiguous” name means that the
+sex could not be assigned based on the 95 percent rule. This included names that were male less than
+95 percent, and more than 5 percent of the time, as well as names that were unique, or cases in which
+the name field was blank. Using this methodology, the estimate of same-sex coupled households in
+Census 2010 dropped from 901,997 to 646,464. In this section, we compare Census 2010 and the
+Numident, but instead of comparing the unedited report of sex for those in coupled households as we
+did above, we now compare their sex if it were assigned based on the first name index with the sex
+entry in the Numident. This will allow us to evaluate the use of the first name index to adjust 2010
+estimates. “Preferred estimates” were released that were adjusted based on the first name index. By
+evaluating the names index against the Numident sex entries, we can evaluate whether this adjustment
+method indeed compensated for the mismark errors.
+Table 9 shows results for householders and partners or spouses. 8 For those in married and unmarried
+couples, a very high percentage of those whose sex is assigned based on their first name matches the
+sex entry in the Numident. Most of the match rates are at 97 or 99 percent. Among those who reported
+as same-sex married couples, the rates are 98 percent for female names and 97 percent for male names.
+Across all couple types, 12 to 15 percent had first names that could not be assigned based on the 95
+percent rule, and so are labeled ambiguous. Those who report as same-sex married couples had a higher
+percentage with ambiguous names (15 percent compared with 12-13 percent).
+Tables 10 and 11 show name and sex match rates by mode, first for householders (Table 10) and then
+for partners/spouses (Table 11). Results are similar for householders and spouses/partners, but we
+show these as separate tables in order to illustrate this similarity. Match rates are close to 100 percent,
+except for householders in same-sex married couple households in the ‘Other’ mode. This mode
+includes a variety of miscellaneous types of forms, but constituted a small proportion of responses
+overall. Even so, the match rate was high—at 87 to 89 percent. The same group had a slightly higher
+proportion of first names that were ambiguous and the 95 percent rule could not be used to assign sex.
+It is also possible that the first name was blank in some of these form types, since these forms were less
+likely to be self-response.
+8
+  Lofquist, Daphne A. and Jamie M. Lewis. 2014.” Improving Measurement of Same-sex Couples.” Paper presented
+at the Population Association of America annual meeting, May 2014, Boston, MA
+                                                                                                            8
+
+SEHSD Working Paper #: 2014-36
+In summary, using first name reports to assign sex, for the roughly 85 percent of those who have
+reported a name that is 95 percent male or 95 percent female in the overall sample is highly effective.
+This method of assigning sex matches the sex entry in the Numident in a very high percentage of cases—
+often 96 percent or higher. Statistics Canada used a probabilistic names index method to assign sex for
+those who reported as same-sex married couples in their 2006 Census
+(http://www12.statcan.gc.ca/census-recensement/2006/ref/rp-guides/families-familles-eng.cfm#DQ).
+While first name reports are currently used in the ACS edit to assign sex when it is not reported at all,
+they are not currently used to verify sex reports. However, verifying the reported sex of persons in a
+same-sex married couple could address part of the error in the estimated number of same-sex married
+couples.
+In the final section of the paper, we take a look at the characteristics of those who misreport sex in the
+ACS. Since decennial data have very few characteristics available, we turn back to ACS 2010 data in
+order to explore the characteristics of couples who mismark sex. We compare characteristics of those
+whose sex reports in ACS match their sex entries in the Numident file with those who do not. We want
+to see whether there are notable differences among the groups. Do those whose sex reports in ACS do
+not match their administrative records look like a different group than those who do?
+Characteristics of those whose sex report matches the Numident compared with those who do not
+We suspect that same-sex married couples whose sex reports do not match are really opposite-sex
+couples who have inadvertently misreported. We want to understand how actual same-sex married
+couples and opposite-sex married couples differ in order to then compare each group to reported same-
+sex couples who do not match. The left portion of Table 12 shows householders and spouses in reported
+same-sex married couples, and the right side shows those in reported opposite-sex married couples.
+Couples whose sex reports in ACS match their sex report in the Numident for both partners “do match,”
+while those where one or both partners have mismatching sex reports “do not match.” Compared with
+opposite-sex married couple householders whose ACS sex reports match those in the Numident, same-
+sex married couple householders who do match are younger, have smaller households, live in the
+Midwest less often, are more often White, and less often foreign-born. They have higher average
+household incomes, are more likely to have at least a bachelor’s degree, and when they do speak a
+language other than English, they are more likely to speak English very well than those opposite-sex
+married couple householders who do match.
+In contrast, same-sex married couple householders whose sex reports in ACS do not match those in the
+Numident differ markedly from same-sex married couple householders whose sex reports do match.
+They are significantly older—householders whose sex reports do not match are 57 years old, on average,
+compared with 46 years old for householders in same-sex married couples whose sex reports do match
+their administrative records. They live in the Midwest in proportions that are not statistically different
+from opposite-sex married couple householders whose sex reports do match, but are significantly
+different from same-sex married couple householders whose sex reports match. Same-sex married
+                                                                                                           9
+
+SEHSD Working Paper #: 2014-36
+couple householders who do not match are more likely to be Black and Asian than same-sex married
+couple householders who do match. They are more likely to be foreign-born than either opposite-sex
+married couple householders who do match, or same-sex married couple householders. They are more
+likely than either group to own their home free and clear, which is likely related to the fact that they are
+older.
+The remaining group, those who reported as opposite-sex married couple householders in ACS, but one
+or both members of the couple do not match their sex report in the Numident, appear to have
+characteristics that are distinct from the other groups. They are a little older than the same-sex married
+couple householders whose sex reports match, but younger than the other two groups. They live in the
+Midwest at rates that are statistically different from opposite-sex married couple householders whose
+sex reports do match administrative records. Among the 4 groups of householders, they are least likely
+to be White, and most likely to be Asian or Hispanic, and to be foreign born. A higher percentage of
+them speak a non-English language at home, and they are less likely to speak English very well than
+either group that matches their sex reports.
+Looking further into these differences, we separated those couples where one does not match their sex
+report from those couples where neither match their sex report in the Numident. Recall that for
+opposite-sex couples who do not match their sex report in the Numident, the sex report did not match
+for either person in more than half of these couples (see Table 2). So it does not appear that most of
+these are actually same-sex married couples. However, there are still some 500,000 opposite-sex
+married couples where the sex of one spouse does not match the Numident, and some of these are
+potentially same-sex married couples. Looking at Table 12A, we see that opposite-sex married couples
+where one does not match their sex report are closer in age to same-sex married couples whose sex
+reports do match, but report having smaller households, on average, than opposite-sex married couples
+who do match. They also have percentages with at least a bachelor’s degree that are lower than both
+couple types who do match, and live in the Midwest at a rate that is more similar to opposite-sex
+married couples than same-sex married couples. 9 They are less likely to be White than either group who
+does match. For same-sex couple householders where one does not match, at least 14 percent are
+foreign born, which does not differ statistically from opposite-sex couple householders who do match.
+Opposite-sex couples where one does not match have household incomes that are lower than the other
+groups.
+As an additional check, we include a characteristic labeled “sex does not match name” (Table 13). This
+estimate is generated using a variable that indicates what sex value would have been assigned in the
+ACS edit if they had not reported sex. The value to be assigned is based on the probability that the
+respondent’s first name is male. Not all names have a value on this variable, however. Overall, some 92
+percent of the sample has a value on this variable. This includes sex assignment based on a proportional
+assignment when the name is not at least 95 percent male or female. So, if a name is reported male 60
+percent of the time, those who have this name would be assigned as male 60 percent of the time. We
+9
+  Same-sex couple householders where one does not match their sex report are not statistically different from
+opposite-sex couple householders who do match.
+                                                                                                              10
+
+SEHSD Working Paper #: 2014-36
+compare whether the reported sex matches the sex value associated with the name in order to find out
+how often those who reported as same-sex married couples have names that support that conclusion.
+The “sex does not match name” category shows clearly that those who report as same-sex married
+couples, but whose sex reports do not match the Numident are very likely to have a first name that does
+not match their reported sex. This is much higher than for any of the other couple groups. This is
+another confirmation that a high proportion of those who reported as same-sex married couples are
+actually opposite-sex married couples who inadvertently mismarked the form. Even for the group of
+roughly 500,000 couples who reported as opposite-sex married, but in which one member’s sex report
+does not match, a relatively low percentage of those whose first name can be used to assign sex (about
+3 percent) have names that do not match their sex report. It is possible that this group reflects a higher
+percentage of people for whom the match between ACS and the Numident may be false. The rate of
+false matches is not known. Comparing the listed characteristics of the two groups suggests that most of
+these opposite-sex couples where one member does not match their sex report were not actually same-
+sex married couples.
+CONCLUSIONS
+This paper further investigates the problem of inadvertent misreports of sex by opposite-sex couples
+that lead to inflation of the estimates of same-sex couples. The estimation problem is especially
+pronounced for same-sex married couples, since they are the smallest group, and because the
+differential between the number of same-sex married and opposite-sex married couple households is
+much larger than the differential between same-sex unmarried partner and opposite-sex unmarried
+partner households. This is a statistical problem inherent in the estimates of any relatively small group.
+A small error in the large group results in significant inflation of the estimates of the small group.
+Presumably there is some small constant rate of error resulting in accidental mismarks for many
+questions. These types of errors are only visible when looking at estimates of the smaller group. The
+interrelationship between the sex and relationship items allows us to see this error.
+We draw the following conclusions based on our work in this paper to quantify the error:
+     1. While Census 2010 error rates for same-sex married couples are higher than for ACS, the error
+         in ACS is still unacceptably high.
+     2. There are multiple sources of error that make it difficult to establish a definitive estimate of
+         same-sex married couples. These sources of error include: the mismarking of gender (and
+         possibly relationship) in survey data, false matches between survey data and the administrative
+         Social Security record, and inaccuracies in the Social Security record.
+     3. Adjusting sex reports based on the probability that a first name is male is highly effective for
+         those whose names are male or female at least 95 percent of the time.
+                                                                                                         11
+
+SEHSD Working Paper #: 2014-36
+In ACS data, the very low rate of error among opposite-sex married couple households (2.5 percent, see
+Table 2) results in large overestimates of same-sex married couple households, since the latter group is
+so much smaller. Recall from Table 2 that a substantial portion of the opposite-sex couples in ACS who
+do not match their sex entry do not match for either person (1.6 percent of all opposite-sex married
+couples). So they still show up as opposite-sex couples in the edited data, and do not inflate the
+estimates of same-sex married couples. The proportion in which neither spouse matches their sex entry
+is higher in ACS than in decennial data. It is impossible to know whether this is because ACS respondents
+actually mismark sex for both people more often, or because the match to administrative data may not
+function quite as effectively for ACS as for decennial data. We have no indication that either possibility is
+predominant.
+Among those couples reported as same-sex married in ACS 2010 who we can match to the Numident,
+some 58 percent appear to be opposite-sex married couples. Since we were not able to match all those
+who reported as same-sex married couples in the unedited ACS 2010 data, and because there is likely
+some level of false positive matches between ACS and the Numident, this may translate into a very
+rough estimate of half of those reported as same-sex married couples actually being opposite-sex
+married couples who inadvertently misreported on the sex item.
+Using administrative records, this paper has confirmed the high level of error in the estimates of same-
+sex married couples in Census 2010 data described by O’Connell and Feliz (2011). Although the level of
+error in ACS is lower than in Census 2010, it is still substantial. We have also confirmed that the use of
+first name reports to assign sex is highly effective for the roughly 85 percent of people who have a name
+that is either reported as male 95 percent of the time, or female 95 percent of the time. In addition, we
+have shown that those who mismark sex have distinct characteristics compared with those whose sex
+entry on the administrative file confirms their sex report on ACS.
+This investigation into the details of how misreports of sex by opposite-sex married couples affect the
+estimates of same-sex married couples will inform ongoing research as we continue to work to improve
+estimates of same-sex couple households, especially same-sex married couples. Since 2010, the Census
+Bureau, as part of the OMB-led Interagency group on Measuring Relationships in Federal Household
+Surveys, has worked to improve measurement of same-sex coupled households. A recently released
+paper describes the group’s work. 10 DeMaio, Bates and O’Connell (2013) documents the Census
+Bureau’s development of revised questions. Several quantitative tests of these questions were held in
+2013 and 2014, with several more planned for 2015 and 2016.
+10
+   The working paper is located on the webpage of the Federal Committee on Statistical Methodology, at:
+http://fcsm.sites.usa.gov/files/2014/04/MRFHS_StatisticalPolicyWorkingPaper201408.pdf
+                                                                                                           12
+
+SEHSD Working Paper #: 2014-36
+REFERENCES
+DeMaio, Theresa J., Nancy Bates, and Martin O’Connell. 2013. “Exploring Measurement Error Issues in
+         Reporting of Same-Sex Couples.” Public Opinion Quarterly, 77:145-158.
+Harris, Benjamin C. 2013. "Consistency of person-level sex reporting in the SSA Numident," CARRA
+         Internal Memo, U.S. Census Bureau: Washington, DC.
+Layne, Mary, Deborah Wagner, and Cynthia Rothhaas. 2013. “Estimating Record Linkage False Match
+         Rate for the Person Identification Validation System,” CARRA Research Report Series (CARRA-06-
+         13). U.S. Census Bureau: Washington, DC.
+Luque, Adela and Renuka Bhaskar. 2014. “2010 American Community Survey Match Study,” CARRA
+         Working Paper Series (Working Paper #2014-03). U.S. Census Bureau: Washington, DC.
+O’Connell, Martin and Sarah Feliz. 2011. “Same-Sex Couple Household Statistics from the 2010 Census.”
+         SEHSD Working Paper, 2011-26. U.S. Census Bureau: Washington, DC.
+                                                                                                     13
+
+SEHSD Working Paper #: 2014-36
+ Table 1. Same-sex and opposite-sex couples by data file
+                                            Numident
+            ACS1                                                            Total
+                             Same-sex           Opposite-sex
+ Total                               15,303                  908,089        923,392
+    Same-sex                            79.0                    21.0            100.0
+    Opposite-sex                          0.9                   99.1            100.0
+ Married                              8,309                  834,893        843,202
+    Same-sex                            42.7                    57.3            100.0
+    Opposite-sex                          0.9                   99.1            100.0
+ Unmarried                            6,994                   73,196         80,190
+    Same-sex                            93.0                      7.0           100.0
+    Opposite-sex                          1.6                   98.4            100.0
+  1
+    The results presented use unweighted ACS data and may not fully account for
+ sampling and nonsampling error found in the ACS. For this reason, some results could
+ relate to the ACS being a sample survey rather than question wording. In addition,
+ the data shown here are limited to the 96% of ACS couples that were matched
+ between ACS and the administrative data source.
+ Source: U.S. Census Bureau, American Community Survey 2010 1-year data file; 2010
+ Numident.
+                                                                                      14
+
+SEHSD Working Paper #: 2014-36
+                    Figure 1. Sex as reported in ACS1
+                  compared with sex entry in Social
+              Security record: percent inconsistent
+                       57.3
+                                                                              7
+                                                  0.9                                               1.6
+                     Same-sex                Opposite-sex               Same-sex               Opposite-sex
+                                   Married                                          Unmarried
+       1 The results presented use unweighted ACS data and may not fully account for sampling and nonsampling
+       error found in the ACS. For this reason, some results could relate to the ACS being a sample survey rather
+       than question wording. In addition, the data shown here are limited to the 96% of ACS couples that were
+       matched between ACS and the administrative data sourceThe results presented use unweighted ACS data
+       and may not fully account for sampling and nonsampling error found in the ACS. For this reason, some
+       results could relate to the ACS being a sample survey rather than question wording. In addition, the data
+       shown here are limited to the 96% of ACS couples that were matched between ACS and the administrative
+       data source.
+       Source: U.S. Census Bureau, American Community Survey 2010 1-year data file
+                                                                                                                  15
+
+SEHSD Working Paper #: 2014-36
+ Table 2. Same-sex and opposite-sex couple matches, Numident and ACS1
+                                         Same-sex Opposite-sex              Total
+ Married                                      2,411            840,791         843,202
+    Both match                                  42.3                97.5            97.4
+    1 partner doesn’t match                     57.3                 0.9             1.0
+    Neither match                                 0.4                1.6             1.6
+ Unmarried                                    6,265              73,925          80,190
+    Both match                                  92.6                96.3            96.0
+    1 partner doesn’t match                       7.0                1.6             2.0
+    Neither match                                 0.4                2.1             2.0
+  1
+    The results presented use unweighted ACS data and may not fully account for
+ sampling and nonsampling error found in the ACS. For this reason, some results could
+ relate to the ACS being a sample survey rather than question wording. In addition, the
+ data shown here are limited to the 96% of ACS couples that were matched between
+ ACS and the administrative data source.
+ Source: U.S. Census Bureau, American Community Survey 2010 1-year data file; 2010
+ Numident.
+                                                                                         16
+
+SEHSD Working Paper #: 2014-36
+ Table 3. Same-sex and opposite-sex couple matches between Numident and
+ ACS1 2010
+                                         Same-sex Opposite-sex              Total
+ Mailout/Mailback                             7,455            700,783              708,238
+ Married                                      2,124            650,994              653,118
+    Both match                                  40.8               97.8                  97.6
+    1 partner doesn’t match                     58.8                 0.8                   1.0
+    Neither match                                0.4                 1.4                   1.4
+ Unmarried                                    5,331              49,789               55,120
+    Both match                                  93.5               96.7                  96.4
+    1 partner doesn’t match                      6.2                 1.4                   1.8
+    Neither match                                0.4                 1.9                   1.8
+ CATI/CAPI                                    1,221            213,933              215,154
+ Married                                         100                100                   100
+    Both match                                  53.7               96.5                  96.4
+    1 partner doesn’t match                     46.0                 1.2                   1.3
+    Neither match                                0.3                 2.3                   2.3
+ Unmarried                                       934             24,136               25,070
+    Both match                                  87.5               95.5                  95.2
+    1 partner doesn’t match                     11.9                 2.0                   2.4
+    Neither match                                0.6                 2.4                   2.4
+  1
+    The results presented use unweighted ACS data and may not fully account for sampling
+ and nonsampling error found in the ACS. For this reason, some results could relate to the
+ ACS being a sample survey rather than question wording. In addition, the data shown here
+ are limited to the 96% of ACS couples that were matched between ACS and the
+ administrative data source.
+ Source: U.S. Census Bureau, American Community Survey 2010 1-year data file; 2010
+ Numident.
+                                                                                               17
+
+SEHSD Working Paper #: 2014-36
+ Table 4. People in ACS1 2010 same-sex and opposite-
+ sex couples with sex change in the Numident
+ Sex change                    Sex change for householder
+ for partner/spouse               No          Yes Total
+ Married
+     Same-Sex                      4,796         26         4,822
+        No                           98.8       0.5           99.2
+        Yes                           0.7       0.1            0.8
+     Opposite-Sex             1,673,942 7,640          1,681,582
+        No                           99.2       0.5           99.6
+        Yes                           0.4         --           0.4
+ Unmarried
+     Same-Sex                     12,500         30        12,530
+        No                           99.5       0.2           99.7
+        Yes                           0.3         --           0.3
+     Opposite-Sex               146,972        878       147,850
+        No                           99.0       0.6           99.5
+        Yes                           0.5         --           0.5
+  1
+    The results presented use unweighted ACS data and may not
+ fully account for sampling and nonsampling error found in the
+ ACS. For this reason, some results could relate to the ACS being
+ a sample survey rather than question wording. In addition, the
+ data shown here are limited to the 96% of ACS couples that
+ were matched between ACS and the administrative data source.
+ -- Represents that the estimate or standard error is zero or
+ rounds to zero
+ Source: U.S. Census Bureau, American Community Survey 2010
+ 1-year data file; 2010 Numident.
+                                                                   18
+
+SEHSD Working Paper #: 2014-36
+ Table 5. Same-sex and opposite-sex couples by data file
+                                     Numident
+    Decennial 2010                                             Total
+                        Same-sex        Opposite-sex
+ Total                         842,851           56,655,824   57,498,675
+    Same-sex                      66.7                   33.3      100.0
+    Opposite-sex                   0.6                   99.4      100.0
+ Married                       372,650           50,948,874   51,321,524
+    Same-sex                      27.5                   72.5      100.0
+    Opposite-sex                   0.6                   99.4      100.0
+ Unmarried                     470,201            5,706,950    6,177,151
+    Same-sex                      93.0                    7.0      100.0
+    Opposite-sex                   0.8                   99.2      100.0
+  Source: U.S. Census Bureau, 2010 Census; 2010 Numident.
+                                                                         19
+
+SEHSD Working Paper #: 2014-36
+ Table 6. Same-sex and opposite-sex couple matches, Numident and Census 2010
+                               Same-sex        Opposite-sex          Total
+ Married                             306,587            51,014,937        51,321,524
+     Both match                          27.3                  99.4             99.0
+     1 partner doesn’t match             72.5                   0.6              1.0
+     Neither match                        0.2                     --               --
+ Unmarried                           456,979             5,720,172         6,177,151
+     Both match                          92.9                  99.2             98.7
+     1 partner doesn’t match              6.4                   0.8              1.3
+     Neither match                          --                    --               --
+  -- Represents that the estimate or standard error is zero or
+ rounds to zero
+ Source: U.S. Census Bureau, 2010 Census; 2010 Numident.
+                                                                                      20
+
+SEHSD Working Paper #: 2014-36
+ Table 7. Same-sex and opposite-sex couple matches, Numident and Census 2010
+ by form type
+                               Same-sex        Opposite-sex         Total
+ Mailout/Mailback                    549,278            44,852,208       45,401,486
+ Married                             173,878            40,825,451       40,999,329
+    Both match                          33.4                  99.5             99.2
+    1 partner doesn’t match             66.4                   0.5              0.8
+    Neither match                        0.2                     --               --
+ Unmarried                           375,400             4,026,757        4,402,157
+    Both match                          96.2                  99.2             99.0
+    1 partner doesn’t match              3.8                   0.8              1.0
+    Neither match                          --                    --               --
+ NRFU                                172,720             8,919,058        9,091,778
+ Married                             109,487             7,499,585        7,609,072
+    Both match                          13.4                  99.1             97.8
+    1 partner doesn’t match             86.3                   0.8              2.0
+    Neither match                        0.3                   0.2              0.2
+ Unmarried                            63,233             1,419,473        1,482,706
+    Both match                          73.8                  99.0             97.9
+    1 partner doesn’t match             26.1                   0.9              2.0
+    Neither match                        0.2                   0.1              0.1
+ Other                                41,568             2,963,843        3,005,411
+ Married                              23,222             2,689,901            100.0
+    Both match                          47.3                  99.3             98.8
+    1 partner doesn’t match             52.4                   0.7              1.1
+    Neither match                        0.3                     --               --
+ Unmarried                            18,346               273,942          292,288
+    Both match                          91.6                  99.1             98.6
+    1 partner doesn’t match              8.3                   0.9              1.4
+    Neither match                        0.1                     --               --
+ -- Represents that the estimate or standard error is zero or
+ rounds to zero
+  Source: U.S. Census Bureau, 2010 Census; 2010 Numident.
+                                                                                     21
+
+SEHSD Working Paper #: 2014-36
+ Table 8. Same-sex and opposite-sex couples in Census 2010 with sex change in
+ the Numident
+ Sex change                               Sex change for householder
+ for partner/spouse             No                   Yes           Total
+ Married
+    Same-Sex                     304,628                   1,959            306,587
+      No                             98.8                     0.6              99.4
+      Yes                             0.6                       --              0.6
+    Opposite-Sex             50,762,248                  252,689         51,014,937
+      No                             99.1                     0.5              99.6
+      Yes                             0.4                       --              0.4
+ Unmarried
+    Same-Sex                     454,676                   2,303            456,979
+      No                             99.1                     0.5              99.6
+      Yes                             0.4                       --              0.4
+    Opposite-Sex               5,685,275                  34,897          5,720,172
+      No                             98.9                     0.6              99.5
+      Yes                             0.5                       --              0.5
+ -- Represents that the estimate or standard error is zero or
+ rounds to zero
+  Source: U.S. Census Bureau, 2010 Census; 2010 Numident.
+                                                                                    22
+
+SEHSD Working Paper #: 2014-36
+ Table 9. Consistency between sex assigned based on first name and sex
+ entry in administrative data
+          People                               Numident
+                                     Total            Male        Female
+ Married
+    Same-sex                      606,404             290,033      316,371
+     Name is female               263,630 100.0           1.8          98.2
+     Name is male                 250,911 100.0          97.4            2.6
+     Name is ambiguous             91,863 100.0          44.4          55.6
+    Opposite-sex             102,006,563           50,998,973 51,007,590
+     Name is female            44,024,175 100.0           0.5          99.5
+     Name is male              45,008,578 100.0          99.4            0.6
+     Name is ambiguous         12,973,810 100.0          46.4          53.6
+ Unmarried
+    Same-sex                      912,689             433,891      478,798
+     Name is female               410,665 100.0           0.6          99.4
+     Name is male                 390,208 100.0          99.2            0.8
+     Name is ambiguous            111,816 100.0          39.6          60.4
+    Opposite-sex               11,436,818           5,711,551 5,725,267
+     Name is female             4,865,940 100.0           0.6          99.4
+     Name is male               5,039,788 100.0          99.3            0.7
+     Name is ambiguous          1,531,090 100.0          44.5          55.5
+ Source: U.S. Census Bureau, 2010 Census; 2010 Numident.
+ NOTE: Name is female includes cases in which the name was reported as
+ female 95 percent of the time; name if male includes cases in which the
+ name was reported as male 95 percent of the time. Name is ambiguous
+ includes all remaining cases.
+                                                                             23
+
+SEHSD Working Paper #: 2014-36
+ Table 10. Householders in same-sex and opposite-sex couples with name that suggests respondent is male or female in Census 2010
+ compared to the Numident by mode
+                                                                                     Numident
+           People
+                                          Mailout/Mailback                              NRFU                                    Other
+                                  Male        Female     Total            Male         Female      Total           Male        Female Total
+ Married
+   Same-sex                      125,663         48,215      173,878       69,244        40,243        109,487      13,037       10,185         23,222
+       Name is female                  3.2         96.8       39,920           2.7          97.3        32,939        10.9           89.1        7,520
+       Name is male                  97.9            2.1     109,988          97.9            2.1       60,129        87.0           13.0       11,320
+       Name is ambiguous             69.9          30.1       23,970          57.8          42.2        16,419        54.2           45.8        4,382
+                               35,155,23     5,670,212    40,825,451                  2,103,761     7,499,585                  449,769      2,689,901
+   Opposite-sex                          9                              5,395,824                                2,240,132
+       Name is female                  1.9         98.1    4,901,581           1.1          98.9    1,782,114           2.2          97.8     380,587
+       Name is male                  99.7            0.3  31,215,546          99.5            0.5   4,700,400         99.6            0.4   1,928,874
+       Name is ambiguous             83.6          16.4    4,708,324          68.5          31.5    1,017,071         81.6           18.4     380,440
+ Unmarried
+   Same-sex                      182,785       192,615       375,400       26,164        37,069         63,233       7,642       10,704         18,346
+       Name is female                  0.6         99.4      167,251           1.0          99.0        31,066          2.1          97.9        9,093
+       Name is male                  99.3            0.7     166,553          98.4            1.6       23,334        96.8            3.2        6,837
+       Name is ambiguous             39.4          60.6       41,596          32.8          67.2         8,833        34.5           65.5        2,416
+   Opposite-sex                2,026,534     2,000,223     4,026,757      776,757       642,716     1,419,473      126,340     147,602        273,942
+       Name is female                  0.5         99.5    1,713,329           0.7          99.3       538,759          0.8          99.2     124,842
+       Name is male                  99.3            0.7   1,812,440          99.3            0.7      685,860        99.1            0.9     111,149
+       Name is ambiguous             43.3          56.7      500,988          47.3          52.7       194,854        40.2           59.8       37,951
+ Source: U.S. Census Bureau, 2010 Census; 2010 Numident. NOTE: Name is female includes cases in which the name was reported as female 95 percent of
+ the time; name if male includes cases in which the name was reported as male 95 percent of the time. Name is ambiguous includes all remaining cases.
+                                                                                                                                                       24
+
+        SEHSD Working Paper #: 2014-36
+Table 11. Partners/spouses in same-sex and opposite-sex couples with name that suggests respondent is male or female in Census 2010 compared to
+the Numident by mode
+                                                                                           Numident
+          People
+                                          Mailout/Mailback                                    NRFU                                          Other
+                                 Male        Female       Total               Male           Female      Total              Male          Female    Total
+Married
+   Same-sex                      41,561        131,245          172,806          35,394         73,217        108,611         5,134          13,266       18,400
+     Name is female                 0.9            99.1         111,938              0.8           99.2        60,390            2.1           97.9       10,923
+     Name is male                  97.9             2.1          35,528            98.5             1.5        29,903          96.4             3.6        4,043
+     Name is ambiguous             22.7            77.3          25,340            29.7            70.3        18,318          29.2            70.8        3,434
+                               5,660,59     35,161,849      40,822,439                       5,395,262     7,494,858                     2,226,737    2,674,329
+   Opposite-sex                        0                                     2,099,596                                      447,592
+     Name is female                 0.3            99.7     30,518,815               0.5           99.5    4,554,385             0.4           99.6   1,886,693
+     Name is male                  97.6             2.4       4,971,682            98.9             1.1    1,813,767           98.4             1.6      378,309
+     Name is ambiguous             13.6            86.4       5,331,942            25.3            74.7    1,126,706           16.6            83.4      409,327
+Unmarried
+   Same-sex                    182,772         192,440          375,212          26,976         35,978         62,954         7,552           9,992       17,544
+     Name is female                 0.5            99.5         165,059              0.6           99.4        29,845            0.5           99.5        8,351
+     Name is male                  99.3             0.7         163,219            98.9             1.1        23,674          99.0             1.0        6,591
+     Name is ambiguous             42.3            57.7          46,934            35.9            64.1         9,435          37.9            62.1        2,602
+                               1,995,47      2,030,760        4,026,232        639,558         778,443     1,418,001        146,890        125,523       272,413
+   Opposite-sex                        2
+     Name is female                 0.6            99.4       1,730,108              0.6           99.4       652,968            0.8           99.2      105,934
+     Name is male                  99.2             0.8       1,747,275            99.1             0.9       556,843          99.3             0.7      126,221
+     Name is ambiguous             45.9            54.1         548,849            40.2            59.8       208,190          51.5            48.5       40,258
+ Source: U.S. Census Bureau, 2010 Census; 2010 Numident. NOTE: Name is female includes cases in which the name was reported as female 95 percent of the time;
+name if male includes cases in which the name was reported as male 95 percent of the time. Name is ambiguous includes all remaining cases.
+                                                                                                                                                              25
+
+SEHSD Working Paper #: 2014-36
+ Table 12. Weighted Characteristics of Same-sex and Opposite-sex Couples in the ACS 2010 unedited data matched with Numident file
+                                                  Report as Same Sex Married in ACS 2010              Report as Opposite-sex Married in ACS 2010
+                                                Do NOT match sex
+                                                     report             Do match sex report     Do NOT match sex report       Do match sex report
+                                             Householder Spouse Householder Spouse Householder                   Spouse    Householder       Spouse
+ Total                                             76,874     77,369          61,829   62,275      1,390,949 1,397,518       49,130,914     49,188,577
+ Age (average)                                       57.2       55.7            46.0      44.4           48.0       47.2            51.5          50.5
+    Age allocated                                      3.4       7.2             2.4       2.8            1.0        1.6             0.8           1.2
+    Year of birth allocated                            3.1       3.3             3.3       2.7            4.3        4.8             2.0           2.3
+ Percent male                                        42.1       42.1            45.9      45.6           57.9       42.7            68.0          32.5
+ Average household size                                2.9       2.9             2.7       2.7            3.4        3.4             3.1           3.1
+ Has at least a bachelor's degree                    28.6       27.1            58.0      51.4           31.9       28.5            36.3          31.3
+ Lives in the midwest                                22.1       22.5            10.7      10.7           22.2       22.1            23.6          23.6
+ Race
+    White                                            80.6       80.6            86.7      85.7           70.4       69.4            84.3          83.6
+    Black                                            10.3        9.7             4.5       4.6           10.7       10.7             6.7           6.8
+    American Indian or Alaska Native                   0.7       0.5             0.3       0.3            2.3        2.2             0.5           0.5
+    Asian                                              3.9       4.7             2.7       2.3            7.3        8.3             4.7           5.2
+    Native Hawaiian or Pacific Islander                0.1       0.3             0.1       0.1            0.9        0.9             0.1           0.1
+    Some other Race                                    2.3       2.5             2.9       4.2            4.5        4.9             2.3           2.6
+    Two or more races                                  2.1       1.6             2.8       2.8            4.0        3.6             1.3           1.3
+ Hispanic                                              8.8       9.0             9.3      10.7           16.2       16.4             9.2           9.7
+ Foreign-born                                        14.7       13.8             7.9       9.6           20.1       22.6            13.0          14.7
+ Non-English spoken at home                          16.6       17.8            14.8      16.0           24.2       25.7            15.9          17.1
+    Speaks English very well                         59.1       54.7            73.1      74.0           53.9       48.7            58.4          54.9
+ Average adjusted household income                 86,887     86,961        124,853 124,230            87,690     87,756         95,102         95,101
+ Tenure
+    owns/mortgage                                    52.5       52.7            60.4      60.1           57.6       57.7            60.3          60.2
+    owns free/clear                                  33.0       32.9            13.2      13.4           17.9       18.0            23.3          23.3
+    rents                                            14.5       14.4            26.3      26.5           24.5       24.3            16.4          16.5
+ Source: U.S. Census Bureau, American Community Survey 2010 and 2010 Numident
+                                                                                                                                                      26
+
+            SEHSD Working Paper #: 2014-36
+Table 12a. Weighted Characteristics of Same-sex and Opposite-sex Couples in the ACS 2010 unedited data matched with Numident file
+                                            Report as Same Sex Married in ACS 2010          Report as Opposite-sex Married in ACS 2010
+                                         One does NOT match     Both do NOT match sex     One does NOT match Both do NOT match sex
+                                             sex report                  report                sex report                 report
+                                        Householder Spouse      Householder     Spouse Householder Spouse Householder Spouse
+Total                                         76,222 76,739              652        630      505,620 507,405          889,532 890,113
+Age (average)                                   57.4     55.8           43.1       43.2          46.8      45.6           48.7       48.2
+   Age allocated                                 3.3      7.3           12.0         0.0          0.8       1.5            1.1         1.6
+   Year of birth allocated                       3.1      3.3            0.0         0.0          3.9       4.7            4.5         4.8
+Percent male                                    42.1     42.0           50.3       53.8          63.9      36.6           54.5       46.2
+Average household size                           2.9      2.9            3.0         3.0          3.4       3.4            3.3         3.3
+Has at least a bachelor's degree                28.5     27.1           32.7       16.5          28.8      27.2           33.6       29.2
+Lives in the midwest                            22.1     22.4           25.6       25.7          20.0      20.2           23.4       23.2
+Race
+   White                                        81.0     80.7           25.6       72.1          67.5      67.1           72.0       70.7
+   Black                                        10.1      9.7           32.7         9.0         13.0      12.4            9.4         9.7
+   American Indian or Alaska Native              0.7      0.5            0.0         0.0          1.8       1.7            2.6         2.5
+   Asian                                         3.9      4.8            0.0         0.0          8.1       8.9            6.9         7.9
+   Native Hawaiian or Pacific Islander           0.1      0.3            0.0         0.0          0.8       0.6            0.9         1.1
+   Some other Race                               2.2      2.4           19.8       18.9           5.8       6.2            3.7         4.1
+   Two or more races                             2.0      1.6           21.9         0.0          3.1       3.0            4.5         4.0
+Hispanic                                         8.6      8.9           31.1       28.9          19.4      20.0           14.4       14.4
+Foreign-born                                    14.5     13.7           41.0       29.0          25.1      27.5           17.3       19.8
+Non-English spoken at home                      16.2     17.6           55.2       47.6          29.5      31.6           21.2       22.4
+   Speaks English very well                     60.1     55.1           25.8       39.0          50.2      45.6           56.9       51.1
+Average adjusted household income             87,121 87,172          59,560      61,218        79,755    79,917        92,201      92,225
+Tenure
+   Owns/mortgage                                52.2     52.4           88.7       90.0          55.1      55.2           59.0       59.2
+   Owns free/clear                              33.3     33.2            0.0         0.0         15.3      15.3           19.4       19.5
+   Rents                                        14.5     14.4           11.3       10.0          29.6      29.5           21.7       21.3
+Source: U.S. Census Bureau, American Community Survey 2010 and 2010 Numident
+                                                                                                                                           27
+
+SEHSD Working Paper #: 2014-36
+ Table 13: Percent whose sex assigned based on first name does NOT match their sex report in ACS, for coupled households
+                                                 Report as Same-sex Married in ACS 2010            Report as Opposite-sex Married in ACS 2010
+                                                  Householder                  Spouse                 Householder                 Spouse
+     Sex report match with Numident
+                                                            Margin of                  Margin                 Margin of                Margin of
+                                              Percent                    Percent                  Percent                  Percent
+                                                              Error                   of Error                  Error                    Error
+ ACS sex report does not match
+                                                    53.2          2.9          40.9         2.4         5.9           0.4        6.2         0.4
+ Numident
+ Sex report does match                               3.3            1           4.6         1.3         1.7             --       1.7           --
+ One spouse does not match Numident                 53.6            3            41         2.4         2.6           0.4        2.8         0.5
+ Both do not match                                  13.3         22.7          30.2       29.4          7.8           0.6        8.1         0.5
+ -- Represents that the estimate or standard error is zero or rounds to zero
+ Source: U.S. Census Bureau, American Community Survey 2010 and 2010 Numident
+ NOTE: To illustrate how to interpret this table, here is an example describing the bolded 53.2 percentage. Among householders in couples who
+ reported as same-sex married in ACS 2010, and whose sex report in ACS did NOT match their Numident record, 53.2 percent had a first name
+ which did NOT match their sex report.
+                                                                                                                                              28
+
+Appendix
+     SEHSDA.Working
+              MarginsPaper
+                        of Error for Table 12 - Weighted Characteristics of Same-sex and Opposite-sex Couples in the ACS 2010 unedited data matched
+                             #: 2014-36
+with Numident file
+                                                   Report as Same Sex Married in ACS 2010               Report as Opposite-sex Married in ACS 2010
+                                             Do NOT match sex report        Do match sex report    Do NOT match sex report       Do match sex report
+                                            Householders Spouses Householders Spouses Householders Spouses Householders Spouses
+Total                                               3,590       3,576           3,478       3,488        19,549       19,045       154,374      153,445
+Age (average)                                         0.8          0.9             0.9        1.0            0.2         0.2            0.0          0.0
+   Age allocated                                      1.0          1.4             0.9        1.0            0.1         0.2            0.0          0.0
+   Year of birth allocated                            0.9          1.1             1.1        1.3            0.3         0.3            0.0          0.0
+Percent male                                          2.8          2.8             3.0        2.9            0.7         0.6            0.1          0.1
+Average household size                                0.1          0.1             0.1        0.1            0.0         0.0            0.0          0.0
+Has at least a bachelor's degree                      2.6          2.5             2.6        2.8            0.7         0.7            0.1          0.1
+Lives in the midwest                                  2.0          2.0             1.6        1.6            0.6         0.6            0.1          0.1
+Race
+   White                                              2.0          1.9             2.2        2.1            0.8         0.8            0.1          0.1
+   Black                                              1.5          1.4             1.5        1.5            0.4         0.4            0.1          0.1
+   American Indian or Alaska Native                   0.4          0.3             0.2        0.3            0.2         0.2            0.0          0.0
+   Asian                                              1.0          1.0             0.9        0.8            0.4         0.4            0.0          0.0
+   Native Hawaiian or Pacific Islander                0.1          0.2             0.2        0.1            0.1         0.1            0.0          0.0
+   Some other Race                                    0.9          0.9             1.2        1.5            0.3         0.3            0.0          0.0
+   Two or more races                                  0.7          0.7             1.1        1.2            0.3         0.2            0.0          0.0
+Hispanic                                              1.9          1.7             1.6        2.0            0.6         0.6            0.1          0.1
+Foreign-born                                          2.2          1.9             2.1        1.8            0.6         0.6            0.1          0.1
+Non-English spoken at home                            2.2          1.9             2.3        2.5            0.7         0.7            0.1          0.1
+   Speaks English very well                           7.5          6.7             8.4        5.5            1.4         1.2            0.3          0.3
+Average adjusted household income                   4,946       4,770           7,146       7,087         1,159        1,122            194         194
+Tenure
+   Owns/mortgage                                      2.6          2.5             3.0        3.1            0.7         0.7            0.1          0.1
+   Owns free/clear                                    2.3          2.4             1.9        1.9            0.5         0.5            0.1          0.1
+   Rents                                              2.0          2.0             2.7        2.7            0.6         0.7            0.1          0.1
+Source: U.S. Census Bureau, American Community Survey 2010 and Numident file
+                                                                                                                                                 29
+
+SEHSD Working Paper #: 2014-36
+ Appendix B. Margins of Error for Table 12a - Weighted Characteristics of Same-sex and Opposite-sex Couples in the ACS 2010 unedited data matched
+ with Numident file
+                                                Report as Same Sex Married in ACS 2010               Report as Opposite-sex Married in ACS 2010
+                                           One does NOT match sex Both do NOT match sex One does NOT match sex              Both do NOT match sex
+                                                   report                      report                   report                       report
+                                          Householders Spouses Householders Spouses Householders Spouses Householders                       Spouses
+ Total                                             3,588     3,583              385       364         12,790     12,489          16,249       16,417
+ Age (average)                                       0.8       0.9               8.5      6.4            0.3         0.3             0.2          0.2
+    Age allocated                                    5.5       1.4             19.7      34.3            1.3         0.2             1.9          0.2
+    Year of birth allocated                          0.9       1.1             35.5      34.3            0.5         0.5             0.4          0.4
+ Percent male                                        2.8       2.8             31.6      31.7            1.1         1.1             0.8          0.8
+ Average household size                              0.1       0.1               0.4      0.4            0.0         0.0             0.0          0.0
+ Has at least a bachelor's degree                    2.6       2.6             34.4      19.6            1.0         1.0             0.8          0.8
+ Lives in the midwest                                2.0       2.0             34.6      34.5            0.9         0.8             0.7          0.7
+ Race
+    White                                            2.0       1.9             24.4      28.7            1.2         1.3             0.8          0.9
+    Black                                            1.5       1.4             32.3      14.4            0.7         0.8             0.5          0.5
+    American Indian or Alaska Native                 0.4       0.3             35.5      34.3            0.3         0.3             0.2          0.3
+    Asian                                            1.0       1.0             35.5      34.3            0.6         0.7             0.5          0.5
+    Native Hawaiian or Pacific Islander              0.1       0.2             35.5      34.3            0.2         0.2             0.2          0.2
+    Some other Race                                  0.9       0.9             23.4      21.9            0.6         0.7             0.3          0.4
+    Two or more races                                0.7       0.7             26.2      34.3            0.4         0.4             0.3          0.3
+ Hispanic                                            1.9       1.7             28.0      25.9            1.1         1.1             0.7          0.7
+ Foreign-born                                        2.2       1.9             31.6      27.2            1.0         1.2             0.6          0.7
+ Non-English spoken at home                          2.2       2.0             33.1      30.5            1.2         1.3             0.7          0.7
+    Speaks English very well                         7.9       6.9             32.0      41.6            1.9         1.9             1.9          1.7
+ Average adjusted household income                 4,985     4,807           16,897    16,889          1,546       1,532          1,586         1,525
+ Tenure
+    Owns/mortgage                                    2.6       2.6             18.0      15.5            1.2         1.2             0.8          0.8
+    Owns free/clear                                  2.4       2.4             35.5      34.3            0.8         0.8             0.6          0.5
+    Rents                                            2.0       2.0             18.0      15.5            1.2         1.2             0.8          0.7
+ Source: U.S. Census Bureau, American Community Survey 2010 and Numident file
+                                                                                                                                                      30
+
+SEHSD Working Paper #: 2014-36
+                               31
+

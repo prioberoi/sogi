@@ -1,0 +1,548 @@
+                                                              RESEARCH AND PRACTICE
+Trends in Sexual Orientation Missing Data Over a Decade
+of the California Health Interview Survey
+  Matt Jans, PhD, Joseph Viana, BA, David Grant, PhD, Susan D. Cochran, PhD, MS, Annie C. Lee, MA, and Ninez A. Ponce, PhD
+Measuring sexual orientation in health surveys
+                                                             Objectives. We explored changes in sexual orientation question item comple-
+facilitates comprehensive public health sur-
+                                                          tion in a large statewide health survey.
+veillance. Accumulating evidence suggests that
+                                                             Methods. We used 2003 to 2011 California Health Interview Survey data to
+some lesbians, gay men, and bisexual individ-
+                                                          investigate sexual orientation item nonresponse and sexual minority self-
+uals, compared with heterosexual persons,                 identification trends in a cross-sectional sample representing the noninstitu-
+have higher smoking rates,1,2 greater second-             tionalized California household population aged 18 to 70 years (n = 182 812
+hand smoke exposure,3 more psychological                  adults).
+distress4---6 and depression,7 higher suicide                Results. Asians, Hispanics, limited-English-proficient respondents, and those
+attempt rates,8 worse general health status9              interviewed in non-English languages showed the greatest declines in sexual
+and higher disability rates,10 and lower pre-             orientation item nonresponse. Asian women, regardless of English-proficiency
+ventive care use.11 As a reﬂection on these               status, had the highest odds of item nonresponse. Spanish interviews produced
+emerging ﬁndings, calls for greater collection of         more nonresponse than English interviews and Asian-language interviews
+                                                          produced less nonresponse when we controlled for demographic factors and
+sexual orientation data abound,12---17 but the
+                                                          survey cycle. Sexual minority self-identification increased in concert with the
+validity of sexual-minority research is threat-
+                                                          item nonresponse decline.
+ened if survey respondents cannot or will not
+                                                             Conclusions. Sexual orientation nonresponse declines and the increase in
+provide these data.                                       sexual minority identification suggest greater acceptability of sexual orientation
+   Several large health surveys now routinely             assessment in surveys. Item nonresponse rate convergence among races/
+measure sexual orientation. Since 2001, the               ethnicities, language proficiency groups, and interview languages shows that
+California Health Interview Survey (CHIS) has             sexual orientation can be measured in surveys of diverse populations. (Am J
+included questions assessing self-identiﬁed               Public Health. 2015;105:e43–e50. doi:10.2105/AJPH.2014.302514)
+sexual orientation.18 Twelve Behavioral Risk
+Factor Surveillance System state surveys also
+asked sexual orientation questions at least once      of race/ethnicity and language in sexual ori-          become more comfortable with and knowl-
+between 2000 and 2014.19 Other large-scale            entation item nonresponse, and changes in              edgeable about the topic as a result. Public
+surveys currently asking sexual orientation in-       those effects over time.25,26 The independent          opinion surveys now show majority support for
+clude the Los Angeles County Health Survey,20         effects of English proﬁciency and interview            gay marriage and LGB people in general.32,33
+National Health Interview Survey (NHIS),21            language remain largely unexplored as well.            Sexual orientation item nonresponse should
+National Health and Nutrition Examination             Linguistic and ethnic minorities who are also          decline, and the percentage of respondents
+Survey,22 and General Social Survey.23                sexual minorities may be underrepresented in           identifying as LGB may increase as stigma
+   Results from these surveys indicate that           routine public health surveillance efforts if they     recedes and familiarity grows. These potential
+most respondents provide a codeable sexual            are differentially likely to answer sexual             effects may be more pronounced among racial,
+orientation response. One percent of NHIS             orientation questions.25 Understanding the
+                                                                                                             ethnic, and linguistic minorities.25,26
+respondents in 2013 did not respond when              relationship among sexual orientation item
+                                                                                                                 Two primary research questions guided this
+asked their sexual orientation. “Don’t know”          nonresponse, race/ethnicity, and language
+                                                                                                             study:
+responses comprised 0.4% and refusals made            proﬁciency is important because these socio-
+up 0.6%.24 In 2003 to 2010 Washington State           demographic domains correlate with health                (1) Does the sexual orientation item nonre-
+Behavioral Risk Factor Surveillance System            disparities.27-29                                             sponse rate change over time?
+data, 0.74% responded “don’t know” or “not               Sexual orientation nonresponse is likely              a. If so, is this change constant across races/
+sure,” and 1.12% refused.25 Yet, African              attributable to social stigma of identiﬁcation               ethnicities, English proﬁciency levels, and
+Americans, Asian Americans, and Hispanics in          and a lack of understanding of the terminology               interview languages?
+that study had higher odds of nonresponse             used to discuss the topic.30 Secular trends in           b. How strongly do race/ethnicity, English
+than Whites. This raises questions about pos-         lesbian, gay, and bisexual (LGB) social and legal            proﬁciency, and interview language predict
+sible sociodemographic differences in sexual          recognition31 may increase LGB individuals’                  sexual orientation nonresponse?
+orientation measurement, but there have               willingness to disclose their sexual orientation         (2) Does LGB identiﬁcation vary over the
+been few assessments of the combined roles            in surveys. The non-LGB public may also                       same time period?
+May 2015, Vol 105, No. 5 | American Journal of Public Health                                          Jans et al. | Peer Reviewed | Research and Practice | e43
+
+                                                                RESEARCH AND PRACTICE
+METHODS
+                                                           TABLE 1—Unweighted Univariate Regressors Used in Logistic Regression Model and Their
+    The CHIS has asked sexual orientation via              Bivariate Distributions by Sexual Orientation Nonresponse With v2 Test of Association:
+telephone interview with identical question                California Health Interview Survey, 2003–2011
+wording and response options since 2003. The                                                                                               Sexual Orientation Response, % or Mean
+                                                                                                               Overall, % or
+question reads: “Do you think of yourself as                                                                      Mean                      Answered                  Did Not Answer
+straight or heterosexual, as [gay/gay, lesbian]                              Variable                         (n = 182 812)              (n = 179 558)                  (n = 3 254)
+or homosexual, or bisexual?” Bracketed text
+                                                          Race/ethnicity and LEP**
+ﬁlls with “gay” for men and “gay, lesbian” for
+                                                              White: LEP and non-LEP                              59.99                      98.86                          1.14
+women. The use of multiple terms for hetero-
+                                                              Asian and NHPI: non-LEP                               4.62                     97.59                          2.41
+sexual and homosexual allows for various ways
+                                                              Asian and NHPI: LEP                                   5.66                     96.05                          3.95
+that sexual minority members may identify
+                                                              Hispanic: non-LEP                                     9.99                     99.10                          0.90
+themselves, and variability in respondents’
+                                                              Hispanic: LEP                                       12.17                      95.28                          4.72
+terminology knowledge. Interviewers could
+                                                              Black: LEP and non-LEP                                4.92                     98.54                          1.46
+deﬁne terms at a respondent’s request or un-
+                                                              Multirace: LEP and non-LEP                            2.63                     99.00                          1.00
+certainty. Responses were recorded in 7 cate-
+                                                          Interview language**
+gories: straight or heterosexual; gay, lesbian, or            English                                             87.52                      98.67                          1.33
+homosexual; bisexual; not sexual, celibate, or                Spanish                                               9.32                     94.30                          5.70
+none; other (with open-text speciﬁcation op-                  Chinese, Korean, Vietnamese                           3.16                     97.25                          2.75
+tion); refused; and don’t know. “Not ascer-               Survey cycle**
+tained” was recorded if the interviewer could                 2003                                                19.66                      97.89                          2.11
+not code the respondent’s answer or nonan-                    2005                                                19.73                      98.18                          1.82
+swer into one of the 7 categories. The question               2007                                                22.32                      98.33                          1.67
+was only asked of respondents aged 18 to 70                   2009                                                20.12                      98.32                          1.68
+years after 2003.                                             2011                                                18.17                      98.38                          1.62
+                                                          Percentage life lived in United States**
+Sample                                                        > 75% of life                                       77.87                      98.85                          1.15
+    This study focused on adults aged 70 years                £ 75% of life                                       22.13                      96.01                          3.99
+or younger who answered “I don’t know” or                 Mean age,** y                                           47.12                      47.11                         47.76
+“refused,” or from whom an answer was “not                Poverty**
+ascertained.” As part of standard CHIS data                   ‡ 300% FPL                                          59.88                      98.73                          1.27
+production and preparation for general use,                   200%–299% FPL                                       12.52                      98.37                          1.63
+open-ended responses were coded into sub-                     100%–199% FPL                                       15.55                      97.77                          2.23
+stantive categories (e.g., straight, lesbian, gay,            0%–99% FPL                                          12.06                      96.13                          3.87
+bisexual, or a single nonsexual, celibate, or             Education**
+other category) when there was sufﬁcient detail               ‡ college degree                                    51.06                      98.51                          1.49
+in the open-ended response to do so.                          Some college                                        16.47                      98.95                          1.05
+    CHIS used a dual-frame landline and cell                  High-school graduate                                21.87                      98.57                          1.43
+phone random-digit-dial sample of the non-                    < high school                                       10.60                      94.98                          5.02
+institutionalized California household popula-            Gender**
+tion.34 We used data from ﬁve 2-year CHIS                     Female                                              58.15                      98.07                          1.93
+cycles (2003---2011) in this study. Of the                    Male                                                41.85                      98.43                          1.57
+226 661 interviews conducted, 182 812
+                                                           Note. FPL = federal poverty level; LEP = limited English proficiency; NHPI = Native Hawaiian/Pacific Islander. Significance
+respondents were used (Table 1 shows un-                   based on v2 test of cross-tabulation of each predictor and sexual orientation nonresponse indicator. For age, significance
+weighted descriptive statistics and their per-             reflects a t test of difference in mean ages between respondents and nonrespondents. Unweighted tests are reported. Survey-
+                                                           weighted statistical conclusions where identical. Some variables do not sum to 100% because of rounding.
+centage or mean among sexual orientation                   **P < .001.
+respondents and nonrespondents). The sample
+was mostly White (59.99%), mostly inter-
+viewed in English (87.52%), roughly balanced
+over cycles (18.17% to 22.32%), mostly living         old; because of the exclusion of respondents                            poverty level [updated with each cycle of data
+in the United States greater than 75% of their        aged 71 years and older), relatively well-off                           collection]35), and relatively educated (51.06%
+life (77.87%), relatively young (47.12 years          (59.88% at or above 300% of the federal                                 with a college degree or higher). Ten percent of
+e44 | Research and Practice | Peer Reviewed | Jans et al.                                                        American Journal of Public Health | May 2015, Vol 105, No. 5
+
+                                                              RESEARCH AND PRACTICE
+the sample was Asian or Native Hawaiian/              of one’s life in the United States, age, poverty       sexual orientation item nonresponse declined.
+Paciﬁc Islander (55.06% limited-English-              status, and education. We also ran gender-             The LGB self-identiﬁcation rate is based on
+proﬁcient [LEP]). Hispanics made up about             stratiﬁed versions of that model to assess             self-reported (i.e., not imputed) sexual orienta-
+22% of the sample (54.92% LEP). We ex-                differences between men and women because              tion responses (n = 178 330).
+cluded American Indian and Alaska Native              answering sexual orientation questions may be              Table 2 presents 3 binary logistic regression
+respondents because of small sample sizes that        a different social experience for each gender.42       models predicting sexual orientation item
+inhibited analysis. All the variables in Table 1      Models included postestimation contrasts to            nonresponse. Using all respondents over 5
+had statistically signiﬁcant associations with        test main effects of race---LEP, interview lan-        survey cycles showed signiﬁcantly higher non-
+sexual orientation nonresponse.                       guage, and survey cycle, and the interactions of       response odds among Asian (LEP and non-
+                                                      race---LEP and interview language with survey          LEP) respondents compared to Whites of both
+Interview Languages and Measures                      cycle individually.                                    LEP levels. Hispanic non-LEP respondents’
+   Interviews were conducted in English,                  We used an adaptation of the multicycle            nonresponse odds were statistically equal to
+Spanish, Cantonese, Mandarin, Korean, and             analysis approach by Lee et al.,43 which in-           those of Whites. As expected from Figure 1,
+Vietnamese. All new CHIS question content             cluded design-adjusted analyses to represent           Black and multirace respondents had odds of
+was forward-translated and adjudicated by             the California household population. We ran            nonresponse similar to those of Whites. Race---
+multiple translators each cycle,36,37 and was         all analyses in Stata version 12 (StataCorp LP,        LEP had a signiﬁcant main effect (F6, 182 720 =
+culturally adapted to avoid problems with             College Station, TX) with CHIS survey weights          20.73; P < .001) on item nonresponse.
+multicultural issues beyond language.38 Lim-          and Taylor Series variance estimation.                     Spanish interviews had higher odds of item
+ited English proﬁciency was a 2-category vari-                                                               nonresponse than English interviews, but
+able (speaking English only or very well vs well,     RESULTS                                                Asian-language interviews had lower odds of
+not well, or not at all).39 We analyzed interview                                                            nonresponse when we controlled for race/
+language as a 3-category variable (English,               Figure 1 shows design-adjusted cross-              ethnicity, English proﬁciency, and other model
+Spanish, or Asian language) because of the low        sectional trends of sexual orientation item            variables. There was a signiﬁcant main effect
+frequency of individual Asian languages. Low          nonresponse over 2-year CHIS cycles by race/           of interview language for the entire sample
+numbers of White LEP, Black LEP, and multi-           ethnicity, English proﬁciency, and interview           (F2, 182 720 = 26.60; P < .001). Yet Spanish in-
+race LEP respondents required creation of             language. Item nonresponse rates among His-            terview nonresponse odds increased while Asian
+a 7-category composite race---LEP variable for        panics and Asians were 2 to 4 times higher             language nonresponse odds decreased relative to
+regression analyses: White (all LEP levels),          than among Whites, Blacks, and multirace               English interviews, suggesting differential effects
+Black (all LEP levels), multirace (all LEP levels),   respondents in 2003, but the difference de-            of each translation or the people who were
+Asian non-LEP, Asian LEP, Hispanic non-LEP,           creased over cycles until most of these groups         interviewed in those languages.
+and Hispanic LEP.                                     were not statistically different in 2011 (Figure           Item nonresponse odds were signiﬁcantly
+   Hispanic status was asked ﬁrst, followed by        1a). Asians and Hispanics exhibited steeper            lower in 2007, 2009, and 2011 versus
+a race question allowing multiple responses.          declines than Whites, Blacks, and multirace            2003, and the overall survey cycle main
+Responses were recoded into US Ofﬁce of               respondents. Limited-English-proﬁcient re-             effect was signiﬁcant (F4, 182 720 = 7.52;
+Management and Budget categories40 that               spondents’ item nonresponse rate declined              P < .001). Interactions of cycle with race---LEP
+separate Hispanic identiﬁcation from race             from 5.6% in 2003 to 3.1% in 2011 (Figure              (F24, 182 720 = 1.33; P = .127) and interview
+identiﬁcation (e.g., Hispanic, White non-             1b). Despite the large decline, LEP respondents        language (F8, 182 720 = 1.45; P = .169 overall)
+Hispanic, Black non-Hispanic). Spending 75%           still had a signiﬁcantly higher rate of item           were not signiﬁcant, suggesting that the rate of
+or less of one’s life in the United States was        nonresponse in 2011. Interviews conducted in           decline was not different across race---LEP and
+a proxy for exposure to US mainstream culture.        Spanish had more sexual orientation item               interview language groups when modeled
+This cut-off was a natural break point in the         nonresponse than English interviews in all             covariates were taken into account. Spending
+distribution and led to better-ﬁtting models          cycles (Figure 1c). Asian language (Chinese,           75% or less of one’s life in the United States,
+than other cut points. Age was a continuous           Korean, or Vietnamese) interviews had item             older age, living in poverty, and having less
+variable. Education and poverty were                  nonresponse rates statistically similar to En-         than a high-school diploma also increased item
+4-category ordinal variables.                         glish interviews in 2003, and 2011, and                nonresponse odds.
+                                                      similar to Spanish interviews in 2005, 2007,               Race---LEP had different effects for women
+Statistical Analysis                                  and 2009. Figure 1a---1c suggests a conver-            and men. Asian women and men both had
+   We ﬁrst examined cross-sectional sexual            gence in sexual orientation nonresponse rates          signiﬁcantly greater item nonresponse odds
+orientation item nonresponse trends over 5            over time, with the largest declines in Asians,        than White women and men, but the effect was
+CHIS cycles. We then ran a binary logistic            Hispanics, LEP respondents, and interviews             much stronger for women than for men. For
+regression model predicting sexual orientation        conducted in Spanish and Asian languages.              Hispanics, only non-LEP men showed sig-
+nonresponse from race---LEP, interview lan-               Figure 2 shows that LGB self-identiﬁcation         niﬁcantly lower item nonresponse odds
+guage,41 survey cycle, spending 75% or less           increased between 2003 and 2011 while                  than Whites. Black women had signiﬁcantly
+May 2015, Vol 105, No. 5 | American Journal of Public Health                                          Jans et al. | Peer Reviewed | Research and Practice | e45
+
+                                                                               RESEARCH AND PRACTICE
+                                                                                                                                        greater nonresponse odds than White
+                      a                                                                                                                 women, but the nonresponse odds for Black
+                                             8                                                                                          men were not signiﬁcantly lower compared
+                                                                                              Asian/NHPI
+                                                                                              Hispanic                                  to White men. For Hispanics and Blacks,
+                                             7
+                                                                                                                                        there was a pattern of increased, though not
+                       Item Nonresponse, %
+                                                                                              Black
+                                             6                                                White                                     always signiﬁcant, nonresponse odds ratios
+                                             5
+                                                                                              Multiracial                               for women and decreased odds for men. Men
+                                                                                                                                        and women both showed signiﬁcantly higher
+                                             4
+                                                                                                                                        item nonresponse odds in Spanish interviews
+                                             3                                                                                          compared to English interviews, but only
+                                             2                                                                                          women showed signiﬁcantly lower nonre-
+                                                                                                                                        sponse odds in Asian language interview.
+                                             1
+                                                                                                                                        Nonresponse odds decreased over time for
+                                             0                                                                                          both genders individually, based on the main
+                                                 2003   2005        2007         2009            2011                                   effects of cycle (F4, 198 940 = 6.09; P < .001
+                                                           CHIS 2-Year Cycle                                                            for women, and F4, 210 343 = 4.05; P = .027
+                      b                      8
+                                                                                                                                        for men), but each cycle was not necessarily
+                                                                                                Non-LEP                                 different from 2003. Interactions of cycle
+                                             7                                                  LEP                                     with race---LEP and interview language were
+                       Item Nonresponse, %
+                                                                                                                                        signiﬁcant only for women (race---LEP ·
+                                             6
+                                                                                                                                        cycle: F24, 198 940 = 2.13; P = .001 for
+                                             5                                                                                          women, and F24, 210 343 = 1.29; P = .157
+                                             4                                                                                          for men; interview language · cycle:
+                                                                                                                                        F8, 198 940 = 2.78; P = .005 for women, and
+                                             3
+                                                                                                                                        F8, 210 343 = 0.86; P = .549 for men). Finally,
+                                             2                                                                                          having lived 75% of one’s life or less in the
+                                             1                                                                                          United States only increased nonresponse for
+                                                                                                                                        women, and the overall effects of other pre-
+                                             0
+                                                 2003   2005          2007           2009                2011                           dictors were roughly the same between
+                                                               CHIS 2-Year Cycle                                                        women and men despite minor differences
+                                                                                                                                        in the signiﬁcances.
+                      c
+                                                                                            Spanish
+                                             8
+                                                                                                                                        DISCUSSION
+                                                                                            Asian language
+                                             7                                              English
+                                                                                                                                           Sexual orientation item nonresponse rates
+                       Item Nonresponse, %
+                                             6                                                                                          declined over the past decade, mostly because
+                                             5                                                                                          of declining nonresponse among Hispanics,
+                                                                                                                                        Asians, and LEP respondents. Sexual orienta-
+                                             4
+                                                                                                                                        tion item nonresponse rates for racial/ethnic
+                                             3                                                                                          and linguistic minorities converged toward an
+                                             2                                                                                          overall rate of 1% to 2% with small or no
+                                             1                                                                                          differences between demographic groups.
+                                                                                                                                        Sexual orientation questions in the NHIS have
+                                             0
+                                                 2003   2005         2007          2009               2011                              obtained similar nonresponse rates.24 This
+                                                               CHIS 2-Year Cycle                                                        lends conﬁdence in CHIS data quality for
+                                                                                                                                        sexual minority groups and measurement of
+    Note. CHIS = California Health Interview Survey; LEP = limited English proficiency; NHPI = Native Hawaiian/Pacific Islander.        sexual minority status in surveys broadly be-
+    The sample size was n = 182 812. Whiskers indicate 95% confidence intervals.
+                                                                                                                                        cause lower item nonresponse rates reduce the
+    FIGURE 1—Sexual orientation item nonresponse over 2-year California Health Interview                                                risk of nonresponse bias and make data more
+    Survey cycles by (a) race and ethnicity, (b) English proficiency, and (c) interview language.                                       complete.
+                                                                                                                                           Despite this optimism, higher nonresponse
+                                                                                                                                        rates among Asian respondents (regardless of
+                                                                                                                                        their English proﬁciency) and respondents
+e46 | Research and Practice | Peer Reviewed | Jans et al.                                                                     American Journal of Public Health | May 2015, Vol 105, No. 5
+
+                                                                               RESEARCH AND PRACTICE
+                            6                                                                                                                Asian women and men (LEP and non-LEP)
+                                                                                       LGB-identified                                     both had higher nonresponse odds than
+                                                                                       Sexual orientation nonresponse
+                                                                                                                                          Whites, but the relationship between gender,
+                            5
+      Item Nonresponse, %
+                                                                                                                                          race, English proﬁciency, and nonresponse was
+                                                                                                                                          less straightforward for Hispanics. Only His-
+                            4
+                                                                                                                                          panic non-LEP men showed signiﬁcantly less
+                                                                                                                                          item nonresponse than White men. The item
+                            3                                                                                                             nonresponse odds for Hispanic women were
+                                                                                                                                          not signiﬁcantly higher than for White women
+                            2                                                                                                             in this study, yet there was a general pattern of
+                                                                                                                                          non-White women having higher odds of
+                            1                                                                                                             nonresponse than White women. Non-White
+                                                                                                                                          men (other than Asians) had lower odds of
+                                                                                                                                          nonresponse than White men, although not all
+                            0
+                                2003     2005                       2007                      2009                      2011              of these differences were signiﬁcant. Black and
+                                                                                                                                          Hispanic LEP men had statistically similar odds
+                                                        CHIS 2-Year Cycle
+                                                                                                                                          to White men. Multirace respondents of both
+    Note. CHIS = California Health Interview Survey; LGB = lesbian, gay, or bisexual. Whiskers indicate 95% confidence intervals.         genders had nonsigniﬁcantly lower nonre-
+    FIGURE 2—Percentage of respondents not reporting their sexual orientation (n = 182 812)                                               sponse odds than White respondents. Where
+    and percentage identifying as lesbian, gay, or bisexual (n = 178 330) over California Health                                          the relationship of race---LEP and nonresponse
+    Interview Survey cycles.                                                                                                              differ by gender, men and women within the
+                                                                                                                                          same race/ethnicity may have different atti-
+                                                                                                                                          tudes about sexual topics.
+                                                                                                                                             Spending less of one’s life in the United
+interviewed in Spanish point to possible lin-                        language. These results together may suggest
+                                                                                                                                          States, older age, living in poverty, and having
+guistic, attitudinal, and cultural mechanisms                        that interview language could be more impor-
+                                                                                                                                          less education each positively predicted sexual
+underlying sexual orientation nonresponse.                           tant than race/ethnicity and LEP for those
+                                                                                                                                          orientation item nonresponse. Taken together,
+Nonresponse declined most for LEP respon-                            interviewed in Spanish, whereas race/ethnicity
+                                                                                                                                          this paints a picture of older respondents who
+dents (from 5.6% in 2003 to 3.1% in 2011).                           and LEP are more important predictors of item
+                                                                                                                                          are poorer and less educated, who immigrated
+Yet regression models showed that Asians (LEP                        nonresponse than interview language for Asians.
+                                                                                                                                          more recently (as a fraction of their life), and
+and non-LEP) were still signiﬁcantly more                               Attributing these effects to the translations
+                                                                                                                                          who may be less knowledgeable about or
+likely than Whites not to answer. Interviewing                       alone, rather than the respondents who were
+                                                                                                                                          comfortable with sexual orientation questions.
+in an Asian language reduced the odds of item                        interviewed in those languages, leads to the
+                                                                                                                                          Future research should continue exploring the
+nonresponse when we controlled for other                             conclusion that the Asian-language translations
+                                                                                                                                          complex relationships between demographic
+variables in the model. This may seem coun-                          were better at interpreting sexual orientation                       factors, LEP, and race/ethnicity to reﬁne the
+terintuitive because Asian and LEP respondents                       concepts than the Spanish translations. Yet                          demographic and linguistic proﬁle of sexual
+both showed higher nonresponse rates than                            respondents are routed to an interview lan-                          orientation nonrespondent types. This would
+Whites (Figure 1), but we interpret this ﬁnding                      guage by choice or necessity, so inferences                          be immensely helpful to survey designers when
+as evidence that in-language interviews may                          about the effect of interview language per se                        they are making decisions about sexual orien-
+increase LEP Asian respondents’ understanding                        should be conservative. Asians with LEP were                         tation question wording and translation.
+of the question. This highlights the combined                        much less likely to be interviewed in an Asian                          Future research should also try to further
+role of interview language, race, and English                        language (55%) than LEP Hispanics were to be                         isolate the sources of the independent effects of
+proﬁciency in producing item nonresponse.                            interviewed in Spanish (74%). Despite this                           race/ethnicity, language ability, and speciﬁc
+   Moreover, when we removed interview                               correlation between interview language and                           question translations. Experimental tests of dif-
+language from the model (results not shown),                         races/ethnicities, we saw no evidence of prob-                       ferent translation methods could estimate true
+the effect of being Asian was signiﬁcant but less                    lematic multicollinearity. Higher nonresponse                        translation and question wording effects. Mea-
+strong, suggesting that accounting for interview                     odds among Spanish interviews were seen in                           suring underlying sexual attitude and opinion
+language is important in isolating the race effect.                  women and men separately, but lower odds                             norms would also be helpful, as these are likely
+Comparatively, Spanish interviews led to more                        among Asian-language interviews were seen in                         the psychological drivers of item nonresponse.
+item nonresponse whereas Hispanic ethnicity                          women only. Thus, there seems to be a com-                           Terminology awareness questions could help
+and LEP did not. Subpopulation analyses of LEP                       plex relationship between interview language,                        isolate knowledge effects from attitude or opinion
+Hispanic and Asian respondents only (not                             gender, and item nonresponse that should be                          effects. Qualitatively, it would be helpful to
+shown) showed very similar effects of interview                      explored further in future research.                                 better understand how ethnic/racial minorities
+May 2015, Vol 105, No. 5 | American Journal of Public Health                                                                        Jans et al. | Peer Reviewed | Research and Practice | e47
+
+                                                                                RESEARCH AND PRACTICE
+                                                                                                                                           attributable to differential nonresponse rates
+     TABLE 2—Adjusted Odds Ratios From Survey-Weighted Binary Logistic Regression                                                          alone does not seem warranted, particularly
+     Predicting Sexual Orientation Nonresponse in the California Health Interview Survey,                                                  because of the convergence between language
+     2003–2011                                                                                                                             and sociodemographic groups over time. Bias
+                                                    All Respondents,                Women, AOR                     Men, AOR                potential may still be highest among those who
+                                                      AOR (95% CI)                    (95% CI)                      (95% CI)               do not speak English very well or exclusively,
+                    Variable                          (n = 182 812)                (n = 106 300)                  (n = 76 512)             and among Spanish interviews given the higher
+                                                                                                                                           rates of item nonresponse among those groups.
+    Race (non-Hispanic)/ethnicity and LEP
+                                                                                                                                               Finally, future research should explore why
+       White: LEP and non-LEP (Ref)                 1.00                         1.00                           1.00
+                                                                                                                                           LGB identiﬁcation is rising while sexual orien-
+       Asian and NHPI: non-LEP                    3.29** (2.22, 4.88)          4.59** (2.78, 7.60)            2.01* (1.08, 3.73)
+                                                                                                                                           tation nonresponse is declining. Are people who
+       Asian and NHPI: LEP                        4.00** (2.61, 6.13)          5.04** (3.09, 8.24)            2.79* (1.25, 6.20)
+                                                                                                                                           would have refused or said “I don’t know” in
+       Hispanic: non-LEP                             0.74 (0.47, 1.17)            1.24 (0.73, 2.13)           0.29* (0.13, 0.67)
+                                                                                                                                           previous years now identifying as LGB, or has
+       Hispanic: LEP                                 1.14 (0.63, 2.06)            1.61 (0.87, 2.99)             0.66 (0.19, 2.26)
+                                                                                                                                           there been true population change in LGB
+       Black: LEP and non-LEP                        1.47 (0.92, 2.33)          2.20* (1.29, 3.74)              0.72 (0.28, 1.86)
+                                                                                                                                           identiﬁcation?45---47 Are non-LGB people be-
+       Multirace: LEP and non-LEP                    0.78 (0.31, 1.95)            0.94 (0.24, 3.74)             0.60 (0.24, 1.51)
+                                                                                                                                           coming more familiar with sexual orientation
+    Interview language
+                                                                                                                                           terminology? Do they perceive sexual orienta-
+       English (Ref)                                1.00                         1.00                           1.00
+                                                                                                                                           tion as an innocuous demographic question like
+       Spanish                                     2.37* (1.34, 4.20)           2.01* (1.09, 3.70)            3.34* (1.01, 11.10)
+                                                                                                                                           gender and race? Comparative or experimental
+       Chinese, Korean, Vietnamese                0.29** (0.16, 0.54)          0.21** (0.10, 0.44)              0.50 (0.17, 1.44)
+                                                                                                                                           research should address these questions.
+    Survey cycle
+                                                                                                                                               In conclusion, there is a convergence of
+       2005 vs 2003                                  0.87 (0.69, 1.11)            0.88 (0.65, 1.19)             0.87 (0.60, 1.25)
+                                                                                                                                           sexual orientation nonresponse rates among
+       2007 vs 2003                                0.73* (0.58, 0.93)             0.85 (0.63, 1.14)           0.63* (0.42, 0.93)
+                                                                                                                                           racial, ethnic, and linguistic minorities over
+       2009 vs 2003                                0.72* (0.53, 0.99)             0.71 (0.50, 1.00)             0.73 (0.44, 1.21)
+                                                                                                                                           a decade’s worth of data from a racially and
+       2011 vs 2003                                0.69* (0.52, 0.91)             0.87 (0.59, 1.26)           0.53* (0.36, 0.79)
+                                                                                                                                           linguistically diverse population-based survey.
+                                                              Controls
+                                                                                                                                           Although overall measurement of sexual ori-
+    £ 75% of life in US = 1                        1.40* (1.12, 1.75)           1.54* (1.21, 1.98)              1.30 (0.88, 1.92)
+                                                                                                                                           entation in CHIS is sound and improving, the
+    Age, y                                        1.01** (1.00, 1.02)          1.01** (1.01, 1.02)           1.01** (1.01, 1.02)
+                                                                                                                                           remaining differences between LEP and non-
+    Poverty
+                                                                                                                                           LEP respondents, and between those inter-
+       ‡ 300% FPL (Ref)                             1.00                         1.00                           1.00
+                                                                                                                                           viewed in different languages, motivate future
+       200%–299% FPL                                 1.14 (0.93, 1.40)            1.09 (0.86, 1.40)             1.17 (0.84, 1.63)
+                                                                                                                                           research into the linguistic and cultural causes
+       100%–199% FPL                                 1.18 (0.96, 1.45)            1.21 (0.97, 1.51)             1.10 (0.76, 1.59)
+                                                                                                                                           of sexual orientation nonresponse. For now,
+       0%–99% FPL                                 1.85** (1.50, 2.27)          1.96** (1.57, 2.46)            1.56* (1.07, 2.27)
+                                                                                                                                           our ﬁndings are encouraging about the state of
+    Education
+                                                                                                                                           sexual orientation measurement and the future
+       ‡ college degree (Ref)                       1.00                         1.00                           1.00
+                                                                                                                                           of sexual minority health surveillance. j
+       Some college                                0.76* (0.60, 0.97)           0.66* (0.51, 0.85)              0.92 (0.60, 1.40)
+       High-school graduate                          0.94 (0.79, 1.11)            0.88 (0.71, 1.10)             1.03 (0.79, 1.35)
+       < high school                              1.61** (1.31, 1.98)           1.40* (1.09, 1.80)           1.95** (1.39, 2.73)
+                                                                                                                                           About the Authors
+     Note. AOR = adjusted odds ratio; CI = confidence intervals; FPL = federal poverty level; LEP = limited English proficiency;           Matt Jans, Joseph Viana, David Grant, and Ninez A. Ponce
+     NHPI = Native Hawaiian/Pacific Islander. The regression models a binary outcome where 1 = did not answer.                             are with the California Health Interview Survey, UCLA
+     *P < .05; **P < .001.                                                                                                                 Center for Health Policy Research, UCLA Fielding School of
+                                                                                                                                           Public Health, University of California, Los Angeles. Susan
+                                                                                                                                           D. Cochran is with the Department of Epidemiology, UCLA
+                                                                                                                                           Fielding School of Public Health. Annie C. Lee is with the
+                                                                                                                                           Department of Sociology, UCLA.
+who are sexual minorities self-identify their                         nonresponse bias directly because that requires                         Correspondence should be sent to Matt Jans, PhD, Data
+sexual orientation, particularly when their English                   knowing either (1) the LGB identiﬁcation status                      Quality and Survey Methodology Manager, UCLA Center
+proﬁciency is limited. Limited English proﬁciency                     of respondents and nonrespondents, or (2) the                        for Health Policy Research, 10960 Wilshire Blvd, Ste
+                                                                                                                                           1550, Los Angeles, CA 90024 (e-mail: mjans@ucla.edu).
+restricts a person’s ability to access the linguistic                 correlation between nonresponse propensity                           Reprints can be ordered at http://www.ajph.org by clicking
+channels of social progression, such as popular                       and respondents’ LGB status.44 On the basis of                       the “Reprints” link.
+television, radio, print, and online media, and thus                  the low item nonresponse rates in this study,                           This article was accepted December 4, 2014.
+may restrict their knowledge about, awareness of,                     the impact of respondent---nonrespondent dif-
+and comfort with sexual orientation issues.                           ferences in LGB self-identiﬁcation estimates on                      Contributors
+                                                                                                                                           All coauthors contributed to the development of the
+   Item nonresponse is only 1 facet of item-                          bias should be minimal, particularly in recent                       study and creation of the ﬁnal article. M. Jans was
+level data quality. This study did not assess                         CHIS cycles. Concern about hidden biases                             responsible for overall analysis plan, analyses, and article
+e48 | Research and Practice | Peer Reviewed | Jans et al.                                                                        American Journal of Public Health | May 2015, Vol 105, No. 5
+
+                                                                     RESEARCH AND PRACTICE
+preparation. J. Viana ran many of the analyses and         health disparities in the Paciﬁc Northwest. Am J Public           24. Ward BW, Dahlhamer JM, Galinsky AM, Joestl SS.
+contributed to development of the text and ﬁgures.         Health. 2010;100(3):460---467.                                    Sexual orientation and health among US adults: National
+D. Grant, S. D. Cochran, A. C. Lee, and N. A. Ponce        10. Fredriksen-Goldsen KI, Kim H-J, Barkan SE, Muraco             Health Interview Survey, 2013. Natl Health Stat Report.
+contributed to development of the analysis plan and        A, Hoy-Ellis CP. Health disparities among lesbian, gay,           2014;(77):1---12.
+edited the interim drafts of the article.                  and bisexual older adults: results from a population-             25. Kim H-J, Fredriksen-Goldsen KI. Nonresponse to
+                                                           based study. Am J Public Health. 2013;103(10):1802---             a question on self-identiﬁed sexual orientation in
+Acknowledgments                                            1809.                                                             a public health survey and its relationship to race
+We thank the generous California Health Interview          11. Mays VM, Yancey AK, Cochran SD, Weber M,                      and ethnicity. Am J Public Health. 2013;103(1):
+Survey funders for their support of the survey (complete   Fielding JE. Heterogeneity of health disparities                  67---69.
+funder list at http://healthpolicy.ucla.edu/chis/about/    among African American, Hispanic, and Asian                       26. Anderson JE, Stall R. Increased reporting of male-to-
+Pages/funds.aspx). National Institutes of Health /National American women: unrecognized inﬂuences of sexual                  male sexual activity in a national survey. Sex Transm Dis.
+Center for Advancing Translational Science UCLA CTSI       orientation. Am J Public Health. 2002;92(4):632---                2002;29(11):643---646.
+grant number TL1TR000121 also provided support for         639.                                                              27. Sentell T, Shumway M, Snowden L. Access to
+this study.
+                                                           12. Sell RL, Holliday ML. Sexual orientation data                 mental health treatment by English language proﬁciency
+    Christine Wells and Andy Lin of UCLA’s Statistical
+                                                           collection policy in the United States: public health             and race/ethnicity. J Gen Intern Med. 2007;22(suppl 2):
+Consulting Group astutely answered our statistical
+                                                           malpractice. Am J Public Health. 2014;104(6):967---               289---293.
+questions and provided assistance developing the
+                                                           969.
+ﬁgures.                                                                                                                      28. Fiscella K, Franks P, Doescher M, Saver BG.
+                                                           13. Logie C. The case for the World Health Organiza-              Disparities in health care by race, ethnicity, and language
+                                                           tion’s Commission on the Social Determinants of Health            among the uninsured: ﬁndings from a national sample.
+Human Participant Protection                               to address sexual orientation. Am J Public Health.                Med Care. 2002;40(1):52---59.
+California Health Interview Survey data collection is      2012;102(7):1243---1246.
+covered by institutional review board and human                                                                              29. Karlsen S, Nazroo JY. Relation between racial
+participants review boards at UCLA, the State of Cal-      14. Boehmer U. Twenty years of public health research:            discrimination, social class, and health among ethnic
+ifornia, and Westat. This publication is covered by        inclusion of lesbian, gay, bisexual, and transgender pop-         minority groups. Am J Public Health. 2002;92(4):624---
+UCLA institutional review board application number         ulations. Am J Public Health. 2002;92(7):1125---1130.             631.
+12-001410.                                                 15. Coulter RW, Kenst KS, Bowen DJ. Research funded               30. Miller K, Ryan JM. Design, development and testing
+                                                           by the National Institutes of Health on the health of             of the NHIS sexual identity question. National Center for
+                                                           lesbian, gay, bisexual, and transgender populations. Am J         Health Statistics; 2011. Available at: http://wwwn.cdc.
+References                                                 Public Health. 2014;104(2):e105---e112.                           gov/QBANK/report/Miller_NCHS_2011_NHIS%
+1. Boehmer U, Miao X, Linkletter C, Clark MA. Adult
+                                                           16. Mayer KH, Bradford JB, Makadon HJ, Stall R,                   20Sexual%20Identity.pdf. Accessed November 20,
+health behaviors over the life course by sexual orienta-
+                                                           Goldhammer H, Landers S. Sexual and gender minority               2012.
+tion. Am J Public Health. 2012;102(2):292---300.
+                                                           health: what we know and what needs to be done. Am J              31. Freedom to Marry. States. 2014. Available at:
+2. Lee JGL, Grifﬁn GK, Melvin CL. Tobacco use
+                                                           Public Health. 2008;98(6):989---995.                              http://www.freedomtomarry.org/states. Accessed Sep-
+among sexual minorities in the USA, 1987 to May
+2007: a systematic review. Tob Control. 2009;18            17. Sell RL, Becker JB. Sexual orientation data collection        tember 1, 2014.
+(4):275---282.                                             and progress toward Healthy People 2010. Am J Public              32. Pew Research Center for the People and the
+3. Cochran SD, Bandiera FC, Mays VM. Sexual                Health. 2001;91(6):876---882.                                     Press. Growing support for gay marriage: changed
+orientation---related differences in tobacco use and       18. California Health Interview Survey. CHIS 2001                 minds and changing demographics. 2013. Available
+secondhand smoke exposure among US adults aged 20          methodology series. UCLA Center for Health Policy                 at: http://www.people-press.org/2013/03/20/
+to 59 years: 2003---2010 National Health and Nutrition     Research; 2002. Available at: http://healthpolicy.ucla.           growing-support-for-gay-marriage-changed-minds-
+Examination Surveys. Am J Public Health. 2013;103          edu/chis/design/Documents/CHIS2001_method2.pdf.                   and-changing-demographics. Accessed February 6,
+(10):1837---1844.                                          Accessed April 2, 2014.                                           2014.
+4. Kim H-J, Fredriksen-Goldsen KI. Hispanic lesbians       19. Centers for Disease Control and Prevention. Be-               33. Gallup. Gay and lesbian rights. Gallup historical
+and bisexual women at heightened risk for [corrected]      havioral Risk Factor Surveillance System. State-added             trends. Available at: http://www.gallup.com/poll/
+health disparities. Am J Public Health. 2012;102(1):e9---  question database. Available at: https://www.ark.org/             1651/gay-lesbian-rights.aspx. Accessed February 6,
+e15.                                                       brfss_questions/default.aspx. Accessed February 12,               2014.
+5. King M, Semlyen J, Tai SS, et al. A systematic review   2015.                                                             34. California Health Interview Survey. Report 1:
+of mental disorder, suicide, and deliberate self harm in   20. Los Angeles County Department of Public Health,               sample design. Los Angeles, CA: UCLA Center for Health
+lesbian, gay and bisexual people. BMC Psychiatry. 2008;8   Health Assessment Unit. 2011 Los Angeles County                   Policy Research; 2014. Available at: http://healthpolicy.
+(1):70.                                                    Health Survey Adult Questionnaire. Available at: http://          ucla.edu/chis/design/Documents/chis2011-2012_
+                                                           www.publichealth.lacounty.gov/ha/docs/2011LACHS/                  method-1_2014-06-09.pdf. Accessed September 1,
+6. Cochran SD, Mays VM. Physical health complaints
+                                                           AdultQx_2011FINAL.pdf. Accessed October 27, 2014.                 2014.
+among lesbians, gay men, and bisexual and homosexually
+experienced heterosexual individuals: results from the     21. National Health Interview Survey. 2014 draft NHIS             35. US Census Bureau. Poverty. Available at:
+California Quality of Life Survey. Am J Public Health.     sample adult questionnaire. 2014. Available at: ftp://ftp.cdc.    https://www.census.gov/hhes/www/poverty/data/
+2007;97(11):2048---2055.                                   gov/pub/Health_Statistics/NCHS/Survey_Questionnaires/             threshld/index.html. Accessed February 20,
+                                                           NHIS/2014/english/qadult.pdf. Accessed October 27,                2015.
+7. Cochran SD, Sullivan JG, Mays VM. Prevalence of
+mental disorders, psychological distress, and mental       2014.                                                             36. Ponce NA, Lavarreda SA, Yen W, Brown ER,
+health services use among lesbian, gay, and bisexual       22. National Health and Nutrition Examination Survey.             DiSogra C, Satter DE. The California Health Interview
+adults in the United States. J Counsult Clin Psychol.      Audio computer assisted personal self interview (ACASI)           Survey 2001: translation of a major survey for Califor-
+2003;71(1):53---61.                                        questionnaire: sexual behavior. 2012. Available at:               nia’s multiethnic population. Public Health Rep.
+                                                           http://www.cdc.gov/nchs/data/nhanes/nhanes_13_14/                 2004;119(4):388---395.
+8. Paul JP, Catania J, Pollack L, et al. Suicide attempts
+among gay and bisexual men: lifetime prevalence and        SXQ_ACASI_H.pdf. Accessed October 27, 2014.                       37. Harkness J. Cross-cultural survey guidelines : VIII.
+antecedents. Am J Public Health. 2002;92(8):1338---        23. General Social Survey. General Social Survey                  Translation: language harmonization. 2013. Available at:
+1345.                                                      2012 questionnaire. 2012. Available at: http://                   http://ccsg.isr.umich.edu/trans_harmon.cfm. Accessed
+9. Dilley JA, Simmons KW, Boysun MJ, Pizacani BA,          publicdata.norc.org/GSS/DOCUMENTS/OTHR/                           October 27, 2014.
+Stark MJ. Demonstrating the importance and feasibility of  Ballot1_AREA_English.pdf. Accessed October 27,                    38. California Health Interview Survey. Data collection
+including sexual orientation in public health surveys:     2014.                                                             methods. Los Angeles, CA: UCLA Center for Health
+May 2015, Vol 105, No. 5 | American Journal of Public Health                                                          Jans et al. | Peer Reviewed | Research and Practice | e49
+
+                                                          RESEARCH AND PRACTICE
+Policy Research. Available at: http://healthpolicy.ucla.
+edu/chis/design/Documents/CHIS2003_method2.pdf.
+Accessed February 2, 2015.
+39. Shin HB, Bruno RR. Language use and English-
+speaking ability, 2000. US Department of Commerce,
+Economics and Statistics Administration, US Census
+Bureau; 2003. Available at: http://ccat.sas.upenn.edu/
+;haroldfs/540/census/c2kbr-29.pdf. Accessed March
+6, 2014.
+40. Revisions to the standards for the classiﬁcation of
+federal data on race and ethnicity. The White House.
+Available at: http://www.whitehouse.gov/omb/
+fedreg_1997standards. Accessed September 24, 2014.
+41. Lee S, Nguyen HA, Tsui J. Interview language:
+a proxy measure for acculturation among Asian Ameri-
+cans in a population-based survey. J Immigr Minor Health.
+2011;13(2):244---252.
+42. Monto MA, Supinski J. Discomfort with homosexu-
+ality: a new measure captures differences in attitudes
+toward gay men and lesbians. J Homosex. 2014;61
+(6):899---916.
+43. Lee S, Davis WW, Nguyen HA, McNeel TS, Brick
+JM, Flores-Cervantes I. Examining trends and averages
+using combined cross-sectional survey data from multiple
+years. Available at: http://healthpolicy.ucla.edu/chis/
+faq/Documents/paper_trends_averages.pdf. Accessed
+June 3, 2014.
+44. Groves RM. Nonresponse rates and nonresponse
+bias in household surveys. Public Opin Q. 2006;70
+(5):646---675.
+45. Black D, Gates G, Sanders S, Taylor L. Demo-
+graphics of the gay and lesbian population in the United
+States: evidence from available systematic data sources.
+Demography. 2000;37(2):139---154.
+46. Gates GJ. Geographic trends among same-sex
+couples in the US Census and the American Community
+Survey. 2007. Available at: http://escholarship.org/uc/
+item/51w3b4z9.pdf. Accessed November 22, 2012.
+47. Gates GJ. How many people are lesbian, gay,
+bisexual and transgender? 2011. Available at: https://
+escholarship.org/uc/item/09h684x2.pdf. Accessed Feb-
+ruary 28, 2014.
+e50 | Research and Practice | Peer Reviewed | Jans et al.                       American Journal of Public Health | May 2015, Vol 105, No. 5
+

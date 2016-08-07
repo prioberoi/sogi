@@ -1,0 +1,217 @@
+                                                               RESEARCH AND PRACTICE
+Nonresponse to                                        been research to improve sexual orientation
+                                                      questions by reducing confusion in sexual orien-
+                                                                                                                The categories of race and ethnicity include
+                                                                                                             non-Hispanic White, African American, Asian
+a Question on                                         tation terminology.4-- 7
+                                                          Few studies, however, have examined
+                                                                                                             American, Native Hawaiian or other Paciﬁc
+                                                                                                             Islander, American Indian or Alaskan Native,
+Self-Identified Sexual                                whether estimates of self-identiﬁed sexual
+                                                      orientation are biased by racial and ethnic
+                                                                                                             Hispanic, Multiracial, and other race or eth-
+                                                                                                             nicity. We merged Asian American with Na-
+Orientation in a Public                               identities. The National Survey of Family
+                                                      Growth revised categories of sexual orienta-
+                                                                                                             tive Hawaiian or other Paciﬁc Islander, and
+                                                                                                             excluded Multiracial and other race or eth-
+Health Survey and Its                                 tion by adding straight to heterosexual and
+                                                      homosexual to gay and lesbian, and the non-
+                                                                                                             nicity from further analyses because of in-
+                                                                                                             sufﬁcient sample size. First, we calculated
+Relationship to Race and                              response rate dropped from 6.2% to 1.6%;
+                                                      still, the nonresponse rate for Hispanics
+                                                                                                             weighted prevalence estimates of background
+                                                                                                             characteristics and the 4 sexual orientation
+Ethnicity                                             remained high at about 9%.8 Other studies              responses—including (1) “heterosexual” or
+                                                      rarely report information regarding nonre-             “lesbian, gay, or bisexual,” (2) “other,” (3) “not
+  Hyun-Jun Kim, PhD, and Karen I.                     sponse rate by race and ethnicity. Some                sure or don’t know,” and (4) “refusing to an-
+  Fredriksen-Goldsen, PhD                             studies suggest that individuals from particu-         swer”—by race and ethnicity and compared the
+                                                      lar racial and ethnic minority groups may              estimates based on 95% conﬁdence intervals.
+                                                      have experienced elevated difﬁculties in               Second, we used adjusted multinomial logistic
+       We examined whether nonre-                     identifying their sexual orientation in many           regression to examine the odds comparing re-
+    sponse to the survey question on
+                                                      health surveys conducted in the United States          spondents of color to non-Hispanic White re-
+    self-identified sexual orientation
+                                                      because the sexual orientation terms com-              spondents for self-identifying as “other,” respond-
+    was associated with race and eth-
+    nicity, utilizing Washington State                monly used in the surveys have been con-               ing “not sure or don’t know,” or refusing to
+    Behavioral Risk Factor Surveillance               structed in the dominant Euro-American                 answer relative to self-identifying as “heterosex-
+    System data. The results of adjusted              culture.9---11                                         ual” or “lesbian, gay, or bisexual (LGB).” In the
+    multinomial logistic regression in-                   An ongoing population-based health survey          adjusted model, we controlled for confounding
+    dicated that the nonresponse rates                measuring sexual orientation is the Washing-           variables of age (in years), income (£ 200%
+    of Asian Americans, Hispanics, and                ton State Behavioral Risk Factor Surveil-              federal poverty level vs > 200% DHHS federal
+    African Americans are higher than                 lance System (WA-BRFSS). WA-BRFSS asks                 poverty level), and education (£ high school vs ‡
+    those of non-Hispanic Whites. Inno-               participants to identify their sexual orientation      some college) as nonresponse was associated with
+    vative ways of measuring sexual                   from the given categories of “heterosexual,            older age, lower income, and lower educational
+    orientation to reduce racially and
+                                                      that is straight,” “homosexual, that is gay or         achievement (data not shown). Year of interview
+    ethnically driven bias need to be
+                                                      lesbian,” “bisexual,” and “other.” Those who           was also added to the model to account for the
+    developed and integrated into pub-
+    lic health surveys. (Am J Public                  answer “not sure or don’t know” or refuse to           clustering of the data. Sample weights provided by
+    Health. 2013;103:67–69. doi:10.2105/              answer are coded and treated as a nonre-               WA-BRFSS were applied to all analyses.
+    AJPH.2012.300835)                                 sponse. Most studies also exclude from anal-
+                                                      yses those who choose “other.” Utilizing               RESULTS
+                                                      WA-BRFSS data, our objective was to inves-
+                                                      tigate whether race and ethnicity are associ-             Table 1 demonstrates weighted estimates of
+   The US Department of Health and Human              ated with nonresponses in the measure of               background characteristics and responses to
+Services (DHHS) in Healthy People 2020 iden-          self-identiﬁed sexual orientation.                     sexual orientation question by race and eth-
+tiﬁes reducing health disparities among lesbian,                                                             nicity. The result of the v2 test indicates that
+gay, and bisexual people as a health improvement      METHODS                                                there is a signiﬁcant relationship between
+priority.1 To achieve the objectives and monitor                                                             sexual orientation responses and race and
+the progress of Healthy People 2020, nationwide           We aggregated WA-BRFSS data from                   ethnicity (v2[12] = 1713.38; P < .001).When
+efforts to better understand the health of sexual     2003 to 2010. WA-BRFSS is an annually                  considering 95% conﬁdence intervals, com-
+minorities are required. Measures of self-identiﬁed   conducted telephone survey for noninstitu-             pared with non-Hispanic White Americans,
+sexual orientation have been included in some         tionalized adults aged 18 years and older.12           African Americans, Asian Americans, and His-
+national surveys, and studies have found that the     Beginning in 2003, WA-BRFSS included a                 panics were more likely to respond “not sure or
+inclusion of such measures in population-based        measure of sexual orientation. Data from               don’t know”; Asian Americans and Hispanics
+health surveys is beneﬁcial in that they provide      2003 to 2010 were aggregated to create                 were also more likely to refuse to answer.
+important information regarding the histori-          a sufﬁcient sample to test the study research          The rates of self-identifying as “other” were
+cally marginalized populations with no detriments     questions. All variables included in the study         not different by race and ethnicity. The results
+to overall response rates.2,3 In addition, there has  have been consistently asked each year.                of adjusted multinomial logistic regression
+January 2013, Vol 103, No. 1 | American Journal of Public Health                       Kim and Fredriksen-Goldsen | Peer Reviewed | Research and Practice | 67
+
+                                                                                 RESEARCH AND PRACTICE
+     TABLE 1—Weighted Prevalence Estimates of Background Characteristics and Responses to Sexual Orientation Question by Race
+     and Ethnicity: Washington State Behavioral Risk and Surveillance System, 2003–2010
+                                                                  Non-Hispanic White         African American         Asian American        American Indian or
+                                       Totals (n = 161 600),     (n = 145 318), Mean        (n = 1923), Mean         (n = 3429), Mean   Alaskan Native (n = 2129), Hispanic (n = 8801),
+                                       Mean (95% CI) or %            (95% CI) or %            (95% CI) or %            (95% CI) or %       Mean (95% CI) or %         Mean (95% CI)
+                                              (95% CI)                 (95% CI)                   (95% CI)                (95% CI)               (95% CI)             or % (95% CI)        P
+                                                                                           Background information
+    Age, y                            45.64 (45.51, 45.78) 47.21 (47.07, 47.35) 40.39 (39.46, 41.31) 38.75 (38.09, 39.41)                  41.42 (40.38, 42.46)    34.64 (34.29, 34.99) < .001
+    Income £ 200% poverty levela 32.00 (31.64, 32.38) 27.53 (27.16, 27.90) 50.38 (47.21, 53.54) 33.46 (31.00, 36.02)                       54.67 (51.33, 57.97)    72.39 (71.03, 73.71) < .001
+    Education £ high school           32.31 (31.96, 32.66) 28.85 (28.51, 29.20) 36.51 (33.62, 39.49) 22.05 (20.09, 24.14)                  48.54 (45.29, 51.80)    70.04 (68.71, 71.33) < .001
+                                                                                         Sexual orientation response
+    Heterosexual or LGB                                                                                                                                                                 < .001
+        Total                         97.93 (97.83, 98.03) 98.40 (98.31, 98.48) 96.89 (95.74, 97.74) 94.01 (92.86, 94.99)                  97.87 (97.07, 98.45)    95.09 (94.38, 95.73)
+        Heterosexual                  95.16 (94.99, 95.32) 95.60 (95.43, 95.76) 93.20 (91.42, 94.63) 91.81 (90.45, 93.00)                  93.60 (91.89, 94.97)    92.76 (91.91, 93.53)
+        LGB                             2.77 (2.65, 2.91)         2.80 (2.66, 2.94)        3.69 (2.60, 5.22)        2.20 (1.56, 3.08)       4.27 (3.08, 5.89)       2.34 (1.90, 2.86)
+    Other                               0.21 (0.17, 0.25)         0.20 (0.16, 0.24)        0.36 (0.14, 0.89)        0.32 (0.12, 0.83)       0.24 (0.00, 0.62)       0.22 (0.13, 0.38)
+    Not sure/don’t know                 0.74 (0.68, 0.81)         0.43 (0.39, 0.47)        1.43 (0.84, 2.43)        2.72 (2.07, 3.56)       0.57 (0.31, 1.03)       3.02 (2.53, 3.60)
+    Refused to answer                   1.12 (1.05, 1.19)         0.98 (0.91, 1.05)        1.32 (0.87, 2.00)        2.95 (2.31, 3.77)       1.32 (0.87, 2.00)       1.67 (1.31, 2.13)
+     Note. CI = confidence interval; LGB = lesbian, gay, or bisexual. P values based on ANOVA and the v2 test.
+     a
+       Poverty level determined by DHHS poverty guidelines.
+analyses (Table 2) indicate that the adjusted                           those for non-Hispanic Whites. The adjusted                       there is diversity in nonresponses within racial
+odds of responding “not sure or don’t know”                             odds of nonresponse for American Indians                          and ethnic minorities. Asian Americans and
+relative to self-identifying as “heterosexual or                        and Alaskan Natives were not different from                       Hispanics were more likely to respond “not
+LGB” for African Americans, Asian Ameri-                                those for non-Hispanic Whites.                                    sure or don’t know” as well as refuse to answer
+cans, and Hispanics were about 2.6, 12.5,                                                                                                 compared with non-Hispanic Whites.
+and 6.4 times greater, respectively, than                               DISCUSSION                                                            Those who answered “not sure or don’t
+those for non-Hispanic Whites. The adjusted                                                                                               know” or refused to answer might be unable to
+odds of refusing to answer relative to self-                               Our ﬁndings, based on WA-BRFSS, indicate                       interpret the stated categories of sexual orienta-
+identifying as “heterosexual or LGB” for                                that nonresponse to a commonly used sexual                        tion because the terms heterosexual, lesbian,
+Asian Americans and Hispanics were about                                orientation question is associated with race and                  gay, and bisexual may not be part of everyday
+4.4 and 2.0 times greater, respectively, than                           ethnicity. Furthermore, we discovered that                        language for some respondents.4,13 In particular,
+                                                                                                                                          the nonresponse rates for Asian Americans and
+                                                                                                                                          Hispanics, which consist of relatively higher
+     TABLE 2—Adjusted Odds Ratios for Comparing Respondents of Color to Non-Hispanic White                                                proportions of foreign-born immigrants,14 may
+     from Multinomial Logistic Regression Models of Responses to Sexual Orientation Question:                                             be higher because of the unfamiliarity with the
+     Washington State Behavioral Risk and Surveillance System, 2003–2010                                                                  sexual orientation terms. For example, a pre-
+                                                                                                                                          vious study notes that foreign-born respon-
+                                                                      Responses to sexual orientation question
+                                                                                                                                          dents in the United States are less likely to
+                                                    Other, AOR               Not sure/Don’t Know,              Refused to Answer,         identify as lesbian, gay, or bisexual compared
+                                                     (95% CI)                    AOR (95% CI)                    AOR (95% CI)
+                                                                                                                                          with US-born respondents.15 According to
+    Non-Hispanic White (Ref)                     1.00                            1.00                            1.00                     national surveys, many Asian Americans tend
+    African American                             1.28 (0.41, 3.99)            2.63** (1.36, 5.11)                1.67 (0.99, 2.78)        to identify their sexual orientation as “queer,”16
+    Asian American                               1.67 (0.53, 5.33)         12.50*** (8.68, 18.02)            4.42*** (3.15, 6.20)         which is often excluded from analyses, and
+    American Indian or Alaskan Native            0.92 (0.32, 2.65)               1.02 (0.48, 2.16)               1.34 (0.79, 2.25)        some of the sexual orientation terms used in US
+    Hispanic                                     0.63 (0.30, 1.35)           6.43*** (4.93, 8.39)            2.02*** (1.47, 2.78)         surveys are not translatable (e.g., no compara-
+                                                                                                                                          ble word for “straight” in Spanish).17 Future
+     Note. AOR = adjusted odds ratio; CI = confidence interval. Those who self-identified as “heterosexual or LGB” were treated as
+     the baseline group. The analysis controlled for age, income, education, and year of interview.                                       research will need to investigate to what extent
+     **P < .01; ***P < .001.                                                                                                              nonresponse among Asian Americans and
+                                                                                                                                          Hispanics is related to ﬂuency in US English
+68 | Research and Practice | Peer Reviewed | Kim and Fredriksen-Goldsen                                                      American Journal of Public Health | January 2013, Vol 103, No. 1
+
+                                                                RESEARCH AND PRACTICE
+or having different terms in their native lan-        we move forward in health disparities research,               7. Austin SB, Conron KJ, Patel A, Freedner N. Making
+                                                                                                                    sense of sexual orientation measures: Findings from
+guages. It will also be important to test whether     it is important for population-based surveys to
+                                                                                                                    a cognitive processing study with adolescents on health
+including questions on sexual behavior and            consider the cultural sensitivity of sexual orienta-          survey questions. J LGBT Health Res. 2007;3(1):55---65.
+sexual attraction in addition to sexual orienta-      tion measures. Only through addressing the in-                8. Miller K, Ryan JM. Design, development and testing
+tion enhances our understanding of sexual             creasing diversity in our society will be prepared            of the NHIS sexual identity question. 2011. Available at:
+                                                                                                                    http://www.lgbttobacco.org/ﬁles/Final%20Report%
+identiﬁcation among diverse racial and ethnic         to address and reduce health disparities. j
+                                                                                                                    20Sexual%20Identity.pdf. Accessed February 11, 2012.
+groups and if such an approach reduces cul-
+                                                                                                                    9. Zea MC, Reisen CA, Diaz RM. Methodological issues in
+tural bias. A study indicates that foreign-born                                                                     research on sexual behavior with Latino gay and bisexual
+                                                      About the Authors                                             men. Am J Community Psychol. 2003;31(3/4):281---291.
+men who report having sex with men are                Hyun-Jun Kim and Karen I. Fredriksen-Goldsen are with the
+less likely to identify their sexual orientation as   School of Social Work, University of Washington, Seattle.     10. Wolitski RJ, Jones KT, Wasserman JL, Smith JC. Self-
+                                                         Correspondence should be sent to Hyun-Jun Kim, PhD,        identiﬁcation as “down low” among men who have sex
+gay than their US-born counterparts.18 Cogni-
+                                                      MSW, University of Washington School of Social Work,          with men (MSM) from 12 US cities. AIDS Behav. 2006;10
+tive interviewing techniques to evaluate sour-        4101 15th Ave NE, Box 354900, Seattle, WA 98105               (5):519---529.
+ces of response error in measurement and              (e-mail: hyunjkim@u.washington.edu). Reprints can be          11. Chan C. Issues of sexual identity in an ethnic minority:
+alternative measures of sexual identity may           ordered at http://www.ajph.org by clicking the                the case of Chinese American lesbians, gay men, and
+                                                      “Reprints” link.                                              bisexual people. In: D’Augelli A, Patterson C, eds. Lesbian,
+help develop culturally responsive measures              This article was accepted March 30, 2012.                  Gay, and Bisexual Identities Over the Life Span: Psychological
+related to sexuality.                                                                                               Perspectives. New York, NY: Oxford University Press; 1995:
+   We also observed some interesting similarities                                                                   87---101.
+                                                      Contributors
+in nonresponses among racial and ethnic mi-           H.-J. Kim originated and conceptualized the study and led     12. Center for Disease Control and Prevention. Behav-
+                                                      the analyses and writing of the article. K. I. Fredriksen-    ioral Risk Factor Surveillance System. Available at:
+nority groups. Although African Americans
+                                                      Goldsen provided guidance on the conceptualization and        http://www.cdc.gov/brfss. Accessed January 28, 2011.
+showed slightly higher rates of responding “not       analyses. All authors participated in the interpretation of   13. Sell RL, Wells J, Wypij D. The prevalence of
+sure or don’t know” than did non-Hispanic             ﬁndings and in the writing and editing of the article.        homosexuality in the United States, the United Kingdom,
+Whites, African Americans, and American In-                                                                         and France: results of population-based surveys. Arch Sex
+                                                                                                                    Behav. 1995;24(3):235---248.
+dians and Alaskan Natives did not show as             Acknowledgments
+                                                      This research was funded in part by the National Institutes   14. Grieco EM. Race and Hispanic Origin of the Foreign-
+salient nonresponses as did Asian Americans
+                                                      of Health and the National Institute on Aging (grant RO1      Born Population in the United States: 2007, American
+and Hispanics did when compared with non-             AG026526; K. I. F.-G., principal investigator). The data used Community Survey Reports, ACS-11. Washington, DC: US
+Hispanic Whites. It has been suggested that the       in this study were provided by Washington State Depart-       Census Bureau; 2009. Available at: http://www.census.
+                                                      ment of Health, Center for Health Statistics, Behavioral Risk gov/prod/2010pubs/acs-11.pdf. Accessed February 11,
+discourse and construction of sexual orientation
+                                                      Factor Surveillance System, supported in part by Centers      2012.
+in the United States has had inﬂuence across          for Disease Control and Prevention Cooperative Agreement      15. Chae DH, Ayala G. Sexual orientation and sexual
+diverse racial and ethnic minority groups as well     (grants U58/CCU002118-17; U58/CCU022819-1, 2, 3,              behavior among Latino and Asian Americans: implica-
+as non-Hispanic Whites.19 Thus, it may be             4, 5; and U58/DP001996-1, 2).                                 tions for unfair treatment and psychological distress. J Sex
+                                                                                                                    Res. 2010;47(5):451---459.
+problematic to simply assume that people of
+color are more likely to not identify their sexual    Human Participant Protection                                  16. Dang A, Vianney C. Living in the Margins: A National
+                                                      The institutional review board of the University of           Survey of Lesbian, Gay, Bisexual and Transgender Asian and
+orientation within the categories stated in a sur-    Washington approved this study.                               Paciﬁc Islander Americans. New York, NY: National Gay
+vey. Further investigation should be conducted                                                                      and Lesbian Task Force Policy Institute; 2007.
+to better understand the diversity in response        References                                                    17. Battle J, Cohen CJ, Warren D, Fergerson G, Audam S.
+                                                                                                                    Say It Loud: I’m Black and I’m Proud; Black Pride Survey
+patterns within racial and ethnic minority groups.    1. US Department of Health and Human Services. Healthy        2000. New York, NY: National Gay and Lesbian Task
+   The ﬁndings may not be generalizable to            People 2020 Objectives. 2011. Available at: http://www.       Force Policy Institute; 2002.
+                                                      healthypeople.gov/2020/topicsobjectives2020/default.
+the US population because the data used in this                                                                     18. Pathela P, Hajat A, Schillinger J, Blank S, Sell R,
+                                                      aspx. Accessed November 7, 2011.
+study are only representative of Washington                                                                         Mostashari F. Discordance between sexual behavior and
+                                                      2. VanKim NA, Padilla JL, Lee JG, Goldstein AO.               self-reported sexual identity: a population-based survey
+State. Still, the ﬁndings emphasize the necessity of  Adding sexual orientation questions to statewide public       of New York City men. Ann Intern Med. 2006;145(6):
+improving measurements of sexual orientation to       health surveillance: New Mexico’s experience. Am J Public     416---425.
+reduce racial and ethnic bias. Existing evidence      Health. 2010;100(12):2392---2396.
+                                                                                                                    19. Meyer IH. Identity, stress, and resilience in lesbians,
+suggests cumulative risk of health disparities by     3. Case P, Austin S, Hunter D, et al. Disclosure of sexual    gay men, and bisexuals of color. Couns Psychol. 2010;38
+                                                      orientation and behavior in the Nurses’ Health Study II:      (3):442---454.
+sexual orientation and race and ethnicity.20 It is
+                                                      results from a pilot study. J Homosex. 2006;51(1):13---31.
+                                                                                                                    20. Kim H-J, Fredriksen-Goldsen KI. Hispanic lesbians and
+imperative to have population-based data that can
+                                                      4. The Sexual Minority Assessment Research Team. Best         bisexual women at heightened risk for health disparities.
+estimate prevalence of key health indicators for      practices for asking questions about sexual orientation on    Am J Public Health. 2012;102(1):e9---e15.
+racially and ethnically diverse LGB populations.      surveys. Los Angeles, CA: The Williams Institute; 2009.       21. US Department of Health and Human Services. New
+Thus, these nonresponses should not be simply         5. Haseldon L, Joloza T. Measuring Sexual Orientation:        Release: Affordable Care Act to improve data collection,
+                                                      A Guide for Researchers. London, UK: Ofﬁce for National       reduce health disparities. 2011. Available at: http://
+ignored but rather further investigated and
+                                                      Statistics; 2009.                                             www.hhs.gov/news/press/2011pres/06/20110629a.
+understood so that better measures can be con-                                                                      html. Accessed October 31, 2011.
+structed. Recently, DHHS announced that mea-          6. Clark MA, Armstrong G, Bonacore L. Measuring sexual
+                                                      orientation and gender expression among middle-aged and
+sures of sexual orientation will be added to the      older women in a cancer screening study. J Cancer Educ.
+National Health Interview Survey by 2013.21 As        2005;20(2):108---112.
+January 2013, Vol 103, No. 1 | American Journal of Public Health                              Kim and Fredriksen-Goldsen | Peer Reviewed | Research and Practice | 69
+

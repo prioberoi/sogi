@@ -1,0 +1,755 @@
+                            NIH Public Access
+                            Author Manuscript
+                            Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+                           Published in final edited form as:
+NIH-PA Author Manuscript
+                            Arch Sex Behav. 2012 June ; 41(3): 649–657. doi:10.1007/s10508-011-9768-7.
+                           Measurement of Sexual Identity in Surveys: Implications for
+                           Substance Abuse Research
+                           Sean Esteban McCabe,
+                           Institute for Research on Women and Gender, University of Michigan, 204 S. State St., Ann
+                           Arbor, MI 48109-1290, USA; Substance Abuse Research Center, University of Michigan, Ann
+                           Arbor, MI, USA
+                           Tonda L. Hughes,
+                           Mental Health and Administrative Nursing, Department of Public Health, University of Illinois at
+                           Chicago, Chicago, IL, USA
+                           Wendy Bostwick,
+                           Public Health and Health Education Programs, Northern Illinois University, DeKalb, IL, USA
+NIH-PA Author Manuscript
+                           Michele Morales, and
+                           Substance Abuse Research Center, University of Michigan, Ann Arbor, MI, USA
+                           Carol J. Boyd
+                           Institute for Research on Women and Gender, University of Michigan, 204 S. State St., Ann
+                           Arbor, MI 48109-1290, USA; Substance Abuse Research Center, University of Michigan, Ann
+                           Arbor, MI, USA; School of Nursing, University of Michigan, Ann Arbor, MI, USA; Women's
+                           Studies, University of Michigan, Ann Arbor, MI, USA
+                           Sean Esteban McCabe: plius@umich.edu
+                           Abstract
+                               Researchers are increasingly recognizing the need to include measures of sexual orientation in
+                               health studies. However, relatively little attention has been paid to how sexual identity, the
+                               cognitive aspect of sexual orientation, is defined and measured. Our study examined the impact of
+                               using two separate sexual identity question formats: a three-category question (response options
+                               included heterosexual, bisexual, or lesbian/gay), and a similar question with five response options
+                               (only lesbian/gay, mostly lesbian/gay, bisexual, mostly heterosexual, only heterosexual). A large
+NIH-PA Author Manuscript
+                               probability-based sample of undergraduate university students was surveyed and a randomly
+                               selected sub-sample of participants was asked both sexual identity questions. Approximately one-
+                               third of students who identified as bisexual based on the three-category sexual identity measure
+                               chose “mostly heterosexual” or “mostly lesbian/gay” on the five-category measure. In addition to
+                               comparing sample proportions of lesbian/gay, bisexual, or heterosexual participants based on the
+                               two question formats, rates of alcohol and other drug use were also examined among the
+                               participants. Substance use outcomes among the sexual minority subgroups differed based on the
+                               sexual identity question format used: bisexual participants showed greater risk of substance use in
+                               analyses using the three-category measure whereas “mostly heterosexual” participants were at
+                               greater risk when data were analyzed using the five-category measure. Study results have
+                               important implications for the study of sexual identity, as well as whether and how to recode
+                               responses to questions related to sexual identity.
+                           © Springer Science+Business Media, LLC 2011
+                           Correspondence to: Sean Esteban McCabe, plius@umich.edu.
+
+                           McCabe et al.                                                                                              Page 2
+                              Keywords
+                                   Sexual orientation; Sexual identity; Substance use; College students
+NIH-PA Author Manuscript
+                              Introduction
+                                             Researchers increasingly consider sexual orientation an important focus of health research
+                                             and a valuable demographic variable for inclusion in studies of health (e.g., Case et al.,
+                                             2004; Omoto & Kurtzman, 2005; Meyer, 2003; Sell & Becker, 2001). Like race/ethnicity or
+                                             socioeconomic status, sexual orientation is a complex construct that contains dimensions
+                                             that are difficult to measure. Sexual orientation is most commonly described as including
+                                             cognitive (identity), behavioral, and affective (attraction or desire) dimensions (Laumann,
+                                             Gagnon, Michael, & Michaels, 1994). Although measurement of sexual behavior is
+                                             relatively straightforward, sexual identity is conceptually and operationally more difficult to
+                                             define. Adolescent participants report the highest burden when answering questions about
+                                             sexual identity compared with questions related to sexual behavior (Austin, Conron, Patel, &
+                                             Freedner, 2007). Given that sexual identity is among the most commonly assessed
+                                             dimensions of sexual orientation, it is important to examine and contrast various measures
+                                             used to assess sexual identity.
+                                             Health-related research has used a wide array of measures to assess sexual identity (e.g.,
+NIH-PA Author Manuscript
+                                             Friedman et al., 2004; Sell, 1997; Solarz, 1999). Commonly used sexual identity measures
+                                             include five- or seven-category scales that conceptualize sexual identity as a continuum
+                                             ranging from “exclusively homosexual” to “exclusively heterosexual” (e.g., Debord, Wood,
+                                             Sher, & Good, 1998; Hughes, Wilsnack, & Johnson, 2005; Laumann et al., 1994; Matthews,
+                                             Hughes, Johnson, Razzano, & Cassidy, 2002) and discrete three-category measures
+                                             consisting of responses such as heterosexual, bisexual or lesbian/gay (e.g., Bontempo &
+                                             D'Augelli, 2002; Drabble, Midanik, & Trocki, 2005; Garofalo, Wolf, Kessel, Palfrey, &
+                                             DuRant, 1998; Jorm, Korten, Rodgers, Jacomb, & Christensen, 2002; McCabe, Boyd &
+                                             Hughes, & d'Arcy, 2003). Some sexual identity measures also include other responses such
+                                             as “don't know”(Jorm et al., 2002), “not sure”(Bontempo & D'Augelli, 2002; Garofalo et al.,
+                                             1998), “refused”(McCabe et al., 2003),“none of the above”(Bontempo & D'Augelli, 2002;
+                                             Garofalo et al., 1998), “curious,” “questioning,” “unlabeled” (Thompson & Morgan, 2008)
+                                             or “other (specify)”(McCabe, Hughes, Bostwick, & Boyd, 2005). Such studies focusing on
+                                             sexual identity often utilize inconsistent response options and recoding practices which can
+                                             lead to the misclassification of sexual minorities and present challenges to comparing results
+                                             across studies. Despite these variations in measurement, little research has examined using
+                                             one sexual identity measure versus another in terms of response decisions and distribution of
+NIH-PA Author Manuscript
+                                             sexual orientation.
+                                             A growing body of research suggests that sexual minority populations are at heightened risk
+                                             for substance use, abuse, and dependence relative to their heterosexual counterparts
+                                             (Cochran, Ackerman, Mays, & Ross, 2004; Drabble et al., 2005; Hughes et al., 2005;
+                                             McCabe, Hughes, Bostwick, West, & Boyd, 2009; Wilsnack et al., 2008). In addition, recent
+                                             research suggests that risk varies among sexual minority groups. For example, some studies
+                                             have found that bisexuals have poorer mental health than lesbians and gay men (e.g.,
+                                             Bostwick, Boyd, Hughes, & McCabe, 2010; Eisenberg & Wechsler, 2003; Jorm et al., 2002;
+                                             McCabe et al., 2009).
+                                             The majority of college-based studies that have examined the relationship between sexual
+                                             identity and substance use have asked participants to label themselves as bisexual, lesbian/
+                                             gay or heterosexual (e.g., Boyd, McCabe, & d'Arcy, 2003; McCabe et al., 2003; McCabe,
+                                                 Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                               Page 3
+                                             Hughes, & Boyd, 2004). However, there is evidence that adolescents and young adults
+                                             prefer intermediate options, such as “mostly heterosexual” or “mostly homosexual” to
+                                             describe their sexual identity rather than labels which imply a static state such as “bisexual”
+NIH-PA Author Manuscript
+                                             or “lesbian/gay” (Austin et al., 2007). Findings from college-based and non-college based
+                                             samples indicate that health-related outcomes and rates of health behaviors can vary based
+                                             on the dimension of sexual orientation assessed (e.g., Bontempo & D'Augelli, 2002;
+                                             Bostwick et al., 2010; McCabe et al., 2009; Russell, Driscoll, & Truong, 2002; Scheer et al.,
+                                             2003). Furthermore, at least two college-based studies have shown gay and bisexual men
+                                             were at lower risk for binge drinking than their heterosexual peers but the results of these
+                                             studies varied based on whether sexual orientation was measured using a five-category
+                                             Likert-scale or a discrete three-category measure (Eisenberg & Wechsler, 2003; McCabe et
+                                             al., 2003, 2005). Based on results of a qualitative study using cognitive processing
+                                             interviews, Austin et al. (2007) concluded that more research is needed to assess the
+                                             performance of various sexual identity measures, particularly among adolescents.
+                                             Building on our previous work on substance use and sexual orientation, we designed a
+                                             randomized study to compare two measures commonly used to assess sexual identity among
+                                             adolescents and young adults. The primary objectives of the study were to (1) compare
+                                             sample proportions of lesbian/gay, bisexual, or heterosexual participants based on the two
+                                             question formats (three-category vs. five-category) and (2) compare the prevalence of
+                                             alcohol and other drug use among those participants based on the two sexual identity
+NIH-PA Author Manuscript
+                                             question formats.
+                              Method
+                              Participants
+                                             Table 1 summarizes demographic characteristics of study participants who were asked both
+                                             sexual identity questions and did not refuse or reply with some other response to either of
+                                             the questions (n = 2,077). The demographic characteristics of this group were compared to
+                                             those of the university's overall student population. The proportion of women was higher in
+                                             the sample than the university's overall student population (58% vs. 51%), but otherwise the
+                                             demographic characteristics of the sample closely resembled the population of full-time
+                                             undergraduate students attending the university. For example, in both the sample and the
+                                             overall population, approximately two out of three students were White, 13% were Asian,
+                                             and three out of four students lived within one mile of the main campus. Table 1 summarizes
+                                             the gender, race/ethnicity, and class year of the sample based on the two sexual identity
+                                             measures (three-category vs. five-category) among participants who were asked both sexual
+                                             identity questions.
+NIH-PA Author Manuscript
+                              Procedure
+                                             In 2003, a simple random sample of 19,378 full-time undergraduate students was drawn
+                                             from the Registrar's Office at a large midwestern research university following institutional
+                                             review board approval. The entire sample was sent an e-mail message describing the Student
+                                             Life Survey (SLS) and inviting them to participate by clicking on a link and using a unique
+                                             password to access the Web-based survey. All participants were informed that a research
+                                             firm unaffiliated with the university was contracted to format the Web-based survey as well
+                                             as store and maintain data, and that university officials, faculty, and staff were unable to
+                                             access any contact information connected with the participants. Data were collected during a
+                                             one-month period in March and April 2003. The Web-based survey was maintained on a
+                                             hosted secure Web site running under the secure sockets layer protocol to insure that data
+                                             were safely transmitted between the participant's browser and the server. Information sent to
+                                             students in the sample explained the study, emphasized that participation was voluntary, and
+                                                 Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                            Page 4
+                                           confirmed that responses would be kept confidential. Non-participants were sent up to three
+                                           reminder e-mail messages. Students who participated in the study were eligible for a
+                                           sweepstakes that included several cash prizes. The response rate was 47%, which is
+NIH-PA Author Manuscript
+                                           consistent with national alcohol and other drug studies of 4-year colleges and universities
+                                           (e.g., Wechsler et al., 2002). The entire sample was asked a five-category question about
+                                           their sexual identity and one-fourth of the sample was randomly selected to receive an
+                                           additional three-category sexual identity question earlier in the survey. This study focuses on
+                                           the sub-sample of participants who were asked both sexual identity questions.
+                              Measures
+                                           The 2003 SLS was developed and pilot tested in 1993, and contained several substance use
+                                           measures, including several items from the Monitoring the Future Study (Johnston,
+                                           O'Malley, & Bachman, 2001), the CORE Survey (Presley, Meilman, & Cashin, 1996), and
+                                           the College Alcohol Study (Wechsler et al., 2002). The 2003 SLS used sexual orientation
+                                           measures adapted from the Chicago Health and Life Experiences of Women Study (e.g.,
+                                           Hughes, 2003; Hughes, Johnson, & Wilsnack, 2001).
+                                           Sexual identity was measured using the following five-category question: “How would you
+                                           define your sexual identity? Would you say that you are… (1) only lesbian/gay, (2) mostly
+                                           lesbian/gay, (3) bisexual, (4) mostly heterosexual, (5) only heterosexual, (6) other (specify)
+                                           or (7) refused.” In addition, one-fourth of the sample was randomly assigned to receive a
+NIH-PA Author Manuscript
+                                           three-category sexual identity question earlier in the survey: “With respect to your sexual
+                                           identity, would you say you are… (1) heterosexual, (2) lesbian/gay, (3) bisexual or (4)
+                                           refused.” The three-category sexual identity question appeared as Question 14 and the five-
+                                           category sexual identity question appeared as Question 92 in the survey. Because
+                                           participants who answered the three-category sexual identity question did so before
+                                           answering the five-category question, we considered the possibility that responses to the
+                                           second question might have been influenced by question order. However, comparisons using
+                                           a chi-square test of homogeneity indicated no statistically significant differences in the
+                                           distributions of responses to the five-category question between those who only were asked
+                                           the five category question and those who were asked both the three and the five category
+                                           questions (χ2 = 3.6, df=4). Participants indicating “other” or “refused” were dropped from
+                                           analyses.
+                                           The SLS also included standard measures of substance use, such as cigarette smoking
+                                           (Johnston et al., 2001), binge drinking (Wechsler, Dowdall, Davenport, & Rimm, 1995), and
+                                           marijuana and other drug use (Johnston et al., 2001). Cigarette use was measured using the
+                                           following question: “How many cigarettes did you smoke during the past 30 days ?” The
+                                           response categories were: (1) none, (2) less than 1 cigarette per day, (3) 1–5 cigarettes per
+NIH-PA Author Manuscript
+                                           day, (4) about ½ pack per day, (5) about 1 pack per day, (6) about 1½ packs per day, and (7)
+                                           2 or more packs per day.
+                                           Heavy episodic drinking was measured using the following single item question: “Over the
+                                           past 2 weeks, on how many occasions have you had five or more drinks in a row (four or
+                                           more for women)?”A drink was defined as a glass of wine, a bottle of beer or wine cooler, a
+                                           shot glass of liquor, or a mixed drink. The response scale was (1) none, (2) once, (3) twice,
+                                           (4) 3–5 occasions,(5) 6–9 occasions, and (6) 10 or more occasions (Wechsler et al., 1995).
+                                           Marijuana use was measured using the following question: “On how many occasions in the
+                                           past 12 months have you used marijuana or hashish?” The response scale was: (1) no
+                                           occasions, (2) 1–2 occasions, (3) 3–5 occasions, (4) 6–9 occasions, (5) 10–19 occasions, (6)
+                                           20-39 occasions, and (7) 40 or more occasions (Johnston et al., 2001). We created an other
+                                           illicit drug use variable by summing the total number of illicit drugs used in the past year
+                                               Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                            Page 5
+                                           (other than marijuana), including cocaine in any form, lysergic acid diethylamide (LSD),
+                                           other psychedelics, amphetamines, crystal methamphetamine, heroin, inhalants, ecstasy,
+                                           gamma-hydroxybutyrate (GHB), and flunitrazepam (Rohypnol).
+NIH-PA Author Manuscript
+                              Data Analysis
+                                           Data analysis focused on participants who received both sexual identity questions. First, we
+                                           examined the associations between sexual identity as measured by each question type and
+                                           gender, race, and class year using chi-square tests of homogeneity. Next, we compared the
+                                           prevalence of tobacco, alcohol, marijuana, and other illicit drug use among participants
+                                           classified as lesbian, gay or bisexual based on the two questions using chi-square tests of
+                                           homogeneity. Logistic regression models were used to examine the relationship between
+                                           each sexual identity question and multiple measures of substance use, adjusting for sex,
+                                           race, and class year. Ordinal outcome measures were collapsed to create dichotomous
+                                           variables, such that “none” or “no occasions” were coded “0” and all other responses were
+                                           coded “1”. For all logistic regression analyses, the largest category for each measure of
+                                           sexual identity served as the reference group (i.e., “only heterosexual” for the five-category
+                                           measure and “heterosexual” for the three-category measure).
+                              Results
+                              Distribution of Sexual Identity
+NIH-PA Author Manuscript
+                                           Tables 2 and 3 summarize distributions of sexual identity based on the three- and the five-
+                                           category sexual identity questions by participants' sex. Among students who were asked
+                                           both questions, discrepancies in classification occurred equally among the female and male
+                                           students (0.9% for both). Both male and female participants who self-identified as “lesbian
+                                           or gay” on the three-category measure chose either “only lesbian/gay” (54.3%, n = 19) or
+                                           “mostly lesbian/gay” (45.7%, n = 16) on the five-category measure. A total of 116 female
+                                           participants and 41 male participants who identified as heterosexual using the three-category
+                                           format chose “mostly heterosexual” using the five-category format. In addition, half (50.0%)
+                                           of the male students who chose the bisexual response option on the three-category measure
+                                           selected a different response on the five-category measure such that the three-category
+                                           question resulted in a greater number of male participants who self-identified as bisexual (n
+                                           = 10) than the five-category question (n = 5). Finally, almost one-third (31.0%) of the
+                                           female students who chose the bisexual response option on the three-category measure
+                                           selected “mostly heterosexual” on the five-category measure and the remaining selected
+                                           “bisexual”.
+                              Sexual Identity Measures and Substance Use
+NIH-PA Author Manuscript
+                                           In addition to examining the distribution of sexual identities, we investigated the impact of
+                                           question format on the participants' reports of substance use separately by sex. As shown in
+                                           Tables 4 and 5, although substance use was generally higher among lesbian/gay and
+                                           bisexual students than heterosexual students regardless of question type, there were some
+                                           notable differences in outcomes between the two questions. For example, using responses to
+                                           the three-category question, rates of monthly cigarette smoking and past-year marijuana use
+                                           were significantly higher among bisexual females compared with their heterosexual
+                                           counterparts. However, when responses to the five-category question were compared, we
+                                           found no such differences. Further, we found odds of binge drinking that were significantly
+                                           lower for gay men than for heterosexual men in analyses using the three-category format but
+                                           no significant differences in analyses that used the five-category measure.
+                                           We conducted additional analyses and found that by collapsing mostly heterosexual and
+                                           mostly lesbian/gay responses into the bisexual category, the odds of substance use were
+                                               Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                            Page 6
+                                           increased for both bisexual women and men. In contrast, when participants who endorsed
+                                           the mostly categories were collapsed into the heterosexual or lesbian/gay categories (and not
+                                           counted as bisexual), no significant sexual identity differences were found in substance use
+NIH-PA Author Manuscript
+                                           (data not shown).
+                              Discussion
+                                           Findings from this study highlight some of the challenges faced by survey researchers in
+                                           assessing sexual identity. Indeed, several studies contend that sexual identity is fluid and
+                                           may be difficult to adequately measure using traditional survey questions that treat sexual
+                                           identity as static (e.g., Diamond, 2008; Friedman et al., 2004; Peplau & Garnets, 2000;
+                                           Rothblum, 2000; Rust, 2002). Although the overall proportion of undergraduate students
+                                           categorized as a sexual minority did not statistically differ between the two measures in this
+                                           study, we found some important differences in how sexual minority groups were classified.
+                                           For example, more than one-third of participants who self-identified as “bisexual” on the
+                                           three-category sexual identity measure chose “mostly heterosexual” or “mostly lesbian/gay”
+                                           when answering the expanded five-category measure. These students would have been
+                                           misclassified as either gay/lesbian or heterosexual had we used the five-category measure
+                                           and collapsed the categories outward, as is common practice.
+                                           Our findings also indicate that decisions regarding the measurement and coding of sexual
+NIH-PA Author Manuscript
+                                           identity in survey research may have important implications in terms of substance use
+                                           outcomes. Recent work recommends using “mostly heterosexual” and “mostly lesbian/gay”
+                                           categories for measuring sexual identity among adolescents and young adults (Austin et al.,
+                                           2007; Saewyc et al., 2004; Thompson & Morgan, 2008); however, very little research has
+                                           examined the association between the “mostly” categories and health outcomes such as
+                                           substance use. Notably, we found that participants who endorsed the “mostly heterosexual”
+                                           category reported the highest rates of substance use, which is consistent with a growing
+                                           literature indicating heightened health risks among individuals who identify in this manner
+                                           (Austin et al., 2009; Corliss, Rosario, Wypij, Fisher, & Austin, 2008; Hughes, Szalacha &
+                                           McNair, 2010; Hughes, Szalacha, Johnson et al., 2010; Ziyadeh et al., 2007).
+                                           Austin et al. (2007) conducted cognitive processing interviews regarding sexual identity
+                                           measures and found that adolescents preferred the “mostly” categories because these options
+                                           most closely reflected their feelings of being somewhere between the categories of
+                                           heterosexual, bisexual, and lesbian/gay. Our results indicate that nearly all individuals who
+                                           identified as “mostly heterosexual” according to the five-category sexual identity measure
+                                           selected “heterosexual” on the three-category measure. The five-category measure identifies
+                                           a subgroup of men and women who had greater odds of using more substances than any of
+NIH-PA Author Manuscript
+                                           the five sexual minority subgroups. It seems plausible that individuals who selected “mostly
+                                           heterosexual” could represent a subgroup who lack a recognized group sexual identity and
+                                           that this may contribute to their heightened risk for substance use. It is also possible that
+                                           such individuals are in an identity exploration stage and have not yet clearly committed to a
+                                           particular sexual identity (Cass, 1979, 1996). Such exploration may extend to a number of
+                                           areas, including experimentation with alcohol and other drugs, and this may contribute to
+                                           high-risk substance use behaviors among these individuals (Bishop, Macy-Lewis,
+                                           Schnekloth, Puswella, & Struessel, 1997). Thus, it seems advisable to exercise caution when
+                                           recoding and combining data involving the “mostly” sexual identity categories.
+                                           All of the participants in the current study who identified as non-heterosexual showed
+                                           heightened risk on each of the substance use outcomes assessed in the study with the
+                                           exception of binge drinking. However, in analyses using the three-category sexual identity
+                                           format, men who identified as gay had significantly lower odds of binge drinking than
+                                               Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                            Page 7
+                                           heterosexual men (but this was not the case in analyses using the five-category sexual
+                                           identity measure). Although the small cell sizes of some of the subgroups in analyses using
+                                           the five-category measure may have contributed to the statistically non-significant findings,
+NIH-PA Author Manuscript
+                                           our results were consistent with previous research indicating that gay men were at lower risk
+                                           for binge drinking than their heterosexual peers (Eisenberg & Wechsler, 2003; McCabe et
+                                           al., 2003,2005). Given the potentially harmful impact of binge drinking among adolescents/
+                                           young adults (Presley et al., 1996; Wechsler, Davenport, Dowdall, Moeykens, & Castillo,
+                                           1994), and the need for preventive interventions that more effectively target subgroups at
+                                           highest risk for this pattern of drinking, substance abuse researchers need to understand the
+                                           implications of using broader versus more nuanced measures to assess sexual orientation.
+                                           In much of the previous health research with sexual minority groups, data from bisexual
+                                           participants have either been combined with data from lesbians or gay men (e.g., Bontempo
+                                           & D'Augelli, 2002; Garofalo et al., 1998; Mays & Cochran, 2001; Mays, Yancey, Cochran,
+                                           Weber, & Fielding, 2002) or excluded from analyses (e.g., Aaron et al., 2001; Hughes et al.,
+                                           2005). However, recent studies that have included comparisons of bisexual participants have
+                                           found that bisexual women and men (whether defined based on identity, attraction or sexual
+                                           behavior) generally report higher rates of substance use and poorer mental health outcomes
+                                           than their heterosexual counterparts and, in some cases, than their lesbian/gay counterparts
+                                           as well (e.g., Bostwick et al., 2010; Corliss et al., 2008; Eisenberg & Wechsler, 2003;
+                                           McCabe et al., 2004, 2009; Wilsnack et al., 2008). Given our finding that bisexual groups,
+NIH-PA Author Manuscript
+                                           specifically bisexual women, reported significantly higher frequencies of substance use
+                                           when using the three-item measure, we recommend that researchers exercise caution when
+                                           combining all non-heterosexuals into an umbrella “sexual minority” category. This practice
+                                           may inflate estimates of risk and substance use behaviors among some groups and
+                                           erroneously weaken estimates among others. Where possible, sexual orientation groups
+                                           should be considered separately in analyses. If there are theoretical or conceptual reasons for
+                                           creating an omnibus “sexual minority” category, this should be made explicit. In those
+                                           instances where researchers choose to combine groups to enhance statistical power, they
+                                           should at least report whether or not separate analyses produced different results. Finally,
+                                           because it is still common practice to combine all “non-heterosexual” groups, comparisons
+                                           between studies must be made cautiously and only after careful consideration of the format
+                                           and wording of questions in the studies being compared.
+                                           The present study included a number of strengths, such as the probability-based simple
+                                           random sample and randomized design. However, subgroups of sexual minorities were
+                                           small and therefore, substantially limited statistical power to detect differences that may
+                                           have been apparent in larger samples. Also, the student population was predominantly
+                                           White, traditional-age (18–22 years of age), and middle to upper class. Thus, results cannot
+NIH-PA Author Manuscript
+                                           be generalized to all university or college populations. More research is needed with more
+                                           diverse populations, with a broader age range that includes both college students as well as
+                                           those not attending college. Although data collected in 2003 may represent a limitation, the
+                                           challenges of measuring sexual identity remain highly relevant. Furthermore, the prevalence
+                                           of sexual minorities has remained stable over time. Data collected for the SLS between 2001
+                                           and 2009 show very little variation in prevalence based on self-identity: 2001 (3.3%), 2003
+                                           (3.2%), 2005 (3.3%), 2007 (3.3%) and 2009 (3.3%). We chose to focus on sexual identity in
+                                           order to compare our results with other studies of college-age sexual minorities that have
+                                           used three- and five-category measures.
+                                           Concerns about response bias due to the sensitive nature of the questions were lessened by
+                                           findings that our study sample resembled the overall student population and that reported
+                                           rates of substance use and sexual minority identity were similar to those found in previous
+                                           adolescent and college-based studies (e.g., Garofalo et al., 1998; Johnston, O'Malley,
+                                               Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                             Page 8
+                                           Bachman, & Schulenberg, 2004; McCabe et al., 2003; Mohler-Kuo, Lee, & Wechsler,
+                                           2003). Nevertheless, the possibility of under-reporting of both substance use and sexual
+                                           minority identity cannot be ignored. The small cell sizes of some of the subgroups may have
+NIH-PA Author Manuscript
+                                           contributed to some of the statistically non-significant findings in the present study.
+                                           Although it is reasonable to posit that having an additional sexual identity question earlier in
+                                           the survey may have biased responses to the later question, we found no statistically
+                                           significant differences in the response distributions on the five-category sexual identity
+                                           measure depending on which survey was utilized. This suggests that responses were not
+                                           substantially influenced by including the earlier question. Discrepancies were rare and
+                                           appeared to be the result of participant error. For example, four students who indicated they
+                                           were heterosexual on the three-category sexual identity question chose “only lesbian/gay”
+                                           on the five-category measure, suggesting that they either misread or misunderstood one or
+                                           both of the questions.
+                                           Because few studies have been conducted using a Web-based survey approach, we are
+                                           uncertain about potential mode effects. Past research on sexual orientation and health
+                                           outcomes has involved a wide range of data collection modalities, including face-to-face
+                                           interviews (e.g., Floyd & Stein, 2002; Hughes et al., 2006; Scheer et al., 2003), telephone
+                                           interviews (e.g., Diamant, Wold, Spritzer, & Gelberg, 2000; Mays & Cochran, 2001; Mays
+                                           et al., 2002), self-administered survey questionnaires sent via U.S. mail (e.g., Eisenberg &
+NIH-PA Author Manuscript
+                                           Wechsler, 2003), self-administered survey questionnaires conducted in school classrooms
+                                           (e.g., Bontempo & D'Augelli, 2002; Garofalo et al., 1998), and mixed methods of data
+                                           collection (e.g., Jorm et al., 2002; Russell et al., 2002). Previous research has found that a
+                                           Web-based survey mode of administration produced the same proportion of sexual
+                                           minorities as a U.S. mail-based survey mode of administration among undergraduate college
+                                           students (about 3%), as well as similar substance use outcomes (e.g., McCabe, 2004;
+                                           McCabe, Boyd, Couper, Crawford, & d'Arcy, 2002). In addition, the Web-based survey
+                                           mode of administration resulted in a final sample that more closely matched the
+                                           demographic characteristics of the target sample than the traditional U.S. mail-based survey
+                                           mode. Nevertheless, given previous research indicating that different modes of data
+                                           collection can lead to substantially different prevalence estimates, especially in response to
+                                           questions related to sensitive topics such as illicit drug use and sexual behavior (e.g.,
+                                           Fendrich & Johnson, 2001; Gfroerer, Wright, & Kopstein, 1997; Sudman, 2001; Turner et
+                                           al., 1998; Wright, Aquilino, & Supple, 1998), more research is needed to examine how
+                                           different survey modes influence the reporting of sexual identity and sensitive health
+                                           outcomes, and whether differences in question wording and alternative modes of data
+                                           collection interact to affect survey responses.
+NIH-PA Author Manuscript
+                                           Future research is needed with measures of sexual identity not examined in the present
+                                           study. For example, a seven-category measure might provide even more nuanced variations
+                                           in sexual identity. However, such studies will require much larger samples given that a
+                                           seven-category measure would result in even smaller sample sizes for some of the
+                                           subgroups. Finally, the present study relied largely on one-item measures for purposes of
+                                           making comparisons and future work should consider more comprehensive measures.
+                                           In conclusion, our findings illustrate several challenges associated with assessing sexual
+                                           identity in survey research. We found evidence that the five-category response scale may
+                                           under-count bisexual participants and that substance use outcomes can differ based on the
+                                           type of sexual identity question used and how responses are analyzed. These findings
+                                           suggest that researchers need to carefully consider question wording, as well as whether and
+                                           how to recode responses to questions related to sexual orientation. It is also important to
+                                           describe methods used to code and analyze data, as well as the rationale for such decisions.
+                                               Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                                               Page 9
+                              Acknowledgments
+                                           This Student Life Survey was supported by the University of Michigan. The development of this article was
+NIH-PA Author Manuscript
+                                           supported by research grants DA07267 and DA023055 from the National Institute on Drug Abuse, National
+                                           Institutes of Health, and by a research grant AA013328 from the National Institute on Alcohol Abuse and
+                                           Alcoholism, National Institutes of Health. The content is solely the responsibility of the authors and does not
+                                           necessarily represent the official views of the National Institute on Drug Abuse, National Institute on Alcohol
+                                           Abuse and Alcoholism, nor the National Institutes of Health. The authors would like to thank MSInteractive for
+                                           assistance with data collection and Hannah d'Arcy and Brady West for their assistance with data analysis. The
+                                           authors wish to thank the anonymous reviewers for their helpful comments on a previous version of the article.
+                              References
+                                           Aaron DJ, Markovic N, Danielson ME, Honnold JA, Janosky JE, Schmidt NJ. Behavioral risk factors
+                                             for disease and preventive health practices among lesbians. American Journal of Public Health.
+                                             2001; 91:972–975. [PubMed: 11392943]
+                                           Austin SB, Conron KJ, Patel A, Freedner N. Making sense of sexual orientation measures: Findings
+                                             from a cognitive processing study with adolescents on health survey questions. Journal of LGBT
+                                             Health Research. 2007; 3:55–65. [PubMed: 18029316]
+                                           Austin SB, Ziyadeh NJ, Corliss HL, Rosario M, Wypij D, Haines J, et al. Sexual orientation disparities
+                                             in purging and binge eating from early to late adolescence. Journal of Adolescent Health. 2009;
+                                             45:238–245. [PubMed: 19699419]
+                                           Bishop DI, Macy-Lewis JA, Schnekloth CA, Puswella S, Strussel GI. Ego identity status and reported
+NIH-PA Author Manuscript
+                                             alcohol consumption: A study of first-year college students. Journal of Adolescence. 1997; 20:209–
+                                             218. [PubMed: 9104656]
+                                           Bontempo DE, D'Augelli AR. Effects of at-school victimization and sexual orientation on lesbian, gay,
+                                             or bisexual youths' health risk behavior. Journal of Adolescent Health. 2002; 30:364–374. [PubMed:
+                                             11996785]
+                                           Bostwick WB, Boyd CJ, Hughes TL, McCabe SE. Dimensions of sexual orientation and the
+                                             prevalence of mood and anxiety disorders in the United States. American Journal of Public Health.
+                                             2010; 100:468–475. [PubMed: 19696380]
+                                           Boyd CJ, McCabe SE, d'Arcy H. Ecstasy use among college undergraduates: Gender, race and sexual
+                                             identity. Journal of Substance Abuse Treatment. 2003; 24:209–215. [PubMed: 12810141]
+                                           Case P, Austin B, Hunter DJ, Manson JE, Malspeis S, Willett WC, Spiegelman D. Sexual orientation,
+                                             health risk factors, and physical functioning in the Nurses' Health Study II. Journal of Women's
+                                             Health. 2004; 13:1033–1047.
+                                           Cass V. Homosexual identity formation: A theoretical perspective. Journal of Homosexuality. 1979;
+                                             4:219–235. [PubMed: 264126]
+                                           Cass, V. Sexual orientation identity formation: A western phenomenon. In: Cabaj, RP.; Stein, TS.,
+                                               editors. Textbook of homosexuality and mental health. Washington, DC: American Psychiatric
+                                               Press; 1996. p. 227-251.
+NIH-PA Author Manuscript
+                                           Cochran SD, Ackerman D, Mays VM, Ross MW. Prevalence of non-medical drug use and dependence
+                                               among homosexually active men and women in the US population. Addiction. 2004; 99:989–998.
+                                               [PubMed: 15265096]
+                                           Corliss HL, Rosario M, Wypij D, Fisher LB, Austin SB. Sexual orientation disparities in longitudinal
+                                               alcohol use patterns among adolescents. Archives of Pediatrics and Adolescent Medicine. 2008;
+                                               162:1071–1078. [PubMed: 18981356]
+                                           DeBord KA, Wood PK, Sher KJ, Good GE. The relevance of sexual orientation to substance abuse and
+                                               psychological distress among college students. Journal of College Student Development. 1998;
+                                               39:157–168.
+                                           Diamant AL, Wold C, Spritzer K, Gelberg L. Health behaviors, health status, and access to and use of
+                                               health care: A population-based study of lesbian, bisexual, and heterosexual women. Archives of
+                                               Family Medicine. 2000; 9:1043–1051. [PubMed: 11115206]
+                                           Diamond LM. Female bisexuality from adolescence to adulthood: Results from a 10-year longitudinal
+                                               study. Developmental Psychology. 2008; 44:5–14. [PubMed: 18194000]
+                                                Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                                Page 10
+                                           Drabble L, Midanik LT, Trocki K. Reports of alcohol consumption and alcohol-related problems
+                                               among homosexual, bisexual, and heterosexual participants: Results from the 2000 National
+                                               Alcohol Survey. Journal of Studies on Alcohol. 2005; 66:111–120. [PubMed: 15830911]
+NIH-PA Author Manuscript
+                                           Eisenberg M, Wechsler H. Substance use behaviors among college students with same-sex and
+                                               opposite-sex experience: Results from a national study. Addictive Behaviors. 2003; 28:899–913.
+                                               [PubMed: 12788264]
+                                           Fendrich M, Johnson TP. Examining prevalence differences in three national surveys of youth: Impact
+                                               of consent procedures, mode and editing rules. Journal of Drug Issues. 2001; 31:615–642.
+                                           Floyd FJ, Stein TS. Sexual orientation identity formation among gay, lesbian, and bisexual youths:
+                                               Multiple patterns of milestone experiences. Journal of Research on Adolescence. 2002; 12:167–
+                                               191.
+                                           Friedman MS, Silvestre AJ, Gold MA, Markovic N, Savin-Williams RC, Huggins J, et al. Adolescents
+                                               define sexual orientation and suggest ways to measure it. Journal of Adolescence. 2004; 27:303–
+                                               317. [PubMed: 15159090]
+                                           Garofalo R, Wolf RC, Kessel S, Palfrey SJ, DuRant RH. The association between health risk behaviors
+                                               and sexual orientation among a school-based sample of adolescents. Pediatrics. 1998; 101:895–
+                                               902. [PubMed: 9565422]
+                                           Gfroerer J, Wright D, Kopstein A. Prevalence of youth substance use: The impact of methodological
+                                               differences between two national surveys. Drug and Alcohol Dependence. 1997; 47:19–30.
+                                               [PubMed: 9279494]
+                                           Hughes TL. Lesbians' drinking patterns: Beyond the data. Substance Use and Misuse. 2003; 38:1739–
+NIH-PA Author Manuscript
+                                               1758. [PubMed: 14582576]
+                                           Hughes TL, Johnson T, Wilsnack SC. Sexual assault and alcohol abuse: A comparison of lesbians and
+                                               heterosexual women. Journal of Substance Abuse. 2001; 13:515–532. [PubMed: 11775080]
+                                           Hughes TL, Szalacha LA, Johnson TP, Kinnison KE, Wilsnack SC, Cho Y. Sexual victimization and
+                                               hazardous drinking among heterosexual and sexual minority women. Addictive Behaviors. 2010;
+                                               35:1152–1156. [PubMed: 20692771]
+                                           Hughes TL, Szalacha LA, McNair R. Substance abuse and mental health disparities: Comparisons
+                                               across sexual identity groups in a national sample of young Australian women. Social Science and
+                                               Medicine. 2010; 71:824–831. [PubMed: 20579794]
+                                           Hughes, TL.; Wilsnack, SC.; Johnson, T. Investigating lesbian's mental health and alcohol use: What
+                                               is an appropriate comparison group?. In: Omoto, AM.; Kurtzman, HS., editors. Sexual orientation
+                                               and mental health: Examining identity and development in lesbian, gay, and bisexual people.
+                                               Washington, DC: American Psychological Association; 2005. p. 167-184.
+                                           Hughes TL, Wilsnack SC, Szalacha LA, Johnson T, Bostwick WB, Seymour R, et al. Age and race/
+                                               ethnic differences in drinking and drinking-related problems in a community sample of lesbians.
+                                               Journal of Studies on Alcohol. 2006; 67:579–590. [PubMed: 16736078]
+                                           Johnston, LD.; O'Malley, PM.; Bachman, JG. Monitoring the Future national survey results on drug
+                                               use, 1975-2000 Vol II: College students and adults ages 19-40 (NIH publication No 01-4925).
+                                               Bethesda, MD: National Institute on Drug Abuse; 2001.
+NIH-PA Author Manuscript
+                                           Johnston, LD.; O'Malley, PM.; Bachman, JG.; Schulenberg, JE. Monitoring the Future national survey
+                                               results on drug use, 1975-2003 Vol II: College students and Adults Ages 19-45 (NIH publication
+                                               04-5508). Bethesda, MD: National Institute on Drug Abuse; 2004.
+                                           Jorm AF, Korten AE, Rodgers B, Jacomb PA, Christensen H. Sexual orientation and mental health:
+                                               Results from a community survey of young and middle-aged adults. British Journal of Psychiatry.
+                                               2002; 180:423–427. [PubMed: 11983639]
+                                           Laumann, EO.; Gagnon, JH.; Michael, RT.; Michaels, S. The social organization of sexuality: Sexual
+                                               practices in the United States. Chicago: University of Chicago Press; 1994.
+                                           Matthews AK, Hughes TL, Johnson T, Razzano LA, Cassidy R. Prediction of depressive distress in a
+                                               community sample women: the role of sexual orientation. American Journal of Public Health.
+                                               2002; 92:1131–1139. [PubMed: 12084697]
+                                           Mays VM, Cochran SD. Mental health correlates of perceived discrimination among lesbian, gay, and
+                                               bisexual adults in the United States. American Journal of Public Health. 2001; 91:1869–1876.
+                                               [PubMed: 11684618]
+                                               Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                                    Page 11
+                                           Mays VM, Yancey AK, Cochran SD, Weber M, Fielding JE. Heterogeneity of health disparities
+                                               among African American, Hispanic, and Asian American women: unrecognized influences of
+                                               sexual orientation. American Journal of Public Health. 2002; 92:632–639. [PubMed: 11919064]
+NIH-PA Author Manuscript
+                                           McCabe SE. Survey mode effects for self-reporting illicit drug use: Web vs. U.S. mail. Journal of
+                                               Drug Education. 2004; 34:61–72. [PubMed: 15468748]
+                                           McCabe SE, Boyd CJ, Couper MP, Crawford S, d'Arcy H. Mode effects for collecting alcohol and
+                                               other drug data: Web and U.S. mail. Journal of Studies on Alcohol. 2002; 63:755–761. [PubMed:
+                                               12529076]
+                                           McCabe SE, Boyd CJ, Hughes TL, d'Arcy H. Sexual identity and substance use among undergraduate
+                                               students. Substance Abuse. 2003; 242:77–91. [PubMed: 12766375]
+                                           McCabe SE, Hughes TL, Bostwick W, Boyd CJ. Assessment of difference in dimensions of sexual
+                                               orientation: Implications for substance use research in a college-age population. Journal of Studies
+                                               on Alcohol. 2005; 66:620–629. [PubMed: 16331847]
+                                           McCabe SE, Hughes TL, Bostwick WB, West BT, Boyd CJ. Sexual orientation, substance use
+                                               behaviors and substance dependence in the United States. Addiction. 2009; 104:1333–1345.
+                                               [PubMed: 19438839]
+                                           McCabe SE, Hughes TL, Boyd CJ. Substance use and misuse: Are bisexual women at greater risk?
+                                               Journal of Psycho-active Drugs. 2004; 36:217–225.
+                                           Meyer I. Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations:
+                                               Conceptual issues and research evidence. Psychological Bulletin. 2003; 129:674–697. [PubMed:
+                                               12956539]
+NIH-PA Author Manuscript
+                                           Mohler-Kuo M, Lee JE, Wechsler H. Trends in marijuana and other illicit drug use among college
+                                               students. Results from 4 Harvard School of Public Health College Alcohol Study Surveys: 1993–
+                                               2001. Journal of American College Health. 2003; 52:17–24. [PubMed: 14717576]
+                                           Omoto, AM.; Kurtzman, HS. Sexual orientation and mental health: Examining identity and
+                                               development in lesbian, gay, and bisexual people. Washington, DC: American Psychological
+                                               Association; 2005.
+                                           Peplau LA, Garnets LD. A new paradigm for understanding women's sexuality and sexual orientation.
+                                               Journal of Social Issues. 2000; 56:330–350.
+                                           Presley, CA.; Meilman, PW.; Cashin, JR. Alcohol and drugs on American college campuses: Use,
+                                               consequences, and perceptions of the campus environment. Vol. IV. Carbondale, IL: Southern
+                                               Illinois University; 1996. p. 1992-1994.
+                                           Rothblum ED. Sexual orientation and sex in women's lives: Conceptual and methodological issues.
+                                               Journal of Social Issues. 2000; 56:193–204.
+                                           Russell ST, Driscoll AK, Truong N. Adolescent same-sex romantic attractions and relationships:
+                                               implications for substance use and abuse. American Journal of Public Health. 2002; 92:198–202.
+                                               [PubMed: 11818291]
+                                           Rust PC. Bisexuality: The state of the union. Annual Review of Sex Research. 2002; 13:180–240.
+                                           Saewyc EM, Bauer GR, Skay CL, Bearinger LH, Resnick MD, Reis E, Murphy A. Measuring sexual
+NIH-PA Author Manuscript
+                                               orientation in adolescents health surveys: Evaluation of eight school-based surveys. Journal of
+                                               Adolescent Health. 2004; 35:1–15.
+                                           Scheer S, Parks CA, McFarland W, Shafer KP, Delgado V, Ruiz JD, et al. Self-reported sexual
+                                               identity, sexual behaviors and health risks: Examples from a population-based survey of young
+                                               women. Journal of Lesbian Studies. 2003; 7:69–84.
+                                           Sell RL. Defining and measuring sexual orientation: a review. Archives of Sexual Behavior. 1997;
+                                               26:643–658. [PubMed: 9415799]
+                                           Sell RL, Becker JB. Sexual orientation data collection and progress toward Healthy People 2010.
+                                               American Journal of Public Health. 2001; 91:876–882. [PubMed: 11392926]
+                                           Solarz, AL. Lesbian health: Current assessment and directions for the future. Washington, DC:
+                                               National Academy Press; 1999.
+                                           Sudman S. Examining substance abuse data collection methodologies. Journal of Drug Issues. 2001;
+                                               31:695–716.
+                                           Thompson EM, Morgan EM. “Mostly straight” young women: Variations in sexual behavior and
+                                               identity development. Developmental Psychology. 2008; 44:15–21. [PubMed: 18194001]
+                                               Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                                  Page 12
+                                           Turner CF, Ku L, Rogers SM, Lindberg LD, Pleck JH, Sonenstein FL. Adolescent sexual behavior,
+                                               drug use, and violence: Increased reporting with computer survey technology. Science. 1998;
+                                               280:867–873. [PubMed: 9572724]
+NIH-PA Author Manuscript
+                                           Wechsler H, Davenport A, Dowdall G, Moeykens B, Castillo S. Health and behavioral consequences
+                                               of binge drinking in college: A national survey of students at 140 campuses. Journal of the
+                                               American Medical Association. 1994; 272:1672–1677. [PubMed: 7966895]
+                                           Wechsler H, Dowdall GW, Davenport A, Rimm EB. A gender-specific measure of binge drinking
+                                               among college students. American Journal of Public Health. 1995; 85:982–985. [PubMed:
+                                               7604925]
+                                           Wechsler H, Lee JE, Kuo M, Seibring M, Nelson TF, Lee H. Trends in college binge drinking during a
+                                               period of increased prevention efforts: Findings from 4 Harvard School of Public Health College
+                                               Alcohol Study surveys: 1993–2001. Journal of American College Health. 2002; 50:203–217.
+                                               [PubMed: 11990979]
+                                           Wilsnack SC, Hughes TL, Johnson TL, Bostwick WB, Szalacha LA, Benson PB, et al. Sexual
+                                               orientation and drinking: A comparison of lesbian and heterosexual women. Journal of Studies on
+                                               Alcohol and Drugs. 2008; 69:129–139. [PubMed: 18080073]
+                                           Wright DL, Aquilino WS, Supple AI. A comparison of computer-assisted and paper-and-pencil self-
+                                               administered questionnaires in a survey on smoking, alcohol, and other drug use. Public Opinion
+                                               Quarterly. 1998; 62:331–353.
+                                           Ziyadeh NJ, Prokop LA, Fisher LB, Rosario M, Field AE, Camargo CA, Austin SB. Sexual
+                                               orientation, gender, and alcohol use in a cohort study of U.S. adolescent girls and boys. Drug and
+                                               Alcohol Dependence. 2007; 87:119–130. [PubMed: 16971055]
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+                                               Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                                                                                                                                             NIH-PA Author Manuscript                                               NIH-PA Author Manuscript                                               NIH-PA Author Manuscript
+                                                                                                                                                                                                          Table 1
+                                                                            Demographic characteristics of participants who were asked both sexual identity questions (n = 2,077)
+                                                                        Response option categories       Gender                                     Race                                                              Class year*
+                                                                                                                                                                                                                                                                                                                                                     McCabe et al.
+                                                                                                         Male (n=870) %     Female (n=1207) %       White (n=1409) %       Asian (n=278) %      Other (n=390) %       Freshmen (n=330) %        Sophomore (n=508) %        Junior (n=545) %       Senior (n=683) %
+                                                                        Three-category sexual identity
+                                                                        Heterosexual (n = 2003)          42                 58                      68                     14                   19                    16                        25                         26                     33
+                                                                        Bisexual (n = 39)                26                 74                      62                     5                    33                    23                        26                         18                     33
+                                                                        Lesbian/gay (n=35)               74                 26                      77                     3                    20                    20                        11                         34                     34
+                                                                        Five-category sexual identity
+                                                                        Only heterosexual (n = 1841)     43                 57                      68                     14                   18                    16                        25                         26                     33
+                                                                        Mostly heterosexual (n =169)     26                 74                      71                     9                    20                    16                        23                         25                     35
+                                                                        Bisexual (n =26)                 23                 77                      58                     12                   31                    15                        19                         23                     42
+                                                                        Mostly lesbian/gay (n= 18)       67                 33                      56                     6                    39                    28                        11                         28                     33
+                                                                        Only lesbian/gay (n =23)         78                 22                      91                     0                    9                     13                        17                         35                     35
+                                                                    *
+                                                                     Note: There were 11 participants indicating “Heterosexual” on the three-category sexual identity question who did not respond with a class level; of these 11 participants, 8 indicated “Only heterosexual” and 3 indicated “Mostly heterosexual” on the five-category sexual
+                                                                    identity question
+Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+                                                                                                                                                                                                                                                                                                                                                     Page 13
+
+                           McCabe et al.                                                                                            Page 14
+                                                                                             Table 2
+                                               Percentage distributions of sexual identity based on participants asked two sexual identity
+                                               measures, female sample
+NIH-PA Author Manuscript
+                                                     Three-category sexual identity measure
+                                                     Heterosexual (n)      Lesbian (n)   Bisexual (n)
+                            Five-category sexual identity measure
+                              Only heterosexual                     1051            0              0
+                              Mostly heterosexual                    116            0              9
+                              Bisexual                                 0            0             20
+                              Mostly lesbian                           0            6              0
+                              Only lesbian                             2            3              0
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+                                                       Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                           McCabe et al.                                                                                          Page 15
+                                                                                            Table 3
+                                             Percentage distributions of sexual identity based on participants asked two sexual identity
+                                             measures, male sample
+NIH-PA Author Manuscript
+                                                     Three-category sexual identity measure
+                                                     Heterosexual (n)     Gay (n)   Bisexual (n)
+                            Five-category sexual identity measure
+                              Only heterosexual                     790        0              0
+                              Mostly heterosexual                    41        0              3
+                              Bisexual                                1        0              5
+                              Mostly gay                              0       10              2
+                              Only gay                                2       16              0
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+                                                       Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+
+                                                                    NIH-PA Author Manuscript                                                   NIH-PA Author Manuscript                                           NIH-PA Author Manuscript
+                                                                                                                                                                           Table 4
+                                                                            Prevalence and logistic regression models among participants asked both sexual identity questions: substance use outcomes, female sample
+                                                                        Response option categories       Cigarette use in past 30 days     Binge drinking in past 2 weeks     Marijuana use in past year   Other illicit drug use in past yeara
+                                                                                                                                                                                                                                                                             McCabe et al.
+                                                                                                             %     AORb (95% CI)                %     AORb (95% CI)              %     AORb (95% CI)              %    AORb (95% CI)
+                                                                        Three-category sexual identity
+                                                                        Heterosexual                       17.3    –                          51.0    –                         34.5   –                         7.5   –
+                                                                        Bisexual                           37.9    2.9 (1.3, 6.2)**           51.7    1.0 (0.5, 2.0)            69.0   4.1 (1.9, 9.2)**         24.1   4.0 (1.7, 9.8)**
+                                                                        Lesbian                            44.4    3.7 (1.0, 13.9)            44.4    0.7 (0.2, 2.7)            55.6   2.3 (0.6, 8.6)           22.2   3.3 (0.7, 16.3)
+                                                                                                                   1249                               1237                             1209                            1216
+                                                                        Five-category sexual identity
+                                                                        Only heterosexual                  15.6    –                          49.9    –                         32.2   –                         6.1   –
+                                                                        Mostly heterosexual                31.7    2.5 (1.7, 3.8)***          56.3    1.3 (0.9, 1.9)            57.1   2.8 (1.9, 4.1)***        19.0   3.6 (2.1, 6.1)***
+                                                                        Bisexual                           28.6    2.2 (0.8, 5.7)             42.9    0.8 (0.3, 1.8)            52.4   2.4 (1.0, 5.7)           28.6   6.5 (2.4, 17.7)***
+                                                                        Mostly lesbian                     33.3    2.5 (0.5, 14.0)            50.0    0.9 (0.2, 4.7)            50.0   1.8 (0.4, 9.3)           33.3   6.2 (1.1, 35.4)*
+                                                                        Only lesbian                       60.0    8.0 (1.3, 48.7)*           40.0    0.6 (0.1, 3.7)            80.0   8.4 (0.9, 77.1)           0.0   –
+                                                                                                                   1208                               1201                             1200                            1207
+                                                                    Note: The dash (–) indicates reference group. Sample sizes ranged from 1200 (marijuana use in past year, five-category measure) to 1249 (cigarette use in past 30 days, three-category measure) due to
+                                                                    missing responses. The model for other illicit drug use for the five-category measure did not converge due to the zero cell
+                                                                    *
+                                                                        p<.05
+                                                                    **
+                                                                         p<.01
+Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+                                                                    ***
+                                                                          p<.001
+                                                                    a
+                                                                     Other illicit drug use consisted of any use of cocaine, LSD, other psychedelics, amphetamines, crystal methamphetamine, heroin, inhalants, ecstasy, GHB or Rohypnol
+                                                                    b
+                                                                        Odds ratios were adjusted for race and class year. The results for these variables are not shown
+                                                                                                                                                                                                                                                                             Page 16
+
+                                                                    NIH-PA Author Manuscript                                                    NIH-PA Author Manuscript                                         NIH-PA Author Manuscript
+                                                                                                                                                                          Table 5
+                                                                              Prevalence and logistic regression models among participants asked both sexual identity questions: substance use outcomes, male sample
+                                                                        Response option categories       Cigarette use in past 30 days     Binge drinking in past 2 weeks    Marijuana use in past year   Other illicit drug use in past yeara
+                                                                                                                                                                                                                                                                                   McCabe et al.
+                                                                                                             %     AORb (95% CI)                 %     AORb (95% CI)            %     AORb (95% CI)               %     AORb (95% CI)
+                                                                        Three-category sexual identity
+                                                                        Heterosexual                       22.8    –                           57.6    –                       37.1   –                         13.4    –
+                                                                        Bisexual                           38.5    2.3 (0.7, 7.2)              53.8    1.1 (0.3, 3.2)          54.5   2.7 (0.8, 9.3)            45.5    6.6 (1.9, 22.9)**
+                                                                        Gay                                18.5    0.8 (0.3, 2.0)              37.0    0.4 (0.2, 0.9)*         51.9   1.8 (0.8, 3.8)            22.2    1.8 (0.7, 4.7)
+                                                                                                                   917                                 914                            882                               887
+                                                                        Five-category sexual identity
+                                                                        Only heterosexual                  20.5    –                           56.5    –                       36.7   –                         12.3    –
+                                                                        Mostly heterosexual                42.6    2.9 (1.6, 5.3)**            63.8    1.4 (0.7, 2.6)          53.2   2.0 (1.1, 3.7)*           38.3    4.5 (2.4, 8.5)***
+                                                                        Bisexual                           14.3    0.7 (0.1, 6.1)              28.6    0.4 (0.1, 2.1)          28.6   1.0 (0.2, 5.1)            14.3    1.6 (0.2, 13.6)
+                                                                        Mostly gay                         16.7    0.8 (0.2, 3.9)              50.0    0.9 (0.3, 2.8)          66.7   4.4 (1.3, 15.2)*          41.7    6.0 (1.8, 20.0)**
+                                                                        Only gay                           16.7    0.7 (0.2, 2.6)              38.9    0.4 (0.1, 1.0)          38.9   0.9 (0.4, 2.5)            11.1    0.8 (0.2, 3.6)
+                                                                                                                   869                                 868                            865                               870
+                                                                    Note: The dash (–) indicates reference group. Sample sizes ranged from 865 (marijuana use in past year, five-category measure) to 917 (cigarette use in past 30 days, three-category measure) due to missing
+                                                                    responses. The models for other illicit drug use for the three-category and five-category measures did not converge
+                                                                    *
+                                                                        p<.05
+                                                                    **
+                                                                         p<.01
+Arch Sex Behav. Author manuscript; available in PMC 2013 June 01.
+                                                                    ***
+                                                                          p<.001
+                                                                    a
+                                                                     Other illicit drug use consisted of any use of cocaine, LSD, other psychedelics, amphetamines, crystal methamphetamine, heroin, inhalants, ecstasy, GHB or Rohypnol
+                                                                    b
+                                                                        Odds ratios are adjusted for race and class year. The results for these variables are not shown
+                                                                                                                                                                                                                                                                                   Page 17
+

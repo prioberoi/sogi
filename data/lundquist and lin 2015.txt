@@ -1,0 +1,1270 @@
+      Social Forces Advance Access published March 2, 2015
+                                                                                     The Economy of Race among Daters 1
+The Economy of Race among Daters
+Is Love (Color) Blind? The Economy of Race among
+Gay and Straight Daters
+Jennifer H. Lundquist, University of Massachusetts–Amherst
+Ken-Hou Lin, University of Texas–Austin
+                                                                                                                                    Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+A
+       drawback to research on interracial couplings is that it almost exclusively stud-
+       ies heterosexual relationships. However, compelling new evidence from analy-
+       ses using the Census shows that interracial relationships are significantly more
+common among the gay population. It is unclear how much of this reflects weaker racial
+preference or more limited dating markets. This paper examines the interactions of
+white gay and straight online daters who have access to a large market of potential
+partners by modeling dyadic messaging behaviors. Results show that racial prefer-
+ences are highly gendered, and do not line up neatly by gay or straight identity. White
+lesbians and straight men show the weakest same-race preference, followed by gay
+men, while straight women show the strongest same-race preference. Put differently,
+minority men are discriminated to a greater degree than minority women in both same-
+sex and different-sex dating markets. These results suggest that white gay men’s higher
+rates of interracial cohabitation are driven more by constrained dating markets, while
+lesbians’ appear to be driven by more open racial preferences.
+Introduction
+A major drawback to existing research on interracial intimate relationships is
+that it largely studies heterosexual married relationships. This is because most
+studies rely on national intermarriage rates, which exclude the gay and lesbian
+population. Because this population is small, most alternative sources of data for
+nonmarried relationships contain too few cases to analyze. However, evidence
+from qualitative studies and a few analyses using the Census data suggest that
+interracial partnering is significantly more common among the gay population
+than among the straight population. This difference is commonly attributed to
+weaker racial preference among the gay population (Schwartz and Graf 2009),
+while others speculate that it is the result of a smaller, more constrained partner
+An earlier version of this paper was presented at the 2013 Annual Meeting of the Population Association
+of America. The authors thank Christine Schwartz, Krista Gile, Amy Schalet, and four anonymous
+reviewers for their helpful comments. Direct all correspondence to Jennifer Lundquist, SBS Dean’s
+Office, 236 Draper Hall, 40 Campus Center Way, University of Massachusetts, Amherst, MA 10003,
+USA. E-mail: lundquist@sbs.umass.edu.
+© The Author 2015. Published by Oxford University Press on behalf of the                   Social Forces 00(00) 1–27, Month 2015
+University of North Carolina at Chapel Hill. All rights reserved. For permissions,                         doi: 10.1093/sf/sov008
+please e-mail: journals.permissions@oup.com.
+
+2 Social Forces
+  market (Ellingson 2004; Kurdek 2003, 2004). This paper brings unique interac-
+  tion-level data to bear on this debate. By examining the behavior of white gay
+  and straight daters on a large dating website, we provide new insight on whether
+  white gay men and women have weaker racial preferences than straight daters at
+  the very early stages of the dating process.
+  Same-Sex Interracial Partnering
+                                                                                           Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  The literature on race and gay partnerships is small but growing. Some qualita-
+  tive research suggests that interracial boundaries are more often crossed in same-
+  sex couplings (Stacey 2011; Kennedy and Davis 1993). This was impossible to
+  verify empirically until fairly recently, when the Census began collecting informa-
+  tion about same-sex unions. Quantitative analyses of same-sex households in the
+  US Census corroborate the findings of earlier qualitative studies. Descriptive sta-
+  tistics on household racial exogamy from the 2000 US Census show that gay
+  householders are more likely to be in different-race partnerships than straights.
+  Figure 1 shows percentages of co-residential partners of all races, ages 20–34,
+  who differ from each other in their racial background. Heterosexual marriages
+  display the lowest racial exogamy, at 9 percent. By contrast, 21 percent of gay
+  male partners and 17 percent of gay female partners are exogamous.
+     Census data on cohabiting patterns are relatively new, and data pertaining to
+  same-sex cohabiters are even more recent. Multivariate analyses show unex-
+  plained higher rates of interracial unions among same-sex households. In 1990,
+  same-sex couples, particularly men, were more likely to be interracial than either
+  different-sex married or cohabiting households (Jepsen and Jepsen 2002). Studies
+  using later Census data yielded similar results, indicating that same-sex partner-
+  ships are more likely to be interracial than different-sex cohabiting partnerships,
+  and especially more so than different-sex marital unions (Rosenfeld and Kim
+  2005; Schwartz and Graf 2009; Gates 2012). Furthermore, gay households are
+  slightly more likely than lesbian households to be interracial (Schwartz and
+  Graf 2009).
+  Figure 1.  2000 Census: Percentage of age 20–34 same-sex and different-sex interracial
+  households (data taken from weighted 5 percent 2000 IPUMS sample)
+  Different-sex married couples
+  Different-sex cohabiting couples
+  Same-sex cohabiting female couples
+  Same-sex cohabiting male couples
+                                                 10    12     14 16       18    20
+                                                            % Couples
+
+                                                       The Economy of Race among Daters 3
+   While these studies shed the first light on differences in homogamy between
+same-sex and different-sex households, there are serious shortcomings. Because
+of sample size limitations, these Census studies do not go beyond an analysis of
+generic in-group/out-group pairings; thus, we don’t know whether particular
+racial groups behave differently toward specific out-groups. One exception, how-
+ever, shows that whites in same-sex households are least likely to be in an inter-
+racial partnership (21 percent), followed by blacks (46 percent), then Hispanics
+(63 percent) and Asians (80 percent), who are most likely to be in different-race
+                                                                                            Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+same-sex households (Kastanis and Wilson 2014). Unfortunately, this report does
+not distinguish households by gender of couples and does not go beyond a bivar-
+iate analysis. Moreover, the Census provides data only on cohabiting relation-
+ships. Most importantly, severe misestimation of same-sex householding1 in the
+Census data may make it an unreliable tool for examining trends among same-
+sex couples.
+Explanations
+It is often argued that gays and lesbians are more progressive and liberal leaning
+than straights, even after controlling for differences in education and geography.
+Some evidence suggests that the lesbian and gay population is more socially and
+politically liberal (Pew Research Center 2013). Studies also show that same-sex
+couples report a more egalitarian division of labor in their cohabiting relation-
+ships than heterosexual couples (Weisshaar 2014; Kurdek 1993). Living as a
+marginalized sexual minority may lend itself to more socially progressive per-
+sonal views, particularly if transgressing one normative boundary (sexual iden-
+tity) enables one to more readily transcend other societal boundaries (Rosenfeld
+and Kim 2005). In the popular media, Apple CEO Tim Cook recently embraced
+this view when describing being gay as giving him a “deeper understanding of
+what it means to be in the minority” and providing “a window into the challenges
+that people in other minority groups face every day” (Cook 2014). Given greater
+alleged empathy for other minorities, lesbians and gays may thus draw less
+restrictive race boundaries around their intimate partner choices. We call this the
+“presumed progressive” hypothesis.
+    Further, Rosenfeld and Kim (2005) theorize that same-sex couples are less
+influenced by familial control, since they tend to live farther away from their
+families of origin. They may also be more emotionally alienated from family if
+they had an unsupportive coming-out experience. To the extent that intergenera-
+tional family influence has a conservatizing effect on offspring, gays and lesbians
+are likely to be less traditional in many of their behaviors, including partner
+choice.
+    An alternative argument to the foregoing hypothesis is constrained partner
+markets.2 For a population that experiences stigma (albeit lessening in urban
+areas and among youth) in an already-small population demographic, locating
+similar potential partners may be challenging. One study of college men shows
+that gay men are disadvantaged in their search for romantic partners because
+they lack access to normative dating structures that straight men enjoy (Barrios
+and Lundquist 2012). Thus, the prevalence of cross-racial pairings may simply
+
+4 Social Forces
+  reflect less opportunity for homophilous mate selection compared to different-sex
+  couples (Ellingson 2004; Kurdek 2003, 2004). It has therefore been suggested
+  that gay exogamy is driven more by the thin dating market than by greater race-
+  open preferences.
+     This is influenced, in part, by other literature that paints a decidedly less race-
+  friendly picture than the foregoing scholarship does. Gay minorities frequently
+  report marginalization in what are seen as white-centered gay social settings
+  (Stokes and Peterson 1998; Beeker et al. 1998). Studies of the gay movement have
+                                                                                           Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  documented pervasive central exclusions along lines of race, gender, and class
+  (Armstrong 2003). Indeed, most research documents the reproduction of the
+  larger society’s racial inequalities within the gay community (Chasin 2000).
+  Racial sexual stereotypes are commonly described among the gay community, as
+  well as stigmatic terms to describe gay men who date outside their race, such as
+  “dinge queen” (Boykin 1996; Reid-Pharr 2001; Wilson 2009). Black men report
+  that white men often treat them as hyper-masculinized sexual objects, while
+  Asian men report stereotyping by white men as effeminate and sexually unap-
+  pealing (Wilson et al. 2009).
+     The growing field of masculinity studies sheds light on the complexities of
+  interracial sexuality and desire among gay men (this area continues to be under-
+  studied for lesbian women). The idealization and construction of hegemonically
+  masculine norms has been documented among gay men (Connell 1992), which
+  manifests itself in the intersection of racial stereotypes. Racialized images of black
+  men as virile and hypermasculine have led to the fetishization of the black body
+  by white gay men (Collins 2004; Green 2008; Reid-Pharr 2001; Wilson et al.
+  2009). The constrictive “erotic capital” of this black male archetype plays out in
+  male escort services, where black dominants (tops) receive the highest price for
+  their services, while more effeminate black men (bottoms) are the most penalized
+  and least desired (Logan 2010). The erotic premium enjoyed by those black men
+  who do not violate their sexually aggressive stereotype is unlikely to pay off
+  beyond sexual relations, however. In 70 interviews with gay men, Green (2008)
+  finds that Asian and black men alike more often experience romantic rejection
+  compared to white men, who enjoy a privileged position of being desired by both
+  minorities and whites alike.
+     Rather than having a liberalizing effect on other social boundaries, perhaps the
+  transgression of one identity in the race, class, gender tripartite brings about
+  greater pressure to conform to remaining boundaries. This effect has been shown
+  in a study of identity formation among youth (Wilkins 2008), and homophobia
+  among straight African American men has been attributed to this (Froyum 2007).
+  Expressed Racial Preference Studies
+  One way to gain leverage on the greater-race-openness hypothesis versus the
+  ­constrained-dating-market theory is to examine expressed racial preferences of
+   non-straight daters. Dating websites provide a glimpse into preference, since they
+   are perhaps the only remaining social venue where it is normative to announce
+   one’s racial preferences—and exclusions. Two Internet-based preference studies
+   examine the dating behaviors of same-sex adults. The first study found that
+
+                                                         The Economy of Race among Daters 5
+ s­ ame-sex daters were overall more likely to prefer whites than straight daters
+  (Tsunokai, Kposowa, and Adams 2009). The study did not test for interactions
+   between gender and sexual identity or between race and sexual identity, so it is
+   unclear how patterns may vary across gay versus lesbian identities or white versus
+   minority gays. The other study, which focused only on male daters, found that gay
+   white men were five times more likely than white straights to express a same race
+   preference (Phua and Kaufman 2003).
+      While these studies suggest that gay daters are less race open than straights, a
+                                                                                              Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+   survey on ideal relationships among young people found conflicting results. Les-
+   bians were the most open to different-race relationships, followed by straight
+   women and gay men, and straight men were least open (Meier, Hull, and Ortyl
+   2009). An older study showing that lesbians deemphasize physical and economic
+   characteristics of their potential dating partners (Deaux and Hanna 1984) sug-
+   gests that lesbians may place less emphasis on race than straight women.
+      While literature on the racial boundaries among gays and lesbians remains
+   sparse, recent studies utilizing alternative data sources have made significant
+   progress in our understanding of the preferences among heterosexual daters.
+   These studies consistently show that straights operate under strong same-group
+   homophily preferences and behaviors (Feliciano, Lee, and Robnett 2011; Hitsch,
+ Hortaçsu, and Ariely 2010). Studies that evaluate message-sending and -receiving
+ behaviors among online daters have nuanced these findings by showing that
+ same-race homophily is strongest when initiating first contact but weaker upon
+ receiving a message from someone of a different race (Lewis 2013; Lin and
+  ­Lundquist 2013). However, the response behavior is still tempered by a gendered
+   and racialized hierarchy. While white men commonly respond to messages from
+   every out-group except black women, white women still tend to ignore all but
+   whites (Lin and Lundquist 2013).
+      Most of the dating preference and behavioral analyses consistently support a
+   similar gender pattern, finding that straight white women exhibit more rigid race
+   boundaries than straight white men (Fisman et al. 2006; Feliciano, Lee, and
+­Robnett 2011; Robnett and Feliciano 2011; Tsunokai, Kposowa, and Adams
+ 2009). This contradicts the assumption that women should be more race tolerant
+ than men, based on feminine socialization toward more affective and cooperation-
+ focused behaviors (Cross and Madsen 1997; Johnson and Marini 1998). Another
+   explanation is the heterosexual beauty-status exchange hypothesis, whereby men
+   are theorized to prioritize physical characteristics in selecting a mate whereas
+   women prioritize income and economic stability (Goode 1996; South 1991). Since
+   race historically has a strong predictive power over one’s socioeconomic status,
+   women may use it as a proxy to estimate potential partners’ future income. But
+   there has been considerable change in gender norms among younger generations.
+   Some recent behavioral studies find no support for the beauty-status exchange
+   hypothesis, showing that men and women equally prioritize physical attractive-
+   ness above many other factors in their dating partners (Eastwick and Finkel 2008;
+ Luo and Zhang 2009; McClintock 2014). Yet, other studies continue to find evi-
+   dence, albeit lessened, for a gendered exchange pattern, showing that female dat-
+   ers value income more highly than physical appearance compared to men (Hitsch,
+   Hortaçsu, and Ariely 2010) and that men respond more strongly than women to
+
+6 Social Forces
+  physical attractiveness (Fisman et al. 2006; Li et al. 2002; Li and Kenrick 2006).
+  Nevertheless, this hypothesis fails to explain why Asian men, who on average earn
+  no less than white men, are not as preferred.
+  Data
+  An interactive, online-dating setting has far fewer partner market constraints
+  than most social settings, and thus provides a unique opportunity to examine the
+                                                                                           Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  racial preferences held by gay and lesbian daters. Census data provide informa-
+  tion on a cohabiting relationship only after it has formed, offering little insight on
+  the level of interracial exposure during the mate selection process. We examine
+  whether white same-sex daters are more racially inclusive than their different-sex
+  white counterparts when they are exposed to a wide range of potential partners.
+  If they still are, we can confirm that the presumed progressive hypothesis at least
+  partially explains the coupling patterns of gays and lesbians. On the other hand,
+  if we find same-sex daters to be no different, or even less inclusive, we can con-
+  clude that market constraints may play a critical role in generating the interracial
+  pairing differences between the gay and straight population.
+       Although there are clear limitations, including sample representativeness, our
+  lack of messaging and photograph data, and the fact that online exchanges are
+  less significant than formal marital and cohabiting relationships, examining the
+  interactions among Internet daters gives us several analytical advantages. First,
+  we are able to observe the entire dater pool for each individual dater, which
+  allows us to take the opportunity structure into account when detecting racial
+  preferences. Second, daters in our sample have a clear incentive to accurately
+  report their sexual identity, and thus we avoid a major measurement issue in
+  terms of sexual identity. Furthermore, daters operate under the assumption that
+  their decisions are unobservable to most other daters, which alleviates the
+  ­potential social desirability bias that could be common among preference
+   ­statement studies.
+       Finally, data generated from dating websites allow us to examine interracial
+    pairing behaviors at an unprecedented level of detail. Census studies have been
+    unable to examine specific racial sorting patterns within gay and lesbian house-
+    holds. We examine whether similar sub-racial hierarchies exist within gay and
+    lesbian partnering patterns as they do among straight women and men. Since our
+    previous study indicates that whites have the most dominant racial status and
+    appear to be the gatekeepers of interracial relationships (Lin and Lundquist
+    2013), we focus our analysis on white dater behavior. We ask, do white lesbians
+    and gay men have weaker racial and in-group preferences than white straight
+    women and men? And, if so, do such preferences vary by the specific racial iden-
+    tity of the out-group?
+       We obtained our data from one of the largest and most popular US dating
+    websites,3 which facilitates both heterosexual and same-sex dating for millions of
+    active users. Registered users can create a personal profile, search and view other
+    users’ profiles, and contact others through a website-based messaging system. A
+    typical user profile contains basic information such as sex, sexual orientation,
+    geographical location, age, race, height, body shape, religion, language, lifestyle
+
+                                                           The Economy of Race among Daters 7
+and socioeconomic status, as well as photographs and short essays. Unlike most
+large dating websites that charge a membership fee to contact other users, this
+website places no restriction on usage, making it an advantageous data source for
+studying online dating behavior. The website does not recommend potential
+matches by ethnic-racial status. The only criteria used to select which profiles to
+appear first are geographical adjacency, age, sexual orientation, and the matching
+score, which is derived from personality questions.
+     While our sample is not representative of the US population, a growing litera-
+                                                                                                Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+ ture indicates that Internet daters are not as selective as previously assumed. A
+ recent study found that Internet daters differ little after controlling for Internet
+ access and computer usage (Sautter, Tippett, and Morgan 2010). That said, online
+ daters generally do tend to be younger and of higher socioeconomic status than
+ those who lack access to the Internet. Furthermore, our particular dating site is
+ believed to attract a slightly more educated and intellectual clientele even more
+ so than other online sites. Since education status is associated with more positive
+ attitudes toward interracial relations, we would expect the daters in our sample
+ to have more inclusive racial preferences than the general population and perhaps
+ than other sites. Moreover, Internet daters who use mainstream dating websites
+ are likely to have more liberal attitudes toward dating across racial lines than
+ those who use ethnic dating websites exclusively. Taking these together, we expect
+ to underestimate the significance of racial preferences in the US dating market.
+     In addition, the digital divide is rapidly decreasing. Among Americans aged
+ 18–49, 91 percent report using the Internet (Zickuhr and Smith 2012). Seventy-
+ four percent of American Internet users who report looking for romantic partners
+ have used the Internet to find dates; half of these individuals have gone on to date
+ the people they met online, and 17 percent have entered into committed relation-
+ ships as a result (Madden and Lenhart 2006). Nor is there evidence that interra-
+ cial couples are more likely to have met on the Internet than in face-to-face
+ settings (Rosenfeld and Thomas 2012). A nationally representative survey that
+ examines relationship formation finds that the Internet is now one of the primary
+ ways that heterosexual and same-sex couples meet each other (Rosenfeld and
+ Thomas 2012). One study even found an association between the penetration of
+ high-speed Internet access into geographical regions of the United States and an
+ increase in marriage rates among young people in those areas (Bellou 2013).
+     Our original data set consists of approximately nine million registered users
+ worldwide and 200 million messages, from November 2003 to October 2010. To
+ facilitate the analysis, we filter the users in three steps. We limit our scope to users
+ who reside in the 20 largest metropolitan areas in the United States. This enables
+ the reconstruction of opportunity structure (discussed below) and brings down
+ the sample size to about three million daters. We exclude users who did not send
+ or receive at least one message, did not upload at least one photograph, who
+ listed their birth year later than 1992 or earlier than 1911, or who fit the profile
+ of spammer users. This is because, similar to most free-membership websites,
+ some of the users did not actively engage or even return to the website after initial
+ registration, and a few users are likely to be fake identities created by spammers.
+ We thus retain only actively dating website members. In the profile creation
+­process, individuals must first identify themselves as either male or female, and
+
+8 Social Forces
+  then as heterosexual, gay, or bisesexual. We exclude those identifying as bisexual,
+  whom we analyze at another time.4 Our final sample consists of 32,351 lesbians,
+  51,606 gay men, 405,021 straight women, and 528,800 straight men.
+  Analytical Approach
+  Our main analytical inquiry focuses on dyadic interaction controlling for each
+  individual’s demographic and personal characteristics. We examine how the like-
+                                                                                                  Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  lihood of sending and responding to an initial message among daters is shaped by
+  the daters’ race. Since interaction decisions are nested within individuals (i in the
+  sending model and j in the responding model), a dependence structure is expected.
+  We thus model both the sending and the responding behaviors by fitting a series
+  of generalized estimating equations (Liang and Zeger 1986; Hanley et al. 2003;
+  Zuur et al. 2009) with the logit link function and an exchangeable correlation
+  structure.5
+     We control for confounding factors with the following covariate groupings:
+  basic demographic information, lifestyle, socioeconomic status, and degree of
+  online engagement. Basic demographic information includes age, height, body
+  type, and geographic location. Lifestyle variables include smoking, drinking, drug
+  use habits, and parental status/preferences. Socioeconomic status consists of edu-
+  cation level, income level, and the number of languages one speaks. In addition,
+  we control for the daters’ degree of engagement, which includes total time spent
+  on the website, total account lifetime (from registration to the last log-in), the
+  number of photographs uploaded to the website, and the number of personality
+  questions answered on the website.
+     We first examine, among all probable dyads, how the racial identity of the
+  potential sender and that of the receiver jointly predict whether an initial message
+  is sent. To do so, we randomly sample a subset of users and reconstruct their
+  opportunity structure on the website,6 which generates all probable dyads on the
+  website for this subset of users. We then merge these dyads with the initial mes-
+  sages that were actually sent, yielding a binary outcome where 1 indicates that
+  the probable dyad was realized and 0 otherwise. We specify the model predicting
+  the sending behavior as
+                                           K                           K
+                  logit (yi , j ) = α1 +   ∑
+                                           k
+                                               β1,kGk + β2O +         ∑β
+                                                                       k
+                                                                               GkO
+                                                                            3, k
+                                      P
+                                  +   ∑β
+                                      p
+                                           4, p   Xp,i Xp, j + β5Wi , j + β6 Mi + ε i , j ,
+  	                                                                                           	
+  where yi,j denotes whether an initial message was sent from i to j, G denotes the
+   sexual identity group of the sender, O denotes the out-group (i.e., non-white)
+   status of j, β3 denotes the interaction effects between G and O, X denotes the
+  attributes of user i and j in table 3, W denotes the log-transformed overlapping
+  website membership periods between i and j, and M denotes the number of
+  ­messages user i received per 100 days.
+
+                                                                                                 The Economy of Race among Daters 9
+   We next examine the likelihood of responding to an initial message. We esti-
+mate how the likelihood of a response is conditional on both the racial identity of
+the sender and that of the receiver, while controlling for all the other attributes of
+each partner. The sample of this analysis is all initial messages sent among the dat-
+ers, with a dichotomous outcome indicating whether the recipient responded (1)
+or not (0). Similarly, we specify the model predicting the responding behavior as
+                                                     K                                       K
+                logit (y j ,i ) = α 2 +              ∑   β7 ,kGk + β8O +                   ∑β
+                                                                                                                                       Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+                                                                                                     GkO
+                                                                                                  9, k
+                                                     k                                       k
+                                                 P
+                                             +   ∑β
+                                                 p
+                                                     10, p   Xp,i Xp, j + β11 Si , j + β12 M j + ε j ,i ,
+	                                                                                                                  	
+where yj,i denotes whether user j responded to the initial message sent by user i,
+β9 denotes the interaction effects between G and O, S denotes the matching score7
+between j and i, and M denotes the number of messages user j received per
+100 days. As in past studies (Lewis 2013; Lin and Lundquist 2013), we gauge
+response to be an indication of interest.
+   Our second set of models goes beyond the in-group/out-group divide and
+examines the details of racial preference. The sending model here is specified as
+                                       K                     Q
+     logit(yi , j ) = α 3 +        ∑   k
+                                            β13,kGk +    ∑β  q
+                                                                      14, q   Rq +
+                       K       Q                                 P
+                    ∑∑             β15,k, qGk Rq +           ∑β          16, p   Xp,i Xp, j + β17Wi , j + β18 Mi + ε i , j ,
+	                      k       q                                 p
+                                                                                                                               	
+where R denotes whether j identifies as Asian, black, Hispanic, white, or other,
+with β15 allowing racial preferences to vary across the four sexual identity groups.
+Similarly, the responding model is specified:
+                                   K                     Q
+    logit(yi , j ) = α 3 +     ∑   k
+                                           β19,kGk +     ∑β
+                                                         q
+                                                                     20, q   Rq
+                           K       Q                                 P
+                   +   ∑∑                  β21,k, qGk Rq +       ∑β          22, p   Xp,i Xp, j + β23 Si , j + β24 Mi + ε j ,i ,
+	                          k       q                                 p
+                                                                                                                                   	
+where R denotes whether i identifies as Asian, black, Hispanic, white, or other.
+   To avoid unobserved heterogeneity bias by assuming each comparison group
+has the same residual variation, a problematic assumption with logit coefficients
+(see Allison 1999 and Mood 2010 for discussion), we contrast the racial prefer-
+ences among sexual identity groups with predicted probabilities. We first measure
+the in-group preference as the ratio between the predicted probability of interact-
+ing with a non-white dater and that of interacting with a white dater. We second
+
+10 Social Forces
+  measure the preference toward Asian, black, and Hispanic daters, respectively, as
+  the ratio between the predicted probability of interacting with a dater from that
+  racial group and that of interacting with a white dater.
+  Data Limitations
+  As in other online-dating studies, confidentiality protections restrict our access to
+  photographic data, messaging content, and the profile essay text. Access to the
+                                                                                            Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  daters’ photographs would enable us to code for visual appearance indicators like
+  skin tone, potentially disentangling how dater appearance may mediate response
+  to a dater’s declared racial identity. Unfortunately, this is an omitted variable
+  from our analysis. Furthermore, not knowing textual content could potentially
+  lead to unobserved bias in two ways: (1) If white daters make their racial prefer-
+  ences known in the essay sections, it may keep minority daters from contacting
+  them; and (2) If online rejection also occurs via direct rejection articulated in an
+  e-mail message rather than non-response, we will misinterpret rejection for inter-
+  est (in the response models only).
+     The website we use does not provide a category for users to indicate their
+  racial preference; however, users may choose to express their racial preference in
+  the essay section. To address point 1, we conducted extensive observations of
+  hundreds of randomly selected profiles from the publicly accessible online web-
+  site to assess whether racial preferences are informally included in users’ texts. It
+  is very rare for users to explicitly post racial preferences or, indeed, anything
+  directly referencing race at all. This might reflect the prevalence of colorblindness
+  culture and/or norms around social desirability.
+     Daters also are asked to answer or skip literally hundreds of personality ques-
+  tions generated at random, in order to create a conglomerated matching score
+  that indicates how similarly users answered overall. In the time period we ana-
+  lyze, users are able to see others’ specific answers to any given personality ques-
+  tion only if the user chose to make it public. Therefore, to the extent that any race
+  questions were randomly generated and then answered, it is rare for users to have
+  access to the specific answer another user gave. In the data-cleaning process, we
+  found that even among the most frequently answered race-related questions,
+  none were answered by a majority of daters. Race-oriented personality questions
+  asked whether it is racist to state that one is not attracted to people of other races,
+  whether couples should be prohibited from adopting a different-race child, and
+  whether daters believe that race and intelligence are linked; however, only about
+  1 to 5 percent of our subsamples answered these questions. Between 30 and 40
+  percent of daters answered either “Would you strongly prefer to date someone of
+  your own skin color/racial background?” or “If you were going to have a child,
+  would you want the other parent to be of the same ethnicity as you?” These ques-
+  tions, when answered, are rarely made public. We conclude that unobserved race
+  signaling on profiles exists, but is rare. If it were more common, our analysis
+  would overestimate the general willingness to interact with daters from other
+  groups due to the selection process. However, such a bias would shift our esti-
+  mates for all groups in the same direction and therefore has limited impact on our
+  substantive findings and the conclusion. Nevertheless, the lack of essay content
+
+                                                        The Economy of Race among Daters 11
+overall will bias our results in unknown ways, since it would provide data around
+personality and preferences that our control variables may not be capturing.
+    The second issue is over how we measure rejection for the response models.
+Because we lack messaging content, we assume that if daters are interested, they
+will message back, and if they are not interested, they will not respond. Given
+confidentiality protections that restrict access to personal content, this approach
+is the accepted unit of measurement in other online dating studies as well (Lewis
+2013; Lin and Lundquist 2013). Anecdotal evidence and emerging consensus in
+                                                                                              Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+online-dating discussions suggest that polite but uninterested response (a false
+positive) is the exception to the rule for rejection in the online environment, given
+the low social costs of not responding.8 While we acknowledge that some daters
+may nevertheless send direct rejection notification (and this may be more true of
+older generations of daters), it is not the prevailing norm. Our data show that
+sending a response is extremely rare (table 2), suggesting that the content of
+response messages is socially meaningful. As such, we interpret response messages
+as an approximation of reciprocated interest. Finally, we have no reason to think
+that false positive responses, to the extent that they occur, would vary by sexual
+identity, which is the driving comparison of our analysis.
+    Given the newness of web-based dating sites, knowledge is lacking about the
+culture and meta-practices of the online dating process. The emergence of big
+data is outpacing the evolution of standards and agreed-upon approaches to its
+analysis. Future research could shed light on these questions by interviewing
+online daters about their experiences.
+Summary Statistics
+We identify a user’s racial identity using the information on their personal pro-
+files. There are ten ethnicity boxes users can check when they fill out their per-
+sonal profiles. The options are Asian, Middle Eastern, black, Native American,
+Indian,9 Pacific Islander, Hispanic/Latino, white, other, and undeclared. Users can
+check as many boxes as they prefer. We categorize those who did not check any
+box as undeclared and those who checked more than one box as multiracial. Our
+initial sample thus consists of 11 ethnic-racial groups, with the 10 default catego-
+ries and the multiracial group.
+    Table 1 presents the ethnic and racial composition of our analytical sample.
+About half of the user populations self-identify as non-Hispanic white, although
+this number is slightly lower for gays than straights.10 About 24 percent of the
+straight sample did not specify any ethnic and racial identity, compared to a
+slightly lower percentage of the gay sample, although the vast majority of these
+cases are incomplete profiles, as we found upon further analysis.11 Once incom-
+plete profiles are ruled out, the number of cases without a racial self-identification
+is closer to 7 percent. Blacks and Hispanics are significantly underrepresented in
+our sample, especially among straights. About 4 percent of the users identified
+themselves as black (this is only slightly higher when excluding “undeclared”), in
+contrast to 12 percent in the US population. Slightly higher percentages of the
+users identified as Hispanic/Latino, in contrast to 16 percent of the US popula-
+tion.12 One group that is overrepresented is multiracial users (at between 7 and
+
+12 Social Forces
+  Table 1.  Ethnic-Racial Composition of the Sample
+   Race                         Straight men     Straight women   Gay men   Lesbians
+   Asian                            3.28%              3.69%       4.92%     2.63%
+   Middle Eastern                   0.36%              0.26%       0.39%     0.32%
+   Black                            3.35%              3.86%       3.67%     4.96%
+   Native American                  0.23%              0.26%       0.12%     0.23%
+   Indian                           0.81%              0.47%       0.51%     0.18%
+                                                                                         Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+   Pacific Islander                 0.25%              0.24%       0.60%     0.33%
+   Hispanic                         4.97%              4.66%       7.83%     6.43%
+   White                           52.05%             53.67%      50.59%    48.67%
+   Other                            1.47%              1.48%       1.59%     2.21%
+   Undeclared/incomplete           25.24%             24.36%      19.63%    22.70%
+   profile
+   Multiracial                      7.99%              7.05%      10.15%    11.34%
+   N                              528,800             405,021     51,606    32,351
+  8 percent for straights and 10–11 percent for gays), who are often counted as 2
+  percent in the national population.13 For the analyses that follow in this paper, we
+  focus on white users’ messaging behaviors toward white, Asian, black, His-
+  panic,14 and other users. As in the Census, whites are the largest group in our
+  data, with a sample size that allows us to model the most detailed intergroup
+  cross-racial interactions.
+     We model the likelihood of initial messages exchanged between any two users
+  who both reside in the same metropolitan area. Table 2 presents the descriptive
+  statistics on initial messages received by and sent from white daters. The first
+  detail to note is that the likelihood of interaction, on the whole, is quite low
+  across all the groups. We interpret this to indicate that when solicitations and,
+  more rarely, responses do occur, they are indications of interest—even though we
+  do not know the content of the messages themselves. Even considering that the
+  express purpose of the website is for singles to find romantic partners, if there
+  were a high degree of e-mail chatter between users, we might be less confident in
+  deducing that messages indicate some degree of attraction between daters. Online
+  interaction is asymmetrical in several ways (which can be observed only among
+  the straight population). The pattern fits the gendered heteronormative expecta-
+  tion that men initiate contact: white straight men in our sample, on average, sent
+  70 percent more messages than their white straight women counterparts but
+  received less than half their number of messages. Of the groups, initial messages
+  sent by white straight men to women were the least likely to get a response. Only
+  2.8 percent of the messages sent by white straight men received a response, in
+  contrast with 5.6 percent of messages sent by white straight women. Some of this
+  difference may stem from the straight gender ratio imbalance we find in our data,
+  at 12 percent more straight male users than straight female users. Among white
+  gay daters, men have higher volumes of message exchange than lesbians,
+
+                                                                                                                                                                                                                                                                                       The Economy of Race among Daters 13
+                                                                                                                                                                                                                                                                     e­xchanging twice as many between each
+                                                                                                                                                                                                                                                                      other compared to women. The difference
+                                                                                                    SD     2.76                          7.66
+                                                                             White lesbians
+                                                                                                                                                                                                                                                                      between the distribution of messages sent and
+                                                                                                                                                                                                                                                                      that received is also worth noting. For white
+                                                                                                                                                                                                                                                                      straight men, gay men, and lesbians, the vari-
+                                                                                                    Mean                                                           31535                          5.03%           30754                      5.16%
+                                                                                                                                                                                                                                                                      ance of the messages sent is significantly
+                                                                                                           2.00                          1.95                                                                                                                         larger than that of the messages received,
+                                                                                                                                                                                                                                                                      indicating a large degree of heterogeneity in
+                                                                                                                                                                                                                                                                                                                             Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+                                                                                                                                                                                                                                                                      the level of active participation.
+                                                                                                    SD     6.91                          18.01                                                                                                                       Control Variables
+                                                                             White gay men
+                                                                                                                                                                                                                                                                     Table 3 presents the descriptive statistics for
+                                                                                                                                                                                                                                                                     the control variables. The average age of the
+                                                                                                                                                                   136264                                         123642
+                                                                                                                                                                                                                                                                     sample is younger than that of the general
+                                                                                                    Mean   5.22                          4.74                                                     4.56%                                      5.04%                   population. Gay and lesbian daters are about
+                                                                                                                                                                                                                                                                     two years younger than straight daters. White
+                                                                                                                                                                                                                                                                     daters also have higher educational attain-
+                                                                                                                                                                                                                                                                     ment than the national population. Between
+                                                                             White straight women
+                                                                                                    SD     10.74                         13.54                                                                                                                       43 and 51 percent of gay and straight men
+                                                                                                                                                                                                                                                                     and women report a college degree or more,
+                                                                                                                                                                                                                                                                     in contrast with 32.8 percent of Americans
+                                                                                                                                                                                                                                                                     aged 25 to 34.15 The heights of male and
+                                                                                                                                                                   1730076                        2.58%           764749                     5.59%
+                                                                                                                                                                                                                                                                     female users are also about 10 centimeter/4
+                                                                                                    Mean   7.96                          3.52                                                                                                                        inches higher than the average American.16
+Table 2.  Descriptive Statistics on Initial Messages Exchanged among Users
+                                                                                                                                                                                                                                                                     We suspect this is due to the tendency that
+                                                                                                                                                                                                                                                                     users over-report their height, rather than the
+                                                                                                                                                                                                                                                                     selectivity of Internet daters. While omitted-
+                                                                                                           5.39                          30.18
+                                                                                                                                                                                                                                                                     variable bias is certainly a concern in our
+                                                                             White straight men
+                                                                                                    SD
+                                                                                                                                                                                                                                                                     data, we find it compelling that misreporting
+                                                                                                                                                                                                                                                                     of the variables we are able to measure will
+                                                                                                                                                                                                                                                                     not bias the results, since other daters are also
+                                                                                                                                                                   814402                                         1658718
+                                                                                                                                                                                                                                                                     using this same information, however exag-
+                                                                                                    Mean   2.96                          6.03                                                     5.47%                                      2.82%                   gerated, to determine whether to interact with
+                                                                                                                                                                                                                                                                     any given online dater.
+                                                                                                                                                                                                                                                                        Table 3 also shows that there are a number
+                                                                                                                                                                                                                                                                     of gender differences between the groups.
+                                                                                                                                                                                                                                                                     Regardless of sexuality, women are more
+                                                                                                                                                                   Total # of messages received
+                                                                                                                                                                                                                                                                     likely than men to consider themselves over-
+                                                                                                           Avg. # of messages received
+                                                                                                                                                                                                                                                                     weight, while men are more likely to describe
+                                                                                                                                         Avg. # of messages sent                                                  Total # of messages sent
+                                                                                                                                                                                                                                                                     themselves as average or fit. While majorities
+                                                                                                                                                                                                                                             Others’ response rate
+                                                                                                                                                                                                                                                                     of all four groups decline to disclose their
+                                                                                                                                                                                                                                                                     income, straight men are least likely to do
+                                                                                                                                                                                                  Response rate
+                                                                                                                                                                                                                                                                     this. There are also differences in online
+                                                                                                                                                                                                                                                                     engagement. Although straight women spend
+                                                                                                                                                                                                                                                                     similar amounts of time on the website as
+                                                                                                                                                                                                                                                                     men, they have the shortest account lifetimes.
+
+14 Social Forces
+  Table 3.  Descriptive Statistics on Control Variables
+                                         White        White straight   White gay      White
+                                     straight men       women           men          lesbians
+   Age                                  30.54              30.14        28.68        27.92
+   (S.D.)                                 9.34              9.75         8.44          8.14
+   Height (in cm)                      179.98             165.93       179.35       165.93
+   (S.D.)                                 7.41              7.07         7.21          7.14
+                                                                                                 Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+   Height–not specified                   0.0096            0.0099       0.0079        0.0144
+   Height–top coded                       0.0006            0.0004       0.0003        0.0004
+   Height–bottom coded                    0.0008            0.0003       0.0002        0.0004
+   Body type
+   Thin                                   0.08              0.10         0.16          0.10
+   Overweight                             0.07              0.21         0.09          0.19
+   Average                                0.21              0.20         0.24          0.21
+   Fit                                    0.29              0.14         0.23          0.18
+   Unspecified                            0.34              0.35         0.28          0.32
+   Region
+   Northeast                              0.33              0.38         0.43          0.37
+   Southeast                              0.10              0.09         0.07          0.09
+   Midwest                                0.16              0.15         0.14          0.14
+   West                                   0.31              0.28         0.29          0.32
+   Southwest                              0.10              0.09         0.07          0.08
+   Smoking
+   Yes                                    0.27              0.24         0.26          0.36
+   No                                     0.69              0.71         0.69          0.59
+   Unspecified                            0.05              0.05         0.05          0.05
+   Drinking
+   Often                                  0.14              0.13         0.16          0.14
+   Socially                               0.61              0.64         0.61          0.62
+   Rarely                                 0.15              0.14         0.13          0.14
+   Not at all                             0.08              0.06         0.07          0.07
+   Unspecified                            0.03              0.03         0.03          0.03
+   Drug use
+   Never                                  0.74              0.79         0.74          0.66
+   Sometimes                              0.11              0.07         0.11          0.15
+   Unspecified                            0.15              0.13         0.15          0.19
+   Parental Status/ Preference
+   Has Children                           0.12              0.17         0.01          0.06
+   Likes Child                            0.47              0.49         0.43          0.51
+                                                                                   (Continued)
+
+                                                        The Economy of Race among Daters 15
+Table 3.  continued
+                                 White      White straight     White gay       White
+                             straight men     women             men           lesbians
+Doesn’t like/want child           0.09           0.09              0.18         0.14
+Unspecified                       0.32           0.24              0.37         0.29
+Education
+High School or Less               0.37           0.34              0.35         0.41
+                                                                                              Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+Some College                      0.05           0.05              0.03         0.03
+College                           0.36           0.38              0.39         0.33
+Professional                      0.09           0.12              0.12         0.10
+Unspecified                       0.13           0.11              0.11         0.13
+Income
+< 20,000                          0.07           0.07              0.08         0.09
+20,000–50,000                     0.16           0.11              0.10         0.10
+50,000–80,000                     0.08           0.03              0.04         0.03
+80,000–150,000                    0.05           0.01              0.02         0.01
+< 150,000                         0.02           0.01              0.01         0.01
+Unspecified                       0.62           0.77              0.75         0.77
+Engagement
+Online Time (in 15 min)         143.82         145.09           137.89        149.29
+SD                              527.82         518.95           499.09        503.99
+Account Life Time (in day)      387.47         286.18           391.64        343.08
+SD                              478.11         400.82           464.99        430.22
+Photos Uploaded                   3.88           4.01              4.46         4.49
+SD                                2.56           2.62              2.64         2.74
+Questions Answered              233.03         183.84           215.42        196.48
+SD                              407.34         339.43           345.40        344.51
+This may be due to the gender ratio imbalance on the website, with straight
+women in greater demand and more quickly able to locate potential matches (or
+grow overwhelmed and give up). Men, both gay and straight, have longer
+account lifetimes and answer more personality questions on their profiles. Gay
+daters also upload greater numbers of their pictures than straights to the site,
+which may exacerbate omitted-variable bias more for non-straight daters than
+straight daters.
+Results
+In our first group of models, we interact the characteristics of each dater’s and
+their potential partners’ characteristics with one another, including one’s sexual
+orientation and their relative likelihood of interacting with any out-group
+member versus a same-race member. Figure 2 shows the relative likelihood of
+
+16 Social Forces
+  Figure 2.  Predicted probabilities with confidence intervals of interacting with out-group
+  relative to white in-group
+                   A            Sending                     B             Responding
+      Gay women
+         Gay men
+                                                                                                       Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  Straight women
+     Straight men
+                    0.3   0.4   0.5 0.6 0.7 0.8               0.7 0.8 0.9 1.0           1.1    1.2
+                                  Odds ratio of interacting with non-white, white = 1
+  Note: These figures show interaction probabilities after controlling for all independent variables
+  from table 3. i = 5,054,614 for sending model; n = 2,712,277 for responding model.
+  i­ nteracting with an out-group dater for each group. We generate predicted prob-
+   abilities by holding all independent variables at their observed values, and we
+   depict the relative predicted probability ratios by dividing the predicted probabil-
+   ity of interacting with an out-group by the predicted probability of interacting
+   with an in-group. Thus, the larger the ratio, the weaker the same-race preference.
+   While the ratios show that each group is more likely to contact an in-group dater
+   over an out-group dater, there are clear group differences in how strong same-
+   race preferences are. Panel A depicts the relative probability of sending an initial
+   message to a non-white group, while panel B shows the relative probability of
+   responding to an out-group dater after first receiving a message from them (full
+   coefficients from the GEE models are shown in appendix 1A).
+       Figure 2 shows that straight white women are less likely than any other group
+   to send or respond to out-groups. Straight white men and lesbians, on the other
+   hand, are most likely to contact and respond to out-groups. Gay white men fall
+   somewhere between these two trends.17 A notable difference between panels A
+   and B is that responding ratios are substantially larger than sending ratios for all
+   the groups.18 This indicates that white daters are generally more likely to respond
+   to out-groups than they are to initiate contact, even though they still respond
+   most often to their white in-group (except for straight men, who are equally
+   likely to respond to both). We theorize that response rates may more accurately
+   reflect the “revealed preferences” of daters. That is, when a dater initiates first
+   contact, their behavior is likely to be dictated by how they might anticipate other
+   groups will respond to them. By contrast, there is little risk of rejection when
+   someone has already reached out to them. Nonetheless, despite becoming more
+   open to out-groups in the context of responding, the patterned hierarchy of how
+   white gender and sexual identity groups respond does not change. This pattern
+   also remains consistent when we estimate conditional predicted probabilities
+   across each percentile of specific key variables (see appendix 2).
+
+                                                                 The Economy of Race among Daters 17
+   To what extent are the patterns in figure 2 being driven by which racial out-
+group white daters choose to contact? Our second group of models shown in fig-
+ure 3 thus asks how the patterns shown in figure 2 break down when we examine
+interaction within each specific racial out-group. Panel A of figure 3 shows greater
+overall spread depending on which racial group is being contacted, indicating that,
+regardless of sexual identity and gender, all groups are less likely to contact black
+(versus white) daters. But as for how racial preference distributes itself across each
+of the white groups of daters, most of the same basic directional patterns hold
+                                                                                                       Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+from figure 2. For example, white straight women are still consistently the group
+Figure 3.  Predicted probabilities with confidence intervals of interacting with each racial
+out-group relative to white in-group
+                   A         Sending to Asians             B        Responding to Asians
+    Gay women
+       Gay men
+ Straight women
+    Straight men
+                   C          Sending to blacks            D         Responding to blacks
+    Gay women
+       Gay men
+ Straight women
+    Straight men
+                   E         Sending to Hispanics          F       Responding to Hispanics
+    Gay women
+       Gay men
+ Straight women
+    Straight men
+                       0.2      0.4     0.6       0.8      0.4      0.6      0.8      1.0      1.2
+                               Odds ratio of interacting with non-white, white = 1
+Note: These figures show interaction probabilities after controlling for all independent variables
+from table 3. N = 5,054,614 for sending model; n = 2,712,277 for responding model.
+
+18 Social Forces
+  with the lowest probability of interacting with each out-group and straight men
+  are consistently the group most likely to do so. But there are some new variations.
+  When it comes to contact with Asian daters, the basic story is that straight men
+  and lesbians are more likely to interact with Asians than other minorities, while
+  straight women and gay men are less likely. Specifically, straight white men are the
+  most likely group to initiate contact with Asian daters and lesbians and straight
+  men are most likely to respond to messages from Asian daters. Straight white
+  women and gay men are least likely to send messages to Asians, and straight
+                                                                                         Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  women are the least likely group to respond to Asian daters’ messages.
+     In predicting the probability of contacting black daters, the confidence inter-
+  vals in figure 3 show considerable overlap among the white daters, indicating that
+  all groups are about equally unlikely to send a message. But in responding to
+  messages sent by black daters, white straight men and lesbians are the most likely
+  groups to return a message. It is notable that, while straight men’s greater likeli-
+  hood of messaging Asians over black women fits with national trends in hetero-
+  sexual intermarriage, white straight women’s behavior does not. Although white
+  women are more likely to be married to a black man than an Asian man, here we
+  see that women daters ignore both Asian and black men about equally, which is
+  consistent with previous findings (Lin and Lundquist 2013). Finally, Hispanic
+  daters are most likely to be contacted and responded to by straight men and least
+  likely by straight women. Gay men and lesbians both fall about equally between
+  these two extremes. Appendix 1B, shows the corresponding coefficients from the
+  GEE models. As in appendix 2, we estimated conditional predicted probabilities
+  across each percentile of specific key variables, and the patterns shown in figure 3
+  are consistent. (Figures available upon request.).
+     How do these results square with what we know from the literature? Analyses
+  using stated-preference data found that gay whites were equally exclusionary as
+  straight white daters toward black daters, but that they were less open to Asians
+  and more open toward Latinos (Tsunokai, Kposowa, and Adams 2009). We find
+  this same pattern when comparing straight and gay men but not women. Our
+  results also corroborate the findings of Phua and Kaufman (2003), which found
+  that gay white men were overall more exclusionary than straight white men. But
+  perhaps most notable of all is our finding that the biggest contrast in preference
+  behavior is between white straight males and white straight females. Other stud-
+  ies have documented gender differences among straight daters (Hitsch, Hortaçsu,
+  and Ariely 2010; Lin and Lundquist 2013; Lewis 2013), but when put in the
+  context of a comparison to gay and lesbian daters, the pattern is particularly
+  striking. It becomes clear that racial preference behavior may be linked more to
+  gender identity than to sexual orientation identity, even though the debate until
+  now has focused almost exclusively on straight versus gay behaviors. Stated
+  another way, minority men are avoided by white daters, regardless of their sexual
+  identity, while minority women fare considerably better.
+  Discussion and Conclusion
+  Returning to the motivating question of this analysis, when white same-sex d
+                                                                             ­ aters
+  are privy to a large dating market, do they behave more race inclusively than
+
+                                                       The Economy of Race among Daters 19
+different-sex daters? The answer, as it turns out, is that it is highly dependent on
+the gender of the projected dater. Previous work suggesting that non-straight
+individuals are more race open than straight individuals used data that obscures
+gender, either by relying on couple-level data (Schwartz and Graf 2009) without
+examining behaviors of any specific racial group or by using data that does not
+distinguish lesbians from gay men (Tsunokai, Kposowa, and Adams 2009; Phua
+and Kaufman 2003). Our findings suggest that straight men and women differ
+significantly, and that more race-open preferences held by heterosexual men are
+                                                                                             Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+similar to lesbians, while gay men’s less race-open preferences are more similar to
+heterosexual women. The general pattern for inter-group interaction is that all
+four white groups are most likely to contact or respond to same-race daters;
+however, when interactions do occur with non-white daters, it happens most
+often among straight white men, second most often among white lesbians, third
+most often with gay white men, and least often with straight white women.
+Although same-sex users on this site still face a relatively smaller dating market
+than straights do in an online context, we find that gays and lesbians behave very
+differently from one another despite facing the same opportunity structure con-
+straints. Gay men’s greater avoidance of minority daters on this site would seem
+to indicate that market constraints might be the primary driving force for the
+high exogamy rate among gay cohabiters in the Census data.
+   In answer to the original question asking whether white same-sex daters are
+more racially inclusive than their different-sex white counterparts, the presumed
+progressive hypothesis, we conclude that the story is highly gendered. We tenta-
+tively surmise that the explanation for greater interracial pairing differences in
+the Census documented by Jepsen and Jepsen (2002) and Schwartz and Graf
+(2009) is constrained dating markets for white gay men, but does not appear to
+be the case for white lesbians. White lesbians exhibit more open interracial
+boundaries than gay men in a more expansive online-dating-market setting. Per-
+haps the most interesting finding to emerge in our analysis, however, is the polar-
+ization among white heterosexual daters. While we started out asking if there was
+a straight-nonstraight difference in racial preference behavior, analyses at the
+individual level revealed that the gender of the potential partner is the more
+salient distinction: minority men are less desired by white gay men and straight
+women, while minority women suffer far less of a penalty from white lesbians
+and straight men. Our findings suggest that it is more instructive to frame this
+question in terms of the race and gender identity of the potential target date than
+on the identity of the dater—and sexual orientation appears to have little to do
+with it.
+   There appears to be some process operating at the dyadic-interaction level
+among heterosexuals that results in fewer interracial unions than might otherwise
+be predicted by the more race-open behaviors among straight white men that we
+document here. Do white straight women have a race-conservatizing effect on
+straight men at the couple level? That is, if white straight women had similar
+preferences as straight men, would there be higher rates of interracial unions in
+the United States? Or is it that straight men are differently selective when it comes
+to household partners instead of more casual dating partners at this very early
+stage of potential relationship formation? Indeed, studies of heterosexual couples
+
+20 Social Forces
+  show evidence of a winnowing process, whereby interracial coupling is most
+  common at initial stages of relationships and decline as relationships become
+  more serious (Joyner and Kao 2005). We can’t speak to what the explanation
+  may be in this paper, but we provide the first unique observation that homophily
+  among straight whites may be highly dependent on dyadic–interaction level pro-
+  cesses. Our unique data enable us to get a perspective on interracial interaction
+  that raises new questions about the process of coupling.
+     Historically, (straight) women’s lesser likelihood of outmarrying compared to
+                                                                                       Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  (straight) men has been attributed to norms of patriarchal tradition where a
+  woman’s social status is dependent upon her spouse’s social status (Root 2001;
+  Spickard 1991). Accordingly, anti-miscegenation laws were gendered, more often
+  policing the sexuality of white women than white men. Some of the original state
+  formulations of such laws explicitly banned marriage between white women and
+  nonwhite men, and those most often brought to court were marriages involving
+  white women, not white men (Pascoe 1991). This vestigial dynamic may still
+  undergird gendered differences today, in men’s and women’s in willingness to
+  cross racial boundaries.
+     But because the behaviors we document are more similar among straight
+  men and lesbian women and among straight women and gay men, the explana-
+  tion may center on the gender positionality of their respective partners. Norma-
+  tive gender structures that operate conventionally for heterosexuals are
+  sometimes reversed for this reason among the gay and lesbian community
+  (Weinberg and Williams 2005; Kayzak 2010). Given the continuing gender and
+  race gaps in income, it could be that straight women and gay men are more able
+  to leverage race as a proxy for predicting a partner’s potential SES status. This
+  calculus might be less relevant for straight men and lesbians seeking female
+  partners, since women have lower earnings potential regardless of race (and the
+  race gap in wages among women is much smaller than among men). Such an
+  explanation has more salience for straight women and gay men when consider-
+  ing potential male Latino and African American outpartners, but we note that
+  it would not apply to Asian males. A recent study by Pew Hispanic (2013)
+  showed that Asian-white couples had, by far, the highest household income of
+  any other couple, same race or mixed race. Furthermore, modern changes in
+  gender norms cast some doubt that this dynamic is still operating as strongly,
+  with some studies even suggesting that women value physical appearance over
+  earning potential the same as men (Eastwick and Finkel 2008; Luo and Zhang
+  2009; McClintock 2014).
+     Thus, we speculate that more cultural explanations are at play—explanations
+  that have little to do with sexual orientation. Gendered racial formation theory
+  asserts that societal notions of masculinity and femininity vary by race and eth-
+  nicity (Collins 2004; Nemoto 2006, 2008). Minority men are often stereotyped
+  as either threatening or unappealing, while minority women are often stereo-
+  typed as sexually available and exotic. For example, the literature exposes depic-
+  tions of black men as dangerously hyper-masculine and Asian men as effeminate.
+  In contrast, Asian women are depicted as submissive and sexually appealing, and
+  minority women are generally stereotyped as hyper-sexualized and exotic. All of
+  these stereotypes, as distasteful and potentially harmful they are, may have
+
+                                                            The Economy of Race among Daters 21
+opposing effects in their impact on partner choices. In contrast to minority men,
+who are avoided by white straight women and gay men, minority women may be
+considered comparatively less threatening and more appealing than their male
+minority counterparts. Thus, sexual orientation of daters may have little to do
+with how racial hierarchies play out in the dating market; instead, whether a
+minority dater is male or female may be the determining factor of how they are
+seen by whites of all sexual orientations.
+   Future research should investigate whether race is being used as a proxy for
+                                                                                                  Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+SES by bringing in a comparison between daters who seek relationships (the
+sample analyzed in this paper) versus those who seek casual sex only. If race is
+being used by gay men and straight women daters to proxy for SES, presum-
+ably short-term liaisons will be less subject to racial boundaries. The present
+study could also be improved upon by adjudicating the role of omitted-vari-
+able bias in online interaction studies. One possibility is for a dating website
+company to code up the messaging and profile essay content, as well as the
+visual photographic data, prior to anonymizing and releasing the data to
+researchers.
+   It is notable that Census studies documenting greater interracial exogamy
+among gay and lesbian households rarely examine the specific racial composi-
+tion of these couples. But a recent report suggests that same-sex minority house-
+holds are more exogamous than same-sex white households (Kastanis and
+Wilson 2014). Perhaps it is minority gay and lesbian householding behavior
+that is driving the overall Census pattern shown in Schwartz and Graf (2009)
+and Jepsen and Jepsen (2002). There is some evidence that black, Latino, and
+Asian minority communities in the United States tend to be more socially con-
+servative as a result of conservative religious and recent immigration histories.
+As such, minority gays and lesbians often report greater challenges in reconcil-
+ing their ethnic and sexual identities, due to alienation from their ethnic com-
+munities (Greene 1997; ­Manalansan 1996; Dube and Savin-Williams 1999;
+Chan 1989; Collins 2004; Sherkat, De Vries, and Creek 2010; although see
+Moore 2010). Thus, it is possible that gay and lesbian minorities, even more so
+than their white counterparts, face a more constrained same-race dating mar-
+ket. Therefore, future studies with large enough samples should extend similar
+analysis to the behavior of non-white daters specifically to examine whether
+our findings are generalizable to all sexual minorities or primarily to gay and
+lesbian whites.
+Notes
+1.	 Due to coverage error, census editing procedures and inconsistent reporting are due
+    to regional variation in same-sex marriage policy, Census data on same-sex couples
+    are likely to be inaccurate (Cohn 2011; O’Connell and Feliz 2011).
+2.	 Constrained markets and racial preferences are not necessarily mutually exclusive
+    explanations for same-sex interracial cohabitation patterns. Greater exposure to
+    racial diversity is associated with positive changes in interracial attitudes and behav-
+    iors (Emerson et al. 2002; Sigelman and Welch 1993).
+3.	 Due to an identity restriction clause in our contract with the dating site company, we
+    are unable to name the data source.
+
+22 Social Forces
+  4.	 Our preliminary data analyses find less fluidity than expected in bisexual messaging
+       behaviors; the majority sent messages consistently to only one sex or the other. This
+       may reflect closeted identities among gays and lesbians and/or a novel way for indi-
+       viduals to present themselves on the online market. We thus exclude bisexuals from
+       the present analysis and focus on better understanding how bisexual self-identity may
+       vary across daters in another paper.
+  5.	 The advantage to the GEE approach is its ability to address dependency among obser-
+       vations and optimize the statistical power of the correlated data by estimating clus-
+       tered correlations. In contrast to mixed effects or hierarchical models, GEE makes
+                                                                                                  Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+       little demand of within-cluster variance and is more suitable to our data, where a
+       significant number of our observations are singletons and where user participation
+       follows a power-law distribution. The exclusion of singletons would create serious
+       selection bias, making a random intercept approach unsuitable for our analysis. In
+       contrast to other, more network-oriented approaches, GEE requires less computing
+       power and thus handles a much larger population. The drawback is that we must
+       assume a correlation within each sender/responder but not within the other side.
+       However, considering that each individual will have different evaluations of the
+       unmeasured factors of the same individual and there is little network transitivity in
+       the relation of interest (two alters of the same ego do not attract each other in our
+       case), the GEE procedure is the best-suited approach.
+  6.	 In order to gauge the probability of sending an e-mail to someone, we must simultane-
+       ously take into account all of the people whom someone could have messaged but did
+       not. Because the possibilities number in the hundreds of thousands, taking all of them
+       into account is computationally untenable. Thus, for our sending analysis, we ran-
+       domly sample 300 white users by sexual identity, gender, and from each metropolitan
+       area who joined the website in the same year. We construct the opportunity space as
+       such: say there are n partners of racial group i and sexual identity g and m partners
+       of racial group j and sexual identity h in a given metropolitan area. Presumably, each
+       partner can send m initial messages, and so the total number of potential combina-
+       tions of initial messages from a person of group i to a person of group j is n x m.
+       Among these dyads, we exclude any cases where the account lifetime of the potential
+       sender did not overlap with that of the potential receiver. We also exclude the cases
+       where the potential receiver is younger or older than the potential sender’s default age
+       range. We calculate the overlap between two users for each dyad as a measure of
+       exposure.
+  7.	 This is determined by the answers to the personality questions on the website, which
+       is shown to both users as an indicator of compatibility.
+  8.	 See for example http://www.sparkology.com/blog/tag/online-dating-etiquette/ and
+       http://www.match.com/cp.aspx?cpp=/cppp/magazine/article0.html&articleid=6171.
+  9.	 While Indians are conventionally categorized as Asian, we treat them here as an inde-
+       pendent ethnic group and they are not included in the Asian category in this analysis.
+  10.	 Other data have shown that more gay-identified individuals than straights identify as
+       non-white (Easton 2008; Barrios and Lundquist 2012).
+  11.	 We conducted three sensitivity tests around these respondents and determined that
+       their missing ethnic identity more reflects tendency in reporting behavior than con-
+       scious omission. First, we had a group of undergraduates systematically code through
+       photographs for respondents who left their race missing. In a sample of 150 profiles,
+       no systematic pattern emerged where people of one particular ethnicity were any
+       more or less represented. Second, we conducted factor and logistic analyses predicting
+       the correlates of missing on race and found that being missing on height, on educa-
+       tion, on smoking behavior, and on drinking behaviors correctly predicted being
+
+                                                             The Economy of Race among Daters 23
+     ­missing on race 93 percent of the time. Third, as table 1 indicates, racially undeclared
+     daters receive among the fewest e-mails, indicating that other daters dismiss them as
+     illegitimate or less engaged prospects because their profile is incomplete on other
+     important factors as well.
+12.	 Since Hispanic is often conceptualized as an ethnic rather than a racial category, those
+      who are conventionally counted as Hispanic might identify with both Hispanic and
+      white on the website. Our analysis shows that such inclusion would add two addi-
+      tional percentage points for the Hispanic population.
+13.	 Our ongoing analysis of biracial groups shows that users who identify as white-Asian,
+                                                                                                   Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+      white-Hispanic, and white–Native American behave similarly to those who identify
+      only as white and do not show particular preference to users of their minority iden-
+      tity. However, those who identify as white-black show preference to both users who
+      identify as white only and those who identify as black only.
+14.	 Though Hispanic is officially defined as an ethnic rather than a racial category, we
+      believe it is analytically meaningful to juxtapose it with Asian, black, and white as a
+      distinct racial group. This is not only because Hispanics, along with Asians, are often
+      considered as occupying the racial middle (Bonilla-Silva 2004), but also because
+     scholars argue that the Hispanic population has been increasingly racialized in the
+     past decades (Massey 2007).
+15.	 US Census Bureau, Current Population Survey, 2010 Annual Social and Economic
+      Supplement: Table 3. Detailed Years of School Completed by People 25 Years and
+      over by Sex, Age Groups, Race, and Hispanic Origin: 2010 (http://www.census.gov/
+      hhes/socdemo/education/data/cps/2010/tables.html).
+16.	 http://www.cdc.gov/nchs/fastats/bodymeas.htm.
+17.	 In analyses not shown here, we ran the same analysis for the entire sample of all
+      race daters to gauge whether in-group/out-group messaging was similar when not
+      limited to white daters as the in-group. This also more closely approximates exist-
+      ing same-sex Census studies, which generically assess in-group/out-group pairings
+      without regard to specific racial groups. Not surprisingly, since our data are also
+      disproportionately weighted toward whites, the results were little different from
+      those shown in figure 2 (and appendix 1A). The pattern was unchanged, with
+     straight men of all races most likely to interact with out-group daters, followed by
+     lesbians, and with gay men and straight women least inclined to send and respond
+     to out-group daters.
+18.	 Note the slightly differing range shown on the x-axis between the sending and
+     responding models. Because this paper examines intergroup differences, we chose
+     to visually focus on this point rather than on the (equally interesting) overall trends
+     in responding and sending, which is treated in another paper (Lin and Lundquist
+     2013).
+About the Authors
+ Jennifer Lundquist is a social demographer and Associate Dean at the College
+ of Social and Behavioral Sciences, University of Massachusetts–Amherst. Her
+ research examines the processes through which racial, ethnic, and gender
+ inequalities are perpetuated and sometimes undone in institutional settings,
+ such as the workplace, the dating/marriage market, and families. Her recent
+ work has appeared in the American Sociological Review, Journal of Marriage
+ and the Family, Maternal and Child Health, and American Journal of
+­Sociology.
+
+24 Social Forces
+     Ken-Hou Lin is an Assistant Professor of Sociology and Faculty Research Asso-
+  ciate of the Population Research Center at the University of Texas–Austin. His
+  interests include inequality, finance, organization, race, and quantitative methods.
+  His work has appeared in the American Journal of Sociology, American Sociologi-
+  cal Review, North Carolina Banking Institute Journal, and Social Science Research.
+  References
+                                                                                                                  Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  Allison, P. D. 1999. “Comparing Logit and Probit Coefficients across Groups.” Sociological Methods &
+      Research 28(2):186–208.
+  Armstrong, E. 2003. Forging Gay Identities: Organizing Sexuality in San Francisco, 1950–1994. Chicago:
+      University of Chicago Press.
+  Barrios, R., and J. H. Lundquist. 2012. “Boys Just Want to Have Fun? Sexual Behaviors and Romantic Inten-
+      tions of Gay and Straight Males in College.” Journal of LGBT Youth 29:271–96.
+  Beeker, C., J. M. Kraft, J. L. Peterson, and J. P. Stokes. 1998. “Influences on Sexual Risk Behavior in Young
+      African American Men Who Have Sex with Men.” Journal of the Gay and Lesbian Medical Association
+      2:59–67.
+  Bellou, Andriana. 2013. “Diffusion on Marriage Rates: Evidence from the Broadband Market.” IZA Discus-
+      sion Paper No. 7316. http://ftp.iza.org/dp7316.pdf.
+  Bonilla-Silva, E. 2004. “From Bi-Racial to Tri-Racial: Towards a New System of Racial Stratification in the
+      USA.” Ethnic and Racial Studies 27(6):931–50.
+  Boykin, K. 1996. One More River to Cross. New York: Anchor.
+  Chan, C. 1989. “Issues of Identity Development among Asian American Lesbians and Gay Men.” Journal of
+      Counseling and Development 68:16–20.
+  Chasin, A. 2000. “Selling Out: The Gay and Lesbian Movement Goes to Market.” New York: St. Martin’s Press.
+  Cohn, D. 2011. “How Accurate Are Counts of Same-Sex Couples?” http://www.pewsocialtrends.
+      org/2011/08/25/how-accurate-are-counts-of-same-sex-couples.
+  Collins, P. 2004. Black Sexual Politics: African Americans, Gender, and the New Racism. New York:
+      ­Routledge.
+  Connell, R. 1992. “A Very Straight Gay: Masculinity, Homosexual Experience and the Dynamics of Gender.”
+      American Sociological Review 57(6):735–51.
+  Cook, T. 2014. “Tim Cook Speaks Up.” Businessweek, October 30. http://www.businessweek.com/­
+       articles/2014-10-30/tim-cook-im-proud-to-be-gay.
+  Cross, S., and L. Madson. 1997. “Models of the Self: Self-Construals and Gender.” Psychological Bulletin
+       122:5–37.
+  Deaux, K., and R. Hanna. 1984. “Courtship in the Personals Column: The Influence of Gender and Sexual
+       Orientation.” Sex Roles 11:363–75.
+  Dube, E. M., and R. C. Savin-Williams. 1999. “Sexual Identity Development among Ethnic Sexual-Minority
+       Male Youths.” Developmental Psychology 35(6):1389–1398.
+  Easton, A., K. Jackson, P. Mowery, D. Comeau, and R. Sell. 2008. “Adolescent same-sex and both-sex
+       romantic attractions and relationships: Implications for smoking” American Journal of Public Health
+       98(3):462–67.
+  Eastwick, P. W., and E. J. Finkel. 2008. “Sex Differences in Mate Preferences Revisited: Do People Know
+       What They Initially Desire in a Romantic Partner?” Journal of Personality and Social Psychology
+       94:245–64.
+  Ellingson, S., E. O. Laumann, A. Paik, and J. Mahay. 2004. The theory of sex markets. The sexual organiza-
+       tion of the city, 3–39.
+  Emerson, Michael O., Rachel Tolbert Kimbro, and George Yancey. 2002. “Contact Theory Extended: The
+       Effects of Prior Racial Contact on Current Social Ties.” Social Science Quarterly 83(3):745–61.
+
+                                                                       The Economy of Race among Daters 25
+Feliciano, C., R. Lee, and B. Robnett. 2011. “Racial Boundaries among Latinos: Evidence from Internet
+    ­Daters’ Racial Preferences.” Social Problems 58:189–212.
+Fisman, R., S. Iyengar, E. Kamenica, and I. Simonson. 2006. “Gender Differences in Mate Selection: ­Evidence
+     from a Speed Dating Experiment.” Quarterly Journal of Economics 121:673–97.
+Froyum, C. M. 2007. “‘At Least I’m Not Gay’: Heterosexual Identity Making among Poor Black Teens.”
+     ­Sexualities 10(5):603–22.
+Gates, G. 2012. “Same-Sex Couples in Census 2010: Race and Ethnicity.” Williams Institute, UCLA School
+      of Law, April.
+Goode, E. 1996. “Gender and Courtship Entitlement: Responses to Personal Ads.” Sex Roles 34:141–69.
+                                                                                                                Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+Green, A. 2008. “Erotic Habitus: Towards a Sociology of Desire.” Theoretical Sociology 37:597–626.
+Greene, B., ed. 1997. Ethnic Minority Lesbians and Gay Men: Mental Health and Treatment Issues. ­Thousand
+      Oaks, CA: Sage.
+Hanley, J. A., A. Negassa, M. Edwardes, and J. E. Forrester. 2003. “Statistical Analysis of Correlated Data
+      Using Generalized Estimating Equations: An Orientation.” American Journal of Epidemiology
+    157(4):364–75.
+Hitsch, G., A. Hortaçsu, and D. Ariely. 2010. “What Makes You Click? Mate Preferences in Online Dating.”
+    Quantitative Marketing and Economics 8(4):393–427.
+Jepsen, L. K., and C. A. Jepsen. 2002. “An Empirical Analysis of the Matching Patterns of Same-Sex and
+    Opposite-Sex Couples.” Demography 39(3):435–53.
+Johnson, M. K., and M. M. Marini. 1998. “Bridging the Racial Divide in the United States: The Effect of
+    Gender.” Social Psychology Quarterly 61(3):247–58.
+Joyner, K., and G. Kao. 2005. “Interracial Relationships and the Transition to Adulthood.” American Socio-
+    logical Review 70:563–81.
+Kastanis, A., and B. Wilson. 2014. Race/Ethnicity, Gender and Socioeconomic Wellbeing of Individuals in
+    Same-Sex Couples. Los Angeles, California: Williams Institute.
+Kazyak, E. 2010. The Space and Place of Sexuality: How Rural Lesbians and Gays Narrate Identity. Dissertation
+    The University of Michigan.
+Kennedy, E. L., and M. D. Davis. 1993. Boots of Leather, Slippers of Gold: The History of a Lesbian Commu-
+    nity. New York: Routledge.
+Kurdek, L. A. 1993. “The Allocation of Household Labor in Homosexual and Heterosexual Cohabiting
+      ­Couples.” Journal of Social Issues 49:127–39.
+______. 2003. “Differences between Gay and Lesbian Cohabiting Couples.” Journal of Social and Personal
+    Relationships 20:411–36.
+______. 2004. “Are Gay and Lesbian Cohabiting Couples Really Different from Heterosexual Married
+    Couples?” Journal of Marriage and Family 66:880–900.
+Lewis, K. 2013. “The Limits of Racial Prejudice.” Proceedings of the National Academy of Sciences
+    110(47):18814–18819.
+Li, Norman P., J. Michael Bailey, Douglas T. Kenrick, and Joan A. W. Linsenmeier. 2002. “The Necessities
+    and Luxuries of Mate Preferences: Testing the Tradeoffs.” Journal of Personality and Social Psychology
+    82(6):947–55.
+Li, Norman P., and Douglas T. Kenrick. 2006. “Sex Similarities and Differences in Preferences for
+    Short-Term Mates: What, Whether, and Why.” Journal of Personality and Social Psychology
+    90(3):468–89.
+Lin, K., and J. H. Lundquist. 2013. “Mate Selection in Cyberspace: The Intersection of Race, Gender, and
+    Education” American Journal of Sociology 119(1):183–215.
+Logan, T. 2010. “Personal Characteristics, Sexual Behaviors, and Male Sex Work: A Quantitative Approach.”
+    American Sociological Review 75(5):679–704.
+Luo, Shanhong, and Guangjian Zhang. 2009. “What Leads to Romantic Attraction: Similarity, Reciprocity,
+    Security, or Beauty? Evidence from a Speed-Dating Study.” Journal of Personality 77(4):933–63.
+
+26 Social Forces
+  Madden, M., and A. Lenhart. 2006. “Online Dating.” Pew Internet and American Life Project. http://www.
+     pewinternet.org/Reports/2006/Online-Dating.aspx.
+  Manalansan, M. F. 1996. “Double Minorities: Latino, Black, and Asian Men Who Have Sex with Men.”
+     In The Lives of Lesbians, Gays, and Bisexuals: Children to Adults, edited by Savin-Williams, R. C., and
+     K. M. Cohen, 393–415. Fort Worth, TX: Harcourt Brace.
+  Massey, D. S. 2007. Categorically Unequal: The American Stratification System. New York: Russell Sage
+     Foundation.
+  McClintock, Elizabeth Aura. 2014. “Beauty and Status: The Illusion of Exchange in Partner Selection.”
+     American Sociological Review 79(4):575–604.
+                                                                                                                 Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+  Meier, A., K. E. Hull, and T. A. Ortyl. 2009. “Young Adult Relationship Values at the Intersection of Gender
+     and Sexuality.” Journal of Marriage and Family 71(3):510–25.
+  Mood, C. 2010. “Logistic Regression: Why We Cannot Do What We Think We Can Do, and What We Can
+     Do about It.” European Sociological Review 26(1):67–82.
+  O’Connell, Martin, and Sarah Feliz. 2011. “Same-Sex Couple Household Statistics from the 2010 Census.”
+     SEHSD Working Paper No. 2011-26.
+  Pew Research Center. 2013. “A Survey of LGBT Americans: Attitudes, Experiences and Values in Changing
+     Times.” PewSocialTrends.org.
+  Phua, V. C., and G. Kaufman. 2003. “The Crossroads of Race and Sexuality.” Journal of Family Issues
+     24(8):981.
+  Reid-Pharr, R. 2001. Black Gay Man. New York: New York University Press.
+  Robnett, B., and C. Feliciano. 2011. “Patterns of Racial-Ethnic Exclusion by Internet Daters.” Social Forces
+     89(3):807–28.
+  Root, Maria. 2001. Love‘s Revolution: Interracial Marriage. Philadelphia: Temple University Press.
+  Rosenfeld, M., and B. S. Kim. 2005. “The Independence of Young Adults and the Rise of Interracial and
+     Same-Sex Unions.” American Sociological Review 70(4):541–62.
+  Rosenfeld, M. J., and R. J. Thomas. 2012. “Searching for a Mate: The Rise of the Internet as a Social Inter-
+     mediary.” American Sociological Review 77(4):523–47.
+  Sautter, J. M., R. M. Tippett, and S. P. Morgan. 2010. “The Social Demography of Internet Dating in the
+     United States.” Social Science Quarterly 91(2):554–75.
+  Schwartz, C. R., and N. L. Graf. 2009. “Assortative Matching among Same-Sex and Different Sex Couples
+     in the United States, 1990–2000.” Demographic Research 21:843–78.
+  Sherkat, D. E., K. M. De Vries, and S. Creek. 2010. “Race, Religion, and Opposition to Same-Sex Marriage.”
+     Social Science Quarterly 91:80–98.
+  Sigelman, L. and S. Welch. (1993). The contact hypothesis revisited: black-white interaction and positive
+     racial attitudes, Social Forces 71:781–95.
+  South, S. J. 1991. “Sociodemographic Differentials in Mate Selection Preferences.” Journal of Marriage
+     and the Family 53:928–40.
+  Spickard, Paul R. 1991. Mixed Blood: Intermarriage and Ethnic Identity in Twentieth-Century America.
+     Madison: University of Wisconsin Press.
+  Stacey, J. 2011. Unhitched: Love, Marriage and Family Values from West Hollywood to Western China. New
+     York: New York University Press.
+  Stokes, J. P., and J. L. Peterson. 1998. “Homophobia, Self-Esteem, and Risk for HIV among African American
+     Men Who Have Sex with Men. AIDS Education and Prevention 10:278–92.
+  Tsunokai, G. T., A. J. Kposowa, and M. A. Adams. 2009. “Racial Preferences in Internet Dating: A Compari-
+     son of Four Birth Cohorts.” Western Journal of Black Studies 33(1):1–15.
+  US Census. 2010. “America’s Families and Living Arrangements,” table FG-4. http://www.census.gov/
+     population/www/socdemo/hh-fam/cps2010.html.
+  Weinberg, Martin S., and Colin J. Williams. 2005. “Fecal Matters: Habitus, Embodiments, and Deviance.”
+     Social Problems, August.
+
+                                                                          The Economy of Race among Daters 27
+ Weisshaar, K. 2014. “Earnings Equality and Relationship Stability for Same-Sex and Heterosexual Couples.”
+     Social Forces.
+ Wilkins, A. C. 2008. “Wannabes, Goths, and Christians: The Boundaries of Sex, Style, and Status.” Chicago:
+     University of Chicago Press.
+ Wilson, P. A., P. Valera, A. Ventuneac, I. Balan, M. Rowe, and A. Carballo-Diéguez. 2009. “Race-Based
+     Sexual Stereotyping and Sexual Partnering among Men Who Use the Internet to Identify Other Men for
+     Bareback Sex.” Journal of Sex Research 46(5):399–413.
+ Zickuhr, K., and A. Smith. 2012. Pew Research Center. http://pewinternet.org/~/media//Files/Reports/2012/
+     PIP_Digital_differences_041312.pdf.
+                                                                                                                    Downloaded from http://sf.oxfordjournals.org/ at Univ. of Massachusetts/Amherst Library on March 17, 2015
+ Zuur, A. F., E. N. Ieno, N. Walker, A. A. Saveliev, and G. M. Smith. 2009. Mixed Effects Models and E­ xtensions
+     in Ecology with R, 1st ed. New York: Springer Press.
+All in-text references underlined in blue are linked to publications on ResearchGate, letting you access and r
+

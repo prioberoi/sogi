@@ -1,0 +1,514 @@
+Do Ask, Do Tell: High Levels of Acceptability by Patients
+of Routine Collection of Sexual Orientation and Gender
+Identity Data in Four Diverse American Community
+Health Centers
+Sean Cahill1*, Robbie Singal2, Chris Grasso2, Dana King2, Kenneth Mayer3, Kellan Baker4,
+Harvey Makadon5
+1 The Fenway Institute, Northeastern University Department of Political Science, Boston, MA, United States of America/New York University Wagner School, New York, NY,
+United States of America, 2 The Fenway Institute, Boston, MA, United States of America, 3 The Fenway Institute/Beth Israel Deaconess Medical Center/Harvard Medical
+School, Boston, MA, United States of America, 4 Center for American Progress, Washington, DC, United States of America, 5 The Fenway Institute/Harvard Medical School,
+Boston, MA, United States of America
+      Abstract
+      Background: The Institute of Medicine and The Joint Commission have recommended asking sexual orientation and gender
+      identity (SOGI) questions in clinical settings and including such data in Electronic Health Records (EHRs). This is increasingly
+      viewed as a critical step toward systematically documenting and addressing health disparities affecting lesbian, gay,
+      bisexual, and transgender (LGBT) people. The U.S. government is currently considering whether to include SOGI data
+      collection in the Stage 3 guidelines for the incentive program promoting meaningful use of EHR. However, some have
+      questioned whether acceptable standard measures to collect SOGI data in clinical settings exist.
+      Methods: In order to better understand how a diverse group of patients would respond if SOGI questions were asked in
+      primary care settings, 301 randomly selected patients receiving primary care at four health centers across the U.S. were
+      asked SOGI questions and then asked follow-up questions. This sample was mainly heterosexual, racially diverse, and
+      geographically and regionally broad.
+      Results: There was a strong consensus among patients surveyed about the importance of asking SOGI questions. Most of
+      the LGBT respondents thought that the questions presented on the survey allowed them to accurately document their
+      SOGI. Most respondents—heterosexual and LGBT—answered the questions, and said that they would answer such
+      questions in the future. While there were some age-related differences, respondents of all ages overwhelmingly expressed
+      support for asking SOGI questions and understood the importance of providers’ knowing their patients’ SOGI.
+      Conclusions: Given current deliberations within national health care regulatory bodies and the government’s increased
+      attention to LGBT health disparities, the finding that patients can and will answer SOGI questions has important implications
+      for public policy. This study provides evidence that integrating SOGI data collection into the meaningful use requirements is
+      both acceptable to diverse samples of patients, including heterosexuals, and feasible.
+   Citation: Cahill S, Singal R, Grasso C, King D, Mayer K, et al. (2014) Do Ask, Do Tell: High Levels of Acceptability by Patients of Routine Collection of Sexual
+   Orientation and Gender Identity Data in Four Diverse American Community Health Centers. PLoS ONE 9(9): e107104. doi:10.1371/journal.pone.0107104
+   Editor: Garrett Prestage, The University of New South Wales, Australia
+   Received March 13, 2014; Accepted August 11, 2014; Published September 8, 2014
+   Copyright: ß 2014 Cahill et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+   unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+   Data Availability: The authors confirm that all data underlying the findings are fully available without restriction. Chris Grasso, an author of the paper and the
+   Fenway Institute’s Data Manager, has posted her contact information at the following link: www.fenwayhealth.org/plosonearticle617-927-6018 or cgrasso@
+   fenwayhealth.org. She will provide the data to any researcher who requests it.
+   Funding: This research was made possible by the research infrastructure of the Community Health Applied Research Network (CHARN). CHARN is a network of
+   community health centers and universities established to conduct patient-centered outcome research among underserved populations. It was funded by the
+   Health Resources Services Administration, HIV/AIDS Bureau (grant # UB2HA20233). This specific four health center study was funded by a grant from the Center
+   for American Progress. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+   Competing Interests: The authors have declared that no competing interests exist.
+   * Email: scahill@fenwayhealth.org
+Introduction                                                                               The shift from paper to Electronic Health Records (EHR),
+                                                                                        initiated years ago and accelerated by funding from the American
+   A 2011 Institute of Medicine report highlighted LGBT health                          Recovery and Reinvestment Act of 2009 and the Patient
+disparities and encouraged routine collection of data on sexual                         Protection and Affordable Care Act of 2010, is a critical structural
+orientation and gender identity (SOGI) in health care settings to                       change in health care delivery that should help improve patient
+better understand and address LGBT health.                                              outcomes, reduce costs, and address health disparities [1]. The
+PLOS ONE | www.plosone.org                                                          1                          September 2014 | Volume 9 | Issue 9 | e107104
+
+                                                                           Assessing Sexual Orientation, Gender Identity in Four Health Centers
+2011 Institute of Medicine report on LGBT health recommended             to their widespread failure to discuss SOGI with their patients,
+SOGI data collection in EHRs as part of the meaningful use               perpetuating invisibility of LGBT patients in clinical settings.
+objectives for the EHR Incentive Program run by the Office of the        SOGI data collection is a key component of enhancing the ability
+National Coordinator for Health Information Technology (ONC)             of patients and providers to engage in meaningful dialogue in the
+and the Centers for Medicare and Medicaid Services (CMS). The            exam room and to promote the provision of high-quality care for
+report recommended that questions be standardized to allow for           LGBT people [18]. Patient-provider discussions about SOGI can
+the comparison and pooling of data to analyze the specific health        facilitate a more accurate assessment of patient self-reported health
+needs of LGBT people [2]. Healthy People 2020 calls on health            and risk behaviors [19].
+care providers to ‘‘appropriately inquir[e] about and be…suppor-            It is important to study the most effective ways to gather SOGI
+tive of a patient’s sexual orientation to enhance the patient-           information in clinical settings in order to advance SOGI data
+provider interaction and regular use of care.’’[3] Gathering LGBT        collection efforts that are useful from a staff and provider
+data in clinical settings is consistent with efforts of the U.S.         perspective as well as acceptable from a patient perspective [20].
+Department of Health and Human Services to gather health data               While SOGI questions are currently asked in a variety of
+on LGBT populations as authorized under Section 4302 of the              settings, such as demographic surveys, there is a need to
+ACA [1]. Further, The Joint Commission’s 2011 LGBT field                 specifically validate measures for use in EHRs and in clinical
+guide encourages the collection of patient SOGI data [4].                settings. The aim of this study, which surveyed diverse patient
+Gathering SOGI data in clinical settings via EHR systems could           groups at 4 community health centers (CHCs) to assess the
+help clinicians, researchers, and policymakers better understand         acceptability and feasibility of asking SOGI questions, is to
+LGBT health, including disparities in insurance coverage, access         evaluate a set of standardized SOGI questions that can be
+to care, diagnosis, and treatment. Storing SOGI information in           incorporated into EHRs at CHCs and potentially other health
+the EHR should promote seamless communication among staff                care organizations. A set of validated, standardized SOGI
+within health care organizations. Further, these data, coupled with      questions could allow for pooling of data in order to analyze the
+race/ethnicity data, should also allow for better understandings of      health needs of LGBT populations, evaluate the quality of care
+racial and ethnic disparities within LGBT populations.
+                                                                         LGBT people receive, and better understand and address LGBT
+   One of the major reasons for the desirability of routinely            health disparities.
+collecting data about patient sexual orientation and gender
+                                                                            The current study was initiated as part of the Community
+identity is that there is a growing body of research that has
+                                                                         Health Applied Research Network (CHARN), a group of
+documented health disparities affecting LGBT people [2]. These
+                                                                         community health centers funded by the Health Resources and
+include:
+                                                                         Services Administration (HRSA) in 2010 to build capacity to
+ N  Gay and bisexual men experience high rates of mental and             conduct meaningful and rigorous multi-site Patient Centered
+                                                                         Outcomes Research (PCOR) that should result in better patient
+    behavioral health issues, including depression and suicidal
+    ideation [5].                                                        care at federally-supported community health clinics with under-
+                                                                         served patient populations. CHARN is comprised of seventeen
+ N  Lesbians and bisexual women experience cervical cancer at the
+                                                                         community health centers in nine states that served 519,636
+    same rate as heterosexual women, but are four to ten times less
+    likely to get routine Pap tests to screen for cervical cancer [6],   individual patients in 2010.
+    [7].                                                                    Participating sites in this study included Beaufort Jasper
+                                                                         Hampton Comprehensive Health Services (Beaufort) in rural
+ N  Bisexual men and women may experience poorer health than             South Carolina; Chase Brexton Health Center (Chase Brexton) in
+    homosexual and heterosexual respondents [8], as well as
+                                                                         Baltimore and Columbia, Maryland; Howard Brown Health
+    higher rates of mental health issues and smoking [9].
+                                                                         Center in Chicago; and Fenway Health in Boston. Beaufort serves
+ N  Transgender people, particularly transgender women of color,         a predominantly heterosexual population. Fenway Health, Chase
+    are disproportionately likely to be victims of hate violence [10].   Brexton, and Howard Brown serve populations that include
+    Transgender women and men are less likely to have access to          heterosexual and non-transgender patients, but have also devel-
+    preventive screenings that can detect diseases such as cancer        oped expertise in the care of LGBT patients. All four health
+    early [11], and are more likely to attempt suicide [12].             centers serve racially and ethnically diverse populations. The
+                                                                         Fenway CHARN investigators developed the study proposal with
+   LGBT people experience health disparities for many reasons.
+                                                                         input from the three CHARN clinical affiliate sites and the Center
+Minority stress related to social prejudice and attempts to conceal
+ones’ sexual orientation or gender identity, as well as internalized     for American Progress, a non-profit think tank based in
+homophobia, can correlate with mental health burden and                  Washington, DC, focused on the implementation of progressive
+substance use [13]. Gay and bisexual men and transgender                 change, which also contributed financial support for the study.
+women are at greater risk for HIV and other STIs because anal
+sex without a condom is a more efficient mode of transmitting            Methods
+STIs than vaginal sex [14]. Transgender women and men may be                The specific aim of the study was to survey CHC patients to
+at elevated risk for cardiovascular disease related to exogenous         assess the acceptability, feasibility, and patient preferences on
+hormone use [15].
+                                                                         asking SOGI questions to complete their EHR registration. The
+   Another factor in LGBT health disparities is discriminatory           study addressed the following questions:
+treatment in health care settings. Surveys of both patients [16] and
+providers [17] indicate that LGBT people experience prejudicial           1. What are the acceptable ways to ask patients about sexual
+treatment in clinical settings and that some providers exhibit anti-         orientation and gender identity and document their responses
+LGBT bias. As a result, many LGBT people report culturally                   in EHR?
+incompetent care, or avoid visiting health care facilities for fear of
+                                                                          2. How do patient survey responses differ based on sexual
+receiving substandard care [16]. The dearth of LGBT-inclusive
+                                                                             orientation, gender identity, and other demographic variables?
+cultural competency and clinical training for providers contributes
+PLOS ONE | www.plosone.org                                             2                     September 2014 | Volume 9 | Issue 9 | e107104
+
+                                                                        Assessing Sexual Orientation, Gender Identity in Four Health Centers
+Participants                                                             Respondents were also asked a number of clarifying questions
+   The findings from this study are based on survey responses from    about these sexual orientation and gender identity questions in
+301 patients at four CHARN-affiliated CHCs. By targeting CHCs         order to gauge comprehension, acceptability, and whether they
+with diverse patient populations, the goal was to enroll patients     thought the question allowed them to accurately document their
+who are transgender (regardless of sexual orientation), LGB, and      sexual orientation, gender identity, and, ultimately, their health
+heterosexual to gather information on appropriate ways to ask         needs in an electronic health record system. In addition, they were
+SOGI questions. The inclusion criteria included patients at each      also asked whether they think it is important for their health
+participating CHC who were 18 year of age or older and able to        provider to know about their sexual orientation and gender
+read and comprehend English.                                          identity, and whether they would be willing to answer these
+                                                                      questions on a registration form.
+Human subjects protection                                                Prior to survey administration, study staff piloted the survey
+                                                                      with eight staff from The Fenway Institute and a staff member at
+   The Fenway Institute functioned as the lead site for this study.
+                                                                      the Center for American Progress, who provided comments,
+Beaufort and Chase Brexton, both Fenway-affiliated CHARN
+                                                                      suggestions, and noted the time it took to complete the survey. The
+sites, used the Fenway Institutional Review Board (IRB) for
+                                                                      study team discussed these suggestions and incorporated them into
+CHARN-related study projects. The Howard Brown Health
+                                                                      the survey.
+Center IRB approved the study for that site.
+                                                                      Participant Recruitment and Survey Administration
+Instrument
+                                                                         Each site developed its own recruitment and implementation
+   This one-time, 5-minute survey asked respondents to answer a
+                                                                      plan to enroll participants there within a two-week period. Three
+question about sexual orientation developed at the Fenway
+                                                                      of the four sites had a dedicated staff person to administer the
+Institute, and to answer a two-step gender identity and birth sex
+                                                                      survey. Study staff approached potential participants in the clinic
+question that has been endorsed by leading transgender research-
+                                                                      waiting room or at the registration desk, asked if they were
+ers in the U.S. [21] and globally. [22] The sexual orientation
+                                                                      interested in completing a short survey, and provided an
+question was already in use at Fenway but not at Beaufort and
+                                                                      information sheet outlining key elements of the study. If interested,
+Chase Brexton. At Howard Brown, patients are encouraged to
+                                                                      the participant completed the survey and received a $10 gift card.
+report their sexual orientation and their gender identity for         If participants were called into the medical visit before completing
+inclusion in their EHR. All of the questions tested in the current    the survey, they completed the remainder of the survey after the
+study had not been tested among a diverse population at CHCs.         visit.
+   After extensive pilot testing, Fenway Health added the following
+question about sexual orientation to its patient registration form
+                                                                      Results
+and EHR in 2011. [23] In the current study, we included this
+sexual orientation question in the survey administered at the four       In 2013, 301 participants were surveyed about their experience
+participating CHCs.                                                   with answering SOGI questions in clinical settings at four
+   Do you think of yourself as:                                       community health centers, including Fenway Health, Howard
+                                                                      Brown, Chase Brexton, and Beaufort. A total of nine potential
+%   Lesbian, gay or homosexual                                        participants refused to complete the survey at the four sites, citing
+%   Straight or heterosexual                                          lack of interest or time limitations. Fifty-one percent of respon-
+%   Bisexual                                                          dents identified as ‘‘straight or heterosexual.’’ Most respondents
+%   Something else, please describe________________________           from the Beaufort Health Center network in rural South Carolina
+                                                                      (78%) said they were straight or heterosexual, as did 45% of
+%   Don’t know                                                        respondents at Chase Brexton in Baltimore, 34% of respondents at
+   In the current study, we also asked:                               Fenway Health in Boston, and 36% of respondents at Howard
+                                                                      Brown in Chicago. Twenty-five percent of respondents from the 4
+   What is your current gender identity?
+                                                                      locations said they were gay, lesbian, or homosexual, with a range
+   (Check all that apply)
+                                                                      from 5% gay/lesbian/homosexual at Beaufort in South Carolina
+% Male                                                                to 42% at Howard Brown in Chicago. An average of 7% self-
+                                                                      identified as bisexual—ranging from 0% at Beaufort to 15% at
+% Female
+                                                                      Howard Brown (Table 1).
+% Female-to-Male (FTM)/Transgender Male/Trans Man                        Forty-seven of 301 respondents were transgender. Some 5.3%
+% Male-to-Female (MTF)/Transgender Female/Trans Woman                 percent of respondents identified as Male-to-Female (MTF)/
+% Genderqueer, neither exclusively male nor female                    Transgender Female/Trans Woman; 10.3% identified as Female-
+% Additional Gender Category/(or Other), please specify               to-Male (FTM)/Transgender Male/Trans Man. Together they
+_____________                                                         were 15.6% of our sample. The range across sites was from 1
+                                                                      transgender patient out of 100 (1%) at Beaufort to 20 of 67
+% Decline to Answer, please explain why _____________                 (29.8%) patients at Chase Brexton.
+   What sex were you assigned at birth on your original birth            The sample was racially diverse: 44% White, 41% Black, 5%
+certificate?                                                          other, 5% multiracial, 2% Native American/Alaskan Native, and
+   (Check one)                                                        2% Asian or Pacific Islander. Eight percent were Hispanic/
+                                                                      Latino/Latina (Table 1). Thirty percent were age 18–29, 37% age
+% Male                                                                30–49, 26% age 50–64, and 7% age 65 or older.
+% Female                                                                 Nearly 3 in 4 respondents from the 4 CHCs said that asking
+                                                                      about sexual orientation on registration forms is important (74%
+% Decline to Answer, please explain why _____________                 agreed that this was important versus 25% who disagreed)
+PLOS ONE | www.plosone.org                                          3                     September 2014 | Volume 9 | Issue 9 | e107104
+
+                                                                                          Assessing Sexual Orientation, Gender Identity in Four Health Centers
+  Table 1. Demographic characteristics of participants surveyed and their association with the likelihood of answering that it is
+  important to ask patients about sexual orientation and gender identity when they register at the health center.
+                                                                                                   Q7. Sexual Orientation              Q8. Gender Identity
+                                                               N = 301 (% of total sample)         x2               p-value            x2             p-value
+  Race                                                                                             4.216            0.040*             4.949          0.084
+  Black/African American                                       123 (41%)
+  Asian**                                                      3 (1%)
+  Caucasian                                                    132 (44%)
+  Multiracial                                                  15 (5%)
+  Native American/Alaskan Native/Inuit**                       6 (2%)
+  Pacific Islander**                                           2 (1%)
+  Other**                                                      16 (5%)
+  Missing answer                                               4 (1%)
+  Ethnicity                                                                                        1.901            0.168              0.257          0.612
+  Hispanic/Latino/Latina                                       24 (8%)
+  Not Hispanic/Latino/Latina                                   234 (78%)
+  Missing answer                                               43 (14%)
+  Sexual Orientation                                                                               7.337            0.007*             2.775          0.096
+  Lesbian, gay or homosexual                                   76 (25%)
+  Straight or heterosexual                                     154 (51%)
+  Bisexual**                                                   22 (7%)
+  Something else**                                             29 (10%)
+  Don’t know**                                                 16 (5%)
+  Missing answer                                               4 (1%)
+  Age Group                                                                                        3.588            0.310              9.967          0.019*
+  18–29 years old                                              89 (29.6%)
+  30–49 years old                                              112 (37.2%)
+  50–64 years old                                              79 (26.2%)
+  65 or older                                                  21 (7.0%)
+  Health Center                                                                                    0.380            0.944              1.490          0.685
+  Beaufort                                                     100 (33%)
+  Chase Brexton                                                67 (22%)
+  Fenway                                                       101 (34%)
+  Howard Brown                                                 33 (11%)
+  * Statistically significant at the level of p,0.05
+  **Category was not included in the chi-square analysis due to small sample size
+  Q7. As part of a written registration form, do you think it is important to ask patients about sexual orientation when they register at the health center?
+  Q8. As part of a written registration form, do you think it is important to ask patients about gender identity when they register at the health center?
+  Note: Data may not add up to 100% due to rounding.
+  doi:10.1371/journal.pone.0107104.t001
+(Table 2). An even greater majority agreed that asking about                            LGB respondents was significantly greater (t = 2.806, p = 0.005).
+gender identity is important (82% versus 17%).                                          However, the means of both groups were in the agreement range
+   Most respondents agreed that they ‘‘understood what the                              (mean response: 4.73 (SD = 0.736) vs. 4.38 (SD = 1.22).
+question was asking about me.’’                                                             Most respondents agreed that ‘‘This question allows me to
+   The average response of LGB respondents was significantly                            accurately document my sexual orientation.’’ The average
+greater (t = 3.326, p = 0.001). However, the means of both groups                       response of LGB respondents was significantly greater (t = 2.156,
+were in the agreement range (mean response: 4.80 (SD = 0.690) vs.                       p = 0.032). However, the means of both groups were in the
+4.40 (SD = 1.22).                                                                       agreement range (mean response: 4.55 (SD = 0.92) vs. 4.24
+   Most respondents agreed that ‘‘The question was easy for me to                       (SD = 1.37).
+answer.’’ The difference between LGB respondents and hetero-                                Seventy-eight percent of all respondents somewhat agreed or
+sexual respondents (mean response: 4.73 (SD = 0.778) vs. 4.49                           strongly agreed that sexual orientation ‘‘information is important
+(SD = 1.16)) was not statistically significant (t = 1.885, p = 0.061).                  for my medical provider to know about me.’’ Survey respondents
+   Most respondents agreed that ‘‘I would answer this question on                       were invited to write comments about the sexual orientation and
+a registration form at this health center.’’ The average response of                    gender identity questions. One respondent wrote, ‘‘I think my
+PLOS ONE | www.plosone.org                                                          4                          September 2014 | Volume 9 | Issue 9 | e107104
+
+                                                Table 2. Responses to survey questions 10, 15, 16, and 17.
+                                                                                                      1 - Strongly Disagree       2 - Somewhat Disagree            3 – Neutral            4 - Somewhat Agree    5 – Strongly Agree   Missing answer   Mean (SD)
+                                                N = 301                                               n (%)                       n (%)                            n (%)                  n (%)                 n (%)                n (%)            n (%)
+                                                10. In answering the question about sexual orientation, please tell us whether you agree or disagree:
+                                                10a. I understood what the question                   21 (7.0%)                   5 (1.7%)                         18 (6.0%)              27 (9.0%)             225 (74.8%)          5 (1.7%)         4.45 (1.15)
+                                                was asking about me
+PLOS ONE | www.plosone.org
+                                                10b. I understood all of the answer choices           19 (6.3%)                   3 (1.0%)                         9 (3.0%)               32 (10.6%)            228 (75.7%)          10 (3.3%)        4.54 (1.08)
+                                                10c. The question was easy for me to answer           20 (6.6%)                   5 (1.7%)                         11 (3.7%)              32 (10.6%)            225 (74.8%)          8 (2.7%)         4.49 (1.12)
+                                                10d. I would answer this question on                  22 (7.3%)                   3 (1.0%)                         16 (5.3%)              33 (11.0%)            217 (72.1%)          10 (3.3%)        4.44 (1.15)
+                                                a registration form at this health center.
+                                                10e. This question allows me to accurately            26 (8.6%)                   8 (2.7%)                         23 (7.6%)              39 (13.0%)            195 (64.8%)          10 (3.3%)        4.27 (1.26)
+                                                document my sexual orientation
+                                                10f. I think this information is important for        24 (8.0%)                   10 (3.3%)                        25 (8.3%)              37 (12.3%)            197 (65.4%)          8 (2.7%)         4.27 (1.25)
+                                                my medical provider to know about me
+                                                15. In answering Question 13 (‘‘What is your current gender identity?’’), please let us know whether you agree or disagree:
+                                                15a. I understood what the question was               20 (6.6%)                   3 (1.0%)                         7 (2.3%)               20 (6.6%)             246 (81.7%)          5 (1.7%)         4.58 (1.08)
+                                                asking about me
+                                                15b. I understood all of the answer choices           20 (6.6%)                   9 (3.0%)                         8 (2.7%)               25 (8.3%)             234 (77.7%)          5 (1.7%)         4.50 (1.14)
+                                                15c. The question was easy for me to answer           20 (6.6%)                   1 (0.3%)                         9 (3.0%)               21 (7.0%)             244 (81.1%)          6 (2.0%)         4.59 (1.07)
+5
+                                                15d. I would answer this question on                  21 (7.0%0                   3 (1.0%)                         14 (4.7%)              17 (5.6%)             242 (80.4%)          4 (1.3%)         4.54 (1.12)
+                                                a registration form at this health center.
+                                                16. In answering Question 14 (‘‘what sex were you assigned at birth on your original birth certificate?’’), please let us know whether you agree or disagree:
+                                                16a. I understood what the question                   17 (5.6%)                   1 (0.3%)                         8 (2.7%)               11 (3.7%)             256 (85.0%)          8 (2.7%)         4.67 (1.00)
+                                                was asking about me
+                                                16b. The question was easy for me to answer           19 (6.3%)                   1 (0.3%)                         12 (4.0%)              11 (3.7%)             247 (82.1)           11 (3.7%)        4.61 (1.06)
+                                                16c. I would answer this question on                  20 (6.6%)                   4 (1.3%)                         14 (4.7%)              15 (5.0%)             238 (79.1%)          10 (3.3%)        4.54 (1.12)
+                                                a registration form at this health center.
+                                                17. In answering the gender identity questions (which includes questions 13 and 14), please let us know whether you agree or disagree:
+                                                17a. This set of questions allows me                  20 (6.6%)                   5 (1.7%)                         17 (5.6%)              18 (6.0%)             231 (76.7%)          10 (3.3%)        4.49 (1.14)
+                                                to accurately document my gender identity
+                                                17b. I think this information is important            20 (6.6%)                   7 (2.3%)                         14 (4.7%)              22 (7.3%)             227 (75.4%)          11 (3.7%)        4.48 (1.15)
+                                                for my provider to know about me
+                                                Note: Data may not add up to 100% due to rounding.
+                                                doi:10.1371/journal.pone.0107104.t002
+September 2014 | Volume 9 | Issue 9 | e107104
+                                                                                                                                                                                                                                                                    Assessing Sexual Orientation, Gender Identity in Four Health Centers
+
+                                                                          Assessing Sexual Orientation, Gender Identity in Four Health Centers
+relationship with my doctor should reflect my sexual orientation           Over 65 responses to these questions were in the 3, or neutral,
+because it provides better care.’’ Only 11% of those surveyed           range on the Likert scale. However, on 11 other questions about
+disagreed somewhat or strongly that sexual orientation informa-         the SOGI question, including whether they would answer the
+tion was important for their provider to know about them, while         questions on a registration form, there were no significant age
+8% were neutral (Table 2).                                              differences between elders and middle age and younger respon-
+   When asked if they would make changes to the sexual                  dents.
+orientation question, 15% said they would ask the question
+differently, while 83% said that they would not make changes to         Discussion
+the sexual orientation question tested.
+   Most respondents were able to answer the two-part gender                This evaluation of questions about sexual orientation and
+identity question. Only 1% (n = 3) declined to answer the current       gender identity among a diverse group of patients at four CHCs
+gender identity question. Only 0.3% chose ‘‘genderqueer’’ (n = 1)       shows widespread understanding of these questions and willingness
+and only 0.3% chose ‘‘other’’ (n = 1); the other 98% chose from         to answer them, both among LGBT respondents and among
+among the gender identity options. Only two percent declined to         heterosexual and non-transgender respondents. Most LGB
+answer the question, ‘‘What sex were you assigned on your               respondents said that the sexual orientation question accurately
+original birth certificate?’’                                           reflected their identities and that they would not change the
+   Seventy-eight percent of all respondents strongly agreed that        wording of the questions. They also understood why it is important
+they understood all the choices in the gender identity question,        for providers to know about their sexual orientation. This indicates
+while only 7% strongly disagreed. Heterosexual respondents were         broad support among LGB patients, as well as among heterosex-
+more likely than LGB respondents to say they did not understand         ual patients, for sexual orientation data collection in clinical
+all the choices of responses in the gender identity question. Eighty-   settings. These findings also correlate with findings from a recent
+four percent of all respondents strongly or somewhat agreed that        nationwide study of more than 860 LGBT individuals with
+they would answer the birth sex question, and 86% strongly or           incomes under 400% of the poverty level, in which 76% of
+somewhat agreed that they would answer the current gender               respondents said it is important to be open with their providers
+identity question. Most transgender respondents agreed that the         about their SOGI and 74% indicated that they are ‘‘out’’ to their
+gender identity question allowed them to accurately document            provider about their SOGI. [24]
+their gender identity. Nine in ten of all respondents (90%) said they      The two-step gender identity question (current gender identity
+would not change the gender identity questions, while 7% would.         and birth sex) was also widely understood by all patients surveyed.
+Eighty-eight percent of male and female non-transgender respon-         It is worth noting that majorities believed that it was important for
+dents somewhat or strongly agreed that they would answer the            providers to know about their patients’ gender identity, and would
+gender identity question on a registration form at their health         be willing to answer the question in their care setting. Further
+center.                                                                 research, including focus groups, would be helpful regarding
+   Several transgender respondents raised concerns about being          concerns among some transgender respondents with regard to
+asked their sex assigned at birth. One wrote, ‘‘Though I                answering the sex assigned at birth question. It is important to note
+understand the importance of knowing birth sex when dealing             that most transgender respondents indicated that they would
+with trans medical issues, it’s still a very sensitive question that    answer both parts of the gender identity question—current gender
+most [transgender people] would probably not want to answer.’’          identity and sex assigned at birth.
+Overwhelming majorities of all groups—transgender and non-                 A two-step gender identity question is becoming more widely
+transgender men and women—strongly agreed that ‘‘this infor-            adopted in health data systems. In addition to its endorsement by
+mation is important for my provider to know about me.’’                 leading transgender researchers in the U.S. (Center of Excellence
+   Some respondents said that they wanted their providers to ask        for Transgender Health, GENIUSS) [21] and globally (WPATH),
+them about their sexual orientation and gender identity; while they     [22] the Centers for Disease Control and Prevention (CDC)
+agreed that it should be in their medical record, they questioned       adopted the two-step gender identity and birth sex question for use
+whether it should be asked at registration. A few expressed             in their Adult Case Report Form and in their electronic
+concerns about privacy of data, and a few commented on the              surveillance system, the Enhanced HIV/AIDS Reporting System.
+importance of training staff on why SOGI data are being gathered        [25] In a recent analysis, the two-step question was found to have
+and why knowing a patient’s sexual orientation and gender               near-zero missing data and to result in a transgender-spectrum
+identity is important for providing culturally competent and            response rate twice that elicited by a single question that asked
+affirming care and understanding LGBT health disparities.               respondents to select from four response options for their sex
+   There were no significant differences among the average              (male, female, transgender, other). [26]
+responses to SOGI questions of the 7 racial groups when using              Membership in several demographic groups was not associated
+an ANOVA test.                                                          with being more likely to think that it is important to ask about
+   There were also statistically significant differences between        sexual orientation on registration forms (Table 1). Respondents
+those 65 and older and those younger than 65. Older participants        were equally likely answer ‘‘yes,’’ regardless of ethnicity
+tended to provide lower rankings for the following questions:           (x2 = 1.901, P = 0.168), age group (x2 = 3.588, P = 0.310), gender
+   I understood what the [sexual orientation] question was asking       identity (x2 = 2.132, P = 0.344), and health center location
+about me. (t = 7.959, p = 0.010)                                        (x2 = 0.380, P = 0.944). Respondents who identified as lesbian,
+   I understood all of the [sexual orientation] answer choices.         gay, or homosexual were more likely than the straight or
+(t = 6.929, p = 0.015)                                                  heterosexual group to think it was important (x2 = 7.337,
+   I understood what the [gender identity] question was asking          P = 0.007). Our sample wasn’t large enough to analyze many of
+about me. (t = 4.695, p = 0.041)                                        the race categories but we found that Black/African Americans
+                                                                        were more likely to answer ‘‘yes’’ to this question than Caucasians
+   I understood all of the answer choices [gender identity
+                                                                        (x2 = 4.216, P = 0.040).
+question]. (t = 4.836, p = 0.039)
+PLOS ONE | www.plosone.org                                            6                     September 2014 | Volume 9 | Issue 9 | e107104
+
+                                                                              Assessing Sexual Orientation, Gender Identity in Four Health Centers
+   There were no significant group differences for race (x2 = 4.949,        patients had the opportunity to complete a survey. Third, each site
+P = 0.084), ethnicity (x2 = 0.257, P = 0.612), sexual orientation           only surveyed patients who arrived for appointments. Any patient
+(x2 = 2.775, P = 0.096), or health center location (x2 = 1.490,             who did not keep his or her appointment on a particular survey
+P = 0.685) in their likelihood to think that it is important to ask         day did not have an opportunity to complete the survey. Fourth,
+about gender identity on registration forms. The exception was              since the surveys were administered in busy clinics, we did not
+that the two older groups answered ‘‘yes’’ less often than expected         want to interfere with clinic workflow, so the survey length was
+the two younger groups answered ‘‘yes’’ more often (x2 = 9.967,             limited.
+P = 0.019).                                                                    The primary strength of this study was the regional, racial, and
+   Respondents overwhelmingly expressed support for asking                  age diversity of the patients who responded to the survey. Since we
+SOGI questions and understood the importance of providers’                  are concerned with asking SOGI questions in a clinical
+knowing their patients’ SOGI. While there were some significant             environment, we conducted the study with patients in both urban
+differences between elders and other respondents, there were no             and rural areas in four different community health centers in
+statistically significant age differences in terms of willingness to        different regions of the U.S. Therefore, we were able to reach
+answer SOGI questions on a registration form and understanding              patients with different backgrounds, including racially diverse
+the importance of providers’ knowing this information about their           backgrounds, who may have different opinions on the importance
+patients.                                                                   of SOGI data. An additional strength is that not all of the health
+   The Centers for Medicare and Medicaid Services (CMS) and                 centers where we tested these SOGI questions were LGBT-
+the Office of the National Coordinator of Health Information                focused. Including a clinic that was not LGBT-focused and located
+Technology (ONC) are currently considering whether to include               in a rural community strengthened the generalizability of the
+SOGI data collection in the Stage 3 guidelines for the incentive            results. A full range of ages and educational levels were
+program promoting meaningful use of electronic health records.              represented among the survey respondents. Additionally, the
+During the Stage 2 Meaningful Use Guidelines process, the federal           survey provided patients with an opportunity to comment on these
+government made the following pronouncement:                                questions so that any new or unanticipated issues could be
+                                                                            expressed. These results provide evidence suggesting that asking
+    Considering the lack of consensus for the definition of the             SOGI questions in clinical settings is both feasible and important
+    concept of gender identity and/or sexual orientation as well            for facilitating communication between patients and clinicians.
+    as for a standard measure of the concept and where it would
+    be most appropriate to store the data within the EHR, we                Conclusion
+    will await further development of a consensus for the goal                 This survey of a diverse group of patients in four health centers
+    and standard of measurement for gender identity and/or                  finds that most patients understand the importance of asking about
+    sexual orientation…[27]                                                 sexual orientation and gender identity and would be willing to
+                                                                            answer a set of existing questions developed to collect SOGI data
+   We believe that this study demonstrates that a consensus exists          in health care settings. We believe that health care providers and
+regarding the importance of sexual orientation and gender identity          regulatory bodies should move forward by taking steps to facilitate
+information for the provision of optimal clinical care, and that the        SOGI data collection in clinical settings and in EHRs. In
+measures developed in this study could function as standard                 particular, inclusion of SOGI questions in the standard demo-
+measures that could be employed in real-world health care                   graphic section of the Stage 3 meaningful use guidelines is an
+settings. The SOGI questions tested in these four settings could, if        important step that the Centers for Medicare and Medicaid
+widely used, be acceptable to patients across the country—LGBT              Services and the Office of the National Coordinator for Health
+and straight, Black and White, older and younger—and could                  Information Technology can take to advance SOGI data
+provide important information on patients that can help us better           collection. This would be consistent with our findings of
+understand health disparities affecting LGBT people.                        widespread agreement among survey respondents regarding the
+   As many speakers at the October 2012 Institute of Medicine               acceptability of SOGI questions, as well as with the emphasis
+workshop on LGBT data collection in EHR systems noted, buy-in               placed on SOGI data collection and LGBT health in recent years
+from staff, including front desk staff as well as providers, is essential   by entities such as the Institute of Medicine, The Joint
+to effective SOGI data collection. Furthermore, SOGI data                   Commission, and the Department of Health and Human Services
+collection should be coupled with cultural competency training in           itself.
+which staff can ask questions and work through any discomfort or
+misunderstandings they may have. Such training should occur in              Supporting Information
+the context of training health professionals and administrative staff
+about broader issues of achieving quality care with diverse patient         Appendix S1.       (DOCX)
+populations. [20]
+   There are limitations to consider when interpreting findings.
+First, we surveyed a sample of each clinic population regarding             Acknowledgments
+SOGI questions. If this sample differed from the actual patient
+population, then this may have biased our results. However, there           Community Health Applied Research Network (CHARN) Partners: We are
+                                                                            grateful to our research partners who were critical to the success of this
+is no reason to believe, given the high rates of participation, that
+                                                                            project—Amina Chaudhry and Kari Bichell of Chase Brexton Health
+the samples surveyed differed from the general patient populations          Services; Daniela Lembo and Monica Godfrey of Beaufort –Jasper-
+of each health clinic. Second, each clinic surveyed patients using          Hampton Comprehensive Health Services; Chela Grace J. Hall of Howard
+different methodologies during a two week period. Because the               Brown Health Center; and Lydia Dant and Matt Funke of the Fenway
+survey collection occurred over a brief period, not all health center       Institute.
+PLOS ONE | www.plosone.org                                                7                      September 2014 | Volume 9 | Issue 9 | e107104
+
+                                                                                           Assessing Sexual Orientation, Gender Identity in Four Health Centers
+Author Contributions                                                                     data: SC RS CG DK KM KB HM. Contributed reagents/materials/
+                                                                                         analysis tools: SC RS CG DK KM KB HM. Contributed to the writing of
+Conceived and designed the experiments: SC RS CG DK KM KB HM.                            the manuscript: SC RS CG DK KM KB HM.
+Performed the experiments: SC RS CG DK KM KB HM. Analyzed the
+References
+ 1. U.S. Department of Health and Human Services ( 29 June 2011) Affordable              15. Futterweit W (1998) Endocrine therapy of transsexualism and potential
+    Care Act to improve data collection, reduce health disparities. News release.            complications of long-term treatment. Arch Sex Behav 27: 209–226. Cited in
+    Available: www.hhs.gov/news/press/2011pres/06/20110629a.html. Accessed                   Mayer, Bradford, Makadon, Goldhammer, et al. (2008).
+    2011 Nov 2.                                                                          16. Lambda Legal (2010) When health care isn’t caring: Lambda Legal’s survey of
+ 2. Committee on Lesbian, Gay, Bisexual, and Transgender Health Issues and                   discrimination against LGBT people and people with HIV. New York: Lambda
+    Research Gaps and Opportunities; Board on the Health of Select Populations;              Legal. Available: http://www.lambdalegal.org/publications/when-health-care-
+    Institute of Medicine (2011) The health of lesbian, gay, bisexual, and                   isnt-caring. Accessed 2014 Aug 15.
+    transgender people: Building a foundation for better understanding. Washing-         17. Smith D, Mathews W (2007) Physicians’ attitudes toward homosexuality and
+    ton, DC: National Academies Press. Available: http://www.nap.edu/catalog.                HIV: Survey of a California medical society-revisited (PATHH-II). Jnl Homos
+    php?record_id = 13128. Accessed 2014 Jan 30.                                             52(3–4):1–9.
+ 3. U.S. Department of Health and Human Services (no date) Healthy People 2020.          18. Makadon H (2011) Ending LGBT invisibility in health care: The first step in
+    Lesbian, gay, bisexual and transgender health. Available: http://www.                    ensuring equitable care. Cleve Clin J Med. 78: 220–224.
+    healthypeople.gov/2020/topicsobjectives2020/overview.aspx?topicid = 25. Ac-          19. Klitzman R, Greenberg J (2002) Patterns of communication between gay and
+    cessed 2014 Jan 30.
+                                                                                             lesbian patients and their health care providers. J Homosex. 2002; 42(4); 65–75.
+ 4. The Joint Commission (2011) Advancing effective communication, cultural
+                                                                                         20. Institute of Medicine (2012 12 October) Sexual orientation and gender identity
+    competence, and patient- and family-centered care for the lesbian, gay, bisexual,
+                                                                                             data collection in electronic health records. A workshop. Washington, DC:
+    and transgender community: A field guide. Oakbrook Terrace, IL: The Joint
+                                                                                             National Academy of Sciences.
+    Commission.
+ 5. Mayer KH, Bradford JB, Makadon HJ, Stall R, Goldhammer H, et al. (2008)              21. GENIUSS Group (Gender identity in U.S. surveillance) (2013) Gender-related
+    Sexual and gender minority health: What we know and what needs to be done.               measures overview. Los Angeles: The Williams Institute. Available: http://
+    Am J Public Health 98: 989–995.                                                          williamsinstitute.law.ucla.edu/wp-content/uploads/GenIUSS-Gender-related-
+ 6. Valanis B, Bowen D, Bassford T, Whitlock E, Charney P, et al. (2000) Sexual              Question-Overview.pdf. Accessed 2014 Apr 28.
+    orientation and health: Comparisons in the Women’s Health Initiative sample.         22. Deutsch M, Green J, Keatley J, Mayer G, Hastings J, et al. (2013) Electronic
+    Arch Fam Med. 9(9):843–853.                                                              medical records and the transgender patient: Recommendations from the World
+ 7. Kerker B, Mostashari F, Thorpe L (2006) Health care access and utilization               Professional Association for Transgender Health EMR Working Group. Jnl
+    among women who have sex with women: Sexual behavior and identity.                       Amer Med Informatics Assoc 0: 1–4. Doi:10.1136/amianjnl-2012-001472
+    J Urban Health 83(5):970–979.                                                        23. Bradford J, Cahill S, Grasso C, Makadon H (2012) How to ask about sexual
+ 8. Conron K, Mimiaga M, Landers S (2010) A population-based study of sexual                 orientation and gender identity in clinical settings. Boston: The Fenway Institute.
+    orientation identity and gender differences in adult health. Am J Pub Health             2012.
+    100(10); 1953–1960.                                                                  24. Durso LE, Baker K, Cray A (2013 10 October). LGBT communities and the
+ 9. Centers for Disease Control and Prevention (2011 6 June) Sexual identity, sex            Affordable Care Act: Findings from a national survey. Washington DC: Center
+    of sexual contacts, and health-risk behaviors among students in grades 9–12 —            for American Progress. Available: http://cdn.americanprogress.org/wp-
+    Youth Risk Behavior Surveillance, selected sites, United States, 2001–2009.              content/uploads/2013/10/LGBT-ACAsurvey-brief1.pdf. Accessed 2014 Aug
+    Morbidity and Mortality Weekly Report Early Release.60; 1–133. Available:                15.
+    http://www.cdc.gov/mmwr/pdf/ss/ss60e0606.pdf Accessed 2014 Aug 15.                   25. Centers for Disease Control and Prevention, National Center for HIV/AIDS,
+10. Lombardi E, Wilchins R, Priesling D, Malouf D (2002) Gender violence:                    Viral Hepatitis, STD, and TB Prevention, Division of HIV/AIDS Prevention
+    Transgender experiences with violence and discrimination. J Homosex 42(1).               (2011) HIV infection among transgender people. Washington, DC: Centers for
+11. Grant J, Mottet L, Tanis J, Harrison J, Herman J, et al. (2011) Injustice at every       Disease Control and Prevention, 2011. Available: http://www.cdc.gov/hiv/
+    turn: A report of the National Transgender Discrimination Survey. Washington,            transgender/pdf/transgender.pdf. Accessed 2014 Apr 28.
+    DC: National Center for Transgender Equality and National Gay and Lesbian            26. Tate C, Ledbetter J, Youssef C (2012) A two-question method for assessing
+    Task Force.                                                                              gender categories in the social and medical sciences. Jnl Sex Res 0: 1–10. Doi:
+12. Clements-Nolle K, Marx R, Katz M (2006) Attempted suicide among                          10.1080/00224499.2012.690110.
+    transgender persons: The influence of gender-based discrimination and                27. Department of Health and Human Services, Office of the Secretary (2012 4
+    victimization. J Homosex 51(3):53–69.                                                    September) 45 CFR Part 170, RIN 0991-AB62. Health Information Technology:
+13. Meyer I (2003) Prejudice, social stress, and mental health in lesbian, gay, and          Standards, Implementation Specifications, and Certification Criteria for Electronic
+    bisexual populations: Conceptual issues and research evidence. Psychol Bull              Health Record Technology, 2014 Edition; Revisions to the Permanent Certification
+    129(5):674–697.
+                                                                                             Program for Health Information Technology. Federal Register. Vol. 77, No. 171.
+14. Jeffries WL, Marks G, Lauby J, Murrill CS, Millett GA (2012) Homophobia is
+                                                                                             Rules and Regulations. 54163–54292. Available: http://www.regulations.gov/
+    associated with sexual behavior that increases risk of acquiring and transmitting
+                                                                                             #!searchResults;rpp = 25;po = 0;s = gender%252Bidentity%252Band%252For%
+    HIV infection among Black men who have sex with men. AIDS Behav DOI
+                                                                                             252Bsexual%252Borientation;fp = true;ns = true.Accessed 2013 Sept12.
+    10.1007/s10461-012-0189-y.
+PLOS ONE | www.plosone.org                                                             8                         September 2014 | Volume 9 | Issue 9 | e107104
+

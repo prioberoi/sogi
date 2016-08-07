@@ -1,0 +1,983 @@
+Measuring Sexual
+Identity: An
+Evaluation Report
+September 2010
+Authors:       Theodore Joloza
+               Joanne Evans
+               Rachel O’Brien
+Office for National Statistics
+
+                                                                  Measuring Sexual Identity: An Evaluation Report
+A National Statistics publication                                    Copyright and reproduction
+National Statistics are produced to high professional standards      © Crown copyright 2010
+set out in the Code of Practice for Official Statistics. They are
+                                                                     Published with the permission of the Office of Public Sector
+produced free from political influence.
+                                                                     Information (OPSI)
+About us                                                             You may use this publication (excluding logos) free of charge in
+                                                                     any format for research, private study or internal circulation within
+The Office for National Statistics
+                                                                     an organisation providing it is used accurately and not in a
+The Office for National Statistics (ONS) is the executive office     misleading context. The material must be acknowledged as
+of the UK Statistics Authority, a non-ministerial department         Crown copyright and you must give the title of the source
+which reports directly to Parliament. ONS is the UK                  publication. Where we have identified any third party copyright
+government’s single largest statistical producer. It compiles        material you will need to obtain permission from the copyright
+information about the UK’s society and economy, and provides         holders concerned.
+the evidence-base for policy and decision-making, the
+                                                                     For re-use of this material you must apply for a Click-Use Public
+allocation of resources, and public accountability. The Director-
+                                                                     Sector Information (PSI) Licence from:
+General of ONS reports directly to the National Statistician who
+is the Authority's Chief Executive and the Head of the               Office of Public Sector Information, Crown Copyright Licensing
+Government Statistical Service.                                      and Public Sector Information, Kew, Richmond, Surrey, TW9
+                                                                     4DU
+The Government Statistical Service
+                                                                     Tel: 020 8876 3444
+The Government Statistical Service (GSS) is a network of
+professional statisticians and their staff operating both within     www.opsi.gov.uk/click-use/index.htm
+the Office for National Statistics and across more than 30 other
+government departments and agencies.
+Contacts
+This publication
+For information about the content of this publication, contact
+Theodore Joloza
+Tel: 01633 45 5706
+Email: equalitiesandwellbeing@ons.gsi.gov.uk
+Other customer enquiries
+ONS Customer Contact Centre
+Tel: 0845 601 3034
+International: +44 (0)845 601 3034
+Minicom: 01633 815044
+Email: info@statistics.gsi.gov.uk
+Fax: 01633 652747
+Post: Room 1.101, Government Buildings,
+Cardiff Road, Newport, South Wales NP10 8XG
+www.ons.gov.uk
+Media enquiries
+Tel: 0845 604 1858
+Email: press.office@ons.gsi.gov.uk
+                                                                                                Office for National Statistics
+
+                                               Measuring Sexual Identity: An Evaluation Report
+Contents
+1. Introduction....................................................................................................................3
+2. Measuring Sexual Identity.............................................................................................4
+3. Estimates of the population who identify as lesbian, gay or bisexual......................8
+4. Response rates ............................................................................................................10
+5 Comparisons with other survey estimates.................................................................13
+6. Characteristics of those identifying as a lesbian, gay or bisexual..........................16
+7. Conclusion ...................................................................................................................26
+References .......................................................................................................................27
+                                                                                           Office for National Statistics          1
+
+                                                          Measuring Sexual Identity: An Evaluation Report
+List of Tables
+Table 1  Sexual Identity, April 2009 to March 2010 ................................................................. 8
+Table 2  Overall individual response...................................................................................... 10
+Table 3  Agreement to recall.................................................................................................. 11
+Table 4  Response to the sexual identity question, April 2009 to March 2010 ...................... 11
+Table 5  Number of adults in household, April 2009 to March 2010 ...................................... 12
+Table 6  Comparison of LGB estimates ................................................................................. 13
+Table 7  Comparison of LGB estimates ................................................................................. 15
+Table 8  Sexual identity by age group, April 2009 to March 2010 ......................................... 17
+Table 9  Sexual identity by sex, April 2009 to March 2010 .................................................... 17
+Table 10 Sexual identity by ethnicity, April 2009 to March 2010 ............................................ 18
+Table 11 Sexual identity by religion, April 2009 to March 2010 .............................................. 18
+Table 12 Sexual identity by socio-economic classification, April 2009 to March 2010 ........... 18
+Table 13 Sexual identity by highest qualification, April 2009 to March 2010 .......................... 19
+Table 14 Sexual identity by economic activity status, April 2009 to March 2010.................... 20
+Table 15 Sexual identity by legal marital status, April 2009 to March 2010............................ 21
+Table 16 Sexual identity by whether or not cohabiting, April 2009 to March 2010 ................. 22
+Table 17 Sexual identity by whether or not there are dependent children1 in the household,
+         April 2009 to March 2010......................................................................................... 23
+Table 18 Sexual identity by whether or not in perceived good health, April 2009 to March
+         2010......................................................................................................................... 24
+Table 19 Sexual identity by whether or not smokes cigarettes, April 2009 to March 2010..... 24
+Table 20 Sexual identity by Government Office Region in England and countries of the UK,
+         April 2009 to March 2010......................................................................................... 25
+                                                                                            Office for National Statistics              2
+
+                                                                    Measuring Sexual Identity: An Evaluation Report
+1. Introduction
+Over the years, there has been an increasing demand for data on sexual orientation to meet
+legislative requirements. These demands have come from potential key users including policy
+makers in central government departments, local government, public service providers e.g. police,
+health authorities, lesbian, gay and bisexual (LGB) service providers, the LGB population,
+academia and other research organisations.
+In 2007 the Office for National Statistics (ONS) led a cross-government Review of Equality Data 1
+which found that there was a lack of sufficient and reliable sources of data on sexual orientation
+and recommended work was completed to develop a question on sexual identity for household
+surveys to address this gap.
+This further reinforced ONS’s work on developing, testing and evaluating a question on self
+perceived sexual identity for use on government surveys 2 . Subsequently, ONS introduced the
+question on the Integrated Household Survey (IHS) from January 2009 and published user
+guidance in April 2009 to promote the use of the question in other government and relevant
+surveys 3 .
+In April 2010 the Equality Act 2010 replaced all existing anti-discrimination laws with a single Act.
+This included a new public sector Equality Duty, replacing the separate public sector equality
+duties relating to race, disability and sex, and also covering age, sexual orientation, religion or
+belief, pregnancy and maternity, and gender reassignment more fully.
+This report evaluates the sexual identity question after its first year on the IHS (April 2009 to March
+2010) 4 . The report begins with background information on how ONS measures sexual identity on
+the IHS. This is followed by an evaluation of the first year’s results from the IHS on sexual identity
+which discusses the headline estimates of people who identify as lesbian, gay or bisexual. We also
+examine the impact of introducing the question on response rates and how the results compare
+with other survey estimates. The report concludes with an analysis of the characteristics of those
+who identify as lesbian, gay or bisexual.
+It is important to note that the IHS is an experimental data source and therefore all the IHS
+estimates provided in this paper are experimental. Experimental statistics are new official statistics
+undergoing evaluation. They are published in order to involve customers and stakeholders in their
+development and as a means to build in quality at an early stage.
+1
+  http://www.ons.gov.uk/about-statistics/measuring-equality/equality/equality-data-review/index.html
+2
+  Further information about question development and testing can be found here http://www.ons.gov.uk/about-statistics/measuring-
+equality/equality/sexual-identity-project/index.html
+3
+ http://www.ons.gov.uk/about-statistics/measuring-equality/equality/sexual-identity-project/guidance/index.html
+4
+  Headline results from the IHS for the same period are available in the first IHS statistical bulletin
+http://www.statistics.gov.uk/statbase/Product.asp?vlnk=15381.
+                                                                                                      Office for National Statistics 3
+
+                                                    Measuring Sexual Identity: An Evaluation Report
+2. Measuring Sexual Identity
+The sexual identity question was developed following consultations with experts, LGB groups,
+academics and focus groups involving a cross section of the public. Quantitative question testing
+on the Opinions and General Lifestyle Surveys (GLF) and cognitive interviews were carried out to
+test how respondents understood the question and whether they accepted it. In developing the
+question, efforts were made to ensure that it would collect reliable data, would use easily
+understood terminology and would maintain confidentiality when administered in either face to face
+or telephone interview environments. As such, the goal was to develop a question that would be
+accepted by both interviewers and respondents alike.
+There are different dimensions of sexual orientation including attraction, behaviour and identity.
+Box 1 below gives a definition of these concepts.
+Box 1: The different aspects of sexual orientation
+  Sexual              This refers to a sexual interest in another person based on a
+  attraction          combination of factors including a person’s looks, movement,
+                      voice, smell etc that are appealing to the person attracted. Sexual
+                      attraction can also be defined as having sexual feelings towards
+                      someone.
+  Sexual              Refers to how people behave sexually. That is whether they have
+  behaviour           sexual partners of the same sex or not. Sexual behaviour does
+                      not necessarily form a basis for a person’s sexual identity.
+  Sexual identity     How individuals think of themselves. This does not necessarily
+                      match their sexual behaviour or attraction and can change over
+                      time.
+  Sexual              One’s sexual orientation can be derived from any of the above.
+  orientation
+While the legislation refers to sexual orientation, ONS has focused on collecting data on sexual
+identity that is how people see themselves at the time the interview takes place. This is because no
+single question would capture the full complexity of sexual orientation. A suite of questions would
+be necessary to collect data on the different dimensions of sexual orientation, and to examine
+consistency between them at the individual level. Research during the development of the question
+also deemed sexual identity the most relevant dimension of sexual orientation to investigate given
+its relation to experiences of disadvantage and discrimination. Testing showed that respondents
+were not in favour of asking about sexual behaviour in a social survey context, nor would it be
+appropriate in general purpose government surveys (Betts et. al. 2008).
+Following successful quantitative testing, focus groups and cognitive testing, all of which
+suggested a general acceptance of the question, the ONS decided that it was a rigorous measure
+                                                                             Office for National Statistics 4
+
+                                                                  Measuring Sexual Identity: An Evaluation Report
+and introduced it on the IHS in January 2009. Further details about the IHS can be found in Box 2
+below.
+   Box 2               Integrated Household Survey
+   The IHS is a composite household survey combining the answers from a number of ONS
+   household surveys 5 to produce an experimental dataset of core variables.
+   The aim of the IHS is to produce high-level estimates for particular themes including sexual
+   identity to a higher precision and lower geographic level than current ONS household surveys.
+   ONS intends to publish an annual rolling quarterly IHS dataset quarterly and submit the survey
+   for assessment to become a National Statistic by the UK Statistics Authority in 2012.
+   Since the IHS data are obtained from a sample of the population, they are subject to sampling
+   error.
+   The IHS comprises both multistage and single stage samples of address (delivery point)
+   selections. It should also be pointed out that the IHS contains data from both cross-sectional
+   and longitudinal surveys. Detailed information about sampling variability can be found in
+   Appendix 2 of the IHS bulletin 2010 6 .
+   To correct for the unequal probability of selection caused by selecting only certain households
+   in the population, a household weight has been applied to all the cases in the IHS data set.
+   This was done by grouping each individual survey components of the IHS into a weighting
+   group. Each weighting group was then treated as a single sample where the weight is
+   constructed to estimate back to the population. For more details on the weighting see IHS User
+   Guide – Volume 1. A non proxy weight has also been developed to compensate for a variety of
+   both planned and unexpected disproportionate effects of not asking some questions by proxy.
+   This weight should be used when undertaking analysis of the sexual identity question.
+   Variables in the IHS dataset have been imputed to take into account item non response except
+   for a small number of questions including sexual identity. Imputation is where a value is entered
+   for a specific variable where the response is missing or unusable. This is usually done by taking
+   into account other variables associated with the subgroup into which an individual falls into and
+   by using those characteristics to impute the likely response the individual would have given.
+   This could not be done for sexual identity as there are no specific variables that are known to
+   be associated with an individual identifying as LGB.
+5
+  Current modules of the IHS are: General Lifestyle Survey (GLF), Living Cost and Food Survey (LCF), English Housing Survey (EHS),
+Annual Population Survey (APS) and Life Opportunities Survey (LOS). However, the Opinions Survey (OPN) has not been a part of the
+IHS since January 2010.
+6
+  www.statistics.gov.uk/statbase/Product.asp?vlnk=15381
+                                                                                             Office for National Statistics        5
+
+                                                  Measuring Sexual Identity: An Evaluation Report
+The IHS questionnaire is asked in two ways; face to face using Computer Assisted Personal
+Interviewing (CAPI) and by telephone using Computer Assisted Telephone Interviewing (CATI). In
+both cases, the sexual identity question was administered to all members of the household aged
+16 or over who were available at the time of interview to provide their own responses. No proxy
+interviews were allowed because research in the development phase, particularly focus groups
+indicated that proxy responses were not suitable for the sexual identity question on the grounds of
+acceptability, accuracy and confidentiality.
+Boxes 3 and 4 show the question asked for face to face interviews and telephone interviews
+respectively. For face to face interviews the question was designed to be asked using a concealed,
+unique showcard form for face to face interviews. These showcards were unique to each individual
+respondent to ensure that confidentiality was maintained between household members when they
+were being interviewed at the same time. ‘Don’t Know’ and ‘Refusal’ were not provided as options
+on the show card, however, interviewers were able to record them if spontaneously provided by
+respondents, consistent with standard ONS survey practice. The telephone version varied from
+that used in face-to face interviewing since this method precludes the use of showcards. Instead, a
+different design was used to maintain privacy, even if the respondent was in the presence of other
+people during the interview.
+  Box 3          Face to Face question (CAPI)
+  ASK ALL AGED 16 OR OVER
+  [NAME] SHOWCARD 1, [NAME] SHOWCARD 2, [NAME] SHOWCARD 3 etc
+  Which of the options on this card best describes how you think of yourself?
+  Please just read out the number next to the description.
+  27. Heterosexual / Straight
+  21. Gay / Lesbian
+  24. Bisexual
+  29. Other
+  (Spontaneous DK/Refusal)
+                                                                           Office for National Statistics 6
+
+                                                Measuring Sexual Identity: An Evaluation Report
+Box 4          Telephone unit question (CATI)
+ASK ALL AGED 16 OR OVER
+I will now read out a list of terms people sometimes use to describe how they think of
+themselves. (INTERVIEWER: read list to end without pausing.
+Note that ‘Heterosexual or Straight’ is one option; ‘Gay or Lesbian’ is one option. )
+1. Heterosexual or Straight,
+2. Gay or Lesbian,
+3. Bisexual,
+4. Other
+(Spontaneous DK/Refusal)
+As I read the list again please say ‘yes’ when you hear the option that best describes
+how you think of yourself.
+(INTERVIEWER: Pause briefly after each option during second reading.)
+                                                                         Office for National Statistics 7
+
+                                                        Measuring Sexual Identity: An Evaluation Report
+3. Estimates of the population who
+identify as lesbian, gay or bisexual
+The table below shows the headline results for the sexual identity question. The question was
+asked to respondents aged 16 years and over and was not asked by proxy. Proxy interviews are
+defined as those when answers are supplied, through consent, by a third party, who is a member
+of the respondent’s household. Also excluded were respondents who did not speak English and
+who responded to the questionnaire through a household member acting as an interpreter. This
+was to maintain the confidentiality within the household and also the reliability of the data.
+The reference period in this report is April 2009 7 to March 2010. The IHS sampling frame covers
+the whole United Kingdom with around 450,000 respondents interviewed in the 12 month period 8 .
+The sexual identity question was asked of all household members aged 16 and above who were
+present in the household at the time of interview or were interviewed by phone resulting in a total of
+247,623 eligible adults to be asked the sexual identity question. Of these, 238,206 (96 per cent)
+provided valid responses.
+Table 1                Sexual Identity, April 2009 to March 2010
+                                                              Population aged 16 and over
+                                                                Thousands                        Percentages
+Heterosexual / Straight                                               46,922                                 94.8
+Gay / Lesbian                                                             481                                  1.0
+Bisexual                                                                  245                                  0.5
+Other1                                                                    242                                  0.5
+Don’t know / refusal                                                    1,393                                  2.8
+Non response2                                                             233                                  0.5
+1 Other is a valid response provided by the responder.
+2 ONS defines non response as no data provided to the question by an eligible
+responder.
+Source: Integrated Household Survey, ONS
+The IHS data indicate that for April 2009 to March 2010 95 per cent of adults (46,922,000 people)
+identified themselves as heterosexual/straight, 1 per cent of adults (481,000 people) identified
+themselves as gay or lesbian and 0.5 per cent of adults (245,000 people) identified themselves as
+bisexual while a further 0.5 per cent (242,000) identified themselves as ‘Other’.
+The ‘Other’ option on the sexual identity question was included to address the fact that not all
+people will fall in the first three categories and that some people such as those that are asexual,
+7
+  When the Labour Force Survey (LFS) joined the IHS.
+8
+  See full publication from the IHS for April 2009 to March 2010 for more details on the IHS.
+                                                                                 Office for National Statistics    8
+
+                                                   Measuring Sexual Identity: An Evaluation Report
+may feel no sense of sexual identity at all. In addition, individuals who disagree with the simplistic
+male/female gender binary, or who were against categorisation based on the gender of people to
+whom they were attracted or with whom they had relations, could also prefer to identify as other.
+Previous ONS work also showed that a small number of heterosexual respondents may not
+understand the terminology used in the question so may select ‘Other’ instead (Betts, 2009).
+Just under 3 per cent of adults (1,393,000 people) stated ‘Don’t know’ or refused the question.
+Don’t know and Refusal is a response that was provided by the respondent spontaneously. Please
+note that interviewers were advised to code as refusal instances where a respondent did not
+volunteer an answer to the question but reacted in a way indicating embarrassment or offence,
+such as total silence. Even when it appeared that the respondent was likely to be heterosexual as
+this could not be assumed with complete certainty. A further 0.5 per cent (233,000 people)
+provided no response to the question. 'No response' refers to where an eligible responder did not
+provide any response to the question, this could be for a number of reasons, i.e. the interviewers
+were unable to ask the question.
+                                                                            Office for National Statistics 9
+
+                                                      Measuring Sexual Identity: An Evaluation Report
+4. Response rates
+Before questions are added to a survey, testing needs to be carried out to ensure that there is no
+negative impact on overall response to the questionnaire. Prior to including the question on its
+household surveys, ONS carried out an experiment on the GLF which concluded that its inclusion
+would not have any adverse impact on survey response rate (Joloza et al, 2009) 9 . Where possible
+we have repeated the analysis for the IHS over the survey period April 2009 to March 2010 to see
+if the results are similar. Please note that this does not refer to the effect on the headline
+household response rate for the IHS but rather the response rate to the question after households
+have already agreed to participate.
+The first set of results are for the individual response rate, where an individual may refuse to
+complete a survey once they have been asked the sexual identity question. The GLF trial found no
+measurable differences between individual response rates of the respondents who were asked the
+sexual identity question and those that were not. Table 2 shows the proportion of individuals from
+responding households who completed a full interview as well as the proportions who only partially
+completed an interview and those who did not take part. The proportion of GLF respondents in the
+IHS survey with complete interviews is almost that in the GLF trial at 99.7 per cent.
+Table 2              Overall individual response
+          Individual Interview Outcome                GLF Trial in 2008                  GLF in IHS
+         1 Full interview                        99.8                               99.7
+         2 Partial interview                     0.2                                0.3
+         3 No interview, ineligible              -                                  -
+         4 Refusal                               -                                  -
+         5 Non contact                           -                                  -
+         Base (=100 per cent)                    3,663                              12,892
+Source: Office for National Statistics
+The GLF trial also examined whether the inclusion of the sexual identity question may affect the
+willingness of the respondents to agree to take part in subsequent surveys. This again found no
+measurable differences between those who were asked the sexual identity question and those who
+were not. This is only applicable to part of the IHS. Therefore for consistency we have examined
+the agreement to recall rates on the GLF part of the IHS only and the question is also not asked of
+everyone. The proportion of respondents who were willing to be interviewed again was 94.5 per
+cent. In the GLF trial, 96.4 per cent of those who had been asked the sexual identity question
+9
+ The GLF trial tested overall household non-response, within household response, individual non-response
+and agreement to recall through an experimental arm and control group.
+                                                                               Office for National Statistics 10
+
+                                                           Measuring Sexual Identity: An Evaluation Report
+agreed to be contacted again to take part in the survey compared to 96.7 percent of those who had
+not been asked the sexual identity question.
+Table 3              Agreement to recall1
+ Can we contact you again?                           GLF Trial 2008           GLF in IHS 2010
+ 1 Yes                                                           96.4                           94.5
+ 2 No                                                              3.6                           5.5
+ Base = 100 per cent                                            3,663                         2,476
+1 Asked only to a subset in some of the IHS constituent surveys
+Source: Office for National Statistics
+Finally, we examine item non-response to the sexual identity question. This is where individual
+responders are able to refuse to answer the sexual identity question either because they do not
+wish to answer the question or where they are unable to formulate a response. Table 4 below
+shows the results from the IHS. This shows that item non response to the sexual identity question
+on the IHS was 3.2 per cent refusing to answer or saying they did not know the answer to the
+question and 0.6 per cent not providing a response at all. Total item non-response was 3.8 per
+cent. This is lower than the GLF trial which found a total item non-response of 5.4 per cent.
+Note that the proportions in this table differ from those in Table 1 because they are based on
+unweighted data. This is for the purposes of looking at non response only.
+Table 4              Response to the sexual identity question, April 2009 to
+                     March 2010
+United Kingdom
+ Sexual identity question                                          Frequency               Per cent
+ Response                                                              238,206                   96.2
+ Don’t know / refusal                                                    7,846                     3.2
+ Non response                                                            1,571                     0.6
+ Total (Non proxy, aged 16 and above)                                  247,623                    100
+Source: Office for National Statistics
+Confidentiality is one of the key issues that can impact response when questions considered
+sensitive are asked in a household with more than one resident. The table below investigates
+whether the difference between interviewing a sole household member versus several household
+members together may lead to higher rates of item non-response.
+                                                                                    Office for National Statistics 11
+
+                                                                   Measuring Sexual Identity: An Evaluation Report
+Table 5                Number of adults in household, April 2009 to March 2010
+United Kingdom                                                                         Percentages
+                                                              1             2           3              4+         Total
+  Heterosexual / Straight                                        93.3        95.2        95.2           94.9         94.8
+ LGB                                                              2.0         1.9          1.1           0.8           1.5
+  Gay / Lesbian                                                   1.6         1.3          0.6           0.3           1.0
+  Bisexual                                                        0.4         0.6          0.5           0.5           0.5
+  Other                                                           0.7         0.5          0.4           0.4           0.5
+ Don't Know/Refusal                                               0.0         0.3          0.7           0.9           0.5
+ Non Response                                                     4.0         2.2          2.5           3.0           2.8
+ Total Item non response                                          4.0         2.5          3.2           3.9           3.3
+Source: Integrated Household Survey, Office for National Statistics
+Prior to developing and testing work on the sexual identity question, the expectation was that the
+higher the number of adults in the household, the higher the proportion of item non response. This
+is be because some household members might be reluctant to disclose their sexual identity in the
+presence of others. However, the results from the IHS do not indicate this. The lowest non
+response was found in the households with two adults (2.5 per cent) while single adult households
+had the highest item non response at 4 per cent. This is an indication that the concealed show card
+method designed for concurrent interviewing is working well and that it is not affecting item non
+response to the question. These are similar to results from the GLF pilot where the lowest non
+response was found to have been in households with three adults (3.3 per cent). Another
+observation here is that the proportion of people reporting to be LGB in a household decreases as
+the number of adults in the household increases. There is currently no explanation why this is the
+case but this is something that could be considered for further investigation in future.
+                                                                                            Office for National Statistics 12
+
+                                                     Measuring Sexual Identity: An Evaluation Report
+5. Comparisons with other survey
+estimates
+Historically in the UK, several estimates of the proportion of LGB people in the population have
+been used because of the lack of reliable data.
+Table 6 below shows a comparison of LGB proportions on the IHS and other UK surveys that have
+asked the sexual identity/orientation questions in a similar way to that of the IHS. Apart from the
+Scottish Census Small Test and the Civil Service Diversity Survey, all these surveys were similar
+to the IHS in that they did not mention ‘sexual identity’ or ‘sexual orientation’ in the question stem.
+Table 6              Comparison of LGB estimates; surveys from within the UK
+                                                                                                    Non
+                                                                     LGB        Sample        response
+  Survey                              Coverage             Year        (%)          Size              (%)
+  Integrated Household Survey                  UK      2009/10          1.5    238,206                3.8
+                                         England
+  Citizenship Survey                                   2009/10          2.3       9,203               2.7
+                                      and Wales
+                                         England
+  British Crime Survey                                 2009/10          2.2      22,995               2.7
+                                      and Wales
+                                            Great
+  General Lifestyle Survey                                 2008         1.1       3,443               5.4
+                                           Britain
+  Northern Ireland Life and             Northern
+                                                           2005         1.7       1,199               1.3
+  Times Survey                            Ireland
+                                            Great
+  British Social Attitudes Survey                          2005         1.4       1,732               1.4
+                                           Britain
+  Scottish Census Small Test            Scotland           2005         1.3          692            14.7
+  DTI Fair Treatment at Work                Great
+                                                           2008         2.4       2,704               9.0
+  Pilot Survey                             Britain
+The IHS estimate of 1.5 per cent LGB is broadly consistent with other household surveys in the UK
+that asked questions about sexual identity. This is also consistent with previous research which
+found survey estimates range between 0.3 per cent and 3.0 per cent (Betts, 2008). This estimate is
+lower than the most commonly used estimate of 5 to 7 per cent 10 . This higher estimate should be
+treated with caution primarily because it is based on the findings of a number of studies utilising
+different methods of administration and conducted among differing sampling populations
+measuring different dimensions of sexual orientation (Betts, 2008). The estimate is higher because
+it is derived from combining responses from a set of questions about sexual behaviour, sexual
+attraction and sexual identity both in the past and present.
+10
+    Final Regulatory Impact Assessment: Civil Partnership Act 2004
+                                                                              Office for National Statistics 13
+
+                                                   Measuring Sexual Identity: An Evaluation Report
+Another observation is that the DTI’s Fair Treatment at Work Pilot Survey recorded a higher LGB
+estimate of 2.4 per cent which is higher than that in the IHS. It is important to note that this is a
+workplace based survey which would only cover a specific subset of the population (those in
+employment).
+The estimates in the household surveys listed in Table 6 are based on surveys that have
+differences in sample designs, question wording, response categories, mode of administration and
+other aspects of survey design. There was also a difference in the age ranges to which the
+question was asked. For example, the IHS, GLF and Citizenship Survey asked the question to
+those aged 16 years old and over, the British Crime Survey asked only adults aged 16 and 59
+years old. The other surveys had a different definition of adult with the questions being
+administered to those aged 15 years and older in some cases and 18 years and older in others. In
+addition, while the IHS covered the whole UK some of the surveys had a smaller geographical
+coverage for example the British Crime Survey covers only England and Wales. Also, sample
+surveys are subject to sampling variability and this will also affect the estimates produced from the
+different surveys which have different sample sizes. For these reasons it is not surprising that the
+estimates differ to some degree.
+Table 7 shows a comparison between international estimates from US, Canadian and Norwegian
+surveys against those from the IHS. For the US only the National Survey of Family Growth and the
+National Health and Nutritional Examination Survey were national, the rest were state specific. In
+addition, all the international surveys were largely health surveys while the IHS is a multipurpose
+survey.
+The US and Canadian estimates are higher than the IHS results while the Norwegian results are
+similar to those from the IHS. The fact that the questioning is different means that different
+concepts are being measured by each of them; additionally, the difference in the profiles of
+individuals in the sample by age means the results are not directly comparable but are provided
+here for indicative purposes only.
+On all the surveys, the question is recommended to be asked only of all adults in the household.
+Who constitutes an adult varies from country to country and indeed from survey to survey. As
+stated earlier, ONS considers an adult to be anyone who is aged 16 and above, whereas in some
+surveys adults were considered to be those aged 18 and above. Because the respondent profile is
+different, this may also have contributed to the difference in estimates. Other factors that may
+explain the differences are survey design, coverage, questions, mode of administration, survey
+purpose, cultural differences and differences in attitude towards LGB individuals in these countries.
+                                                                            Office for National Statistics 14
+
+                                                                 Measuring Sexual Identity: An Evaluation Report
+Table 7                  Comparison of LGB estimates; international surveys
+                                                                                   LGB
+                                                                      proportion of                                             Non
+                                                                          population                                    response
+  Survey1                             Country              Year (percentages)                Sample Size (percentages)
+  Integrated Household
+  Survey                                      UK 2009/2010                           1.5            247,623                       3.3
+  Norwegian Living
+  Conditions Survey                     Norway             2010                      1.2               6,238                      8.5
+  Oregon Behavioural
+  Risk Factor
+  Surveillance System                       USA            2006                      2.4               9,853                      2.3
+  Canadian Community
+  Health Survey                        Canada              2005                      2.0            132,947                       1.6
+  California Health
+  Interview Survey                          USA            2005                      4.1              12,571                      1.8
+  North Dakota
+  Behavioural Risk
+  Factor Surveillance
+  System                                    USA            2004                      1.0               3,045                      3.8
+  National Health and
+  Nutritional
+  Examination Survey                        USA 2003/2004                            3.1              10,122                      0.7
+  Vermont Behavioural
+  Risk Factor
+  Surveillance System                       USA            2002                      4.6               4,239                      6.8
+1 The seven international surveys are primarily health surveys, while the IHS is a general, multi-purpose survey. This could be a major
+factor in explaining any differences the estimates.
+As in the UK, deriving an individuals sexual orientation from a suite of questions results in higher
+LGB estimates in the US compared with using a single sexual identity question. In the US, about 5
+per cent reported to be gay or lesbian in US Voter News Service exit polls in 1996 and 2000. About
+6 per cent of a national sample of Americans identified as gay or lesbian in Yankelovich Monitor
+Research (1994) while Laumann et al found the incidence of same sex attraction was just over 7
+per cent of both men and women in the USA. Janus and Janus (1993) found that 9 per cent of men
+and 5 per cent of women identified themselves as gay or lesbian 11 .
+Direct comparisons cannot be made between the IHS and the others surveys from the US, Canada
+and Norway due to differences in methodology. It is therefore not surprising that findings are
+different.
+11
+   Final Regulatory Impact Assessment: Civil Partnership Act 2004
+                                                                                               Office for National Statistics       15
+
+                                                       Measuring Sexual Identity: An Evaluation Report
+6. Characteristics of those identifying
+as a lesbian, gay or bisexual
+As well as providing statistics on the overall proportion of the LGB population who identify as LGB
+the IHS dataset provides a potentially rich source of information on the characteristics of the LGB
+population. In its first year, the data and analysis are limited due to small sample size. As such, the
+tables below provide an initial picture of the LGB population based on the experimental IHS
+dataset.
+Unless stated otherwise, results in this section are for the UK and apply to adults aged 16 and
+over. Results apply to the survey period April 2009 to March 2010.
+Since the data is obtained from a sample of the population, they are subject to sampling error (see
+Box 2 on IHS for more details). Whilst the IHS provides a large population sample, the proportion
+of the population who identify as LGB is small (1.5 per cent). Due to the small proportion of LGB
+respondents any disaggregation by other characteristics has to be interpreted with caution. Please
+refer to IHS User Guide 1 2010 or Appendix 2 of the IHS 2010.
+Equality strands (age, gender, ethnicity, religion, socio-economic status)
+The IHS dataset provides a wealth of information on equality characteristics.
+A breakdown of sexual identity by each equality strand (age, gender, ethnicity, religion and socio-
+economic status) can be found in tables 8-12 below 12 .
+Key findings
+     • In April 2009 to March 2010, people (aged 16 and over) who identified as LGB had a younger
+       age distribution than heterosexuals – 64.9 per cent were aged under 45 compared with 48.6
+       per cent of people who identify as heterosexual
+     • A higher proportion of men than women identified as LGB (54.6 per cent compared with 45.4
+       per cent). However, women were much more likely to identify themselves as bisexual than
+       gay/lesbian. Of those who identified themselves as gay/lesbian, only one-third were women
+       (33.8 per cent) and two-thirds were men (66.2 per cent), whereas more than two-thirds (68.2
+       per cent) of bisexuals were women, and one-third (31.8 per cent) who were men.
+     • People who identified as LGB were less likely to identify with a religion than heterosexuals.
+       One-third (33.5 per cent) of LGB respondents, said that they did not identify with a religion.
+       This compares with one-fifth (20.4 per cent) of heterosexual or straight respondents.
+12
+   Data on Transgender is not collected on ONS social surveys. http://www.ons.gov.uk/about-
+statistics/measuring-equality/equality/equality-data-review/trans-data-position-paper.pdf
+The question on Disability is not harmonised across IHS constituent surveys so not included in analysis
+tables in this publication.
+                                                                                Office for National Statistics 16
+
+                                                            Measuring Sexual Identity: An Evaluation Report
+    • A higher proportion of gay/lesbian people were in the managerial and professional
+       classifications (49.1 per cent) than heterosexuals (30.6%) or bisexuals (28.1%). A higher
+       proportion of bisexual people had never worked or were long-term unemployed than either
+       gay, lesbian or heterosexual respondents.
+Table 8              Sexual identity by age group, April 2009 to March 2010
+United Kingdom                                                                                       Percentages
+                                                                                                             Total
+                                                                                                  (Thousands)
+                                      16–24           25–44         45–64            65+                 (=100%)
+ Heterosexual/Straight                  14.5             34.1         31.8          19.6                   46,922
+ Gay/Lesbian/Bisexual                   18.4             46.5         26.9            8.2                      727
+   Gay/Lesbian                          16.9             49.9         27.3            5.9                      481
+   Bisexual                             21.1             39.9         26.2          12.7                       245
+ Other                                  11.1             32.9         30.4          25.6                       242
+ Don't know / Refusal                   20.6             29.0         25.9          24.5                    1,394
+ Non response                           35.2             34.7         25.6            4.5                      233
+1 The total number of eligible responders to this question was 238,206.
+Source: Integrated Household Survey, Office for National Statistics
+Table 9              Sexual identity by sex, April 2009 to March 2010
+United Kingdom                                                                  Percentages
+                                                                                          Total (Thousands)
+                                                          Male          Female                           (=100%)
+ Heterosexual/Straight                                    48.7             51.3                            46,922
+ Gay/Lesbian/Bisexual                                     54.6             45.4                                727
+   Gay/Lesbian                                            66.2             33.8                                481
+   Bisexual                                               31.8             68.2                                245
+ Other                                                    46.2             53.8                                242
+ Don't know / Refusal                                     47.8             52.2                             1,394
+ Non response                                             59.1             40.9                                233
+1 The total number of eligible responders to this question was 238,206.
+Source: Integrated Household Survey, Office for National Statistics
+                                                                                     Office for National Statistics 17
+
+                                                            Measuring Sexual Identity: An Evaluation Report
+Table 10             Sexual identity by ethnicity1, April 2009 to March 2010
+United Kingdom                                                                  Percentages
+                                                                  Other ethnic            Total (Thousands)
+                                                       White              group                          (=100%)
+ Heterosexual/Straight                                   90.7                 9.3                          46,922
+ Gay/Lesbian/Bisexual                                    93.5                 6.5                              727
+ Other                                                   85.9               14.1                               242
+ Don't know / Refusal                                    81.8               18.2                            1,394
+ Non response                                            85.3               14.7                               233
+1 “Which ethnic group do you consider yourself to belong to?”
+2 The total number of eligible responders to this question was 238,206.
+Source: Integrated Household Survey, Office for National Statistics
+Table 11             Sexual identity by religion, April 2009 to March 2010
+United Kingdom                                                                  Percentages
+                                                                                           Total (Thousands)
+                                                    Religion        No religion                          (=100%)
+ Heterosexual/Straight                                   79.6               20.4                           45,643
+ Gay/Lesbian/Bisexual                                    66.5               33.5                               714
+ Other                                                   77.4               22.6                               236
+ Don't know / Refusal                                    80.5               19.5                            1,320
+ Non response                                            78.4               21.6                               219
+1 The total number of eligible responders to this question was 235,220.
+Source: Integrated Household Survey, Office for National Statistics
+Table 12             Sexual identity by socio-economic classification, April 2009
+                     to March 2010
+United Kingdom                                                                  Percentages
+                                 Managerial                                              Never                           Total
+                                        and                       Routine and    worked and                         (Thousan
+                                professional      Intermediate        manual        long term              Not             ds)
+                                occupations       occupations    occupations    unemployed          classified        (=100%)
+ Heterosexual/Straight                 30.6               16.2          29.4               6.0            17.7        41,038
+ Gay/Lesbian/Bisexual                  42.1               14.7          23.0               5.0            15.2            641
+   Gay/Lesbian                         49.1               13.7          20.9               3.1            13.2            428
+   Bisexual                            28.1               16.7          27.1               8.9            19.2            213
+ Other                                 23.2               14.5          31.1               9.4            21.8            213
+ Don't know / Refusal                  24.4               13.5          23.0               9.9            29.1          1,290
+ Non response                          15.9                8.2          12.1               7.8            56.1            227
+1 The total number of eligible responders to this question was 221,936.
+Source: Integrated Household Survey, Office for National Statistics
+                                                                                     Office for National Statistics       18
+
+                                                                    Measuring Sexual Identity: An Evaluation Report
+        Education and Employment
+        Tables 13 and 14 below provide information on highest qualification and economic activity
+        respectively.
+        Key findings:
+             • In April 2009 to March 2010, people (aged 16 and over) who identified themselves as gay or
+               lesbian tended to be educated to a higher level than those who identified as either
+               heterosexual or bisexual
+             • 38.1 per cent of gay/lesbian respondents were educated to degree level or higher, compared
+               with 23.5 per cent of Bisexual respondents and 21.9 per cent of heterosexual respondents
+             • 11.8 per cent of gay/lesbian respondents had qualifications above A’ level or equivalent but
+               below degree level, such as NVQ level 4. This compares with 9.5 per cent of heterosexual
+               respondents and 8.6 per cent of bisexual respondents
+             • At the other end of the educational scale, heterosexuals were more likely to have no formal
+               qualifications - 13.2 per cent of heterosexual respondents had no formal qualifications. This
+               compares with 12.3 per cent of bisexual respondents and just 5.7 per cent of gay/lesbian
+               respondents.
+        Table 13              Sexual identity by highest qualification, April 2009 to March
+                              2010
+        United Kingdom                                                                                       Percentages
+                                                                               O level,
+                            Degree level                                     GCSE or
+                           qualification,          Higher                  equivalent                                              Total
+                                       or      education      A level or      (Grades             Other         No formal   (Thousands)
+                              equivalent    qualification1   equivalent       A* to C)   qualifications2    qualifications      (=100%)
+Heterosexual/Straight               21.9               9.5          14.9          21.0              19.6              13.2       40,447
+Gay/Lesbian/Bisexual                33.3              10.8          15.4          17.6              14.9                7.9         691
+ Gay/Lesbian                        38.1              11.8          14.5          17.1              12.8                5.7         465
+ Bisexual                           23.5               8.6          17.4          18.8              19.4              12.3          226
+Other                               21.3               8.0          12.0          18.0              20.6              20.0          194
+Don't know / Refusal                21.7               7.3          14.1          21.3              18.1              17.4        1,116
+Non response                        19.5               7.7          23.9          24.3              14.2              10.4          228
+        1 Below degree level but including National Vocational Qualification (NVQ) level 4.
+        2 Including O level and GCSE qualifications below Grade C.
+        3 The total number of eligible responders to this question was 194,680.
+        Source: Integrated Household Survey, Office for National Statistics
+        These differences in educational attainment are reflected in the findings from the IHS on both
+        employment and socio-economic class. Table 14 shows that:
+               •    More than two-thirds (68.6 per cent) of heterosexual/straight respondents aged 16 to 64
+                    were in employment compared with a slightly higher estimate for gay/lesbian respondents
+                    (74.8 per cent) and a lower estimate for bisexual respondents (63.0 per cent)
+                                                                                             Office for National Statistics   19
+
+                                                             Measuring Sexual Identity: An Evaluation Report
+        •   Gay/lesbian and heterosexual/straight respondents had similar unemployment rates (8.4
+            per cent and 8.6 per cent respectively) whereas bisexual respondents had a higher
+            unemployment rate at 12.6 per cent
+        •   Almost one-quarter (24.8 per cent) of heterosexual respondents were economically
+            inactive, compared with 27.8 per cent of bisexual respondents and 18.4 per cent of those
+            aged 16 to 64 who identified as LGB
+  Table 14 Sexual identity by economic activity status1, April 2009 to
+   March 2010
+United Kingdom                                                                                        Percentages
+                                         In Employment              Unemployment                  Economically
+                                                    (16–64)2                     (16+)2        inactive2 (16–64)
+  Heterosexual/Straight                                  68.6                       8.6                         24.8
+  Gay/Lesbian/Bisexual                                   71.0                       9.6                         21.4
+     Gay/Lesbian                                         74.8                       8.4                         18.4
+     Bisexual                                            63.0                      12.6                         27.8
+  Other                                                  60.5                      13.5                         29.9
+  Don't know / Refusal                                   62.9                       9.8                         30.2
+  Non response                                           71.4                      11.7                         19.1
+1 The headline employment and inactivity rates are based on the population aged 16–64 but the headline unemployment
+rate is based on the economically active population aged 16 and over. The employment and inactivity rates for those
+aged 16 and over are affected by the inclusion of the retired population in the denominators and are therefore less
+meaningful than the rates for those aged 16–64. However, for the unemployment rate for those aged 16 and over, no
+such effect occurs as the denominator for the unemployment rate is the economically active population which only
+includes people in work or actively seeking and able to work.
+2 The data do not sum to 100 per cent because 'in employment' and 'economically inactive' are calculated using a
+different base than 'unemployment'.
+3 The estimates of economic activity rates in this table exclude proxy responses and, therefore, will differ from those from
+the Annual Population Survey (APS) or Labour Force Survey (LFS) which provide the National Statistics for employment,
+unemployment and inactivity estimates.
+4 The total number of eligible responders to this question was 238,206.
+Source: Integrated Household Survey, Office for National Statistics
+                                                                                      Office for National Statistics       20
+
+                                                                   Measuring Sexual Identity: An Evaluation Report
+Household
+Heterosexual or bisexual respondents were much more likely to be in a formally registered
+relationship such as marriage or civil partnership than those who identify as gay or lesbian 13 (see
+table 15). The data show that:
+        •     Around half (48.2 per cent) of the heterosexual respondents were married and living with
+              their spouse, compared with one-fifth (19.1 per cent) of those who identified as LGB
+        •     11.8 per cent of those respondents who identified as LGB were, or had previously been,
+              in a legally recognised Civil Partnership
+Table 15                 Sexual identity by legal marital status, April 2009 to March
+                         2010
+United Kingdom                                                                                                   Percentages
+                                                                                                              Currently
+                                              Married,        Married,                                                 or
+                                  Single          living    separated                                       previously                Total
+                                  (never            with          from                                         in a civil    (Thousands)
+                               married)        spouse          spouse        Divorced     Widowed         partnership              (=100%)
+Heterosexual/straight                32.5           48.2            3.0              9.1          7.2                <0.1            46,922
+Gay/Lesbian/Bisexual                 61.7           19.1             1.3             5.4          0.7                11.8                727
+Other                                36.9           40.5             4.3             7.5         10.2                 0.6                242
+Don't know / Refusal                 41.1           35.9             3.2             7.5         12.1                 0.1             1,394
+Non response                         52.3           40.9            1.3              4.3          1.0                 0.2                233
+1 The total number of eligible responders to this question was 238,206.
+Source: Integrated Household Survey, Office for National Statistics
+People (aged 16 and over) who were not married and living with their spouse or in a current civil
+partnership were then asked whether or not they were living with another person as part of a
+couple. Table 16 shows that a higher proportion of gay/lesbian and bisexual respondents who were
+not in a current civil partnership or married and living with their spouse were living with someone as
+a couple compared with heterosexuals. The data show that:
+        •     45.8 per cent of gay/lesbian and bisexual respondents not in a current civil partnership or
+              married and living with their spouse lived as part of a couple
+13
+   There was a discrepancy in that some individuals reported to be heterosexual but also that they were in a same-sex civil partnership
+at this question. This occurred in a very small proportion of respondents (of less than 0.1 per cent) but it raises questions of whether
+some individuals are misinterpreting either the terms heterosexual or civil partnership.
+                                                                                               Office for National Statistics        21
+
+                                                            Measuring Sexual Identity: An Evaluation Report
+       •    34.6 per cent of heterosexual respondents not married and living with their spouse lived
+            as part of a couple
+Table 16              Sexual identity by whether or not cohabiting, April 2009 to
+                      March 2010
+United Kingdom                                                                      Percentages
+                                                                                             Total (Thousands)
+                                            Cohabiting              Not cohabiting                         (=100%)
+ Heterosexual/Straight                               34.6                           65.4                     15,461
+ Gay/Lesbian/Bisexual                                45.8                           54.2                         318
+ Other                                               23.5                           76.5                            72
+ Don't know / Refusal                                17.2                           82.8                         514
+ Non response                                        20.2                           79.8                         136
+1 People living as a couple who are not married to each other or in a civil partnership together.
+2 The total number of eligible responders to this question was 62,355.
+Source: Integrated Household Survey, Office for National Statistics
+Similar proportions of heterosexual and bisexual respondents lived in households where one or
+more dependent children were present, but a lower percentage of gay or lesbian respondents lived
+in households where dependent children were present:
+       •    34.1 per cent of heterosexual respondents lived in a household with at least one
+            dependent child present
+       •    8.6 per cent of gay or lesbian respondents lived in a household with at least one
+            dependent child present
+       •    30 per cent of bisexual respondents lived in a household with at least one dependent
+            child present
+                                                                                       Office for National Statistics  22
+
+                                                            Measuring Sexual Identity: An Evaluation Report
+Table 17              Sexual identity by whether or not there are dependent
+                      children1 in the household, April 2009 to March 2010
+United Kingdom                                                                     Percentages
+                                                                        No dependent                            Total
+                                 Dependent children in                  children in the              (Thousands)
+                                           the household                    household                       (=100%)
+ Heterosexual/Straight                                   34.1                           65.9                  46,922
+ Gay/Lesbian/Bisexual                                    15.8                           84.2                      727
+    Gay/Lesbian                                            8.6                          91.4                      481
+    Bisexual                                             30.0                           70.0                      245
+ Other                                                   26.9                           73.1                      242
+ Don't know / Refusal                                    28.5                           71.5                   1,394
+ Non response                                            40.4                           59.6                      233
+1 A dependent child is a child under the age of 16 or under the age of 18 and in full time education and living in a family
+with their parent(s).
+2 The total number of eligible responders to this question was 238,206.
+Source: Integrated Household Survey, Office for National Statistics
+Health
+The IHS asks a selection of questions concerning health. Table 18 shows that similar proportions
+of adults who identified as LGB and adults who identified as heterosexual were likely to report
+being in perceived good health:
+       •     78.8 per cent of heterosexual respondents aged 16 and over felt they were in good
+             health, compared with 78.1 per cent of LGB respondents
+       •     However, 80.4 per cent of gay and lesbian respondents said that they were in good
+             health compared with 73.6 per cent of bisexual respondents
+                                                                                        Office for National Statistics     23
+
+                                                            Measuring Sexual Identity: An Evaluation Report
+Table 18 Sexual identity by whether or not in perceived good health,
+April 2009 to March 2010
+United Kingdom                                                                  Percentages
+                                                                                           Total (Thousands)
+                                                                 Yes              No                     (=100%)
+ Heterosexual/Straight                                          78.8            21.2                       42,031
+ Gay/Lesbian/Bisexual                                           78.1            21.9                           651
+    Gay/Lesbian                                                 80.4            19.6                           432
+    Bisexual                                                    73.6            26.4                           219
+ Other                                                          72.8            27.2                           212
+ Don't know / Refusal                                           74.5            25.5                        1,156
+ Non response                                                   86.5            13.5                           152
+1 The total number of eligible responders to this question was 197,163.
+Source: Integrated Household Survey, Office for National Statistics
+Adults aged 18 and over who identified as LGB were more likely to be smokers, or to have smoked
+in the past, than those who identified as heterosexual or straight:
+       •    22.7 per cent of heterosexual respondents reported to currently smoke cigarettes and
+            34.9 per cent as ex-smokers. In comparison, 33.3 per cent of people who identified as
+            LGB currently smoked and 32.4 per cent were ex-smokers
+       •    42.4 per cent of adults who identified as heterosexual have never smoked, compared
+            with 34.3 per cent of people who identified as LGB
+       •    Adults aged 18 and over who identified as bisexual were less likely to smoke than those
+            who identified as gay or lesbian: 39.8 per cent of bisexual respondents had never
+            smoked compared with 31.5 per cent of gay and lesbian respondents
+Table 19             Sexual identity by whether or not smokes cigarettes, April
+                     2009 to March 2010
+United Kingdom                                                                  Percentages
+                                            Currently                                                         Total
+                                              smokes                                   Never        (Thousands)
+                                           cigarettes        Ex-smoker              smoked               (=100%)
+ Heterosexual/Straight                            22.7               34.9                42.4              40,689
+ Gay/Lesbian/Bisexual                             33.3               32.4                34.3                  637
+    Gay/Lesbian                                   35.0               33.5                31.5                  423
+    Bisexual                                      30.0               30.2                39.8                  214
+ Other                                            26.7               28.9                44.3                  207
+ Don't know / Refusal                             19.2               30.1                50.7               1,089
+ Non response                                     22.2               27.2                50.6                  143
+1 The total number of eligible responders to this question was 195,160.
+Source: Integrated Household Survey, Office for National Statistics
+                                                                                     Office for National Statistics 24
+
+                                                            Measuring Sexual Identity: An Evaluation Report
+Geography
+Table 20 below shows the proportions of the population who identify as LGB within each
+Government Office Region in England and constituent countries of the UK. We do not recommend
+analysis below GOR due to small sample sizes. Sub-regional estimates are likely to be available
+from 2012 at the earliest through pooling data across a number of years.
+Table 20             Sexual identity by Government Office Region in England
+                     and countries of the UK, April 2009 to March 2010
+United Kingdom                                                                  Percentages
+                                                                                         Don't
+                            Heterosexual/          Gay/Lesbian/                         know /            Non
+                                Straight              Bisexual          Other          Refusal        response
+  North East                             96.7                    1.1          0.5              1.3              0.4
+  North West                             95.5                    1.5          0.3              2.2              0.4
+  Yorkshire and
+                                         95.4                    1.5          0.5              2.1              0.4
+  The Humber
+  East Midlands                          96.0                    1.1          0.4              2.3              0.3
+  West Midlands                          93.3                    1.2          0.7              4.3              0.5
+  East of England                        95.0                    1.1          0.4              3.2              0.3
+  London                                 92.3                    2.2          0.6              4.2              0.6
+  South East                             94.7                    1.5          0.6              2.8              0.5
+  South West                             95.4                    1.8          0.4              2.0              0.4
+  Wales                                  95.6                    1.3          0.4              1.9              0.8
+  Scotland                               95.7                    1.3          0.3              2.0              0.6
+  Northern Ireland                       92.4                    0.9          0.4              5.3              1.0
+  Total
+  (Thousands)                         46,922                     727         242            1,394              233
+  (=100%)
+1 The total number of eligible responders to this question was 238,206.
+Source: Integrated Household Survey, Office for National Statistics
+Key findings
+       •    London had the largest proportion of adults identifying as LGB (2.2 per cent), followed by
+            the South West, at 1.8 per cent
+       •    In both Wales and Scotland 1.3 per cent of respondents identified as LGB
+       •    Northern Ireland had the lowest proportion of adults identifying as LGB in the UK at just
+            0.9 per cent
+                                                                                     Office for National Statistics 25
+
+                                                     Measuring Sexual Identity: An Evaluation Report
+7. Conclusion
+The publication of the first year's data on sexual identity marks a key achievement in improving
+equality statistics. It addresses one of the gaps identified in the ONS-led Equality Data Review in
+2007 and provides important statistical evidence in support of the equality agenda.
+The introduction of the sexual identity question on the IHS in January 2009 followed rigorous
+testing and feasibility testing by ONS. The findings of this report suggest its implementation on the
+IHS in the first year has been a success.
+The IHS results for April 2009 to March 2010 show one and a half percent of the population identify
+as LGB. This is based on a measure of self perceived sexual identity, that is how individuals think
+of themselves. This estimate is broadly consistent with other comparable surveys in the UK, which
+suggests it provides a reliable benchmark. There may be differences with estimates from surveys
+which measure other aspects of sexual orientation such as behaviour and attraction.
+There is no evidence of an adverse impact on response rates confirming the general acceptance of
+the question. Our analysis suggests response rates are broadly in line with earlier quantitative
+testing. Non response to the question was low with less than 4 per cent of eligible respondents
+refusing to answer, saying they did not know the answer or not providing a response.
+An initial analysis of the characteristics of those identifying as lesbian, gay or bisexual shows that
+the LGB population have a younger age distribution than heterosexuals. Those who identified as
+gay or lesbian were more likely to be men whereas those who identified as bisexual were more
+likely to be women. Those who identify as gay or lesbian were more likely to be in managerial or
+professional classifications, employed and qualified to a higher degree. Similar proportions of those
+who identify as LGB and heterosexuals were in perceived good health although the former were
+more likely to smoke, or have smoked in the past.
+                                                                              Office for National Statistics 26
+
+                                                  Measuring Sexual Identity: An Evaluation Report
+References
+Aspinall, P.J., (2009). Estimating the size and composition of the lesbian, gay, and bisexual
+population in Britain. Research report: 37.
+Manchester: Equality and Human Rights Commission
+Betts, P 2008, Developing survey questions on sexual identity: UK experiences of administering
+survey questions on sexual identity /orientation. London: Office for National Statistics
+Betts, P., Wilmot, A., & Taylor, T. (2008). Developing survey questions on sexual identity:
+Exploratory focus groups. London: Office for National Statistics.
+Betts, P 2008, Developing survey questions on sexual identity: Cognitive/in-depth interviews.
+London: Office for National Statistics
+DTI, Final Regulatory Impact Assessment: Civil Partnership Act 2004
+http://webarchive.nationalarchives.gov.uk/+/http://www.berr.gov.uk/files/file24232.pdf
+Gulloy, E., Norman,TM (2010), Rapport 2010/38: Sexual identity and living conditions. Evaluation
+of the relevance of living conditions and data collection
+Haseldon, L. and Joloza, T. (2009) Measuring sexual identity: A guide for
+researchers. Newport: Office for National Statistics
+Janus, S., and Janus, C. The Janus Report on Sexual Behavior. 1993. New York: John Wiley &
+Sons.
+Johnson et al, 2001, Sexual behaviour in Britain: Partnerships, Practices and HIV Risk Behaviours,
+The Lancet, Volume 358, Number 9296, Dec 1, 2001, pp 1835-42
+Joloza, T., Traynor, J., & Haselden, L. (2009). Developing survey questions on sexual identity:
+Report on the General Lifestyle (GLF) split-sample pilot. Newport: Office for National Statistics.
+Malagoda, M., Traynor, J. 2008. Developing survey questions on sexual
+identity: Report on National Statistics Omnibus Trial 4. London: Office for
+National Statistics (Sexual Identity Project)
+National Survey of Sexual Attitudes and Lifestyles II, 2000-2001
+(NATSAL II; NATSAL 2000)
+Reiter L ,1989, "Sexual orientation, sexual identity, and the question of choice". Clinical Social
+Work Journal 17: 138–50.
+                                                                           Office for National Statistics 27
+
+                                                  Measuring Sexual Identity: An Evaluation Report
+Taylor, 2008, Developing survey questions on sexual identity: International organisations’
+experiences of administering questions on sexual identity /orientation. London: Office for National
+Statistics
+Traynor, J. (2008). Developing survey questions on sexual orientation: Preliminary report on
+National Statistics GLF split sample trial. London: Office for National Statistics.
+US Voter News Service1996 and 2000 cited in BERR’s Amendment to Employment Equality
+(Sexual Orientation) Regulations 2003 Full Regulatory Impact Assessment
+http://webarchive.nationalarchives.gov.uk/+/http://www.berr.gov.uk/files/file24232.pdf
+Yankelovich Monitor Research (1994) cited in BERR’s Amendment to Employment Equality
+(Sexual Orientation) Regulations 2003 Full Regulatory Impact Assessment
+http://webarchive.nationalarchives.gov.uk/+/http://www.berr.gov.uk/files/file24232.pdf
+                                                                           Office for National Statistics 28
+

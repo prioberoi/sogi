@@ -1,0 +1,282 @@
+             Measuring Sexual Orientation and Gender
+            Expression Among Middle-Aged and Older
+                     Women in a Cancer Screening Study
+     MELISSA A. CLARK, PHD, GENE ARMSTRONG, BA, LAURA BONACORE, BS
+                 Abstract—Background. The Cancer Screening Project for Women is about the experiences of
+                 legally unmarried women aged 40 to 75 years. Methods. Prior to the implementation of a survey of
+                 experiences with breast, cervical, and colorectal cancer screenings, we used cognitive-based in-
+                 terviewing to evaluate questions for measuring sexual orientation and gender expression. Results.
+                 We conducted interviews with 40 women, 19 who partner with women and 21 who partner with
+                 men. Interviews highlighted respondent confusion, clarified the meaning of terms, and improved
+                 the comprehension and utility of questions. Conclusions. Cognitive interview techniques can im-
+                 prove the validity and reliability of data collected by cancer screening programs. J Cancer Educ.
+                 2005;20:108-112.
+T
+         he Cancer Screening Project for Women is a study                      dimensional construct that includes developmental, psy-
+         about the experiences of legally unmarried middle-                    chosocial, and cultural perspectives.8-10
+         aged and older women undergoing breast, cervical,                         To date, there is no consensus about how to measure sex-
+and colorectal cancer screening. The designation of “unmar-                    ual orientation and gender expression. In 1999, an Institute
+ried” refers to women who are currently divorced, separated,                   of Medicine committee concluded that consensus on these
+widowed, or never married.                                                     types of measures may not be appropriate.11 Rather, they rec-
+    Although an important segment of the unmarried female                      ommended using measures that gather information that is
+population includes sexual minority women (eg, lesbians                        relevant to a specific project. This flexible approach accepts
+and bisexuals), women are routinely presumed to be exclu-                      the complexity of the constructs and the social context in
+sively heterosexual. Studies that have specifically included                   which they are embedded.
+sexual minority women suggest that they may be an under-                           In this article, we describe the methods and results of cog-
+served, at-risk population with unique barriers to obtaining                   nitive-based interviewing used to evaluate questions for
+health care.1-4                                                                measuring sexual orientation and gender expression prior to
+    By better understanding important subgroups of women,                      the implementation of a survey of experiences and potential
+cancer screening programs can be tailored to be both more                      risk factors associated with cancer screenings among unmar-
+appropriate and cost effective. Although there are many                        ried women. Cognitive interview techniques are a valuable
+ways of characterizing the diversity of women, sexual orien-                   part of the formative evaluation process.12-15 When used in
+tation and gender expression are 2 characteristics that may                    early phases of survey development, these techniques can re-
+be particularly useful in describing subgroups of unmarried                    duce response errors that occur as a result of alternative in-
+women. Sexual orientation is most often described as includ-                   terpretations of questions.12,13 Unlike traditional methods of
+ing behavioral, affective (ie, desire or attraction), and cogni-               pilot testing that do not reveal problems with wording and
+tive (ie, identity) dimensions that occur along a continua.5-7                 language, cognitive-based interviews allow key words and
+Women may report different degrees and varying combina-                        phrases that are most relevant and meaningful to emerge
+tions of same-sex sexual behavior, desire, or identity. Simi-                  from the target population’s perspective.
+larly, gender expression has been conceptualized as a multi-
+                                                                                            MATERIALS AND METHODS
+    Received from the Department of Community Health and Center for
+Gerontology and Health Care Research, Brown University (MAC, GA,                                     Sample and Recruitment
+LB).
+    Supported by a grant from the National Cancer Institute, K07-              Recruitment and Eligibility
+CA87070.
+    Address correspondence and reprint requests to: Melissa A. Clark, PhD,
+Center for Gerontology & Health Care Research, Brown University, Box
+                                                                                   To facilitate recruitment, members of the research team
+G-B2, Providence, RI 02912; phone: (401) 863-3170; fax: (401) 863-7912;        met with key community leaders (for details about commu-
+e-mail: <Melissa_Clark@brown.edu>.                                             nity leader participation, see Clark et al16). Using informa-
+                                                                           108
+
+tion from these leaders, a recruitment coordinator met with     children (13/21) than WPW (6/19). Among previously mar-
+several different social groups and community organizations     ried women, 13 of 16 WPM and 4 of 8 WPW had children.
+and attended health fairs. Women were eligible if they were     Among those who were never married, 2 of 11 WPW and 0
+not legally married, were between the ages of 40 and 75, and    of 5 WPM had children. An additional 5 women were
+received the majority of their health care in Rhode Island.     screened for eligibility but declined participation. Among
+Women with a personal history of cancer other than non-         those who declined, 3 were WPW and 2 were WPM. The av-
+melanoma skin cancer were excluded.                             erage age of nonparticipants was 47.6 years.
+    In a screening protocol, women were asked the gender of
+their current partner or gender preference of a partner if they      Measures of Sexual Orientation and Gender Expression
+were to be in a relationship (question wording available on
+request). Based on the answers to these screening questions,        Table 1 provides examples of how results from the cogni-
+potential participants were categorized into 1 of 4 groups: (1) tive-based interviews were incorporated into measures of
+never-married women who partner with women [WPW] or             sexual orientation and gender expression.
+with both women and men [WPWM], (2) previously mar-
+ried women who partner with women [WPW] or with both                             Sexual Orientation: Attraction
+women and men [WPWM], (3) never-married women who
+partner with men [WPM], and (4) previously married wom-             In measuring the attraction component of sexual orienta-
+en who partner with men [WPM].                                  tion, previous studies have focused on sexual desire or attrac-
+                                                                tion.5,17 Based on feedback from community leaders and fo-
+                                Data Collection                 cus groups conducted in the first phase of our project,16 we
+                                                                chose to ask women about physical rather than sexual attrac-
+    Interviews were conducted in the Summer and Fall of         tion (see Table 1, first row).
+2002 at locations designated by the participant. The inter-         Although the majority of women (80%) provided a defi-
+views lasted an average of 1½ hours. Prior to the start of each nition of attraction that included sexual intimacy, we re-
+interview, women completed a 1-page background question-        tained the broader concept of physical attraction. As has
+naire. Each participant was paid $20.00 at the end of the in-   been noted by other investigators,18-20 our data indicate that
+terview. The Brown University Institutional Review Board        focusing only on sexual attraction ignores other factors that
+approved the protocol.                                          may be particularly important for middle-aged and older
+    An interviewer trained in cognitive interview techniques    women such as affection, affiliation, and emotional prefer-
+conducted the interviews. All interviews were audiotaped        ence. This is exemplified by a previously married woman
+with the signed consent of participants. The interviews were    who was classified as a WPW during screening: “I’m a person
+conducted using an iterative process during 4 separate phases   who, I love women, I much prefer being with women than
+of instrument development. As necessary, questions were re-     men. I don’t desire women sexually, I’ve never had a sexual
+vised after each phase in response to participant feedback.     experience with a woman and don’t plan to, but I certainly
+                                                                love women and enjoy their company.” Also, whereas sev-
+                                 Data Analysis                  eral women indicated that they were in satisfying sexual re-
+                                                                lationships, similar to other studies,19,21,22 other women
+    The data were analyzed in a sequential process. First, re-  commented that sexual intimacy was less important to them
+sponses to each item were examined for emerging themes          as they grew older because of personal health problems or
+and dominant trends across interviews. Second, discrepan-       loss of a partner.
+cies in respondent’s answers to similar items were examined.
+Third, respondent’s interpretations of each item were sum-                         Sexual Orientation: Identity
+marized. Finally, each participant’s responses to and inter-
+pretation of particular items were evaluated in the context of      We initially tested a question to measure the identity
+the entire interview.                                           component of sexual orientation that was similar to one used
+                                                                by Laumann et al.5 Our first modifications prior to conduct-
+                                  RESULTS                       ing the cognitive interviews were the addition of (1) a “not
+                                                                sure” response option and (2) more descriptors to the avail-
+                              Study Participants                able response options (ie, lesbian and gay were added to the
+                                                                category of homosexual; see Table 1, second row).
+    A total of 40 women participated in the cognitive-based         Two major problems with this question were identified in
+interviews: 19 WPW and 21 WPM. Participants had a mean          the interviews. First, some respondents expressed difficulty
+age of 55.0 years, were predominantly White (39/40), highly     in choosing 1 response option. This is exemplified by the fol-
+educated (38/40 some college or more), working for pay (27/     lowing participants:
+40), and currently insured (36/40). The WPM were more
+likely to live alone (13/21), and WPW were more likely to       Never married WPW: “My first answer would be I’m not sure
+live with a partner (11/19). WPM were more likely to have       and my second would be bisexual.”
+Journal of Cancer Education 2005, Volume 20, Number 2                                                                      109
+
+                                        TABLE 1. Measures of Sexual Orientation and Gender Expression: Results from Cognitive-Based Interviews
+                                                                Problems Uncovered
+      Original Question                                        by Cognitive Interviews                          Revised Question                                    Conclusions
+      Sexual Orientation: Attraction
+        People differ in their physical attraction   Respondents requested clarifaction of what    People differ in their physical attraction to   When asked to define the term physical
+          to other people. Which statement best       type of attraction was being asked about       other people. Which statement best             attraction, answers included sexual,
+          describes your feelings? Would you say      (ie, appeared to have not heard the word       describes your feelings? Would you say …       chemical, and erotic examples.
+          …                                           physical in question stem).                    Only physically attracted to women            Although the definition of physical
+          Only attracted to women                                                                    Mostly physically attracted to women           attraction included sexual intimacy for
+          Mostly attracted to women                                                                  Equally physically attracted to women          the majority of women, it also included
+          Equally attracted to women and men                                                           and men                                      other factors such as affection, affiliation,
+          Mostly attracted to men                                                                    Mostly physically attracted to men             and emotional preference.
+          Only attracted to men                                                                      Only physically attracted to men
+          Not sure                                                                                   Not sure
+          None of the statements describe your                                                       None of the statements describe your
+            feelings                                                                                   feelings
+      Sexual Orientation: Identity
+        How do you think of yourself? Would you      Respondents exhibited some difficulty in      The next question is about how do you           The majority of respondents preferred the
+          say…                                        choosing only one answer.                     think of yourself? Please answer all that       revised question or had no preference,
+          Lesbian, gay or homosexual                 Respondents requested clarification about      apply to you.                                   although it included categories reflective
+110       Straight or heterosexual                    the category of “something else.”             Lesbian, gay or homosexual                      of sexual orientation and gender identity.
+          Bisexual                                                                                  Straight or heterosexual                       Answers to the last category (think of
+          Not sure                                                                                  Bisexual                                        yourself in different terms) included
+          Something else (please describe)                                                          Transgendered                                   asexual, questioning, and cross dresser.
+                                                                                                    Not sure
+                                                                                                    You think of yourself in different terms
+                                                                                                      (please describe)
+      Gender expression
+       How would you describe yourself? Would        Respondents expressed confusion if the          A woman’s appearance, style or dress may      The question was clarified to indicate that it
+         you say …                                    question referred to a self-perception or       affect the way people think of her. How       is about the perception of others.
+         Very masculine                               how others perceived them.                      do you think people describe your            With respect to obtaining health care,
+         Mostly masculine                            Respondents had variable definitions of          appearance, style or dress? Would you         respondents indicated that a question
+         Equally feminine and masculine               feminine and masculine. For some, the           say …                                         focusing on visual appearance was more
+         Mostly feminine                              terms referred to interpersonal qualities       Very masculine                                relevant than one about interpersonal
+         Very feminine                                such as degree of assertiveness, strength,      Mostly masculine                              qualities.
+         Not sure                                     and compassion. For others, the terms           Equally feminine and masculine               Although a few women used descriptions of
+         None of the statements describe how          referred to appearance and forms of dress.      Mostly feminine                               “butch” and “fem,” these terms did not
+           you think of yourself                                                                      Very feminine                                 resonate with most respondents.
+                                                                                                      Not sure
+                                                                                                      None of the statements describe how
+                                                                                                         you think of yourself
+
+    Previously married WPW who identified as transsexual:             Similarly, a never married WPW provided a representa-
+“I’m in a relationship with another woman and I’m more at-        tive definition of masculine: “A certain look that some les-
+tracted to women. I’m kind of vacillating whether I’d answer      bian girl friends of mine happen to have and I don’t know
+lesbian or bisexual. And I know some women who identify as        how to describe it. It’s from the shoes, from the masculinity
+lesbian but also think of themselves as transgendered.”           of the shoes to the haircut.”
+    Therefore, in subsequent revisions, we included a cate-           When we probed respondents about what they thought
+gory for transgendered and changed the question to reflect        was most important with regard to how they were perceived
+multiple possible response options (per respondent sugges-        by others in health care settings, the majority thought that
+tions). When asked in subsequent interviews if they pre-          visual appearance was more relevant than interpersonal
+ferred the original or revised question, the majority preferred   qualities, as illustrated by a never-married WPM: “What I
+the revised approach or had no preference. This is despite        think of is how important one’s appearance is in receiving
+the fact that the revised question included categories reflec-    any service, be it medical or otherwise. There is that issue
+tive of both sexual orientation and gender identity.              about being quote unquote, written off … there’s less of an
+    The second major problem involved the response option         interest in fixing you, making you better and so forth.”
+“something else.” Initial respondents requested clarification         Using the revised question about appearance, style,
+about the intent of this category. Therefore, we revised this     and dress, we also considered response options of “butch”
+response option to “you think of yourself in different terms.”    and “femme.” However, these descriptions were only used
+When we probed on the new response option, answers in-            by 3 WPW and 4 WPM and did not resonate with most
+cluded asexual (12%), questioning (9%), and cross dresser         respondents.
+(3%).
+                                                                                          DISCUSSION
+                              Gender Expression
+                                                                      We used cognitive-based interviewing techniques to
+    To our knowledge, the majority of work about gender ex-
+                                                                  evaluate measures of sexual orientation and gender expres-
+pression has used multiple questions to capture the con-
+                                                                  sion. To our knowledge, this is the first study to report de-
+struct. Due to restrictions in the length of our questionnaire,
+                                                                  scriptive results for these measures among middle-aged and
+we initially used a single question that asked respondents to
+                                                                  older women. Cognitive interviews were useful in highlight-
+describe themselves on a scale from very masculine to very
+                                                                  ing respondent confusion, clarifying the meaning of particu-
+feminine (see Table 1, third row). However, there were a
+                                                                  lar terms, and improving the comprehension of the ques-
+number of problems with this initial question. First, respon-
+                                                                  tions. The data illustrate the potential for bridging the gap
+dents expressed confusion as to whether the question re-
+                                                                  between standard interview questions and questions that are
+ferred to a self-perception or a reflection of how they thought
+                                                                  relevant for underrepresented communities.
+others perceived them. This is illustrated by a Previously
+                                                                      There are barriers to using cognitive-based interviewing
+married WPM: “I’m built very muscularly, I’m very strong, I
+                                                                  techniques. First, causal relationships cannot be determined.
+have a body like a football player. Some people would con-
+                                                                  Second, cognitive interviewing can be time consuming and
+sider these to be masculine traits. Physically, I’m not femi-
+                                                                  costly. The interviewing process requires time to prepare the
+nine quote looking, but I am very feminine—in my personal-
+                                                                  instrument, conduct the interviews, write up the results of
+ity, in my likes and dislikes, in the way I think.” Therefore, in
+                                                                  each interview, and revise the instrument as necessary. Fur-
+subsequent revisions, we clarified the question to indicate
+                                                                  thermore, interviewers must be trained to use cognitive-
+that it was about the perception of others.
+                                                                  based techniques, which can add time and costs to a project.
+    Second, as has been demonstrated by others,8,10,23 when
+                                                                  Third, the interviewing process can be much more cog-
+asked to provide their definitions of feminine and masculine,
+                                                                  nitively demanding for participants than traditional inter-
+women provided variable responses. Some respondents re-
+                                                                  viewing techniques. Finally, it is impossible to determine the
+ferred to interpersonal qualities (i.e., assertiveness, strength,
+                                                                  true reduction in response errors by employing cognitive in-
+or compassion) whereas others referred to appearance and
+                                                                  terviewing techniques.24,25 This is particularly relevant in
+dress. For example, definitions of feminine were exemplified
+                                                                  this study because the questions we evaluated did not have a
+by the following participants:
+                                                                  criterion measure with which to compare. It was impossible
+                                                                  to compare the true value of a respondent’s status (ie, crite-
+Previously married WPM: “Very feminine conjures up not            rion measure) with answers obtained in the interviews.
+very bright, not strong, person who’s a follower, manipulat-          There are also a number of other limitations specific to
+ing to get through life.”                                         this study. First, we had a small, nonrandom, convenience
+                                                                  sample. Therefore, results may not be generalizable to other
+    Never married WPW: “If you’re equating feminine with          populations. Second, although efforts were made to increase
+pink, and skirts, and heels then I dress masculine since all      minority participation in the study, only limited success was
+those things are not a part of my psyche. I hate the color        achieved in recruiting women of color. Finally, we did not in-
+pink.”                                                            clude questions about current or previous sexual behaviors.
+Journal of Cancer Education 2005, Volume 20, Number 2                                                                       111
+
+   Despite these limitations, our experiences suggest that                  12. Jobe JB, Mingay DJ. Cognitive research improves questionnaires. Am
+                                                                                J Public Health. 1989;79:1053-1055.
+cognitive interview techniques may be useful for improving
+                                                                            13. Alaimo K, Olson C, Frongillo E. Importance of cognitive testing for
+the validity and reliability of data collected by cancer                        survey items: an example from food security questionnaires. J Nutr
+screening programs. These techniques recognize and address                      Educ. 1999;31:269-275.
+potential investigator biases and assumptions. This may in-                 14. Sudman S, Bradburn N, Schwartz N. Thinking About Answers: The
+crease the number of persons from underrepresented com-                         Application of Cognitive Processes to Survey Methodology. San
+                                                                                Fransisco, CA: Jossey-Bass; 1995.
+munities who agree to participate in research studies.
+                                                                            15. Carbone ET, Campbell MK, Honess-Morreale L. Use of cognitive in-
+                                                                                terview techniques in the development of nutrition surveys and in-
+                               References                                       teractive nutrition messages for low-income populations. J Am Diet
+                                                                                Assoc. 2002;102:690-696.
+  1. O’Hanlon KA. Lesbian health and homophobia: perspectives for the       16. Clark MA, Bonacore L, Wright SJ, Armstrong G, Rakowski W. The
+     treating obstetrician/gynecologist. Curr Probl Obstet Gynecol Fertil.      cancer screening project for women: experiences of women who part-
+     1995;18:93-136.                                                            ner with women and women who partner with men. Women and
+  2. Robertson MM. Lesbians as an invisible minority in the health ser-         Health. 2003;38(March):19-33.
+     vices arena. Health Care Women Int. 1992;13:155-63.                    17. Hughes TL, Wilsnack SC. Use of alcohol among lesbians: research
+  3. Trippet SE, Bain J. Reasons American lesbians fail to see traditional      and clinical implications. Am J Orthopsychiatry. 1997;67:20-36.
+     care. Health Care Women Int. 1992;13:145-153.                          18. Campbell JM, Huff MS. Sexuality in older women. Gerontol Geriatr
+  4. White JC, Dull VT. Health risk factors and health-seeking behavior         Educ. 1995;16:20-36.
+     in lesbians. J Women’s Health. 1997;6:103-12.                          19. Kingsberg SA. The impact of aging on sexual function in women and
+  5. Laumann EO, Gagnon JH, Michael RT, Michaels S. Homosexuality.              their partners. Arch Sex Behav. 2002;31:431-437.
+     In Laumann EO, Gagnon JH, Michael RT, Michaels S, eds.The social       20. Johnson BK. A correlational framework for understanding sexuality
+     organization of sexuality: Sexual practices in the United States. Chi-     in women age 50 and older. Health Care Women Int. 1998;19:
+     cago, IL: University of Chicago Press; 1994:283-320.                       553-564.
+  6. Berkey BR, Perelman-Hall T, Kurdek LA. The Multidimensional            21. Trudel G, Turgeon L, Piche L. Marital and sexual aspects of old age.
+     Scale of Sexuality. J Homosex. 1990;19(4):67-87.                           Sex Relationship Ther. 2000;15:381-406.
+  7. Ellis L, Burke D, Ames MA. Sexual orientation as a continuous vari-    22. Gott M, Hinchliff S. How important is sex in later life? the views of
+     able: a comparison between the sexes. Arch Sex Behav. 1987;16:             older people. Soc Sci Med. 2003;56:1617-1628.
+     523-529.                                                               23. Ashmore RD, Del Boca FK, Wohlers AJ. Gender stereotypes. In:
+  8. Bem SL. The measurement of psychological androgyny. J Consult              Ashmore RD, Del Boca FK, eds. The Social Psychology of Female-
+     Clin Psychol. 1974;42:155-162.                                             Male Relations: A Critical Analysis of Central Concepts. Orlando,
+  9. Deaux K. Psychological constructions of masculinity and femininity.        FL: Academic Press, Inc; 1986:69-114.
+     In: Reinisch JM, Rosenblum LA, Sanders SA, eds. Masculinity/Femi-      24. Presser S, Rothgeb JM, Couper MP, et al. Methods for Testing and
+     ninity Basic Perspectives. New York: Oxford University Press; 1987:        Evaluating Survey Questionnaires. Hoboken, NJ: John Wiley &
+     289-303.                                                                   Sons; 2004.
+ 10. Ruffing-Rahal MA, Barin LJ, Combs CJ. Gender role orientation as a     25. Willis GB, Royston P, Bercini D. The use of verbal report methods in
+     correlate of perceived health, health behavior, and qualitative well-      the development and testing of survey questionnaires. Appl Cogni-
+     being in older women. J Women Ageing. 1998;10:3-19.                        tive Psychol. 1991;5:251-267.
+ 11. Institute of Medicine. Lesbian Health: Current Assessment and Di-
+     rections for the Future. Washington, DC: National Academy Press;
+     1999.
+112                                                                                  CLARK et al.  n Measuring Sexual Orientation and Gender Expression
+
+

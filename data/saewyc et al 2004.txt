@@ -1,0 +1,862 @@
+                                                                               JOURNAL OF ADOLESCENT HEALTH 2004;35:345.e1
+ORIGINAL ARTICLE
+Measuring Sexual Orientation in Adolescent Health
+Surveys: Evaluation of Eight School-based Surveys
+ELIZABETH M. SAEWYC, PH.D., R.N., P.H.N., GRETA R. BAUER, PH.D., M.P.H.,
+CAROL L. SKAY, Ph.D., LINDA H. BEARINGER, PH.D., M.S., MICHAEL D. RESNICK, Ph.D.,
+ELIZABETH REIS, M.S., AND AILEEN MURPHY, M.A.
+    Purpose: To examine the performance of various items              before use. All three dimensions of orientation should be
+measuring sexual orientation within 8 school-based ado-               assessed where possible; when limited to single items,
+lescent health surveys in the United States and Canada                sexual attraction may be the best choice. Specific word-
+from 1986 through 1999.                                               ing suggestions are offered for future surveys. © Society
+    Methods: Analyses examined nonresponse and un-                    for Adolescent Medicine, 2004
+sure responses to sexual orientation items compared with
+other survey items, demographic differences in re-
+                                                                      KEY WORDS:
+sponses, tests for response set bias, and congruence of
+responses to multiple orientation items; analytical meth-             Adolescent
+                                                                      Health surveys
+ods included frequencies, contingency tables with Chi-                Sexual orientation
+square, and ANOVA with least significant differences                  Homosexuality
+(LSD) post hoc tests; all analyses were conducted sepa-               Bisexuality
+rately by gender.
+    Results: In all surveys, nonresponse rates for orienta-
+tion questions were similar to other sexual questions, but            Monitoring adolescent health and risk behaviors
+not higher; younger students, immigrants, and students                using population-based surveillance methods is im-
+with learning disabilities were more likely to skip items             portant for identifying changing trends, for develop-
+or select “unsure.” Sexual behavior items had the lowest
+                                                                      ing priorities in prevention efforts, and for measur-
+nonresponse, but fewer than half of all students reported
+sexual behavior, limiting its usefulness for indicating
+                                                                      ing progress toward Healthy People 2010 goals [1].
+orientation. Item placement in the survey, wording, and               Certain populations show marked disparities in
+response set bias all appeared to influence nonresponse               health indicators, morbidity, and mortality com-
+and unsure rates.                                                     pared with the general population. Public health
+    Conclusions: Specific recommendations include stan-               goals are focused on directing resources for reducing
+dardizing wording across future surveys, and pilot test-              these health disparities.
+ing items with diverse ages and ethnic groups of teens                   A growing number of studies identify sexual
+                                                                      orientation as a salient characteristic in monitoring
+                                                                      the health of youth and adults, because of health
+    From the Center for Adolescent Nursing, School of Nursing, Uni-
+versity of Minnesota, Minneapolis, Minnesota (E.M.S., G.R.B., C.L.S., disparities linked to sexual minority status [2]. Sex-
+L.H.B.); McCreary Centre Society, Burnaby, British Columbia, Canada   ual minority adolescents (i.e., those who identify as
+(E.M.S., A.M.); Center for Adolescent Health & Development, Preven-   gay, lesbian, or bisexual [GLB], or who report same-
+tion Research Center, Medical School, University of Minnesota, Minne-
+apolis, Minnesota (M.D.R.); and Public Health, Seattle & King County, gender or both-gender romantic attractions or sexual
+Seattle, Washington (E.R.).                                           behaviors) have an increased likelihood of several
+    Address correspondence to: Dr. Elizabeth M. Saewyc, University of health risks compared with heterosexual peers. They
+British Columbia School of Nursing, T201-2211 Wesbrook Mall, Van-
+couver, BC V6T 2B5 Canada. E-mail: saewyc@nursing.ubc.ca              are more likely to experience violence victimization,
+    Manuscript accepted June 3, 2004.                                 such as harassment in school, assault in the commu-
+© Society for Adolescent Medicine, 2004                                                               1054-139X/04/$–see front matter
+Published by Elsevier Inc., 360 Park Avenue South, New York, NY 10010                               doi:10.1016/j.jadohealth.2004.06.002
+
+345.e2    SAEWYC ET AL                                             JOURNAL OF ADOLESCENT HEALTH Vol. 35, No. 4
+nity, forced sexual intercourse, and physical or sex-     who have sex with men (MSM)” and “women who
+ual abuse [3–12]. The violence directed at GLB youth      have sex with women (WSW)” in STD and HIV
+is strongly linked to their stigmatized status. Coping    research, to identify risk behavior rather than sexual
+with stigma, sexual prejudice, and violence can carry     orientation groups per se. Studies report no complete
+a high cost: researchers have noted increased preva-      concordance between sexual attraction, self-labeling,
+lence of smoking, binge drinking, and injection drug      and sexual behavior, especially among youth [7,25].
+use among adolescents reporting same-sex attrac-          At the same time, the societal stigma toward same-
+tions [13,14]. Studies around the world have docu-        gender sexual behavior makes it unlikely that persis-
+mented an increased risk of suicide and suicide           tent, consensual same- or both-gender sexual behav-
+attempts [11,15–20]. Sexual minority youth are more       ior is unrelated to sexual attractions or internal
+likely to be runaway or throwaway youth, and are          self-identity. Influenced by such varying perspec-
+over-represented among homeless and street youth          tives, researchers also differ in the importance they
+throughout the United States and Canada [7,9,21,22].      assign to each dimension of orientation: for example,
+As a result, homeless GLB teens may engage in             is same-gender sexual behavior more indicative of
+prostitution or survival sex, with its higher risk for    orientation than acknowledging same-gender sexual
+pregnancy and sexually transmitted disease, includ-       attractions? If one identifies as heterosexual, has no
+ing HIV [9,22].                                           sexual experience, and acknowledges attractions to
+    Large-scale, population-based surveys of adoles-      both genders, which is the salient dimension? These
+cent health, such as the Youth Risk Behavior Survey       dilemmas have challenged the study of sexual mi-
+(YRBS) [23] or the National Longitudinal Study of         nority populations for decades [27].
+Adolescent Health [24] are among the strongest               Practical issues in survey administration also in-
+methods of tracking health and risk behaviors             fluence measures used in youth health surveys, as
+among the majority of adolescents. Such surveys           does the process by which controversial health ques-
+provide a snapshot of the health outcomes adoles-         tions are offered, rejected, modified, and included.
+cents have experienced, the health and risk behaviors     Developmental psychologists have created multi-
+they are engaged in, and the familial, school, and        item scales to measure sexual orientation in research
+environmental contexts they negotiate. A growing          [27,28], but general adolescent health surveys can
+number of large-scale adolescent health surveys have      include only one or two items, most often measuring
+included survey items assessing orientation               just one dimension. Even within a single dimension,
+[2,7,9,11,24 –26].                                        the wording, response options, and location within
+    However, measures of sexual orientation have          the survey are not consistent across surveys. Re-
+varied widely across such surveys. This variation can     searchers often adapt items from existing surveys,
+be traced in part to disagreement over the conceptual     even if they have not had adequate pilot-testing or
+definition of sexual orientation itself [27–29], to prag- validity analyses in the original study, and few
+matic needs for limiting the number of items in           school-based surveys have the additional funding
+youth surveys, and to the process by which school-        needed to extensively test the revised items. Like-
+based surveys are developed. Although most re-            wise, stakeholders in the surveillance of adolescent
+searchers in the field agree sexual orientation is a      health, who may influence the final wording, may
+multi-dimensional aspect of a person’s identity that      have little or no training in measurement. Research
+includes emotional, cognitive, and behavioral di-         into the use of these sensitive questions in large-scale
+mensions, the agreement is not universal [29]. Some       surveys has been limited. Currently, there are no
+researchers assert self-labeling or erotic desire/at-     recommended standard items for assessing sexual
+traction are components of sexual orientation, but        orientation [2,27,29].
+sexual behavior is not [27]. Thus, if someone ac-            As part of a larger study of sexual orientation,
+knowledges being attracted to both genders, or iden-      health risks and protective factors among respon-
+tifies as bisexual, this is orientation, but sexual be-   dents in school-based health surveys, we conducted
+havior can be influenced by unrelated issues, such as     an evaluation of the sexual orientation measures
+availability of partners. In contrast, other researchers  used in eight different surveys of adolescent health
+assert self-labels are so strongly influenced by cul-     from the past 15 years in the United States and
+ture, social trends, and stigma that the labels tend to   Canada. Each of the surveys included at least one
+shift over time, and may not be publicly claimed,         question that assessed some dimension of sexual
+even when attractions or behavior remain stable [27].     orientation. In exploring these measures, we focused
+This phenomenon has led to use of the terms, “men         on five main issues:
+
+October 2004                                            ORIENTATION MEASURES IN SCHOOL SURVEYS          345.e3
+1. What is the variation in response rates for differ-    Each of the surveys included at least one item
+   ent dimensions of sexual orientation assessed in    assessing sexual orientation, and five of the eight
+   these survey items? i.e., in surveys that had more  included multiple items. Only three of the oldest
+   than one question, which sexual orientation ques-   surveys, however, assess more than one dimension
+   tions were adolescents more likely to answer?       of orientation. The specific wording of items from the
+2. What other measurement issues, such as item         surveys is included in Table 2.
+   location in the survey, item structure, circum-        Analyses to answer the evaluation questions
+   stances under which the survey was given, or        included frequencies and patterns of nonresponse,
+   specific demographic characteristics of respon-     including comparison to overall proportions of
+   dents, may help explain the response rates for      nonresponse and those of the nearest similar items
+   these items?                                        in the survey. Where possible, we used cross-
+3. When an item includes an “unsure” option, what      tabulations with Pearson’s Chi-square to compare
+   can be learned about who selects this option, and   among groups of categorical items, and one-way
+   can we determine what unsure means?                 ANOVAs or Kruskal Wallis ANOVAs to compare
+4. When a survey includes more than one measure        proportions of unsure and missing responses, to
+   assessing orientation, how congruent are the re-    test for response set bias and other explanations of
+   sponses to these measures?                          nonresponse [30,31]. This evaluation was intended
+5. What appear to be the strengths and limitations of  to explore the responses within each survey, not to
+   the various measures of sexual orientation for      directly compare results across surveys. Method-
+   monitoring adolescent health risks and health       ological differences in sampling, regional and eth-
+   behaviors?                                          nic variation, and measurement differences render
+                                                       a meta-analysis impossible. To the extent the find-
+   We present below select findings to illustrate
+                                                       ings are similar across studies, they may suggest a
+important considerations in evaluating and improv-
+                                                       robust phenomenon, but differences between stud-
+ing measures of sexual orientation in adolescent
+                                                       ies cannot be interpreted with certainty. Likewise,
+health research. Because such a large, repetitive
+                                                       some of the issues cannot be directly tested in
+number of analyses are difficult to summarize con-
+                                                       individual surveys because alternate forms of the
+cisely, we present examples from one or two surveys
+                                                       surveys were not administered for a true test of
+to illustrate each issue. Based on our analyses and
+                                                       these issues. In those cases, we will note various
+studies by other researchers, we offer specific recom-
+                                                       explanations the evidence suggests.
+mendations for future adolescent health surveys,
+including item wording and number of measures.
+                                                       Evaluation
+Methods                                                Table 3 shows the nonresponse and “not sure”
+                                                       response rates for the sexual orientation measures
+The Surveys                                            within each of the surveys. These formed the basis of
+The eight surveys included in this analysis are        many analyses used to evaluate the measures. Be-
+school-based surveys of adolescent health and risk     cause rates vary significantly by gender in all the
+behaviors, from the United States and Canada.          surveys, results are reported separately for boys and
+They were conducted from 1986 through 1999; we         girls. The evaluations of response rates by other
+included older surveys because they had more           demographic characteristics were not amenable to
+than one measure of orientation, or represented        presentation in a single table, given extreme varia-
+the largest survey of a particular ethnic group to     tion in items in the various surveys, so we provide
+date, i.e., the National American Indian Adoles-       specific examples in the text instead. Table 4 reports
+cent Health Survey. Some surveyed different co-        the tests for response set bias, which compare re-
+horts of youth in the same geographic region. For      spondents on the proportion of unsure and missing
+regularly administered surveys from a particular       responses to other survey questions.
+region (e.g., the Minnesota Student Survey) we
+included only surveys with no overlap in cohorts.
+See Table 1 for brief descriptions of the surveys’     Variation in Response Rates for Different
+designs, sample sizes, methods of administration,      Dimensions of Orientation
+geographic regions, demographic descriptions,          Different dimensions of orientation may be difficult
+and specific comments.                                 for teens to acknowledge, given the stigma of non-
+
+345.e4       SAEWYC ET AL                                                        JOURNAL OF ADOLESCENT HEALTH Vol. 35, No. 4
+Table 1. Select Demographics of the Data Sets
+                                National
+                                American
+                 Minnesota        Indian                                           British       British     Seattle Teen Seattle Teen
+                 Adolescent    Adolescent                                        Columbia       Columbia     Health Risk Health Risk
+               Health Survey Health Survey    Minnesota        Minnesota        Adolescent     Adolescent       Survey        Survey
+                 (MNAHS)       (NAIAHS) Student Survey Student Survey Health Survey Health Survey              (SEA95)       (SEA99)
+                     1986          1990      (MSS92) 1992 (MSS98) 1998 (BC92) 1992* (BC98) 1998*                  1995*         1999*
+                                National                                                                         Entire        Entire
+                  Modified    sample from                                        Modified       Modified        Seattle       Seattle
+Sample            stratified   reservation Census 99% of Census 92% of           stratified     stratified       school        school
+  Method       cluster sample    schools    school districts school districts cluster sample cluster sample     district      district
+Total N             34,710        12,978         77,374           81,247           15,549         25,838          8,406         8,665
+% Female            50.1%         51.1%          49.9%            50.4%            50.8%          52.3%            50%           50%
+Age/grade                                     9th & 12th       9th & 12th         7th–12th      7th–12th       9th–12th      9th–12th
+  range             12–20      ⱕ13 to ⱖ17        grade            grade            grade          grade          grade         grade
+Race/ethnicity
+  Black              7.7%            0%           1.4%             2.1%         Unknown        Unknown             18%           18%
+  Asian/
+     Pacific
+     Islander        3.1%            0%           2.3%             3.6%              21.8%          15.4%          26%           26%
+  Hispanic           1.0%            0%           1.1%             1.5%                1.3%          1.1%           4%            4%
+  American
+     Indian/
+     Alaskan
+     Native          1.6%          100%           1.3%             0.8%             4%             6%               1%            1%
+  White             84.0%            0%          85.9%            86.4%         Unknown        Unknown             34%           34%
+  Multi-
+     ethnic
+     gr. or
+     Unknown         2.5%            0%           7.9%             2.4%          ⬇16%           ⬇21%               17%           17%
+How surveys       Research      Research         Other            Other        Public health Public health     Research      Research
+  were admin- staff in           staff in     teachers in      teachers in       nurses in      nurses in   staff in close    staff in
+  istered        classrooms    classrooms     classrooms       classrooms       classrooms     classrooms    class rooms classrooms
+   * Students could identify more than one ethnic group, and for BC, none of the options referred to race (i.e., black, or white) and an
+additional open-ended Other category included significant number of indeterminate responses such as “Canadian” or “no ethnicity.”
+heterosexual orientations. Same-gender sexual be-                        Within surveys with more than one dimension of
+havior, for example, might be considered more re-                     orientation (the Minnesota Adolescent Health Sur-
+vealing than admitting a same-gender attraction, and                  vey [MNAHS], NAIAHS, BC92), items about gen-
+self-labeling might be more stigmatizing still. Con-                  ders of sexual partners had the lowest nonresponse,
+versely, the abstract idea of attractions or desires                  although students still tended to skip same-gender
+may be more difficult developmentally for youth to                    sexual behavior questions more than opposite-gen-
+identify, compared with reporting actual behavior.                    der behavior. Fewer than half of students had ever
+To help determine which questions adolescents were                    been sexually active, however, so as a measure of
+most likely to answer, we examined the variation in                   orientation, this drew a much smaller sample than
+response rates for different orientation items.                       other items. For surveys without a sexual behavior
+   The National American Indian Adolescent Health                     item, the combined self-labeling/attraction items had
+Survey (NAIAHS) had the highest nonresponse rates
+                                                                      the lowest nonresponse rate. The combined attraction/
+and “not sure” responses for each sexual orientation
+                                                                      intentions item had higher nonresponse than self-label-
+item, whereas British Columbia 1992 (BC92) had the
+                                                                      ing/attraction, and, for MNAHS and NAIAHS, gender
+lowest nonresponse. For most items, boys were slightly
+                                                                      of sexual fantasy partners was skipped most often.
+less likely to answer than girls, except for items assess-
+ing gender of sexual partners, where girls were less                  However, in BC92, the fantasy item’s rate of missing
+likely to respond to questions about sexual experience                responses was nearly identical to self-labeling/attrac-
+with girls, and boys were less likely to respond to                   tion, and quite low (fewer than 1% had missing re-
+questions about sexual experience with boys.                          sponses). More than 1 in 5 girls and 1 in 10 boys in
+
+October 2004                                                   ORIENTATION MEASURES IN SCHOOL SURVEYS                      345.e5
+Table 2. Wording of Sexual Orientation Items in the Surveys
+                                     Question
+         Topic           Data Set    Number                                           Question
+Self-identity/attraction NAIAHS          81        Which of the following best describes your feelings:
+                                                     100% heterosexual (attracted to persons of the opposite sex)
+                                                     Mostly heterosexual
+                                                     Bisexual (equally attracted to men and women)
+                                                     Mostly homosexual
+                                                     100% homosexual (“gay/lesbian”; attracted to persons of the same sex)
+                                                     Not sure
+                         MNAHS           72        Many people say that they have different feelings about themselves when
+                                                        it comes to questions of being attracted to other people. Which of the
+                                                        following best describes your feelings?
+                                                     Same as NAIAHS 1991
+                           BC92          81        People have different feelings about themselves when it comes to
+                                                        questions of being attracted to other people. Which of the following
+                                                        best describes your feelings?
+                                                     Same as NAIAHS 1991
+                           BC98          93        Same as BC AHS 1992
+                          SEA95          58        How would you describe your sexual orientation/preference?
+                                                     Heterosexual—attracted to the opposite sex;
+                                                     Bisexual—attracted to both sexes;
+                                                     Homosexual (gay or lesbian)—attracted to same sex;
+                                                     Not sure
+                          SEA99          46        How would you describe your sexual orientation?
+                                                     Same as SEA95
+Attractions/intentions   NAIAHS          89        Which of the following best describes your feelings:
+     to be sexual
+                                                     I am only attracted to people of the same sex as mine, and I will only be
+                                                        sexual with persons of the same sex
+                                                     I am strongly attracted to people of the same sex, and most of my sexual
+                                                        experiences will be with persons of the same sex as mine
+                                                     I am equally attracted to men and women both and would like to be
+                                                        sexual with both
+                                                     I am strongly attracted to persons of the opposite sex, and most of my
+                                                        sexual experience will be with persons of the opposite sex
+                                                     I am only attracted to persons of the opposite sex, and I will only be
+                                                        sexual with persons of the opposite sex
+                         MNAHS           78        Same as NAIAHS
+Sexual fantasy           NAIAHS          88        When you think or daydream about sex, do you think about:
+                                                     Males
+                                                     Females
+                                                     Both
+                         MNAHS           77        When you daydream or fantasize about sex, do you think about:
+                                                     Same as NAIAHS
+                           BC92          82        When you daydream or fantasize about sex, do you think about:
+                                                     Males
+                                                     Females
+                                                     Both
+                                                     I do not yet fantasize about sex
+Sexual behavior          NAIAHS          71        Have you ever had any kind of sexual experience with a male?
+                                                     Yes
+                                                     No
+                         MNAHS           68        Same as NAIAHS
+                         NAIAHS          72        Have you ever had any kind of sexual experience with a female?
+                                                     Yes
+                                                     No
+                         MNAHS           69        Same as NAIAHS
+
+345.e6     SAEWYC ET AL                                             JOURNAL OF ADOLESCENT HEALTH Vol. 35, No. 4
+Table 2. Continued
+                                                 Question
+        Topic                 Data Set           Number                                   Question
+                              MSS92                115            During the past 12 months, with how many different
+                                                                       male partners have you had sexual intercourse?
+                                                                     None
+                                                                     1 person
+                                                                     2 persons
+                                                                     3 persons
+                                                                     4 persons
+                                                                     5 persons
+                                                                     6 or more persons
+                              MSS98                114            Same as MSS92
+                              MSS92                116            During the past 12 months, with how many different
+                                                                       female partners have you had sexual intercourse?
+                                                                     None
+                                                                     1 person
+                                                                     2 persons
+                                                                     3 persons
+                                                                     4 persons
+                                                                     5 persons
+                                                                     6 or more persons
+                              MSS98                115            Same as MSS 1992
+BC92 chose the option, “I do not yet fantasize about      ly— or at all. Who administers the survey, for exam-
+sex,” which was not available on other surveys.           ple, how close together students must sit during the
+   The proportions of missing responses for self-         survey, and how much privacy is available for clar-
+label/attraction are similar across the different years’  ifying sensitive questions by survey administrators
+surveys from the same locations, and indeed, exclud-      can increase or decrease a student’s trust in the
+ing the two extremes of NAIAHS and BC92, they are         confidentiality of his or her responses.
+similar even for surveys from different locations            Although ascertaining the circumstances of surveys
+with different wording, ranging from 3.0% to 4.7%         so many years after the fact is difficult, some reported
+for girls, and 3.7% to 6.3% for boys. Sexual behavior     issues may help explain variation in nonresponse rates
+items were quite different in wording, i.e., ever         between the surveys. In the Seattle Teen Health Risk
+having any sexual experience as opposed to sexual         Survey 1995 (SEA95), many of the classrooms were
+intercourse in the past 12 months. Because of the         crowded, with student desks placed close together
+wording, these items’ nonresponse rates cannot even       (Pamela Hillard, personal communication). Research
+be casually compared across surveys.                      staff or teachers from other classrooms administered
+   The MNAHS, NAIAHS, and both BC92 and BC98
+                                                          most surveys, but in British Columbia surveys were
+had identically worded items, but markedly different
+                                                          administered in school by local public health nurses. It
+proportions of nonresponse. This suggests reasons
+                                                          is culturally customary in Canada, as in the United
+other than wording may have influenced response
+                                                          States, to expect health care providers will ask sensitive
+rates, and these are discussed below.
+                                                          questions about health and behaviors, with a general
+                                                          belief in the confidentiality of the clinical setting [32,33].
+Contexts of Survey Administration or                      This expectation may carry over to the research setting;
+Measurement Issues                                        although there is no way to be sure, the very low
+                                                          nonresponse rates in the BC surveys compared with
+   Circumstances under which the survey was given. A
+variety of circumstances may influence response rate      the others might be due in part to using public health
+for school-based surveys [30,31]. Time allotted for       nurses to administer the surveys.
+the survey can be enough for most students, but not          Item structure issues. How a question is structured
+all, so nonresponse rates in the last pages might be      can have a profound influence on its readability, its
+higher. Students must trust the anonymity of survey       clarity, and on respondents’ perception that its an-
+responses to answer sensitive questions honest-           swer choices represent their experience, all of which
+
+October 2004                                                            ORIENTATION MEASURES IN SCHOOL SURVEYS                   345.e7
+Table 3. Item Non-response and Unsure Response Rates by Gender
+ Data Set                                   Topic                                     No Response (%)                Not Sure (%)
+                                                                                   Females        Males         Females          Males
+NAIAHS           Self-identity/attraction                                             16.2         18.2           30.3            27.0
+                 Attraction/intention to be sexual                                    25.5         23.2
+                 Sexual fantasy                                                       26.7         17.4
+                 Sexual behavior with males                                            2.7          9.6
+                 Sexual behavior with females                                         13.2          4.8
+                 Sexual behavior with males (sexually experienced only)                0.4          4.8
+                 Sexual behavior with females (sexually experienced only)              8.3          0.4
+MNAHS            Self-identity/attraction                                              4.7          6.3           10.0             9.9
+                 Attraction/intentions to be sexual                                    6.0          6.8
+                 Sexual fantasy                                                        8.3          7.5
+                 Sexual behavior with males                                            1.7          4.0
+                 Sexual behavior with females                                          4.6          2.5
+                 Sexual behavior with males (sexually experienced only)                0.2          1.7
+                 Sexual behavior with females (sexually experienced only)              2.9          0.2
+MSS92            Sexual behavior with males                                            9.3         20.8
+                 Sexual behavior with females                                         18.0         13.1
+MS98             Sexual behavior with males                                            7.5         14.0
+                 Sexual behavior with females                                          9.1         11.8
+BC92             Self-identity/attraction                                              0.6          0.7            6.0             4.8
+                 Sexual fantasy                                                        0.8          0.8           21.7*           10.7*
+BC98             Self-identity/attraction                                              3.0          3.7            6.4             6.2
+SEA95            Self-identity/attraction                                              4.5          5.8            5.9             5.9
+SEA99            Self-identity/attraction                                              3.1          4.1            5.6             6.5
+   * Response is “I do not yet fantasize about sex.”
+influence response rates [31]. Items with longer op-                   skip pattern, or items with combined categories, can
+tions tend to be more confusing, especially if each                    make it hard for a respondent to choose a response [30].
+response option is a long sentence. Questions con-                     If an item requires extra effort to understand and to
+taining two distinct ideas or statements can create                    select a response, it is far more likely to be skipped.
+confusion, especially if the respondent only agrees                       Within these surveys, the items with the shortest
+with one part of the statement. Complex items with                     stems, the fewest response options, and the fewest
+a dozen options, or items that require respondents to                  words in answers asked about the gender of sexual
+look in one place for answer codes but mark their                      partners (NAIAHS and MNAHS). These items had
+response far away from the code cues; items with a                     the lowest nonresponse rate. The gender of sexual
+Table 4. Tests for Response Set Bias in the Surveys
+  Survey and Type of                     Mean Proportion of Answers by Category of
+  Response Set Tested                               Orientation Response                                ANOVA: F, df, p value
+                                   Unsure           Indicated Orientation         Missing
+SEA95
+  Not sure answers                  0.106                   0.048                   0.046          F ⫽ 99.39; df ⫽ 2, 8403; p ⬍ .001
+  Missing answers                   0.039                   0.023                   0.442          F ⫽ 3318.25; df ⫽ 2, 8403; p ⬍ .001
+SEA99
+  Not sure answers                  0.159                   0.065                   0.083          F ⫽ 228.945; df ⫽ 2, 8662; p ⬍ .001
+  Missing answers                   0.067                   0.054                   0.320          F ⫽ 785.49; df ⫽ 2, 8662; p ⬍ .001
+BC92
+  Not sure answers                  0.149                   0.096                   0.111          F ⫽ 72.07; df ⫽ 2, 15546; p ⬍ .001
+  Missing answers                   0.023                   0.006                   0.102          F ⫽ 143.36; df ⫽ 2, 15546; p ⬍ .001
+MNAHS
+  Not sure answers                  0.166                   0.085                   0.108          F ⫽ 256.72; df ⫽ 2, 17234; p ⬍ .001
+  Missing answers                   0.014                   0.004                   0.043          F ⫽ 241.06; df ⫽ 2, 17234; p ⬍ .001
+
+345.e8     SAEWYC ET AL                                            JOURNAL OF ADOLESCENT HEALTH Vol. 35, No. 4
+partner questions in the Minnesota Student Surveys        where students might lose track of the flow of items,
+(MSS92 and MSS98) were short stems, but offered six       will also see a higher nonresponse rate, known as
+response options, although again, responses had few       comprehension artifacts [30]. Items right after sensitive
+words. Although shorter items typically have better       questions such as sexual or criminal behavior or abuse
+response rates, the options still must be extensive       all tend to have higher nonresponse rates than similar
+enough that students can respond accurately. The          items in other parts of a survey [30].
+sexual fantasy items also had short options, but in           The surveys in this evaluation were no exception.
+NAIAHS and MNAHS they had higher nonresponse              Nonresponse rates for demographic items on the first
+rates than any other item; only BC92 offered the          page tended to be 1% or lower, with a slight increase
+option, “I do not yet fantasize about sex,” and 21.7%     in the average nonresponse rate for questions on
+of girls and 10.7% of boys selected this response.        each page. In most of the surveys, the orientation
+    All the self-labeling or self-identity items included items were placed just before, among, or just after
+a parenthetical clarifier defining the answer as attrac-  sexual behavior items, usually in the final few pages.
+tion to the same, opposite, or both genders. This         In the MNAHS and NAIAHS, two orientation ques-
+combines two separate dimensions, which may be            tions followed the question about sexual abuse. In
+difficult to answer, depending on how much stigma         the MSS92 and MSS98, the questions about gender of
+is attached to the labels in the surveyed community.      sexual partners were on the last page of the survey.
+It is possible, for example, that someone might report        To explore how item location might have influenced
+same-gender attractions, but resist identifying as gay    response rates, we compared the response with orien-
+or lesbian because labels like “gay” are pervasive        tation items with the five items before and after the
+insults and slurs in that school setting [34], “gay” and  sexual behavior section, as well as to any sexual behav-
+“lesbian” may be considered rigid identities that do      ior questions all students were supposed to answer.
+not seem to include bisexuals, or because the labels      Skip patterns occurred in BC98 and MSS98; students
+have been replaced by other terms such as “queer” or      who reported they had not had sexual intercourse were
+“two-spirit.” Combining dimensions can increase           directed to skip the other sexual behavior questions,
+confusion and nonresponse rates. In NAIAHS and            and go on to questions about knowledge related to
+MNAHS, another combined item asked about attrac-          STDs and HIV/AIDs, or to the orientation questions. In
+tion and intentions to be sexual in the future. Al-       general, sexual behavior questions had higher missing
+though these items did not use stigmatizing labels in     rates than questions before or after, but orientation
+the wording, students may have had difficulty             items were similar in nonresponse to the sexual behav-
+choosing a best response because the item combined        ior items. For example, in SEA95, questions just before
+two potentially discordant issues (current feelings       the sexual behavior section ask about alcohol use, and
+and future behaviors). This item’s answers were the       missing rates range from 1.9% to 3.5%. The sexual
+longest, each one a full sentence. As one might           behavior questions have missing rates from 4.1% to
+expect, the item had the highest nonresponse rates.       6.6%, with the orientation question at 5.1%. The ques-
+                                                          tions after sexual behavior are about marijuana use,
+    Issues of item location. Where an item is placed can  and whereas missing rates are higher than for alco-
+influence whether respondents choose to answer, espe-     hol use items, they are somewhat lower than for
+cially when surveys are administered in groups where      sexual behaviors, ranging from 3.9% to 5.9%. For
+students might see each other’s responses. Sensitive      both MNAHS and NAIAHS, the orientation ques-
+questions are more likely to be skipped if they occur on  tions just after the sexual abuse question had higher
+the first few pages of a survey, when most students are   missing responses than the orientation item that
+on the same page. In the 1997 Massachusetts YRBS,         came before; for the MNAHS, 7.9% skipped the
+when a question about sexual orientation was moved        fantasy item, 6.4% skipped attraction/intent, both
+to the first-page demographics section, the missing rate  just after sexual abuse, vs. 5.5% for self-labeling, and
+increased markedly compared with the 1995 Massa-          3.5% and 2.8% for sexual experience, which came
+chusetts YRBS [29]. On longer surveys, students may       before the sexual abuse question.
+run out of time to answer the last questions, or may
+become impatient with answering so many questions
+and skip more items. Commonly, the nonresponse rate       Demographic Characteristics of Respondents that
+for items will increase slightly with every added page    May Help Explain Response Rates
+of a survey, the outcome of subject burden [31]. Simi-    Different demographic characteristics may also influ-
+larly, items after a complex question or a skip pattern,  ence whether or not students skip answers to ques-
+
+October 2004                                              ORIENTATION MEASURES IN SCHOOL SURVEYS            345.e9
+tions, especially sensitive questions. In general, girls what can be learned about who selects this option,
+tend to skip fewer questions than boys. Older stu-       and can we determine what unsure means?
+dents are less likely to skip questions about sexual        Most of the questionnaires included an orientation
+behavior than younger students, whose lack of sex-       item with a response of “not sure” or “don’t know.”
+ual experience may make them unsure about some           Two reasons to choose such a response are being
+questions’ meanings. Similarly, students with devel-     unsure of one’s orientation, or being unsure of the
+opmental delay or learning disabilities, including       question’s meaning. One survey, BC92, offered a
+those who have been held back a grade, or who are        window into the possibility that choosing not sure
+in special education classes, may have more diffi-       was owing to being unsure of one’s orientation. The
+culty understanding and answering. Students from         sexual fantasy item included the response, “I do not
+ethnic minorities, especially recently immigrated stu-   yet fantasize about sex.” Cross-tabulations of sexual
+dents, or those for whom English is a second lan-        identity with the sexual fantasy question showed
+guage, may also skip questions they do not under-        more than half of those who chose not sure (53.7%)
+stand owing to culture or language.                      did not yet fantasize about sex, compared with only
+   In these surveys, boys did have a higher nonre-       7.7% to 21.3% of those who indicated an orientation
+sponse rate than girls for most questions, although      (␹2 ⫽ 3506.96, df ⫽ 24, p ⬍ .001). Girls were more
+the sexual fantasy question and items assessing          likely than boys to say they did not fantasize about
+same-gender sexual behavior were exceptions (see         sex yet, as were younger students compared with
+Table 3). Students who reported a learning disability    older students; and these groups were also more
+in those surveys that asked such a question were also    likely to indicate they were unsure.
+more likely to skip the sexual orientation question         Another potential reason for choosing a not sure
+(BC92: 2.2% with learning disability vs. 0.6% with-      option is response set bias [30], i.e., students tend to
+out; MNAHS: 12.1% with disability, 3.7% without;         choose the same option when it is offered in a variety
+NAIAHS: 29.8% with disability, 13.5% without, all p      of questions (or, similarly, students who are missing
+⬍ .001). Similarly, students who skipped the sexual      on some responses tend to be more likely to skip
+orientation item or were unsure were more likely to      items in the survey overall). To test for response set
+have been held back a grade (BC92: 24.8% of missing      bias, we compared the average proportion of unsure
+had been held back, 22.6% of unsure, vs. only 14.4%      and missing responses from other items with a “not
+of those who indicated an orientation). In BC98,         sure” or “don’t know” option among three groups:
+students who chose unsure or did not answer were         those who indicated any orientation (indicated ori-
+also more likely to report they spoke a language         entation), those who indicated “not sure” (unsure)
+other than English at home more than half the time       and those who did not answer the question (miss-
+(13.5% of missing, 25.5% of unsure, and 10.1% of         ing). We included only those items that all students
+those who indicated an orientation). Ethnicity can be    could answer (skip patterns or male-only/female-
+an indirect measure of language and cultural barriers    only items were excluded), and because surveys had
+where a question about language is not included; in the  varying numbers of eligible questions, we used mean
+two Seattle surveys, for example, African-American       proportions of questions answered rather than mean
+and Southeast Asian students were more likely to skip    number of questions answered. These proportions
+the orientation question, but only Southeast Asian       were tested using ANOVAs for proportion of unsure
+students were also more likely to indicate unsure than   and proportions of missing in the 4 surveys where
+students in other ethnic groups.                         such analyses were possible (both NAIAHS and
+                                                         BC98 had two or fewer eligible questions). Table 4
+                                                         summarizes the results of these tests.
+Analysis of the “Unsure” or “Don’t Know”                    As can be seen in Table 4, response set bias does
+Response                                                 account for some of the missing and not sure re-
+Because sexual identity, including orientation, is a     sponses to the orientation items in the surveys.
+developmental task of adolescence, at any point in       Students who were not sure of their orientation were
+time some teens will not recognize their orientation,    significantly more likely to pick “not sure” to other
+or will be unsure about the best response. The           questions in the survey than either students who
+student may not have sexual feelings or attractions      indicated an orientation or those who skipped the
+yet, or may have had no sexual experience, or sexual     orientation item. Students who did not answer the
+experiences may have been unwanted or forced.            orientation question were significantly more likely to
+When an item includes “unsure” or “don’t know,”          skip other questions compared with the other
+
+345.e10     SAEWYC ET AL                                         JOURNAL OF ADOLESCENT HEALTH Vol. 35, No. 4
+groups. Post hoc analyses using Least Significant       gender attractions and fantasies in any of the sur-
+Differences tested significant differences in mean      veys.
+proportions among the three groups. In all post hoc        This lack of congruence among the different mea-
+tests for the not sure response set, the unsure groups’ sures is important because it means that surveys that
+mean proportion of unsure responses was higher          measure different dimensions of orientation may be
+than the other two groups. Similarly, in post hoc tests tapping distinctly different groups, with only some
+for the missing response set, the missing groups’       overlap. Any single measure will end up excluding
+mean proportion was significantly different from the    some adolescents that another measure would have
+other two.                                              included, and although overall relationships and
+                                                        trends in health behaviors by orientation might be
+                                                        similar, prevalence data probably cannot be directly
+                                                        compared between such groups.
+Congruency of Response within Surveys with
+More than One Measure of Orientation
+When a survey includes more than one measure            Strengths and Limitations of Measures for
+assessing orientation, how congruent are the re-        Monitoring Health Risks and Health Behaviors
+sponses to these measures? Only three surveys mea-      What appear to be the strengths and limitations of
+sured more than one dimension of orientation: the       the various measures for monitoring adolescent
+MNAHS and NAIAHS both included self-labeling/           health risks and health behaviors? Although it would
+attraction, genders of sexual behavior partners, gen-   seem, based on nonresponse rates alone, that actual
+ders of sexual fantasy partners, and the mixed attrac-  sexual behavior is the best measure of orientation for
+tions/intentions to be sexual item, and BC92            capturing the widest range of sexual minority youth,
+included self-labeling/attraction and genders of sex-   this is misleading. The majority of adolescents in
+ual fantasy partners. When cross-tabulating any one     every survey had not been sexually active, and of
+of these measures with another in the same survey,      those who identified as other than heterosexual, a
+results were relatively similar across the surveys. The majority still reported exclusively heterosexual be-
+measures are not congruent; at least a few students in  havior. Whether this is owing to lack of opportunity
+every orientation category picked responses in the      (a commonly chosen reason for abstinence among
+other categories for a different measure, and most      students in the 1996 Voice of Connecticut Youth
+responses were skewed to heterosexual options. For      Survey [4]) or owing to other reasons, limiting a
+example, nearly 1% of the “100% heterosexual” stu-      survey to sexually active students may undercount
+dents reported solely same-gender sexual fantasies      the number who would identify as gay, lesbian, or
+in each survey, and nearly half of students who said    bisexual, and who may feel social stigma or distress
+they were bisexual, mostly homosexual, or 100%          owing to their orientation. Questions focused exclu-
+homosexual reported exclusively opposite-gender         sively on recent sexual activity, such as those asked
+sexual fantasies. At least a third of students had not  in the MSS surveys, create an even greater risk of
+been sexual at all, but among bisexual students,        undercounting. Students who were sexually active
+one-third reported only opposite-gender sexual be-      with same- or both-gender partners more than a year
+havior.                                                 ago, but have not had a partner in the past year, will
+    That said, prevalence of responses were in the      not be counted. Further, because the questions about
+expected direction (results not shown). Consecu-        sexual behavior on most surveys are focused on
+tively lower proportions of mostly heterosexual, bi-    heterosexual “sexual intercourse,” and tacitly imply
+sexual, mostly homosexual and gay/lesbian students      pregnancy prevention as the primary reason for
+indicated exclusively opposite-gender fantasies, at-    condom use, adolescents who do not identify same-
+traction, or behavior than the heterosexual students,   gender sexual behaviors as intercourse, and have no
+and higher proportions of bisexual, mostly homosex-     risk of pregnancy, may not answer the questions as
+ual, and gay/lesbian students indicated same-gender     expected. Risks for STD transmission via same-gender
+or both-gender attractions, fantasies, or behaviors     sexual behaviors may be obscured by item wording.
+than did the mostly heterosexual or exclusively het-    This was an issue identified by gay, lesbian and bisex-
+erosexual students. Bisexual students reported the      ual students in a recent cognitive processing study
+highest prevalence of both-gender attractions and       exploring their answer choices to sexual and orienta-
+fantasies among the orientation groups, although        tion questions commonly used on school-based sur-
+still less than half of these students indicated both-  veys [36]. Further, asking about the gender of sexual
+
+October 2004                                             ORIENTATION MEASURES IN SCHOOL SURVEYS          345.e11
+partners does not identify whether those sexual expe-       Thus, whereas each of the dimensions of orienta-
+riences were consensual or not. Because between 10%      tion can be useful in differentiating added risks for
+and 30% of adolescents have experienced forced sexual    health problems among adolescents, and certain
+contact, unwanted sexual contact may help explain        measures are better for some types of health moni-
+potential discordance between attraction and actual      toring than others, no one dimension appears to
+behaviors.                                               accurately address all the health issues of concern
+    At the same time, surveys that ask only about        among youth. Individual measures can underesti-
+orientation self-identity may under- or overestimate     mate or overestimate health risks within this popu-
+risks for HIV and other STDs among adolescents,          lation.
+and thus may not be as useful a measure for explor-
+ing sexual behavior risks. Because of cultural varia-
+                                                         Discussion
+tion in orientation labels, adolescents may not iden-
+tify by the labels chosen for a particular survey,       One of the developmental tasks of adolescence is
+which again, may misattribute adolescents, or cause      establishing a sexual identity, including orientation,
+skipped responses, and those adolescents at greatest     a process that appears to begin in late childhood and
+risk may be missed. Research on the timing of sexual     continues through the teen years. Because this is a
+orientation developmental milestones by Rosario          developmental process, at any one point during
+and colleagues [37] suggests self-labeling often         adolescence the number of teens who actually iden-
+comes after attractions and behavior are already well    tify as gay, lesbian, or bisexual tends to be small,
+established, and sexual minority adolescents who         between 1% and 8% [23,35]. Six of the eight surveys
+feel comfortable in disclosing their orientation may     we examined included a measure that used orienta-
+                                                         tion labels, and although those labels differed, and
+have already worked through any psychological
+                                                         some items conflated identity and attraction, the
+distress engendered by negative attitudes from com-
+                                                         proportions of youth in each survey who identified
+munity and family. As a result, out gay, lesbian and
+                                                         as unsure or who skipped the questions were fairly
+bisexual adolescents may be better adjusted than
+                                                         consistent across surveys. The only markedly differ-
+peers who are just beginning to identify their attrac-
+                                                         ent survey was the NAIAHS, with a much larger
+tions. Studies by D’Augelli et al [17] suggest that
+                                                         proportion of adolescents responding “not sure,” or
+suicidal ideation and attempts are more likely to
+                                                         not responding at all, which suggests more research
+occur among those who are still struggling with
+                                                         is needed to create culturally appropriate wording
+self-identity but who recognize their same-gender or
+                                                         for surveys among American Indian adolescents.
+both-gender attractions, so studies of suicide at-          Surveys with a measure of sexual orientation have
+tempts may find self-identity a less useful dimension    documented the health disparities among sexual
+than attraction. In contrast, studies that use self-     minority youth owing to stigma and victimization.
+identity as a single measure may be better for iden-     Although we have increasing evidence of elevated
+tifying those likely to be targets of violence in school risk, we know little about factors that may mediate
+and community settings. Self-identity questions          those risks for gay, lesbian and bisexual teens. Some
+more clearly represent the teen’s perspective on their   preliminary studies have suggested protective fac-
+identity, and although that may change over time, it     tors salient for adolescents in the general population
+may be more accurate than reported unwanted be-          may not be equally salient for sexual minority youth
+haviors, or attractions never acted upon. An external,   [15]. Thus, interventions focused on enhancing pro-
+more indirect measure of orientation that still iden-    tective factors among heterosexual teens may not
+tifies students at risk for targeted violence is a       work for gay, lesbian and bisexual teens. To the
+measure asking if students have been harassed be-        extent that we understand the challenges they face,
+cause others thought they were gay, lesbian, or          factors mediating their risks, and interventions that
+bisexual. Whereas the Seattle surveys found 4 out of     are most effective, we can help prevent poor health
+5 students reporting such harassment also identified     outcomes and lifelong social costs. To do this, how-
+as heterosexual rather than gay or bisexual [38], the    ever, we need to quantify the prevalence of the
+same analysis found harassed students of any orien-      population, track changes in trends over time, and
+tation were more likely to report risk behaviors such    identify relationships between risk and protective
+as suicide attempts and substance use. Thus, if the      factors. These can be accomplished best through
+goal is to identify the level of anti-gay violence in    population-based surveys with items specific for
+school, such a question might be a useful measure.       gay, lesbian, bisexual and questioning youth.
+
+345.e12     SAEWYC ET AL                                          JOURNAL OF ADOLESCENT HEALTH Vol. 35, No. 4
+    But which measure or measures are best? At least       Obviously, the best option is to include all three
+three dimensions of sexual orientation are commonly     dimensions in adolescent health surveys, as each one
+measured among adolescent health surveys (attrac-       provides different, equally useful information. How-
+tion, behavior, and self-labeling), although few sur-   ever, if students are already burdened by the number
+veys include more than one of these dimensions.         of items, three dimensions may be hard to justify. To
+Each of these measures has benefits and drawbacks       effectively measure the highest priority health con-
+for surveillance of health behaviors and risks among    cerns, the best choice would include behavior plus
+this population, but no single measure is adequate      either self-labeling or attraction. Of the last two,
+for all health risks [29]. Sexual orientation unfolds   attraction (depending on wording) is probably the
+during adolescence, and the transition does not         most stable measure over time, because “labels” for
+move consistently across all dimensions at once.        nonheterosexual identities have changed several
+Adolescents may experiment with behaviors or iden-      times over the past century, and vary cross-culturally
+tities; their behaviors may conform to societal expec-  [27]. These studies indicate that orientation items,
+tations rather than personal inclination. They may      although sensitive questions, are no more sensitive
+disconnect behavior and self-labeling owing to cul-     or more likely to be skipped than other sexual risk
+tural stigma attached to certain labels, or, for a host behavior questions. This finding can reassure re-
+of other reasons, may be attracted, behave, and         searchers and school administrators who are con-
+identify in discordant ways.                            cerned that such items might be too sensitive for
+    Because of this, any single measure in a cross-     most students to answer, and who worry that non-
+sectional study will miss some adolescents at risk, or  response rates will render the results inaccurate and
+misrepresent them, depending on the health concern.     of limited use.
+                                                           There are both limitations and strengths to our
+Not all adolescents who identify as gay, lesbian,
+                                                        evaluation. None of the surveys allowed for testing
+bisexual, or heterosexual are sexually active. The
+                                                        various wording of measures, or different locations
+social stigma assigned to a nonheterosexual identity
+                                                        of items. All the surveys were given only in English,
+can create mental distress; if the only measure of
+                                                        although students for whom English was a second
+orientation is gender of sexual partners, then self-
+                                                        language did participate in all of them. Only the
+identified gay, lesbian or bisexual youth who are
+                                                        oldest surveys had multiple measures to compare
+distressed, depressed, or suicidal but have not had
+                                                        across dimensions, and one of those surveys was
+same-gender sexual behavior will not be included.
+                                                        focused exclusively on one ethnic group. As with all
+For the same reason, if the only measure is self-
+                                                        school-based surveys, our evaluation’s results are
+labeling or attraction, this may mask population        based on the responses (and nonresponses) of stu-
+differences in behavioral risks for HIV, other sexu-    dents who are present in school the day of the
+ally transmitted infections, or pregnancy, because      survey, and influenced by the contexts in which the
+not all GLB youth have engaged in same-gender or        surveys were administered in ways we cannot test,
+opposite-gender sex, and some of those who identify     but only infer. At the same time, these eight surveys
+as heterosexual will have same-gender sexual expe-      represent a significant portion of the school-based
+rience. Without a measure of actual sexual behavior     surveys in the United States and Canada with sexual
+(preferably assessing number and gender of sexual       orientation items; half the surveys have identically
+partners), exploring risk and protective factors re-    worded items, and several are from the same regions
+lated to health concerns like pregnancy and sexually    at different points in time, which allows for some
+transmitted disease will be difficult. The distinction  comparisons with similar populations. The similarity
+between self-labeling and attraction is owing to the    of some findings in surveys with different sampling
+developmental path of orientation and the cultural      methods and different ethnic groups in different
+load of stigma in certain words. In general, adoles-    regions suggests these measures have similar issues
+cents will not self-label until after attraction, and   across a spectrum of adolescent students. Given the
+often after sexual behavior, so if a self-label is the  wide range of ages in the surveys, from 12 or 13 to 20
+only item, fewer of those at risk for mental health or  years of age, or 7th through 12th grades, our evalu-
+sexual health issues associated with orientation will   ations may fit school-based surveys of students
+be identified. Likewise, adolescents appear to be less  across adolescence.
+willing to disclose a stigmatized identity, even in        Although the orientation measures used in these
+presumably anonymous and confidential surveys,          eight surveys have also been used in a growing array
+than they are to disclose attractions and behaviors.    of surveys around the world, there has been almost
+
+October 2004                                                   ORIENTATION MEASURES IN SCHOOL SURVEYS              345.e13
+Table 5. Recommended Wording for Sexual Orientation Measures for Adolescent Health Surveys, in Order of Priority
+Dimension of Orientation                                                 Item and Response Options
+Attraction                                    Who are you sexually attracted to?
+                                                  Males
+                                                  Females
+                                                  Both males and females
+                                                  I am not sexually attracted to anyone yet
+                                              Alternately, if two items are possible:
+                                              Are you sexually attracted to males? Yes/No
+                                              Are you sexually attracted to females? Yes/No
+Gender of sexual partners                     How many different males have you had sexual experiences with in your life?
+                                                  None
+                                                  1 person
+                                                  2 people
+                                                  3 or more
+                                              How many different females have you had sexual experiences with in your life?
+                                                  None
+                                                  1 person
+                                                  2 people
+                                                  3 or more
+Self-labeling                                 How would you describe your sexual orientation?
+                                                  Heterosexual (sexually attracted to the opposite sex)
+                                                  Mostly heterosexual
+                                                  Bisexual (attracted to both men and women)
+                                                  Gay or lesbian (attracted to the same sex)
+                                                  Other:_____________________
+                                                  I am not sure yet
+                                                  I don’t understand this question
+Fantasies                                     When you think or daydream about sex, do you dream about:
+                                                  Males
+                                                  Females
+                                                  Both
+                                                  I don’t daydream about sex yet
+no testing of adolescents’ understanding of these              contrast the performance of items from these eight
+measures or their response options. Pilot testing with         surveys, we have several recommendations to help
+qualitative research methods are still necessary be-           standardize orientation measures for surveys in the
+fore using these measures [36]. Students of different          next decade. Table 5 lists the specific wording choices
+ages, ethnic groups, and cognitive abilities should be         we recommend, listed in the order we consider a
+included in such testing, to make sure items are               priority, if a limited number of items are allowed on a
+culturally appropriate and comprehensible to teens             survey. However, the list is not comprehensive, and
+in the survey community. Similarly, large-scale sur-           other measures could be used along with the ones
+veys should conduct psychometric evaluations of the            listed. If only one item is allowed on a survey, we
+sexual orientation measures used, with analyses of             would recommend an attraction question, especially if
+those who choose unsure or who do not answer.                  the survey includes younger adolescents. Items should
+Longitudinal studies, and studies of different data-           be located with other sexual behaviors in the survey,
+gathering methods, such as computer-based surveys,             but measures of attraction and self-labeling should not
+internet surveys, and interviews, are needed to un-            be placed within a skip pattern that excludes students
+derstand how methods of data gathering interact                who have never had sexual intercourse. None of the
+with development over time in influencing student              orientation items should be placed adjacent to sexual
+responses to these items.                                      abuse questions.
+    Finally, it would be most useful for researchers to            Given the current health disparities documented for
+use the same measures, provided the items are vali-            sexual minority adolescents and adults, we must con-
+dated with their population first. This would facilitate       tinue monitoring the health issues of gay, lesbian,
+national and international comparisons and meta-anal-          bisexual and questioning youth as part of population-
+yses. Based on our unique opportunity to compare and           based surveys of health behaviors. Improving the ac-
+
+345.e14       SAEWYC ET AL                                                      JOURNAL OF ADOLESCENT HEALTH Vol. 35, No. 4
+curacy and effectiveness of the measures will only                   11. Robin L, Brener ND, Donahue S, et al. Associations between
+                                                                         health risk behaviors and opposite-, same-, and both-sex
+enhance our surveillance, improve our understanding                      sexual partners in representative samples of Vermont and
+of their health needs, and more effectively guide health                 Massachusetts high school students. Arch Pediatr Adolesc
+promotion efforts for this vulnerable population.                        Med 2002;156:349 –55.
+                                                                     12. Brown R. Self-harm and suicide risk for same-sex attracted
+This study was funded by grant R01 MH6258601 from the                    young people: A family perspective. Australian e-Journal for
+National Institute of Mental Health, National Institutes of Health       the Advancement of Mental Health. Available at: http://
+(Saewyc, PI). In addition, during preparation of the manuscript,         auseinet.com/journal/. Accessed August 24, 2002.
+three authors were supported in part by a nursing training grant,    13. Smith A, Lindsay J, Rosenthal D. Same-sex attraction, drug
+T80MC00021 (Center for Adolescent Nursing; Director: Bearinger)          injection, and binge drinking among Australian adolescents.
+from the Maternal and Child Health Bureau (Title V, Social               Aust N Z J Public Health 1999;2:643– 6.
+Security Act) Human Resources and Services Administration,           14. Saewyc EM, Skay CL, Pettingell S, et al. HIV risk behaviors
+Department of Health and Human Services. Greta Bauer is now              among adolescents in the Pacific Northwest. American Public
+with the Department of Health Management and Policy, Univer-             Health Association, annual meeting, Nov. 2003 (abstract). Avail-
+sity of New Hampshire, Durham. We thank the principal investi-           able at: http://apha.confex.com/apha/131am/techprogram/.
+gators and research teams who conducted the original eight
+                                                                     15. Borowsky IW, Ireland M, Resnick MD. Adolescent suicide
+surveys, and acknowledge their generosity in making these sur-
+                                                                         attempts: Risks and protectors. Pediatrics 2001;107:485–93.
+veys available for this study: Robert W. Blum, M.D., of the
+University of Minnesota, for the Minnesota Adolescent Health         16. Cochran SD, Mays VM. Relation between psychiatric syndromes
+Survey; Michael D. Resnick, Ph.D., of the University of Minnesota,       and behaviorally defined sexual orientation in a sample of the US
+for the National American Indian Adolescent Health Survey; the           population. Am J Epidemiol 2000;151:516–23.
+Minnesota Division of Child & Family Learning (now the Minne-        17. D;Augelli AR, Hershberger SL, Pilkington NW. Lesbian, gay,
+sota Department of Education), for the 1992 and 1998 Minnesota           and bisexual youth and their families: Disclosure of sexual
+Student Surveys; Pamela Hillard of the Seattle Independent               orientation and its consequences. Am J Orthopsychiatry 1998;
+School District, Seattle, WA, for the 1995 and 1999 Seattle Adoles-      68:361–71; discussion 372–5.
+cent Health Surveys; and Roger Tonkin, M.D., and Aileen Mur-         18. Nicholas J, Howard J. Better to be dead than gay? Depression,
+phy, M.A., of the McCreary Centre Society, Burnaby, British              suicide ideation and attempts among a sample of gay and
+Columbia, Canada, for the 1992 and 1998 British Columbia Ado-            straight identified males 18–24. Youth Stud Aust 1998;17:28–33.
+lescent Health Surveys.
+                                                                     19. Fergusson DM, Horwood LJ, Beautrais AL. Is sexual orienta-
+                                                                         tion related to mental health problems and suicidality in
+                                                                         young people? Arch Gen Psychiatry 1999;56:876 – 80.
+                                                                     20. Russell ST, Joyner K. Adolescent sexual orientation and sui-
+References                                                               cide risk: Evidence from a national study. Am J Public Health
+ 1. U.S. Department of Health & Human Services (DHHS).                   2001;91:1276 – 81.
+     Healthy People 2010, 2nd edition. Bethesda, MD: U.S. Gov-       21. Murphy A, Sidhu A, Tonkin R. Being Out: Lesbian, Gay,
+     ernment Printing Office, 2000.                                      Bisexual and Transgender Youth in BC, an Adolescent Health
+ 2. Sell RL, Becker JB. Sexual orientation data collection and           Survey. Burnaby, BC, Canada: The McCreary Centre Society,
+     progress toward Healthy People 2010. Am J Public Health             1999. (Available by order from http://www.mcs.bc.ca)
+     2001;91:876 – 82.                                               22. Savin-Williams RC. Verbal and physical abuse as stressors in
+                                                                         the lives of lesbian, gay male, and bisexual youth: Associations
+ 3. Hershberger SL, D’Augelli AR. The impact of victimization on
+                                                                         with school problems, running away, substance abuse, pros-
+     the mental health and suicidality of lesbian, gay, and bisexual
+                                                                         titution, and suicide. J Consult Clin Psychol 1994;62:261–9.
+     youths. Dev Psychol 1995;31:65–74.
+                                                                     23. Grunbaum JA, Kann L, Kinchen S, et al. Youth Risk Behavior
+ 4. Beuhring T, Saewyc EM, Billian Stern C, et al. Voice of              Surveillance—United States, 2001. MMWR 2002;51:1– 64.
+     Connecticut Youth: Report of the Statewide Adolescent Health
+     Survey. Minneapolis, MN: National Adolescent Health Re-         24. Resnick MD, Bearman PS, Blum RW, et al. Protecting adoles-
+     source Center, 1996.                                                cents from harm. Findings from the National Longitudinal
+                                                                         Study on Adolescent Health. JAMA 1997;278:823–32.
+ 5. Hillier L, Harrison L, Dempsey D. What ever happened to
+                                                                     25. Remafedi G, Resnick M, Blum R, et al. Demography of sexual
+     duty of care? Same-sex attracted young people’s stories of
+                                                                         orientation in adolescents. Pediatrics 1992;89:714 –21.
+     schooling and violence. Melb Stud Educ Special Issue Sexual-
+     ities and Education 1999;40:59 –74.                             26. Hillard P, Peterfreund N, Cheadle A. Seattle Public Schools
+                                                                         1995 Teen Health Risk Survey. Seattle, WA: Seattle School
+ 6. DuRant RH, Krowchuk DP, Sinal, SH. Victimization, use of             District Health Curriculum Office, 1996.
+     violence, and drug use at school among male adolescents who
+     engage in same-sex sexual behavior. Pediatrics 1998;133:113– 8. 27. Chung YB, Katayama M. Assessment of sexual orientation in
+                                                                         lesbian/gay/bisexual studies. J Homosex 1996;30:49 – 62.
+ 7. Saewyc E, Skay C, Bearinger L, et al. Demographics of sexual
+     orientation among American Indian adolescents. Am J Ortho-      28. Gonsiorek JC, Sell RL, Weinrich D. Definition and measure-
+     psychiatry 1998;68:590 – 600.                                       ment of sexual orientation. Suicide Life Threat Behav 1995;25:
+                                                                         40 –51.
+ 8. Rotheram-Borus MJ, Marelich W, Srinivasan S. HIV risk
+                                                                     29. Lesbian, Gay, and Bisexual (LGB) Youth Sexual Orientation
+     among homosexual, bisexual, and heterosexual male and
+                                                                         Measurement Work Group. Measuring sexual orientation of
+     female youths. Arch Sex Behav 1999;28:159 –77.
+                                                                         young people in health research (San Francisco: Gay and Lesbian
+ 9. Saewyc E, Bearinger L, Blum R, et al. Sexual intercourse, abuse      Medical Association, July 2003). Available at: http://www.
+     and pregnancy among adolescents: Does sexual orientation            glma.org/downloads/msoyphr2003.pdf. Accessed July 7,
+     make a difference? Fam Plann Perspect 1999;31:127–31.               2003.
+10. Russell ST, Franz BT, Driscoll AK. Same-sex romantic attrac-     30. Pedhazur EJ, Schmelkin L. Measurement, Design and Analy-
+     tion and experiences of violence in adolescence. Am J Public        sis: An Integrated Approach. Hillsdale, NJ: Lawrence Erlbaum
+     Health 2001;91:903– 6.                                              Associates, 1991.
+
+October 2004                                                       ORIENTATION MEASURES IN SCHOOL SURVEYS                    345.e15
+31. Schumann H, Presser S. Questions and Answers in Attitude           ment and the safety and well-being of sexual minority
+    Surveys: Experiments on Question Form, Wording, and Con-           students (Seattle, WA: Safe Schools Coalition). Available at:
+    text. New York: Academic Press, 1981.                              http://www.safeschools-wa.org/ssc_reports.htm. Accessed
+                                                                       June 12, 1999.
+32. Sigman G, Silber TJ, English A, Gans Epner JE. Confidential
+    health care for adolescents: Position paper of the Society for 36. Austin SB, Conron KJ, Patel A. Measures of sexual orientation
+    Adolescent Medicine. J Adolesc Health 1997;21:408 –15.             in epidemiologic surveys: Findings from a cognitive process-
+                                                                       ing study with adolescents (abstract). J Adolesc Health 2004;
+33. Cheng TL, Savageau JA, Sattler AL, et al. Confidentiality in       34:113–14.
+    health care: A survey of knowledge, perceptions, and attitudes
+    among high school students. JAMA 1993;269:1404 –7.             37. Rosario M, Meyer-Bahlburg HF, Hunter J, et al. The psycho-
+                                                                       sexual development of urban lesbian, gay, and bisexual
+34. Thurlow C. Naming the “outsider within”: Homophobic pe-            youths. J Sex Res 1996;33:113–26.
+    joratives and the verbal abuse of lesbian, gay, and bisexual
+                                                                   38. Saewyc EM, Singh N, Reis E, Flynn T. Intersections of gender,
+    high-school pupils. J Adolesc 2001;24:25–38.                       racial, and orientation harassment in school and associated
+35. Reis E, Saewyc E. 83,000 youth: Selected findings of eight         health risks among adolescents (abstract). J Adolesc Health
+    population-based studies as they pertain to anti-gay harass-       2000;26:148.
+
