@@ -5,21 +5,32 @@ date: "July 21, 2016"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Introduction
 
-## Header
+The Federal Interagency Working Group on Measuring Sexual Orientation and Gender Identity is evaluating research done to date by investigating published papers. Members of the IWG are evaluating findings and methods for the papers in this corpus of research. However, our goal here is to use statistical topic modeling to find topics or themes that occur in the corpus for three purposes. First, this provides meta data on each document, since they will be tagged with topics. Second, documents can be clustered together based on what topics they cover and this information can be summarized in a visualization, which can be valuable in a mostly qualitative analysis. Finally, this high-level analysis will allow the members of the working group to see which topics tend to occur together in documents and find any latent topics that might be more pervasive in the corpus than expected. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Topic modeling is a type of statistical model in natural language processing that aims to find topics in a corpus, group topics together by looking for similarity and co-occurence, and categorize documents in the corpus based on the topic probabilities assigned. We are specifically using a statistical method called the latent Dirichlet allocation (LDA). LDA attempts to build topics using the words and documents in the corpus and assumes that each document in the corpus covers one or more of these topics.
 
+## Method
 
-```{r cars}
-#load text mining library
+Before running the code below, a script converted the PDFs into text files, this preprocessing code can be examined [here](https://github.com/prioberoi/sogi/blob/master/convert_pdf_to_txt.R). Research papers stored as images were not included in this analysis. Here are a list of the papers included in the model:
+
+```{r, warning=FALSE, message=FALSE}
+#load libraries
 library(tm)
 library(SnowballC)
 library(topicmodels)
+library(DT)
+library(wordcloud)
+library(RColorBrewer)
+library(reshape2)
+library(plyr)
+library(ggplot2)
+library(plotly)
 
+###########
+# Get data
+###########
 
 #set working directory (modify path as needed)
 setwd("/Users/prioberoi/Documents/pri_personal/sogi_iwg/sogi/data/")
@@ -29,20 +40,30 @@ path <- "/Users/prioberoi/Documents/pri_personal/sogi_iwg/sogi"
 #get listing of .txt files in directory
 filenames <- list.files(getwd(),pattern="*.txt")
 
-
 #read files into a character vector
 files <- lapply(filenames,readLines)
-
 
 #create corpus from vector
 docs <- Corpus(VectorSource(files))
 
+#table of the research papers used 
+papers <- data.frame(Paper = gsub("\\.txt", "", filenames))
+datatable(papers, options = list(pageLength = 5))
 
 #inspect a particular document in corpus
-writeLines(as.character(docs[[30]]))
+#writeLines(as.character(docs[[30]]))
 
+```
 
-#start preprocessing
+LDA assumes that each document in the corpus is a mixture of topics, where topics are a structure built from words and documents. LDA requires us to define the number of topics we expect to see across the corpus, however we ran this model multiple times to evaluate the results for 3-20 topics to pick the topic count that best captures the content in this corpus.
+
+After some basic preprocessing, like removing numbers, common English words (like "and"), and stemming/lemmatizing words (truncating words to their roots, such as 'responding' to 'respond'), we built a document term matrix that lists all words in the corpus and counts those words by occurence in each document. Here are the first few rows and columns of the document-term matrix, to give a sense of what data we are using to do our LDA, and the twenty most frequent words:
+
+```{r, warning=FALSE}
+
+###########
+# Preprocessing
+###########
 
 #Convert to UTF-8 format
 docs <- tm_map(docs, content_transformer(function(x) iconv(x, to='UTF-8-MAC', sub='byte')))
@@ -69,25 +90,17 @@ docs <- tm_map(docs, removeWords, stopwords("english"), lazy = TRUE)
 #remove whitespace
 docs <- tm_map(docs, stripWhitespace, lazy = TRUE)
 #Good practice to check every now and then
-writeLines(as.character(docs[[1]]))
-#Stem document <--------- look into Lemmatization instead
+#writeLines(as.character(docs[[1]]))
+#Stem document 
 docs <- tm_map(docs,stemDocument)
 
 
-#fix up 1) differences between us and aussie english 2) general errors
-docs <- tm_map(docs, content_transformer(gsub),
-               pattern = "organiz", replacement = "organ")
-docs <- tm_map(docs, content_transformer(gsub),
-               pattern = "organis", replacement = "organ")
-docs <- tm_map(docs, content_transformer(gsub),
-               pattern = "andgovern", replacement = "govern")
-docs <- tm_map(docs, content_transformer(gsub),
-               pattern = "inenterpris", replacement = "enterpris")
-docs <- tm_map(docs, content_transformer(gsub),
-               pattern = "team-", replacement = "team")
+# words that need to be substituted
+# docs <- tm_map(docs, content_transformer(gsub),
+#                pattern = "organiz", replacement = "organ")
 
 #define and eliminate all custom stopwords
-myStopwords <- c("can", "say","one","way","use",
+myStopwords <- c("the", "can", "say","one","way","use",
                   "also","howev","tell","will",
                   "much","need","take","tend","even",
                   "like","particular","rather","said",
@@ -104,8 +117,7 @@ myStopwords <- c("can", "say","one","way","use",
                   "great","lot")
 docs <- tm_map(docs, removeWords, myStopwords)
 #inspect a document as a check
-writeLines(as.character(docs[[1]]))
-
+# writeLines(as.character(docs[[1]]))
 
 #Create document-term matrix
 dtm <- DocumentTermMatrix(docs, control=list(bounds = list(global = c(2, Inf)))) # created dtm excluding terms that only appear in 1 doc
@@ -113,16 +125,28 @@ dtm <- DocumentTermMatrix(docs, control=list(bounds = list(global = c(2, Inf))))
 rownames(dtm) <- filenames
 #collapse matrix by summing over columns
 freq <- colSums(as.matrix(dtm))
-inspect(dtm) <- inspect(dtm)[,12:ncol(inspect(dtm))]
-#inspect(dtm[1:5,1:5])
+#inspect(dtm) <- inspect(dtm)[,12:ncol(inspect(dtm))]
+inspect(dtm[1:5,1:5])
 #length should be total number of terms
-length(freq)
+#length(freq)
 #create sort order (descending)
 ord <- order(freq,decreasing=TRUE)
 #List all terms in decreasing order of freq and write to disk
-freq[head(ord)]
+print(freq[ord[1:20]])
 write.csv(freq[ord],"/Users/prioberoi/Documents/pri_personal/sogi_iwg/sogi/word_freq.csv")
 
+```
+
+The most frequent words are the ones we would expect for SOGI research papers. 
+
+## Results
+
+After running the latent Dirichlet allocation on our data, our output includes:
+1. A mapping of documents to topics
+2. A definition of each topic (i.e. what words make up that topic)
+3. The probabilities with which each topic is assigned to a document (so if a document covers two topics, we should see a high probability for both topics in that document)
+
+```{r, warning=FALSE}
 
 ###########
 # Topic modeling using LDA
@@ -153,10 +177,9 @@ write.csv(ldaOut.topics,file=paste0(path, "/LDAGibbs",k,"DocsToTopics.csv"))
 ldaOut.terms <- as.matrix(terms(ldaOut,6))
 write.csv(ldaOut.terms,file=paste0(path, "/LDAGibbs",k,"TopicsToTerms.csv"))
 
-
 #probabilities associated with each topic assignment
 # this lists the probabilities with which each topic is assigned to a document. 
-# This is therefore a 30 x 5 matrix – 30 docs and 5 topics. 
+# This is therefore a 43 x 5 matrix – 43 docs and 5 topics. 
 # As one might expect, the highest probability in each row corresponds to the topic assigned to that document.  
 # The “goodness” of the primary assignment can be assessed by taking the ratio of the highest to second-highest probability 
 # and the second-highest to the third-highest probability and so on. 
@@ -180,3 +203,113 @@ write.csv(topic1ToTopic2,file=paste0(path, "/LDAGibbs",k,"Topic1ToTopic2.csv"))
 write.csv(topic2ToTopic3,file=paste0(path, "/LDAGibbs",k,"Topic2ToTopic3.csv"))
 
 ```
+
+### Topics
+
+First, let's take a look at the terms that were assigned to each topic to get a better sense of what each topic is capturing. We will also name the topics so we can refer to them later.
+
+Terms are assigned to a topic with probabilities, so every term in the corpus is given a probability per topic. So, as an example, these are the top 10 terms for the first topic along with their probabilities:
+
+```{r}
+termProbabilitiesByTopic <- posterior(ldaOut)$terms
+termsByTopic <- as.data.frame(terms(ldaOut, ncol(termProbabilitiesByTopic)))
+termProbabilitiesByTopic <- as.data.frame(t(termProbabilitiesByTopic))
+colnames(termProbabilitiesByTopic) <- unlist(lapply(c(1:k), function(x) paste0("Topic ",x)))
+
+termProbabilitiesByTopic$Term <- as.factor(rownames(termProbabilitiesByTopic))
+termProbabilitiesByTopic <- melt(termProbabilitiesByTopic)
+names(termProbabilitiesByTopic) <- c("Term", "Topic", "Probability")
+temp <- termProbabilitiesByTopic[termProbabilitiesByTopic$Topic == "Topic 1",]
+temp <- temp[order(-temp$Probability),]
+```
+
+At some point the term probabilities drop rapidly:
+
+```{r}
+temp$ticker <- as.numeric(1:nrow(temp))
+
+plot_ly(temp, x = ticker, y = Probability, text = paste("Term: ", Term)) %>%
+  layout(xaxis = list(title = "", showticklabels = FALSE))
+
+```
+
+However, we can use the top terms to get a sense for what each topic covers.
+
+#### Topic 1
+This topic is mostly about surveys:
+```{r}
+termProbs <- data.frame()
+for(i in 1:k){
+  topic <- paste0("Topic ", i)
+  temp <- termProbabilitiesByTopic[termProbabilitiesByTopic$Topic == topic,]
+  temp <- temp[order(-temp$Probability),]
+  termProbs <- rbind(termProbs, temp)
+}
+wordcloud((termProbs[termProbs$Topic == 'Topic 1','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 1','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+```
+
+#### Topic 2
+This topic touches on gender, especially transgender identities, and health:
+```{r}
+wordcloud((termProbs[termProbs$Topic == 'Topic 2','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 2','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+```
+
+#### Topic 3
+This topic covers sex and relationships/households:
+```{r}
+wordcloud((termProbs[termProbs$Topic == 'Topic 3','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 3','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+```
+
+#### Topic 4
+This seems to be around sexual orientation:
+```{r}
+wordcloud((termProbs[termProbs$Topic == 'Topic 4','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 4','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+```
+
+#### Topic 5
+This doesn't seem to be a coherent topic at the moment:
+```{r}
+wordcloud((termProbs[termProbs$Topic == 'Topic 5','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 5','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+```
+
+To summarize our topics:
+```{r}
+topicNames <- data.frame(Topic= colnames(termsByTopic), Description = c("Surveys", "Gender and Trans Identities", "Relationships/Households", "Sexual Orientation","Misc"))
+```
+
+
+### Documents
+
+Let's look at the primary topics and compare them by frequency, i.e. how many documents have that primary topic assignment. 
+
+```{r, warning=FALSE}
+
+# Docs per topic (primary topic only)
+DocsToTopics <- as.data.frame(topics(ldaOut))
+DocsToTopics$paper <- rownames(DocsToTopics)
+names(DocsToTopics) <- c("topic", "paper")
+
+primaryTopics <- as.data.frame(table(DocsToTopics$topic))
+primaryTopics$topicName <- terms(ldaOut)
+names(primaryTopics) <- c("Topic","Frequency","TopicName")
+a <- list()
+for (i in seq_len(nrow(primaryTopics))) {
+  m <- primaryTopics[i, ]
+  a[[i]] <- list(
+    x = m$Topic,
+    y =  m$Frequency,
+    text = m$TopicName,
+    xref = "x",
+    yref = "y",
+    showarrow = FALSE,
+    arrowhead = 7,
+    ax = 20,
+    ay = -40
+  )
+}
+plot_ly(primaryTopics, type = "scatter", x = Topic, y = Frequency, text = paste("Topic Name: ", TopicName), size = Frequency, mode = "markers") %>%
+  layout(title ="Primary Topic Frequency") %>%
+  layout(annotations = a)
+
+```
+
