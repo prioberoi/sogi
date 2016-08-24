@@ -27,6 +27,7 @@ library(reshape2)
 library(plyr)
 library(ggplot2)
 library(plotly)
+library(igraph)
 
 ###########
 # Get data
@@ -245,59 +246,66 @@ for(i in 1:k){
   temp <- temp[order(-temp$Probability),]
   termProbs <- rbind(termProbs, temp)
 }
-wordcloud((termProbs[termProbs$Topic == 'Topic 1','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 1','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+wordcloud((termProbs[termProbs$Topic == 'Topic 1','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 1','Probability'][1:10]), colors=brewer.pal(9, "Blues"))
 ```
 
 #### Topic 2
 This topic touches on gender, especially transgender identities, and health:
 ```{r}
-wordcloud((termProbs[termProbs$Topic == 'Topic 2','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 2','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+wordcloud((termProbs[termProbs$Topic == 'Topic 2','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 2','Probability'][1:10]), rot.per=.15, colors=brewer.pal(9, "Blues"))
 ```
 
 #### Topic 3
 This topic covers sex and relationships/households:
 ```{r}
-wordcloud((termProbs[termProbs$Topic == 'Topic 3','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 3','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+wordcloud((termProbs[termProbs$Topic == 'Topic 3','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 3','Probability'][1:10]), rot.per=.15, colors=brewer.pal(9, "Blues"))
 ```
 
 #### Topic 4
 This seems to be around sexual orientation:
 ```{r}
-wordcloud((termProbs[termProbs$Topic == 'Topic 4','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 4','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+wordcloud((termProbs[termProbs$Topic == 'Topic 4','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 4','Probability'][1:10]), rot.per=.15, colors=brewer.pal(9, "Blues"))
 ```
 
 #### Topic 5
 This doesn't seem to be a coherent topic at the moment:
 ```{r}
-wordcloud((termProbs[termProbs$Topic == 'Topic 5','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 5','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+wordcloud((termProbs[termProbs$Topic == 'Topic 5','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 5','Probability'][1:10]), rot.per=.15, colors=brewer.pal(9, "Blues"))
 ```
 
-To summarize our topics:
+To summarize, our topics are:
 ```{r}
-topicNames <- data.frame(Topic= colnames(termsByTopic), Description = c("Surveys", "Gender and Trans Identities", "Relationships/Households", "Sexual Orientation","Misc"))
+topicNames <- data.frame(Topic= colnames(termsByTopic), Description = c("Surveys", "Gender and Trans Identities", "Relationships/Households", "Sexual Orientation","Unknown"))
+topicNames
 ```
-
 
 ### Documents
 
-Let's look at the primary topics and compare them by frequency, i.e. how many documents have that primary topic assignment. 
+Similar to how terms are assigned to topics with a probability, every topic is assigned to documents with a probability as well. The topic assigned the highest probability for a document is the primary topic. However, it is possible for a document to cover multiple topics. A good way to assess how well a topic describes a document is by looking at the ratio of the highest topic probability to the second highest probability, and so on. For example, if a research paper has a primary topic  probability of 0.49 and a seconary topic probability of 0.16, the ratio of 3.06 indicates the first topic is three times more likely. However if the first two topics have probabilities of 0.33 and 0.22, respectively, then the ratio is 1.5, indicating both topics might apply to this document.
+
+If we just look at the primary topics and compare them by frequency, i.e. how many documents have that primary topic assignment. 
 
 ```{r, warning=FALSE}
 
-# Docs per topic (primary topic only)
+# Primary doc per topic 
 DocsToTopics <- as.data.frame(topics(ldaOut))
 DocsToTopics$paper <- rownames(DocsToTopics)
-names(DocsToTopics) <- c("topic", "paper")
+names(DocsToTopics) <- c("TopicNumber", "Paper")
+DocsToTopics$TopicName <- lapply(DocsToTopics$TopicNumber, function(x) as.character(topicNames[topicNames$Topic == paste0("Topic ", x),'Description']))
 
-primaryTopics <- as.data.frame(table(DocsToTopics$topic))
-primaryTopics$topicName <- terms(ldaOut)
-names(primaryTopics) <- c("Topic","Frequency","TopicName")
+# Topic probabilities per document
+names(topicProbabilities) <- c(paste(rep("Topic", k), 1:k))
+topicProbabilities$Paper <- DocsToTopics$Paper
+
+primaryTopics <- count(DocsToTopics[,c('TopicNumber','TopicName')], vars = "TopicNumber")
+primaryTopics$TopicName <- lapply(primaryTopics$TopicNumber, function(x) as.character(topicNames[topicNames$Topic == paste0("Topic ", x),'Description']))
+
 a <- list()
 for (i in seq_len(nrow(primaryTopics))) {
   m <- primaryTopics[i, ]
   a[[i]] <- list(
-    x = m$Topic,
-    y =  m$Frequency,
+    x = m$TopicNumber,
+    y =  m$freq,
     text = m$TopicName,
     xref = "x",
     yref = "y",
@@ -307,7 +315,7 @@ for (i in seq_len(nrow(primaryTopics))) {
     ay = -40
   )
 }
-plot_ly(primaryTopics, type = "scatter", x = Topic, y = Frequency, text = paste("Topic Name: ", TopicName), size = Frequency, mode = "markers") %>%
+plot_ly(primaryTopics, type = "scatter", x = TopicNumber, y = freq, text = paste("Topic Name: ", TopicName), size = freq, mode = "markers") %>%
   layout(title ="Primary Topic Frequency") %>%
   layout(annotations = a)
 
