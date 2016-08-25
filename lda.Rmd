@@ -1,7 +1,6 @@
 ---
 title: "SOGI IWG: Evaluation of Research to Date (Statistical Topic Modeling) "
-author: "Pri Oberoi"
-date: "July 21, 2016"
+author: "Pri Oberoi | Data Scientist | Commcerce Data Service"
 output: html_document
 ---
 
@@ -15,7 +14,7 @@ Topic modeling is a type of statistical model in natural language processing tha
 
 Before running the code below, a script converted the PDFs into text files, this preprocessing code can be examined [here](https://github.com/prioberoi/sogi/blob/master/convert_pdf_to_txt.R). Research papers stored as images were not included in this analysis. Here are a list of the papers included in the model:
 
-```{r, warning=FALSE, message=FALSE}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 #load libraries
 library(tm)
 library(SnowballC)
@@ -54,13 +53,17 @@ datatable(papers, options = list(pageLength = 5))
 #inspect a particular document in corpus
 #writeLines(as.character(docs[[30]]))
 
+docs_backup <- docs
+
 ```
 
-LDA assumes that each document in the corpus is a mixture of topics, where topics are a structure built from words and documents. LDA requires us to define the number of topics we expect to see across the corpus, however we ran this model multiple times to evaluate the results for 3-20 topics to pick the topic count that best captures the content in this corpus.
+LDA assumes that each document in the corpus is a mixture of topics, where topics are a structure built from words and documents. LDA requires us to define the number of topics we expect to see across the corpus, however we ran this model multiple times to evaluate the results for 3-20 topics to pick the topic count that best captures the content in this corpus. 
 
-After some basic preprocessing, like removing numbers, common English words (like "and"), and stemming/lemmatizing words (truncating words to their roots, such as 'responding' to 'respond'), we built a document term matrix that lists all words in the corpus and counts those words by occurence in each document. Here are the first few rows and columns of the document-term matrix, to give a sense of what data we are using to do our LDA, and the twenty most frequent words:
+After some basic preprocessing like removing numbers, removing common English words (like "and"), and stemming/lemmatizing words (truncating words to their roots, such as 'responding' to 'respond'), we built a document term matrix that lists all words in the corpus and counts those words by occurence in each document.
 
-```{r, warning=FALSE}
+Here are the first few rows and columns of the document-term matrix, to give a sense of what data we are using to do our LDA, and the twenty most frequent words:
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 
 ###########
 # Preprocessing
@@ -138,16 +141,378 @@ write.csv(freq[ord],"/Users/prioberoi/Documents/pri_personal/sogi_iwg/sogi/word_
 
 ```
 
-The most frequent words are the ones we would expect for SOGI research papers. 
+## Results
+
+After running the latent Dirichlet allocation on our data, our output includes:
+
+1. A mapping of documents to six topics
+2. A definition of each topic (i.e. what words make up that topic)
+3. The probabilities with which each topic is assigned to a document (so if a document covers two topics, we should see a high probability for both topics in that document)
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+
+###########
+# Topic modeling using LDA
+###########
+
+#Set parameters for Gibbs sampling
+burnin <- 4000
+iter <- 2000
+thin <- 500
+seed <-list(2003,5,63,100001,765)
+nstart <- 5
+best <- TRUE
+
+#Number of topics
+k <- 6
+
+#Run LDA using Gibbs sampling
+ldaOut <-LDA(dtm,k, method="Gibbs", control=list(nstart=nstart, seed=seed, best=best, burnin=burnin, iter=iter, thin=thin))
+
+
+#write out results
+#docs to topics
+ldaOut.topics <- as.matrix(topics(ldaOut))
+write.csv(ldaOut.topics,file=paste0(path, "/LDAGibbs",k,"DocsToTopics.csv"))
+
+
+#top 6 terms in each topic
+ldaOut.terms <- as.matrix(terms(ldaOut,6))
+write.csv(ldaOut.terms,file=paste0(path, "/LDAGibbs",k,"TopicsToTerms.csv"))
+
+#probabilities associated with each topic assignment
+# this lists the probabilities with which each topic is assigned to a document. 
+# This is therefore a 43 x 5 matrix – 43 docs and 5 topics. 
+# As one might expect, the highest probability in each row corresponds to the topic assigned to that document.  
+# The “goodness” of the primary assignment can be assessed by taking the ratio of the highest to second-highest probability 
+# and the second-highest to the third-highest probability and so on. 
+# Which is what I’ve done in the lines after this one.
+topicProbabilities <- as.data.frame(ldaOut@gamma)
+write.csv(topicProbabilities,file=paste0(path, "/LDAGibbs",k,"TopicProbabilities.csv"))
+
+
+#Find relative importance of top 2 topics
+topic1ToTopic2 <- lapply(1:nrow(dtm),function(x)
+  sort(topicProbabilities[x,])[k]/sort(topicProbabilities[x,])[k-1])
+
+
+#Find relative importance of second and third most important topics
+topic2ToTopic3 <- lapply(1:nrow(dtm),function(x)
+  sort(topicProbabilities[x,])[k-1]/sort(topicProbabilities[x,])[k-2])
+
+
+#write to file
+write.csv(topic1ToTopic2,file=paste0(path, "/LDAGibbs",k,"Topic1ToTopic2.csv"))
+write.csv(topic2ToTopic3,file=paste0(path, "/LDAGibbs",k,"Topic2ToTopic3.csv"))
+
+```
+
+### Topics
+
+First, let's take a look at the terms that were assigned to each topic to get a better sense of what each topic is capturing. We will also name the topics so we can refer to them later.
+
+Terms are assigned to a topic with probabilities, so every term in the corpus is given a probability per topic. So, as an example, these are the top 10 terms for the first topic along with their probabilities:
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+termProbabilitiesByTopic <- posterior(ldaOut)$terms
+termsByTopic <- as.data.frame(terms(ldaOut, ncol(termProbabilitiesByTopic)))
+termProbabilitiesByTopic <- as.data.frame(t(termProbabilitiesByTopic))
+colnames(termProbabilitiesByTopic) <- unlist(lapply(c(1:k), function(x) paste0("Topic ",x)))
+
+termProbabilitiesByTopic$Term <- as.factor(rownames(termProbabilitiesByTopic))
+termProbabilitiesByTopic <- melt(termProbabilitiesByTopic)
+names(termProbabilitiesByTopic) <- c("Term", "Topic", "Probability")
+temp <- termProbabilitiesByTopic[termProbabilitiesByTopic$Topic == "Topic 1",]
+temp <- temp[order(-temp$Probability),]
+temp[1:10,]
+```
+
+At some point the term probabilities drop rapidly:
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+temp$ticker <- as.numeric(1:nrow(temp))
+
+plot_ly(temp, x = ticker, y = Probability, text = paste("Term: ", Term)) %>%
+  layout(xaxis = list(title = "", showticklabels = FALSE))
+
+```
+
+However, we can use the top terms to get a sense for what each topic covers.
+
+#### Topic 1
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+termProbs <- data.frame()
+for(i in 1:k){
+  topic <- paste0("Topic ", i)
+  temp <- termProbabilitiesByTopic[termProbabilitiesByTopic$Topic == topic,]
+  temp <- temp[order(-temp$Probability),]
+  termProbs <- rbind(termProbs, temp)
+}
+wordcloud((termProbs[termProbs$Topic == 'Topic 1','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 1','Probability'][1:100]), colors=brewer.pal(9, "Blues"), scale=c(2,.4))
+```
+
+#### Topic 2
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 2','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 2','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
+```
+
+#### Topic 3
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 3','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 3','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
+```
+
+#### Topic 4
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 4','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 4','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
+```
+
+#### Topic 5
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 5','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 5','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
+```
+
+#### Topic 6
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 6','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 6','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
+```
+
+To summarize, our topics are:
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+topicNames <- data.frame(Topic= colnames(termsByTopic), Description = c("Couples, Relationships, Households", "Gender, Transgender", "Gender", "Health, Sexual, Orientation", "Sexual Orientation", "Question, Survey, Response"))
+topicNames
+```
+
+### Documents
+
+Similar to how terms are assigned to topics with a probability, every topic is assigned to documents with a probability as well. The topic assigned the highest probability for a document is the primary topic. However, it is possible for a document to cover multiple topics. A good way to assess how well a topic describes a document is by looking at the ratio of the highest topic probability to the second highest probability, and so on. For example, if a research paper has a primary topic  probability of 0.49 and a seconary topic probability of 0.16, the ratio of 3.06 indicates the first topic is three times more likely. However if the first two topics have probabilities of 0.33 and 0.22, respectively, then the ratio is 1.5, indicating both topics might apply to this document.
+
+#### Primary Topic Frequency
+
+Here is a look at the primary topics by frequency, i.e. number of documents per primary topic assignment.
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+
+# Primary doc per topic 
+DocsToTopics <- as.data.frame(topics(ldaOut))
+DocsToTopics$paper <- rownames(DocsToTopics)
+names(DocsToTopics) <- c("TopicNumber", "Paper")
+DocsToTopics$TopicName <- lapply(DocsToTopics$TopicNumber, function(x) as.character(topicNames[topicNames$Topic == paste0("Topic ", x),'Description']))
+
+primaryTopics <- count(DocsToTopics[,c('TopicNumber','TopicName')], vars = "TopicNumber")
+primaryTopics$TopicName <- lapply(primaryTopics$TopicNumber, function(x) as.character(topicNames[topicNames$Topic == paste0("Topic ", x),'Description']))
+
+a <- list()
+for (i in seq_len(nrow(primaryTopics))) {
+  m <- primaryTopics[i, ]
+  a[[i]] <- list(
+    x = m$TopicNumber,
+    y =  m$freq,
+    text = m$TopicName,
+    xref = "x",
+    yref = "y",
+    showarrow = FALSE,
+    arrowhead = 7,
+    ax = 20,
+    ay = -40
+  )
+}
+plot_ly(primaryTopics, type = "scatter", x = TopicNumber, y = freq, text = paste("Topic Name: ", TopicName), size = freq, mode = "markers") %>%
+  layout(title ="Primary Topic Frequency") %>%
+  layout(annotations = a)
+
+```
+
+#### Relationship Between Topics and Papers
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+# Topic probabilities per document
+names(topicProbabilities) <- c(paste(rep("Topic", k), 1:k))
+topicProbabilities$Paper <- DocsToTopics$Paper
+
+# remove edges with a prob < 0.2
+df <- melt(topicProbabilities)
+df <- df[df$value >0.2,]
+# create edgelist
+gr <- df[,c('Paper', 'variable')]
+names(gr) <- c("Paper", "Topic")
+gr <- as.matrix(gr)
+
+# build a graph from the above matrix
+G <- graph_from_edgelist(gr, directed = TRUE)
+L <- layout_nicely(G) #layout_in_circle
+
+# Vertices and edges for the graph
+vs <- V(G)
+es <- as.data.frame(get.edgelist(G))
+# Count of vertices and edges
+Nv <- length(vs)
+Ne <- length(es[1]$V1)
+# Node positions
+Xn <- L[,1]
+Yn <- L[,2]
+# Node sizes
+counts <- rbind(count(df$Paper), count(df$variable))
+Ns <- data.frame()
+for(vert in names(vs)){
+  Ns <- rbind(Ns, data.frame(Vertices = vert, Freq = counts[counts$x == vert,'freq']))
+}
+# Node color
+Ns$NodeType <- lapply(Ns$Vertices, function(x) grep("Topic [0-9]", x))
+Ns$NodeType[!(Ns$NodeType == '1')] <- "Paper"
+Ns$NodeType[Ns$NodeType == '1'] <- "Topic"
+# Draw network nodes
+topics <- cbind(Ns[Ns$NodeType == 'Topic',], as.data.frame(L)[Ns$NodeType == 'Topic',])
+topics$names <- topicNames$Description
+a <- list()
+for(i in seq_len(nrow(topics))){
+  m <- topics[i,]
+  a[[i]] <- list(
+    x = m$V1,
+    y = m$V2,
+    text = m$names,
+    xref = "x",
+    yref = "y",
+    showarrow = FALSE
+  )
+}
+
+network <- plot_ly(type = "scatter", x = Xn, y = Yn, size = Ns$Freq, mode = "markers", text = names(vs), hoverinfo = "text", color = Ns$NodeType) %>%
+  layout(annotations = a)
+
+# Creates shapes for edges
+edge_shapes <- list()
+for(i in 1:Ne) {
+  v0 <- es[i,]$V1
+  v1 <- es[i,]$V2
+  alpha <- df[i,'value']
+
+  edge_shape = list(
+    type = "line",
+    line = list(color = "#b2b2d8", width = alpha),
+    x0 = Xn[v0],
+    y0 = Yn[v0],
+    x1 = Xn[v1],
+    y1 = Yn[v1]
+  )
+
+  edge_shapes[[i]] <- edge_shape
+}
+# Add edges to the network
+network <- layout(
+  network,
+  title = 'Network',
+  shapes = edge_shapes,
+  xaxis = list(title = "", showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE),
+  yaxis = list(title = "", showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE)
+)
+
+network
+
+```
+
+## Latent Topics
+
+We ran this same analysis after removing words that represent the dominant topics across the corpus. This makes it easier to see any latent topic signal rather than the topics we expect to see (like survey). The words removed include: 
+sexual, gender, sex, survey, health, question, ident, transgend, respond, report, orient, measur, research, studi, respons, male, women, femal, men.
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+
+###########
+# Preprocessing
+###########
+
+docs <- docs_backup
+
+#Convert to UTF-8 format
+docs <- tm_map(docs, content_transformer(function(x) iconv(x, to='UTF-8-MAC', sub='byte')))
+
+#Transform to lower case
+docs <-tm_map(docs,content_transformer(tolower), lazy = TRUE)
+
+#remove potentially problematic symbols
+toSpace <- content_transformer(function(x, pattern) { return (gsub(pattern, " ", x))})
+docs <- tm_map(docs, toSpace, "-", lazy = TRUE)
+docs <- tm_map(docs, toSpace, "’", lazy = TRUE)
+docs <- tm_map(docs, toSpace, "‘", lazy = TRUE)
+docs <- tm_map(docs, toSpace, "•", lazy = TRUE)
+docs <- tm_map(docs, toSpace, "“", lazy = TRUE)
+docs <- tm_map(docs, toSpace, "”", lazy = TRUE)
+
+#remove punctuation
+docs <- tm_map(docs, removePunctuation, lazy = TRUE)
+#Strip digits
+docs <- tm_map(docs, removeNumbers, lazy = TRUE)
+#remove stopwords
+docs <- tm_map(docs, removeWords, stopwords("english"), lazy = TRUE)
+#remove whitespace
+docs <- tm_map(docs, stripWhitespace, lazy = TRUE)
+#Good practice to check every now and then
+#writeLines(as.character(docs[[1]]))
+#Stem document 
+docs <- tm_map(docs,stemDocument)
+
+
+# words that need to be substituted
+# docs <- tm_map(docs, content_transformer(gsub),
+#                pattern = "organiz", replacement = "organ")
+
+#define and eliminate all custom stopwords
+myStopwords <- c("the", "can", "say","one","way","use",
+                  "also","howev","tell","will",
+                  "much","need","take","tend","even",
+                  "like","particular","rather","said",
+                  "get","well","make","ask","come","end",
+                  "first","two","help","often","may",
+                  "might","see","someth","thing","point",
+                  "post","look","right","now","think","‘ve ",
+                  "‘re ","anoth","put","set","new","good",
+                  "want","sure","kind","larg","yes,","day","etc",
+                  "quit","sinc","attempt","lack","seen","awar",
+                  "littl","ever","moreov","though","found","abl",
+                  "enough","far","earli","away","achiev","draw",
+                  "last","never","brief","bit","entir","brief",
+                  "great","lot", "sexual", "gender", "sex", "survey", 
+                 "health", "question", "ident", "transgend", "respond", 
+                 "report", "measur", "research", "studi", "respons",
+                 "male", "women", "femal", "men", "data")
+docs <- tm_map(docs, removeWords, myStopwords)
+#inspect a document as a check
+# writeLines(as.character(docs[[1]]))
+
+#Create document-term matrix
+dtm <- DocumentTermMatrix(docs, control=list(bounds = list(global = c(2, Inf)))) # created dtm excluding terms that only appear in 1 doc
+#convert rownames to filenames
+rownames(dtm) <- filenames
+#collapse matrix by summing over columns
+freq <- colSums(as.matrix(dtm))
+#inspect(dtm) <- inspect(dtm)[,12:ncol(inspect(dtm))]
+#inspect(dtm[1:5,1:5])
+#length should be total number of terms
+#length(freq)
+#create sort order (descending)
+ord <- order(freq,decreasing=TRUE)
+#List all terms in decreasing order of freq and write to disk
+#print(freq[ord[1:20]])
+write.csv(freq[ord],"/Users/prioberoi/Documents/pri_personal/sogi_iwg/sogi/word_freq.csv")
+
+```
+
 
 ## Results
 
 After running the latent Dirichlet allocation on our data, our output includes:
-1. A mapping of documents to topics
+
+1. A mapping of documents to five topics
 2. A definition of each topic (i.e. what words make up that topic)
 3. The probabilities with which each topic is assigned to a document (so if a document covers two topics, we should see a high probability for both topics in that document)
 
-```{r, warning=FALSE}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 
 ###########
 # Topic modeling using LDA
@@ -207,11 +572,7 @@ write.csv(topic2ToTopic3,file=paste0(path, "/LDAGibbs",k,"Topic2ToTopic3.csv"))
 
 ### Topics
 
-First, let's take a look at the terms that were assigned to each topic to get a better sense of what each topic is capturing. We will also name the topics so we can refer to them later.
-
-Terms are assigned to a topic with probabilities, so every term in the corpus is given a probability per topic. So, as an example, these are the top 10 terms for the first topic along with their probabilities:
-
-```{r}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 termProbabilitiesByTopic <- posterior(ldaOut)$terms
 termsByTopic <- as.data.frame(terms(ldaOut, ncol(termProbabilitiesByTopic)))
 termProbabilitiesByTopic <- as.data.frame(t(termProbabilitiesByTopic))
@@ -224,21 +585,19 @@ temp <- termProbabilitiesByTopic[termProbabilitiesByTopic$Topic == "Topic 1",]
 temp <- temp[order(-temp$Probability),]
 ```
 
-At some point the term probabilities drop rapidly:
-
-```{r}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 temp$ticker <- as.numeric(1:nrow(temp))
 
-plot_ly(temp, x = ticker, y = Probability, text = paste("Term: ", Term)) %>%
-  layout(xaxis = list(title = "", showticklabels = FALSE))
+# plot_ly(temp, x = ticker, y = Probability, text = paste("Term: ", Term)) %>%
+#   layout(xaxis = list(title = "", showticklabels = FALSE))
 
 ```
 
-However, we can use the top terms to get a sense for what each topic covers.
+Top terms for each latent topic are shown below.
 
 #### Topic 1
-This topic is mostly about surveys:
-```{r}
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 termProbs <- data.frame()
 for(i in 1:k){
   topic <- paste0("Topic ", i)
@@ -246,56 +605,52 @@ for(i in 1:k){
   temp <- temp[order(-temp$Probability),]
   termProbs <- rbind(termProbs, temp)
 }
-wordcloud((termProbs[termProbs$Topic == 'Topic 1','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 1','Probability'][1:10]), colors=brewer.pal(9, "Blues"))
+wordcloud((termProbs[termProbs$Topic == 'Topic 1','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 1','Probability'][1:100]), colors=brewer.pal(9, "Blues"), scale=c(2,.4))
 ```
 
 #### Topic 2
-This topic touches on gender, especially transgender identities, and health:
-```{r}
-wordcloud((termProbs[termProbs$Topic == 'Topic 2','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 2','Probability'][1:10]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 2','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 2','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
 ```
 
 #### Topic 3
-This topic covers sex and relationships/households:
-```{r}
-wordcloud((termProbs[termProbs$Topic == 'Topic 3','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 3','Probability'][1:10]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 3','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 3','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
 ```
 
 #### Topic 4
-This seems to be around sexual orientation:
-```{r}
-wordcloud((termProbs[termProbs$Topic == 'Topic 4','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 4','Probability'][1:10]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 4','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 4','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
 ```
 
 #### Topic 5
-This doesn't seem to be a coherent topic at the moment:
-```{r}
-wordcloud((termProbs[termProbs$Topic == 'Topic 5','Term'][1:10]), (termProbs[termProbs$Topic == 'Topic 5','Probability'][1:10]), rot.per=.15, colors=brewer.pal(9, "Blues"))
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+wordcloud((termProbs[termProbs$Topic == 'Topic 5','Term'][1:100]), (termProbs[termProbs$Topic == 'Topic 5','Probability'][1:100]), rot.per=.15, colors=brewer.pal(9, "Blues"), scale=c(2,.4))
 ```
 
 To summarize, our topics are:
-```{r}
-topicNames <- data.frame(Topic= colnames(termsByTopic), Description = c("Surveys", "Gender and Trans Identities", "Relationships/Households", "Sexual Orientation","Unknown"))
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+topicNames <- data.frame(Topic= colnames(termsByTopic), Description = c("Orientation, Interview, Answer", "Minority, Participate, Birth", "Orientation, Bisexual, Heterosexual", "Categories, People, Social", "Couple, Relationship, Household"))
 topicNames
 ```
 
 ### Documents
 
-Similar to how terms are assigned to topics with a probability, every topic is assigned to documents with a probability as well. The topic assigned the highest probability for a document is the primary topic. However, it is possible for a document to cover multiple topics. A good way to assess how well a topic describes a document is by looking at the ratio of the highest topic probability to the second highest probability, and so on. For example, if a research paper has a primary topic  probability of 0.49 and a seconary topic probability of 0.16, the ratio of 3.06 indicates the first topic is three times more likely. However if the first two topics have probabilities of 0.33 and 0.22, respectively, then the ratio is 1.5, indicating both topics might apply to this document.
+#### Primary Topic Frequency
 
-If we just look at the primary topics and compare them by frequency, i.e. how many documents have that primary topic assignment. 
+Here is a look at the primary topics by frequency, i.e. number of documents per primary topic assignment.
 
-```{r, warning=FALSE}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 
 # Primary doc per topic 
 DocsToTopics <- as.data.frame(topics(ldaOut))
 DocsToTopics$paper <- rownames(DocsToTopics)
 names(DocsToTopics) <- c("TopicNumber", "Paper")
 DocsToTopics$TopicName <- lapply(DocsToTopics$TopicNumber, function(x) as.character(topicNames[topicNames$Topic == paste0("Topic ", x),'Description']))
-
-# Topic probabilities per document
-names(topicProbabilities) <- c(paste(rep("Topic", k), 1:k))
-topicProbabilities$Paper <- DocsToTopics$Paper
 
 primaryTopics <- count(DocsToTopics[,c('TopicNumber','TopicName')], vars = "TopicNumber")
 primaryTopics$TopicName <- lapply(primaryTopics$TopicNumber, function(x) as.character(topicNames[topicNames$Topic == paste0("Topic ", x),'Description']))
@@ -321,3 +676,90 @@ plot_ly(primaryTopics, type = "scatter", x = TopicNumber, y = freq, text = paste
 
 ```
 
+#### Relationship Between Topics and Papers
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+# Topic probabilities per document
+names(topicProbabilities) <- c(paste(rep("Topic", k), 1:k))
+topicProbabilities$Paper <- DocsToTopics$Paper
+
+# remove edges with a prob < 0.2
+df <- melt(topicProbabilities)
+df <- df[df$value >0.2,]
+# create edgelist
+gr <- df[,c('Paper', 'variable')]
+names(gr) <- c("Paper", "Topic")
+gr <- as.matrix(gr)
+
+# build a graph from the above matrix
+G <- graph_from_edgelist(gr, directed = TRUE)
+L <- layout_nicely(G) #layout_in_circle
+
+# Vertices and edges for the graph
+vs <- V(G)
+es <- as.data.frame(get.edgelist(G))
+# Count of vertices and edges
+Nv <- length(vs)
+Ne <- length(es[1]$V1)
+# Node positions
+Xn <- L[,1]
+Yn <- L[,2]
+# Node sizes
+counts <- rbind(count(df$Paper), count(df$variable))
+Ns <- data.frame()
+for(vert in names(vs)){
+  Ns <- rbind(Ns, data.frame(Vertices = vert, Freq = counts[counts$x == vert,'freq']))
+}
+# Node color
+Ns$NodeType <- lapply(Ns$Vertices, function(x) grep("Topic [0-9]", x))
+Ns$NodeType[!(Ns$NodeType == '1')] <- "Paper"
+Ns$NodeType[Ns$NodeType == '1'] <- "Topic"
+# Draw network nodes
+topics <- cbind(Ns[Ns$NodeType == 'Topic',], as.data.frame(L)[Ns$NodeType == 'Topic',])
+topics$names <- topicNames$Description
+a <- list()
+for(i in seq_len(nrow(topics))){
+  m <- topics[i,]
+  a[[i]] <- list(
+    x = m$V1,
+    y = m$V2,
+    text = m$names,
+    xref = "x",
+    yref = "y",
+    showarrow = FALSE
+  )
+}
+
+network <- plot_ly(type = "scatter", x = Xn, y = Yn, size = Ns$Freq, mode = "markers", text = names(vs), hoverinfo = "text", color = Ns$NodeType) %>%
+  layout(annotations = a)
+
+# Creates shapes for edges
+edge_shapes <- list()
+for(i in 1:Ne) {
+  v0 <- es[i,]$V1
+  v1 <- es[i,]$V2
+  alpha <- df[i,'value']
+
+  edge_shape = list(
+    type = "line",
+    line = list(color = "#b2b2d8", width = alpha),
+    x0 = Xn[v0],
+    y0 = Yn[v0],
+    x1 = Xn[v1],
+    y1 = Yn[v1]
+  )
+
+  edge_shapes[[i]] <- edge_shape
+}
+# Add edges to the network
+network <- layout(
+  network,
+  title = 'Network',
+  shapes = edge_shapes,
+  xaxis = list(title = "", showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE),
+  yaxis = list(title = "", showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE)
+)
+
+network
+
+```
