@@ -8,4 +8,4 @@ The Federal Interagency Working Group on Measuring Sexual Orientation and Gender
 
 Topic modeling is a type of statistical model in natural language processing that aims to find topics in a corpus, group topics together by looking for similarity and co-occurence, and categorize documents in the corpus based on the topic probabilities assigned. We are specifically using a statistical method called the latent Dirichlet allocation (LDA). LDA attempts to build topics using the words and documents in the corpus and assumes that each document in the corpus covers one or more of these topics.
 
-Check out the methodology and results in ![lda.html](https://github.com/prioberoi/sogi/blob/master/lda.html) in the repo.
+Check out the methodology and results in [lda.html](https://github.com/prioberoi/sogi/blob/master/lda.html) in the repo.
